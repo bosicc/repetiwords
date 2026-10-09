@@ -1,4 +1,4 @@
-# Portuguese Vocabulary Learning
+# Portuguese Vocabulary Learning 
 
 A project for learning European Portuguese as spoken in Lisbon through a vocabulary-based learning approach.
 
