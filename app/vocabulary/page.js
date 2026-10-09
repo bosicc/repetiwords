@@ -1,7 +1,7 @@
 import { Text } from '../components/language';
 import 'server-only';
 import Link from 'next/link';
-import { getVocabulary } from '../../lib/database';
+import { getVocabulary } from '../../lib/app-database';
 import VocabularyList from './vocabulary-list';
 
 export const dynamic = 'force-dynamic';

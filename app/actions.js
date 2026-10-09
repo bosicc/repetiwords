@@ -2,12 +2,14 @@
 
 import 'server-only';
 import { revalidatePath } from 'next/cache';
-import { saveSession, startPractice, recordPracticeAnswer } from '../lib/database';
+import { saveSession, startPractice, recordPracticeAnswer } from '../lib/app-database';
 import { redirect } from 'next/navigation';
 import { cookies } from 'next/headers';
 import { getPracticeWordCount } from '../lib/practice-settings';
+import { requireUser } from '../lib/auth';
 
 export async function savePracticeSettings(formData) {
+  await requireUser();
   const count = Number(formData.get('count'));
   if (![10, 30, 100].includes(count)) throw new Error('Invalid word count');
   (await cookies()).set('vocpt-practice-count', String(count), {

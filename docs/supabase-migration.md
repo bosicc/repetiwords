@@ -65,7 +65,89 @@ legacy `createSqliteDatabase` helper explicitly to upgrade it before migrating. 
 target schema and does not seed sample words into PostgreSQL. `npm run db:init`
 checks the configured PostgreSQL database; migrations remain explicit.
 
-## 3. Test locally and deploy
+## 3. Configure authentication and account progress
+
+Email/password registration and login use Supabase Auth. The public `/` page is
+available before login; signed-in accounts see their own learning dashboard.
+Vocabulary and categories are shared, while sessions, answers, statistics, word
+progress, and practice selection history are scoped to the authenticated account.
+
+### Apply the account-progress migration
+
+After the vocabulary schema is installed, run this once for each database:
+
+```sh
+npm run db:auth:init
+```
+
+The command backs up the existing PostgreSQL application tables to a private JSON
+file in `data/backups/`, then applies
+`supabase/migrations/202610090002_account_progress.sql` in a transaction. It adds
+the session owner UUID, an index, and the one-time legacy progress claim table.
+Existing sessions remain unassigned. It does not create an Auth account or send
+an email. The migration is safe to rerun and has already been applied to the
+configured Supabase project on 2026-10-09. That initial run preserved 14 legacy
+sessions, reserved for `b.pratsiuk@gmail.com` through the setting below.
+
+### Configure Auth environment variables
+
+Get the project URL and publishable key from the Supabase project's **Connect**
+dialog or API settings, then add them to `.env.local`:
+
+```dotenv
+SUPABASE_URL=https://PROJECT_REF.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_...
+LEGACY_PROGRESS_EMAIL=b.pratsiuk@gmail.com
+```
+
+The URL is resolved from `SUPABASE_URL`, then `NEXT_PUBLIC_SUPABASE_URL`. The key
+is resolved from `SUPABASE_PUBLISHABLE_KEY`, then
+`NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`, then `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
+The last option accepts the older anon JWT key. Use a publishable or anon key;
+service-role and secret keys are rejected for user authentication. Database
+passwords remain separate, in `DATABASE_URL` or `POSTGRES_URL`.
+
+### Configure email confirmation and callback URLs
+
+In Supabase **Authentication**, enable the Email provider and keep **Confirm
+email** enabled. Registration requests a confirmation email, and unconfirmed
+accounts cannot log in. The app uses a PKCE code exchange at `/auth/callback`.
+Keep the default confirmation email link based on `{{ .ConfirmationURL }}`;
+custom templates must preserve that verification flow.
+[Supabase password authentication](https://supabase.com/docs/guides/auth/passwords),
+[confirmation email templates](https://supabase.com/docs/guides/auth/auth-email-templates).
+
+In **Authentication → URL Configuration**, add these **Redirect URLs**:
+
+- `http://localhost:3000/auth/callback`
+- `http://localhost:3001/auth/callback`
+- `https://your-app.vercel.app/auth/callback` (replace with the actual production domain)
+
+Set Supabase's **Site URL** to your production origin, such as
+`https://your-app.vercel.app`, and set Vercel's `SITE_URL` environment variable to
+the same origin. Locally, leave `SITE_URL` unset so the app uses the request
+origin, or set it to `http://localhost:3000` or `http://localhost:3001` to match
+the running server. Add a callback URL for a custom domain if you use one.
+These URLs must be allowed for signup confirmation redirects.
+[Supabase redirect configuration](https://supabase.com/docs/guides/auth/redirect-urls)
+
+Open the confirmation link in the browser used to register, so its PKCE verifier
+cookie is available. If the email was confirmed in another browser, return to
+`/login` and sign in with email and password. For registrations beyond Supabase's
+built-in email service restrictions, configure custom SMTP in Auth settings.
+[Supabase email delivery](https://supabase.com/docs/guides/auth/auth-smtp)
+
+### Reserve existing learning history
+
+`LEGACY_PROGRESS_EMAIL=b.pratsiuk@gmail.com` reserves all unassigned pre-login
+sessions and their answers, planned practice words, and archived history for
+that account. After registration, email confirmation, and login, the first
+authenticated access to learning data transfers the sessions once. The app
+verifies that Supabase email confirmation is enabled before allowing the claim.
+Other accounts cannot claim or view that history and start with new progress.
+If the variable is unset, existing sessions remain safely unassigned.
+
+## 4. Test locally and deploy
 
 ```sh
 npm test
@@ -73,19 +155,25 @@ npm run build
 npm run dev
 ```
 
-Check vocabulary categories, statistics, archived history, practice answers and
-refresh/resume. `npm run words:import -- <batch.json> [--dry-run]` uses the
+Check the public landing page, registration and confirmation, login/logout,
+vocabulary categories, statistics, archived history, practice answers and
+refresh/resume. Check with two accounts that progress is separate and that an
+account cannot open another account's practice URL. `npm run words:import -- <batch.json> [--dry-run]` uses the
 configured backend. The explicit `scripts/clean-words.js` tool remains a local
 SQLite cleanup tool; it does not modify PostgreSQL.
 
-In Vercel project settings, add `DATABASE_URL` or `POSTGRES_URL`, `VOCPT_SECURE_COOKIES=true`, and
-`DATABASE_CA_CERT` if needed, then redeploy. Use a separate Supabase project for
-Preview deployments so preview testing cannot change production progress.
+In Vercel project settings, add `DATABASE_URL` or `POSTGRES_URL`, the Supabase
+Auth URL and publishable key, the production `SITE_URL`,
+`LEGACY_PROGRESS_EMAIL=b.pratsiuk@gmail.com`, `VOCPT_SECURE_COOKIES=true`, and
+`DATABASE_CA_CERT` if needed, then redeploy. Auth cookies are HttpOnly, use
+SameSite=Lax, and are Secure in production. Use a separate Supabase project for
+Preview deployments, apply its migrations, and configure its Auth callback URLs
+and `SITE_URL` so preview testing cannot change production progress.
 
-This remains a single-learner app. Protect the deployment or add application
-authentication before making it public; private database tables do not restrict
-who can invoke the app's server actions. Supabase Auth and per-user data isolation
-are separate work.
+Application data access and practice mutations verify the Supabase user on the
+server and filter session data by that account's UUID. Private database tables
+remain inaccessible through the public Data API; import and migration commands
+use the server's database connection.
 
 ## Recovery
 

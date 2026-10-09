@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getPractice } from '../../../lib/database';
+import { getPractice } from '../../../lib/app-database';
 import Practice from '../../practice';
 
 export const dynamic = 'force-dynamic';

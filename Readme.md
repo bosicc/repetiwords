@@ -41,6 +41,7 @@ The app applies this selection rule whenever a new practice session is created.
 
 - **Next.js** — the application framework.
 - **Supabase PostgreSQL** — the database for words and learning session data.
+- **Supabase Auth** — email/password registration, login, and account sessions.
 
 ## Words parsing and importing
 
@@ -56,9 +57,9 @@ Each word record in PostgreSQL includes:
 | Level | CEFR language proficiency level, separate from the learner's mastery. | A1, A2, B1, B2, C1, C2 |
 | English translation | The word's meaning in English. | Text |
 | Ukrainian translation | The word's meaning in Ukrainian. | Text |
-| Mastery level | The learner's progress with this word. New words start at 0. | Integer from 0 to 5: 0 = new word, 5 = expert |
+| Mastery level | Legacy vocabulary field retained for migrated records. The app calculates each account's displayed progress from its answers. | Integer from 0 to 5 |
 
-The database columns are `portuguese`, `level`, `english`, `ukrainian`, and `mastery_level`, plus the primary key `id`. Level and Ukrainian translation can be `NULL` until supplied. Schema changes use explicit PostgreSQL migrations, preserving words and practice history.
+The database columns are `portuguese`, `level`, `english`, `ukrainian`, and `mastery_level`, plus the primary key `id`. Level and Ukrainian translation can be `NULL` until supplied. New vocabulary records initialize the legacy `mastery_level` field to 0; account progress is stored through session answers. Schema changes use explicit PostgreSQL migrations, preserving words and practice history.
 
 ### Word groups
 
@@ -156,24 +157,19 @@ The 2026-10-09 cleanup removed all 52 Passaporte course/unit/practice groups plu
 
 The [cleanup report](imports/2026-10-09-source-category-cleanup-report.json) records the result and SQLite backup path; the [plan](imports/2026-10-09-source-category-cleanup-plan.json) preserves removed categories and memberships. The [current vocabulary snapshot](imports/2026-10-09-source-category-cleanup-vocabulary.json) contains the remaining categories and can be replayed without restoring source groups. Historical import files remain unchanged as backups: before replaying them, prepare a new copy that maps source groups to appropriate topical categories. This is an import-preparation rule; the generic CLI does not automatically strip source labels.
 
-## Users
+## Accounts and progress
 
-The `users` table stores multiple learner profiles:
+The public home page introduces the app and links to `/login` and `/register`. Both forms use only email and password; registration requires at least 8 password characters. Supabase Auth manages credentials and email confirmation. After signing in, Home shows the learner's statistics and session history; vocabulary, practice, and settings require an authenticated account.
 
-| Field | Description |
-| --- | --- |
-| `id` | Unique user ID (primary key). |
-| `name` | Required, non-empty display name. |
-| `email` | Optional email, unique without regard to letter case. |
-| `created_at` | Creation timestamp, set automatically. |
+Vocabulary and categories are shared. Each account has its own sessions, answers, word progress, and practice selection history, linked by `vocpt.sessions.user_id` to `auth.users.id`. A learner cannot open or answer another account's practice session. The older `vocpt.users` profile table is retained for migrated data and CLI compatibility; it does not authenticate learners.
 
-Use `createUser(name, email)` and `getUsers()` from `lib/database.js` to add and list users. Email can be omitted for local learner profiles. Database initialization creates this table in existing databases without changing their data.
+Set `LEGACY_PROGRESS_EMAIL=b.pratsiuk@gmail.com` to reserve the pre-login sessions and learning history for that account. They remain unassigned until the account registers, confirms its email, and signs in. The first authenticated access to learning data transfers them once, including archived session history. Other accounts start with fresh progress. Keep Supabase **Confirm email** enabled: the app refuses to transfer legacy progress when email confirmation is disabled.
 
-User selection, authentication, and linking sessions and mastery to individual users are planned. Practice history and mastery currently remain shared.
+See the [Supabase setup guide](docs/supabase-migration.md#3-configure-authentication-and-account-progress) for the account migration, Auth keys, and confirmation callback URLs.
 
 ## Run locally
 
-Requires Node.js 20.9 or later (Node.js 24 LTS recommended). Configure `DATABASE_URL` or `POSTGRES_URL` in `.env.local` before starting.
+Requires Node.js 20.9 or later (Node.js 24 LTS recommended). Copy `.env.example` to `.env.local` and configure `DATABASE_URL` or `POSTGRES_URL`, plus `SUPABASE_URL` and `SUPABASE_PUBLISHABLE_KEY`, before starting. Supabase's `NEXT_PUBLIC_SUPABASE_URL` and publishable/anon key alternatives are also supported; see the setup guide for their precedence.
 
 ```sh
 npm install
@@ -181,7 +177,7 @@ npm run db:init
 npm run dev
 ```
 
-Open http://localhost:3000. `db:init` verifies access to the existing Supabase database; schema migrations run explicitly.
+Open http://localhost:3000. `db:init` verifies access to the existing Supabase database; schema migrations run explicitly. The account-progress migration has already been applied to the configured Supabase project. For another database with the vocabulary schema installed, run `npm run db:auth:init` before starting the app. Allow the local `/auth/callback` URL in Supabase Auth; leave `SITE_URL` unset locally to use the current request origin, or set it to the local origin you are using.
 
 ```sh
 npm run build
@@ -190,11 +186,13 @@ npm start
 
 ## Current functionality
 
+- Public landing page, email/password registration and login, email confirmation, and logout.
+- Separate learning progress and session history for every registered account.
 - Starter words, plus vocabulary imported from local JSON batches.
 - Reveal a word's English or Ukrainian meaning and answer YES, NO, or Skip.
 - Create a session from Home, save answers automatically, and view session and cumulative statistics.
 - Build practice sessions with the 10/40/50 selection mix described above and shuffle their word order.
 
-The app stores vocabulary and learning progress in Supabase PostgreSQL, both locally and on Vercel. Configure `DATABASE_URL` or `POSTGRES_URL`; see the [Supabase migration and deployment guide](docs/supabase-migration.md) for backing up and transferring existing vocabulary and progress. The app currently supports one learner. Each answer and skip is saved immediately, so refreshing the practice page resumes the session at the next unprocessed word.
+The app stores vocabulary and learning progress in Supabase PostgreSQL, both locally and on Vercel. See the [Supabase migration and deployment guide](docs/supabase-migration.md) for database credentials, Auth configuration, and transferring existing vocabulary and progress. Each answer and skip is saved immediately, so refreshing the practice page resumes the signed-in account's session at the next unprocessed word.
 
-Deploy on Vercel with the Supabase connection variable configured. SQLite files in `data/` are legacy migration sources and backups, excluded from Git.
+Deploy on Vercel with the database connection, Supabase Auth URL/key, and production `SITE_URL` configured. SQLite files in `data/` are legacy migration sources and backups, excluded from Git.

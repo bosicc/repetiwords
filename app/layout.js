@@ -1,12 +1,14 @@
 import './globals.css';
 import { LanguageProvider } from './components/language';
 import Header from './components/header';
+import { getCurrentUser } from '../lib/auth';
 
 export const metadata = {
-  title: 'VocPT · Learn Portuguese',
+  title: 'Repeti · Learn words every day',
   description: 'Daily European Portuguese vocabulary practice.',
 };
 
-export default function RootLayout({ children }) {
-  return <html lang="en"><body><LanguageProvider><Header />{children}</LanguageProvider></body></html>;
+export default async function RootLayout({ children }) {
+  const user = await getCurrentUser();
+  return <html lang="en"><body><LanguageProvider><Header signedIn={Boolean(user)} />{children}</LanguageProvider></body></html>;
 }

@@ -1,14 +1,17 @@
 import { Text } from './components/language';
 import 'server-only';
-import { getStatistics, getWordProgress, getSessionHistory } from '../lib/database';
+import { getStatistics, getWordProgress, getSessionHistory } from '../lib/app-database';
 import WordProgress from './components/word-progress';
 import SessionHistory from './components/session-history';
 import Link from 'next/link';
+import { getCurrentUser } from '../lib/auth';
+import LandingPage from './components/landing-page';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
 
 export default async function Home() {
+  if (!await getCurrentUser()) return <LandingPage />;
   const [stats, progress, sessions] = await Promise.all([getStatistics(), getWordProgress(), getSessionHistory()]);
   return <main>
     <nav className="navigation" aria-label="Main navigation"><Link href="/" aria-current="page"><Text>Home</Text></Link><Link href="/vocabulary"><Text>Vocabulary</Text></Link><Link href="/settings"><Text>Settings</Text></Link></nav>
