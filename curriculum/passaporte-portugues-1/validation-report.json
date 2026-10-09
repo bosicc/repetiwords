@@ -1,0 +1,14 @@
+{
+  "prepared_at": "2026-10-09",
+  "passed": true,
+  "checks": [
+    "50 unique section IDs and 10 blocks",
+    "789 unique single-word entries, NFC-normalized",
+    "1097 unique section-word links, consistent with vocabulary sets",
+    "A1 overview examples present in linked sections",
+    "Source evidence markers match saved PDF text",
+    "350 existing word IDs verified through read-only SQLite connection"
+  ],
+  "database_total_words": 653,
+  "verified_sample_associations": 68
+}

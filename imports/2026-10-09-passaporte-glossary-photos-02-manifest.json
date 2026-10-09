@@ -1,0 +1,53 @@
+{
+  "source": "Five additional user photographs of the Passaporte para Português glossary, visible entries apresentar–desde and preceding-page fragments",
+  "prepared_at": "2026-10-09",
+  "sqlite_backup": "data/backups/before-passaporte-glossary-photos-02-2026-10-09T14-59-46-618100Z.sqlite",
+  "extracted_backup": "imports/2026-10-09-passaporte-glossary-photos-02-extracted.json",
+  "enriched_backup": "imports/2026-10-09-passaporte-glossary-photos-02-enriched.json",
+  "source_files": [
+    {
+      "image": 1,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/173797f5-a571-4e0d-86eb-13d54802ba92/1-1000057493.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-02-sources/1-1000057493.jpg",
+      "sha256": "7f7fa36553f7bc1f59b17dfb69623ffd155372de1fcc748e90e5a447df7b1443"
+    },
+    {
+      "image": 2,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/173797f5-a571-4e0d-86eb-13d54802ba92/2-1000057494.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-02-sources/2-1000057494.jpg",
+      "sha256": "51fac851f9dd563436de940600ecbe24efac89112bbef28b3dc6b7f11de90c67"
+    },
+    {
+      "image": 3,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/173797f5-a571-4e0d-86eb-13d54802ba92/3-1000057495.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-02-sources/3-1000057495.jpg",
+      "sha256": "77e393a000467ff876492966328b40813d2853f453e4f1ea36aafff4fcfaf7bb"
+    },
+    {
+      "image": 4,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/173797f5-a571-4e0d-86eb-13d54802ba92/4-1000057496.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-02-sources/4-1000057496.jpg",
+      "sha256": "4c32af1233cb7de5117e6b10235924f8e9fa967e35af0affdeb5fb99f695e360"
+    },
+    {
+      "image": 5,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/173797f5-a571-4e0d-86eb-13d54802ba92/5-1000057497.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-02-sources/5-1000057497.jpg",
+      "sha256": "e4437ab86b137432206f47ff678112a0dc58cf6205f1b10eb60ce0b14bbff2c0"
+    }
+  ],
+  "counts": {
+    "source_rows": 219,
+    "unique_source_entries": 219,
+    "unique_words": 256,
+    "rows_by_image": {
+      "1": 41,
+      "2": 44,
+      "3": 45,
+      "4": 45,
+      "5": 44
+    },
+    "new_words": 103,
+    "existing_words": 153
+  }
+}

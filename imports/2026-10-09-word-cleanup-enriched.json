@@ -1,0 +1,5879 @@
+{
+  "source": "local SQLite vocabulary cleanup",
+  "prepared_at": "2026-10-09",
+  "replacements": [
+    {
+      "id": 2,
+      "portuguese": "obrigado / obrigada",
+      "components": [
+        "obrigado",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 3,
+      "portuguese": "por favor",
+      "components": [
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 4,
+      "portuguese": "bom dia",
+      "components": [
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": 28,
+      "portuguese": "máquina de lavar",
+      "components": [
+        "máquina",
+        "de",
+        "lavar"
+      ]
+    },
+    {
+      "id": 52,
+      "portuguese": "vinte e um",
+      "components": [
+        "vinte",
+        "e",
+        "um"
+      ]
+    },
+    {
+      "id": 61,
+      "portuguese": "cento e um",
+      "components": [
+        "cento",
+        "e",
+        "um"
+      ]
+    },
+    {
+      "id": 71,
+      "portuguese": "um milhão",
+      "components": [
+        "um",
+        "milhão"
+      ]
+    },
+    {
+      "id": 72,
+      "portuguese": "dois milhões",
+      "components": [
+        "dois",
+        "milhões"
+      ]
+    },
+    {
+      "id": 73,
+      "portuguese": "mil milhões",
+      "components": [
+        "mil",
+        "milhões"
+      ]
+    },
+    {
+      "id": 74,
+      "portuguese": "dois mil milhões",
+      "components": [
+        "dois",
+        "mil",
+        "milhões"
+      ]
+    },
+    {
+      "id": 75,
+      "portuguese": "primeiro/a",
+      "components": [
+        "primeiro",
+        "primeira"
+      ]
+    },
+    {
+      "id": 76,
+      "portuguese": "segundo/a",
+      "components": [
+        "segundo",
+        "segunda"
+      ]
+    },
+    {
+      "id": 77,
+      "portuguese": "terceiro/a",
+      "components": [
+        "terceiro",
+        "terceira"
+      ]
+    },
+    {
+      "id": 78,
+      "portuguese": "quarto/a",
+      "components": [
+        "quarto",
+        "quarta"
+      ]
+    },
+    {
+      "id": 79,
+      "portuguese": "quinto/a",
+      "components": [
+        "quinto",
+        "quinta"
+      ]
+    },
+    {
+      "id": 120,
+      "portuguese": "cor de rosa",
+      "components": [
+        "cor",
+        "de",
+        "rosa"
+      ]
+    },
+    {
+      "id": 122,
+      "portuguese": "cor de laranja",
+      "components": [
+        "cor",
+        "de",
+        "laranja"
+      ]
+    },
+    {
+      "id": 133,
+      "portuguese": "óculos de sol",
+      "components": [
+        "óculos",
+        "de",
+        "sol"
+      ]
+    },
+    {
+      "id": 237,
+      "portuguese": "passageiro/a",
+      "components": [
+        "passageiro",
+        "passageira"
+      ]
+    },
+    {
+      "id": 271,
+      "portuguese": "aluno/a",
+      "components": [
+        "aluno",
+        "aluna"
+      ]
+    },
+    {
+      "id": 274,
+      "portuguese": "diretor/a",
+      "components": [
+        "diretor",
+        "diretora"
+      ]
+    },
+    {
+      "id": 282,
+      "portuguese": "médico/a",
+      "components": [
+        "médico",
+        "médica"
+      ]
+    },
+    {
+      "id": 283,
+      "portuguese": "enfermeiro/a",
+      "components": [
+        "enfermeiro",
+        "enfermeira"
+      ]
+    },
+    {
+      "id": 284,
+      "portuguese": "professor/a",
+      "components": [
+        "professor",
+        "professora"
+      ]
+    },
+    {
+      "id": 285,
+      "portuguese": "engenheiro/a",
+      "components": [
+        "engenheiro",
+        "engenheira"
+      ]
+    },
+    {
+      "id": 286,
+      "portuguese": "arquiteto/a",
+      "components": [
+        "arquiteto",
+        "arquiteta"
+      ]
+    },
+    {
+      "id": 287,
+      "portuguese": "advogado/a",
+      "components": [
+        "advogado",
+        "advogada"
+      ]
+    },
+    {
+      "id": 289,
+      "portuguese": "bombeiro/a",
+      "components": [
+        "bombeiro",
+        "bombeira"
+      ]
+    },
+    {
+      "id": 291,
+      "portuguese": "cozinheiro/a",
+      "components": [
+        "cozinheiro",
+        "cozinheira"
+      ]
+    },
+    {
+      "id": 292,
+      "portuguese": "vendedor/a",
+      "components": [
+        "vendedor",
+        "vendedora"
+      ]
+    },
+    {
+      "id": 293,
+      "portuguese": "agricultor/a",
+      "components": [
+        "agricultor",
+        "agricultora"
+      ]
+    },
+    {
+      "id": 296,
+      "portuguese": "pintor/a",
+      "components": [
+        "pintor",
+        "pintora"
+      ]
+    },
+    {
+      "id": 297,
+      "portuguese": "escritor/a",
+      "components": [
+        "escritor",
+        "escritora"
+      ]
+    },
+    {
+      "id": 299,
+      "portuguese": "fotógrafo/a",
+      "components": [
+        "fotógrafo",
+        "fotógrafa"
+      ]
+    },
+    {
+      "id": 300,
+      "portuguese": "a/o",
+      "components": [
+        "a",
+        "o"
+      ]
+    },
+    {
+      "id": 321,
+      "portuguese": "nosso/a",
+      "components": [
+        "nosso",
+        "nossa"
+      ]
+    },
+    {
+      "id": 322,
+      "portuguese": "vosso/a",
+      "components": [
+        "vosso",
+        "vossa"
+      ]
+    },
+    {
+      "id": 331,
+      "portuguese": "às vezes",
+      "components": [
+        "às",
+        "vezes"
+      ]
+    },
+    {
+      "id": 367,
+      "portuguese": "pequeno/a",
+      "components": [
+        "pequeno",
+        "pequena"
+      ]
+    },
+    {
+      "id": 368,
+      "portuguese": "velho/a",
+      "components": [
+        "velho",
+        "velha"
+      ]
+    },
+    {
+      "id": 369,
+      "portuguese": "novo/a",
+      "components": [
+        "novo",
+        "nova"
+      ]
+    },
+    {
+      "id": 370,
+      "portuguese": "alto/a",
+      "components": [
+        "alto",
+        "alta"
+      ]
+    },
+    {
+      "id": 371,
+      "portuguese": "baixo/a",
+      "components": [
+        "baixo",
+        "baixa"
+      ]
+    },
+    {
+      "id": 372,
+      "portuguese": "largo/a",
+      "components": [
+        "largo",
+        "larga"
+      ]
+    },
+    {
+      "id": 373,
+      "portuguese": "estreito/a",
+      "components": [
+        "estreito",
+        "estreita"
+      ]
+    },
+    {
+      "id": 375,
+      "portuguese": "fraco/a",
+      "components": [
+        "fraco",
+        "fraca"
+      ]
+    },
+    {
+      "id": 382,
+      "portuguese": "curto/a",
+      "components": [
+        "curto",
+        "curta"
+      ]
+    },
+    {
+      "id": 383,
+      "portuguese": "longo/a",
+      "components": [
+        "longo",
+        "longa"
+      ]
+    },
+    {
+      "id": 384,
+      "portuguese": "bonito/a",
+      "components": [
+        "bonito",
+        "bonita"
+      ]
+    },
+    {
+      "id": 385,
+      "portuguese": "giro/a",
+      "components": [
+        "giro",
+        "gira"
+      ]
+    },
+    {
+      "id": 409,
+      "portuguese": "nascer do sol",
+      "components": [
+        "nascer",
+        "do",
+        "sol"
+      ]
+    },
+    {
+      "id": 413,
+      "portuguese": "pôr do sol",
+      "components": [
+        "pôr",
+        "do",
+        "sol"
+      ]
+    },
+    {
+      "id": 424,
+      "portuguese": "fim de semana",
+      "components": [
+        "fim",
+        "de",
+        "semana"
+      ]
+    },
+    {
+      "id": 426,
+      "portuguese": "dia útil",
+      "components": [
+        "dia",
+        "útil"
+      ]
+    },
+    {
+      "id": 429,
+      "portuguese": "ano novo",
+      "components": [
+        "ano",
+        "novo"
+      ]
+    },
+    {
+      "id": 449,
+      "portuguese": "primo/a",
+      "components": [
+        "primo",
+        "prima"
+      ]
+    },
+    {
+      "id": 454,
+      "portuguese": "bisneto/a",
+      "components": [
+        "bisneto",
+        "bisneta"
+      ]
+    },
+    {
+      "id": 455,
+      "portuguese": "amigo/a",
+      "components": [
+        "amigo",
+        "amiga"
+      ]
+    },
+    {
+      "id": 456,
+      "portuguese": "melhor amigo",
+      "components": [
+        "melhor",
+        "amigo"
+      ]
+    },
+    {
+      "id": 459,
+      "portuguese": "zangado/a",
+      "components": [
+        "zangado",
+        "zangada"
+      ]
+    },
+    {
+      "id": 460,
+      "portuguese": "cansado/a",
+      "components": [
+        "cansado",
+        "cansada"
+      ]
+    },
+    {
+      "id": 461,
+      "portuguese": "assustado/a",
+      "components": [
+        "assustado",
+        "assustada"
+      ]
+    },
+    {
+      "id": 462,
+      "portuguese": "animado/a",
+      "components": [
+        "animado",
+        "animada"
+      ]
+    },
+    {
+      "id": 464,
+      "portuguese": "aborrecido/a",
+      "components": [
+        "aborrecido",
+        "aborrecida"
+      ]
+    },
+    {
+      "id": 465,
+      "portuguese": "apaixonado/a",
+      "components": [
+        "apaixonado",
+        "apaixonada"
+      ]
+    },
+    {
+      "id": 466,
+      "portuguese": "ansioso/a",
+      "components": [
+        "ansioso",
+        "ansiosa"
+      ]
+    },
+    {
+      "id": 467,
+      "portuguese": "calmo/a",
+      "components": [
+        "calmo",
+        "calma"
+      ]
+    },
+    {
+      "id": 468,
+      "portuguese": "deprimido/a",
+      "components": [
+        "deprimido",
+        "deprimida"
+      ]
+    },
+    {
+      "id": 469,
+      "portuguese": "esperançoso/a",
+      "components": [
+        "esperançoso",
+        "esperançosa"
+      ]
+    },
+    {
+      "id": 470,
+      "portuguese": "orgulhoso/a",
+      "components": [
+        "orgulhoso",
+        "orgulhosa"
+      ]
+    },
+    {
+      "id": 471,
+      "portuguese": "nervoso/a",
+      "components": [
+        "nervoso",
+        "nervosa"
+      ]
+    },
+    {
+      "id": 472,
+      "portuguese": "boa tarde",
+      "components": [
+        "boa",
+        "tarde"
+      ]
+    },
+    {
+      "id": 473,
+      "portuguese": "boa noite",
+      "components": [
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": 478,
+      "portuguese": "com licença",
+      "components": [
+        "com",
+        "licença"
+      ]
+    },
+    {
+      "id": 482,
+      "portuguese": "tudo bem?",
+      "components": [
+        "tudo",
+        "bem"
+      ]
+    },
+    {
+      "id": 483,
+      "portuguese": "como está?",
+      "components": [
+        "como",
+        "está"
+      ]
+    },
+    {
+      "id": 484,
+      "portuguese": "estou bem",
+      "components": [
+        "estou",
+        "bem"
+      ]
+    },
+    {
+      "id": 485,
+      "portuguese": "muito obrigado",
+      "components": [
+        "muito",
+        "obrigado"
+      ]
+    },
+    {
+      "id": 486,
+      "portuguese": "de nada",
+      "components": [
+        "de",
+        "nada"
+      ]
+    },
+    {
+      "id": 487,
+      "portuguese": "até logo",
+      "components": [
+        "até",
+        "logo"
+      ]
+    },
+    {
+      "id": 488,
+      "portuguese": "até amanhã",
+      "components": [
+        "até",
+        "amanhã"
+      ]
+    },
+    {
+      "id": 489,
+      "portuguese": "bom trabalho",
+      "components": [
+        "bom",
+        "trabalho"
+      ]
+    },
+    {
+      "id": 490,
+      "portuguese": "tudo de bom!",
+      "components": [
+        "tudo",
+        "de",
+        "bom"
+      ]
+    },
+    {
+      "id": 491,
+      "portuguese": "o quê",
+      "components": [
+        "o",
+        "quê"
+      ]
+    },
+    {
+      "id": 499,
+      "portuguese": "quantos/as",
+      "components": [
+        "quantos",
+        "quantas"
+      ]
+    },
+    {
+      "id": 501,
+      "portuguese": "de quem",
+      "components": [
+        "de",
+        "quem"
+      ]
+    },
+    {
+      "id": 502,
+      "portuguese": "como vai?",
+      "components": [
+        "como",
+        "vai"
+      ]
+    },
+    {
+      "id": 503,
+      "portuguese": "eu estou bem",
+      "components": [
+        "eu",
+        "estou",
+        "bem"
+      ]
+    },
+    {
+      "id": 504,
+      "portuguese": "o meu nome é [name]",
+      "components": [
+        "o",
+        "meu",
+        "nome",
+        "é"
+      ]
+    },
+    {
+      "id": 505,
+      "portuguese": "como se chama?",
+      "components": [
+        "como",
+        "se",
+        "chama"
+      ]
+    },
+    {
+      "id": 506,
+      "portuguese": "muito prazer em conhecê-lo",
+      "components": [
+        "muito",
+        "prazer",
+        "em",
+        "conhecer",
+        "lo"
+      ]
+    },
+    {
+      "id": 507,
+      "portuguese": "muito prazer em conhecê-la",
+      "components": [
+        "muito",
+        "prazer",
+        "em",
+        "conhecer",
+        "la"
+      ]
+    },
+    {
+      "id": 508,
+      "portuguese": "muito obrigada",
+      "components": [
+        "muito",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 509,
+      "portuguese": "onde fica a casa de banho?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "casa",
+        "de",
+        "banho"
+      ]
+    },
+    {
+      "id": 510,
+      "portuguese": "como chego ao centro da cidade?",
+      "components": [
+        "como",
+        "chego",
+        "ao",
+        "centro",
+        "da",
+        "cidade"
+      ]
+    },
+    {
+      "id": 511,
+      "portuguese": "qual é o melhor caminho para o aeroporto?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "melhor",
+        "caminho",
+        "para",
+        "aeroporto"
+      ]
+    },
+    {
+      "id": 512,
+      "portuguese": "onde fica a estação de comboios?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "estação",
+        "de",
+        "comboios"
+      ]
+    },
+    {
+      "id": 513,
+      "portuguese": "quando é o próximo comboio?",
+      "components": [
+        "quando",
+        "é",
+        "o",
+        "próximo",
+        "comboio"
+      ]
+    },
+    {
+      "id": 514,
+      "portuguese": "onde é a saída?",
+      "components": [
+        "onde",
+        "é",
+        "a",
+        "saída"
+      ]
+    },
+    {
+      "id": 515,
+      "portuguese": "onde fica a paragem de autocarro mais próxima?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "paragem",
+        "de",
+        "autocarro",
+        "mais",
+        "próxima"
+      ]
+    },
+    {
+      "id": 516,
+      "portuguese": "a que horas é o próximo autocarro?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "é",
+        "o",
+        "próximo",
+        "autocarro"
+      ]
+    },
+    {
+      "id": 517,
+      "portuguese": "este autocarro vai para…?",
+      "components": [
+        "este",
+        "autocarro",
+        "vai",
+        "para"
+      ]
+    },
+    {
+      "id": 518,
+      "portuguese": "este autocarro vai para onde?",
+      "components": [
+        "este",
+        "autocarro",
+        "vai",
+        "para",
+        "onde"
+      ]
+    },
+    {
+      "id": 519,
+      "portuguese": "pode chamar um táxi, por favor?",
+      "components": [
+        "pode",
+        "chamar",
+        "um",
+        "táxi",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 520,
+      "portuguese": "onde posso encontrar um táxi?",
+      "components": [
+        "onde",
+        "posso",
+        "encontrar",
+        "um",
+        "táxi"
+      ]
+    },
+    {
+      "id": 521,
+      "portuguese": "onde se apanha o metro?",
+      "components": [
+        "onde",
+        "se",
+        "apanha",
+        "o",
+        "metro"
+      ]
+    },
+    {
+      "id": 522,
+      "portuguese": "há algum supermercado por perto?",
+      "components": [
+        "há",
+        "algum",
+        "supermercado",
+        "por",
+        "perto"
+      ]
+    },
+    {
+      "id": 523,
+      "portuguese": "é longe daqui?",
+      "components": [
+        "é",
+        "longe",
+        "daqui"
+      ]
+    },
+    {
+      "id": 524,
+      "portuguese": "onde posso alugar um carro?",
+      "components": [
+        "onde",
+        "posso",
+        "alugar",
+        "um",
+        "carro"
+      ]
+    },
+    {
+      "id": 525,
+      "portuguese": "ao lado",
+      "components": [
+        "ao",
+        "lado"
+      ]
+    },
+    {
+      "id": 528,
+      "portuguese": "em frente",
+      "components": [
+        "em",
+        "frente"
+      ]
+    },
+    {
+      "id": 529,
+      "portuguese": "quanto custa isto?",
+      "components": [
+        "quanto",
+        "custa",
+        "isto"
+      ]
+    },
+    {
+      "id": 530,
+      "portuguese": "posso pagar com cartão?",
+      "components": [
+        "posso",
+        "pagar",
+        "com",
+        "cartão"
+      ]
+    },
+    {
+      "id": 531,
+      "portuguese": "aceita cartão de crédito ou débito?",
+      "components": [
+        "aceita",
+        "cartão",
+        "de",
+        "crédito",
+        "ou",
+        "débito"
+      ]
+    },
+    {
+      "id": 532,
+      "portuguese": "há algum desconto?",
+      "components": [
+        "há",
+        "algum",
+        "desconto"
+      ]
+    },
+    {
+      "id": 533,
+      "portuguese": "onde é que eu posso trocar dinheiro perto daqui?",
+      "components": [
+        "onde",
+        "é",
+        "que",
+        "eu",
+        "posso",
+        "trocar",
+        "dinheiro",
+        "perto",
+        "daqui"
+      ]
+    },
+    {
+      "id": 534,
+      "portuguese": "estou só a ver, obrigado.",
+      "components": [
+        "estou",
+        "só",
+        "a",
+        "ver",
+        "obrigado"
+      ]
+    },
+    {
+      "id": 535,
+      "portuguese": "estou só a ver, obrigada.",
+      "components": [
+        "estou",
+        "só",
+        "a",
+        "ver",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 536,
+      "portuguese": "posso reservar uma mesa?",
+      "components": [
+        "posso",
+        "reservar",
+        "uma",
+        "mesa"
+      ]
+    },
+    {
+      "id": 537,
+      "portuguese": "eu tenho uma reserva",
+      "components": [
+        "eu",
+        "tenho",
+        "uma",
+        "reserva"
+      ]
+    },
+    {
+      "id": 538,
+      "portuguese": "tem um menu em inglês?",
+      "components": [
+        "tem",
+        "um",
+        "menu",
+        "em",
+        "inglês"
+      ]
+    },
+    {
+      "id": 539,
+      "portuguese": "qual é o prato do dia?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "prato",
+        "do",
+        "dia"
+      ]
+    },
+    {
+      "id": 540,
+      "portuguese": "posso experimentar?",
+      "components": [
+        "posso",
+        "experimentar"
+      ]
+    },
+    {
+      "id": 541,
+      "portuguese": "tem algo sem glúten?",
+      "components": [
+        "tem",
+        "algo",
+        "sem",
+        "glúten"
+      ]
+    },
+    {
+      "id": 542,
+      "portuguese": "pode recomendar um restaurante?",
+      "components": [
+        "pode",
+        "recomendar",
+        "um",
+        "restaurante"
+      ]
+    },
+    {
+      "id": 543,
+      "portuguese": "tem algo para vegetarianos?",
+      "components": [
+        "tem",
+        "algo",
+        "para",
+        "vegetarianos"
+      ]
+    },
+    {
+      "id": 544,
+      "portuguese": "qual é a especialidade da casa?",
+      "components": [
+        "qual",
+        "é",
+        "a",
+        "especialidade",
+        "da",
+        "casa"
+      ]
+    },
+    {
+      "id": 545,
+      "portuguese": "o que recomenda?",
+      "components": [
+        "o",
+        "que",
+        "recomenda"
+      ]
+    },
+    {
+      "id": 546,
+      "portuguese": "queria uma garrafa de água fresca, por favor.",
+      "components": [
+        "queria",
+        "uma",
+        "garrafa",
+        "de",
+        "água",
+        "fresca",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 547,
+      "portuguese": "queria pedir a conta, por favor.",
+      "components": [
+        "queria",
+        "pedir",
+        "a",
+        "conta",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 548,
+      "portuguese": "tem quartos disponíveis?",
+      "components": [
+        "tem",
+        "quartos",
+        "disponíveis"
+      ]
+    },
+    {
+      "id": 549,
+      "portuguese": "qual é o preço por noite?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "preço",
+        "por",
+        "noite"
+      ]
+    },
+    {
+      "id": 550,
+      "portuguese": "posso ver o quarto antes?",
+      "components": [
+        "posso",
+        "ver",
+        "o",
+        "quarto",
+        "antes"
+      ]
+    },
+    {
+      "id": 551,
+      "portuguese": "a que horas servem o pequeno-almoço?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "servem",
+        "o",
+        "pequeno-almoço"
+      ]
+    },
+    {
+      "id": 552,
+      "portuguese": "pode recomendar-me um hotel?",
+      "components": [
+        "pode",
+        "recomendar",
+        "me",
+        "um",
+        "hotel"
+      ]
+    },
+    {
+      "id": 553,
+      "portuguese": "pode ajudar-me, por favor?",
+      "components": [
+        "pode",
+        "ajudar",
+        "me",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 554,
+      "portuguese": "preciso de uma informação, por favor.",
+      "components": [
+        "preciso",
+        "de",
+        "uma",
+        "informação",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 555,
+      "portuguese": "pode falar mais devagar, por favor?",
+      "components": [
+        "pode",
+        "falar",
+        "mais",
+        "devagar",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 556,
+      "portuguese": "como se diz isto em português?",
+      "components": [
+        "como",
+        "se",
+        "diz",
+        "isto",
+        "em",
+        "português"
+      ]
+    },
+    {
+      "id": 557,
+      "portuguese": "a senha do wi-fi, por favor.",
+      "components": [
+        "a",
+        "senha",
+        "do",
+        "wi-fi",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 558,
+      "portuguese": "fala inglês?",
+      "components": [
+        "fala",
+        "inglês"
+      ]
+    },
+    {
+      "id": 559,
+      "portuguese": "desculpe, não falo português.",
+      "components": [
+        "desculpe",
+        "não",
+        "falo",
+        "português"
+      ]
+    },
+    {
+      "id": 560,
+      "portuguese": "não percebo.",
+      "components": [
+        "não",
+        "percebo"
+      ]
+    },
+    {
+      "id": 561,
+      "portuguese": "pode repetir outra vez?",
+      "components": [
+        "pode",
+        "repetir",
+        "outra",
+        "vez"
+      ]
+    },
+    {
+      "id": 562,
+      "portuguese": "pode dizer outra vez?",
+      "components": [
+        "pode",
+        "dizer",
+        "outra",
+        "vez"
+      ]
+    },
+    {
+      "id": 563,
+      "portuguese": "pode mostrar-me no mapa?",
+      "components": [
+        "pode",
+        "mostrar",
+        "me",
+        "no",
+        "mapa"
+      ]
+    },
+    {
+      "id": 564,
+      "portuguese": "onde posso comprar bilhetes?",
+      "components": [
+        "onde",
+        "posso",
+        "comprar",
+        "bilhetes"
+      ]
+    },
+    {
+      "id": 565,
+      "portuguese": "há visitas guiadas disponíveis?",
+      "components": [
+        "há",
+        "visitas",
+        "guiadas",
+        "disponíveis"
+      ]
+    },
+    {
+      "id": 566,
+      "portuguese": "há algum evento local hoje?",
+      "components": [
+        "há",
+        "algum",
+        "evento",
+        "local",
+        "hoje"
+      ]
+    },
+    {
+      "id": 567,
+      "portuguese": "pode tirar-me uma foto, por favor?",
+      "components": [
+        "pode",
+        "tirar",
+        "me",
+        "uma",
+        "foto",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 568,
+      "portuguese": "onde posso encontrar informações turísticas?",
+      "components": [
+        "onde",
+        "posso",
+        "encontrar",
+        "informações",
+        "turísticas"
+      ]
+    },
+    {
+      "id": 569,
+      "portuguese": "há um médico por perto?",
+      "components": [
+        "há",
+        "um",
+        "médico",
+        "por",
+        "perto"
+      ]
+    },
+    {
+      "id": 570,
+      "portuguese": "este lugar é seguro?",
+      "components": [
+        "este",
+        "lugar",
+        "é",
+        "seguro"
+      ]
+    },
+    {
+      "id": 571,
+      "portuguese": "pode ligar para o cento e doze (112)?",
+      "components": [
+        "pode",
+        "ligar",
+        "para",
+        "o",
+        "cento",
+        "e",
+        "doze"
+      ]
+    },
+    {
+      "id": 572,
+      "portuguese": "há uma farmácia nesta zona?",
+      "components": [
+        "há",
+        "uma",
+        "farmácia",
+        "nesta",
+        "zona"
+      ]
+    },
+    {
+      "id": 573,
+      "portuguese": "quanto tempo demora a chegar lá?",
+      "components": [
+        "quanto",
+        "tempo",
+        "demora",
+        "a",
+        "chegar",
+        "lá"
+      ]
+    },
+    {
+      "id": 574,
+      "portuguese": "como se chama esta rua?",
+      "components": [
+        "como",
+        "se",
+        "chama",
+        "esta",
+        "rua"
+      ]
+    },
+    {
+      "id": 575,
+      "portuguese": "preciso de um adaptador de tomada.",
+      "components": [
+        "preciso",
+        "de",
+        "um",
+        "adaptador",
+        "tomada"
+      ]
+    },
+    {
+      "id": 576,
+      "portuguese": "qual é a previsão do tempo para hoje?",
+      "components": [
+        "qual",
+        "é",
+        "a",
+        "previsão",
+        "do",
+        "tempo",
+        "para",
+        "hoje"
+      ]
+    },
+    {
+      "id": 577,
+      "portuguese": "a que horas abre?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "abre"
+      ]
+    },
+    {
+      "id": 578,
+      "portuguese": "a que horas fecha?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "fecha"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "obrigado",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        2,
+        485,
+        534
+      ],
+      "english": "thank you – if you are masculine",
+      "ukrainian": "дякую (каже чоловік)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "obrigada",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        2,
+        508,
+        535
+      ],
+      "english": "thank you – if you are feminine",
+      "ukrainian": "дякую (каже жінка)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "por",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        3,
+        519,
+        522,
+        546,
+        547,
+        549,
+        553,
+        554,
+        555,
+        557,
+        567,
+        569
+      ],
+      "english": "by, through",
+      "ukrainian": "через; за; кимось",
+      "level": "A1"
+    },
+    {
+      "portuguese": "favor",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        3,
+        519,
+        546,
+        547,
+        553,
+        554,
+        555,
+        557,
+        567
+      ],
+      "english": "favor",
+      "ukrainian": "послуга; ласка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bom",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        4,
+        489,
+        490
+      ],
+      "english": "good – masculine",
+      "ukrainian": "добрий; хороший",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dia",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Time and Dates",
+        "Time",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        4,
+        426,
+        539
+      ],
+      "english": "day",
+      "ukrainian": "день",
+      "level": "A2"
+    },
+    {
+      "portuguese": "máquina",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_word_ids": [
+        28
+      ],
+      "english": "machine",
+      "ukrainian": "машина; механізм",
+      "level": "A1"
+    },
+    {
+      "portuguese": "de",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Colors",
+        "Clothing and Accessories",
+        "Time and Dates",
+        "Time",
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Questions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        28,
+        120,
+        122,
+        133,
+        424,
+        486,
+        490,
+        501,
+        509,
+        512,
+        515,
+        531,
+        546,
+        554,
+        575
+      ],
+      "english": "of, from",
+      "ukrainian": "з; від; належність",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lavar",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_word_ids": [
+        28
+      ],
+      "english": "to wash",
+      "ukrainian": "мити; прати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vinte",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        52
+      ],
+      "english": "twenty",
+      "ukrainian": "двадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "e",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        52,
+        61,
+        571
+      ],
+      "english": "and",
+      "ukrainian": "і",
+      "level": "A1"
+    },
+    {
+      "portuguese": "um",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        52,
+        61,
+        71,
+        519,
+        520,
+        524,
+        538,
+        542,
+        552,
+        569,
+        575
+      ],
+      "english": "one / a, an",
+      "ukrainian": "один / неозначений артикль (чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cento",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        61,
+        571
+      ],
+      "english": "hundred (before another number)",
+      "ukrainian": "сто (у складеному числівнику)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "milhão",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        71
+      ],
+      "english": "million",
+      "ukrainian": "мільйон",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dois",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        72,
+        74
+      ],
+      "english": "two",
+      "ukrainian": "два",
+      "level": "A1"
+    },
+    {
+      "portuguese": "milhões",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        72,
+        73,
+        74
+      ],
+      "english": "millions",
+      "ukrainian": "мільйони",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mil",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        73,
+        74
+      ],
+      "english": "thousand",
+      "ukrainian": "тисяча",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primeiro",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        75
+      ],
+      "english": "first (masculine)",
+      "ukrainian": "перший",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primeira",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        75
+      ],
+      "english": "first (feminine)",
+      "ukrainian": "перша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "segundo",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        76
+      ],
+      "english": "second",
+      "ukrainian": "секунда",
+      "level": "A1"
+    },
+    {
+      "portuguese": "segunda",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        76
+      ],
+      "english": "second (feminine)",
+      "ukrainian": "друга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "terceiro",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        77
+      ],
+      "english": "third (masculine)",
+      "ukrainian": "третій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "terceira",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        77
+      ],
+      "english": "third (feminine)",
+      "ukrainian": "третя",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarto",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        78,
+        550
+      ],
+      "english": "room",
+      "ukrainian": "кімната; номер",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarta",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        78
+      ],
+      "english": "fourth (feminine)",
+      "ukrainian": "четверта",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinto",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        79
+      ],
+      "english": "fifth (masculine)",
+      "ukrainian": "п’ятий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinta",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        79
+      ],
+      "english": "fifth (feminine)",
+      "ukrainian": "п’ята",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cor",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        120,
+        122
+      ],
+      "english": "color",
+      "ukrainian": "колір",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rosa",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        120
+      ],
+      "english": "rose; pink (color)",
+      "ukrainian": "троянда; рожевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "laranja",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        122
+      ],
+      "english": "orange (fruit); orange (color)",
+      "ukrainian": "апельсин; помаранчевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "óculos",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_word_ids": [
+        133
+      ],
+      "english": "glasses",
+      "ukrainian": "окуляри",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sol",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories",
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        133,
+        409,
+        413
+      ],
+      "english": "sun",
+      "ukrainian": "сонце",
+      "level": "A2"
+    },
+    {
+      "portuguese": "passageiro",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_word_ids": [
+        237
+      ],
+      "english": "passenger (masculine)",
+      "ukrainian": "пасажир",
+      "level": "A1"
+    },
+    {
+      "portuguese": "passageira",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_word_ids": [
+        237
+      ],
+      "english": "passenger (feminine)",
+      "ukrainian": "пасажирка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aluno",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        271
+      ],
+      "english": "student (masculine)",
+      "ukrainian": "учень; студент",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aluna",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        271
+      ],
+      "english": "student (feminine)",
+      "ukrainian": "учениця; студентка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "diretor",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        274
+      ],
+      "english": "director; principal (masculine)",
+      "ukrainian": "директор",
+      "level": "A2"
+    },
+    {
+      "portuguese": "diretora",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        274
+      ],
+      "english": "director; principal (feminine)",
+      "ukrainian": "директорка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "médico",
+      "groups": [
+        "School and Work",
+        "Occupations",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        282,
+        569
+      ],
+      "english": "doctor",
+      "ukrainian": "лікар",
+      "level": "A1"
+    },
+    {
+      "portuguese": "médica",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        282
+      ],
+      "english": "doctor (feminine)",
+      "ukrainian": "лікарка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "enfermeiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        283
+      ],
+      "english": "nurse (masculine)",
+      "ukrainian": "медбрат",
+      "level": "A2"
+    },
+    {
+      "portuguese": "enfermeira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        283
+      ],
+      "english": "nurse (feminine)",
+      "ukrainian": "медсестра",
+      "level": "A2"
+    },
+    {
+      "portuguese": "professor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        284
+      ],
+      "english": "teacher (masculine)",
+      "ukrainian": "учитель; викладач",
+      "level": "A2"
+    },
+    {
+      "portuguese": "professora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        284
+      ],
+      "english": "teacher (feminine)",
+      "ukrainian": "учителька; викладачка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "engenheiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        285
+      ],
+      "english": "engineer (masculine)",
+      "ukrainian": "інженер",
+      "level": "A2"
+    },
+    {
+      "portuguese": "engenheira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        285
+      ],
+      "english": "engineer (feminine)",
+      "ukrainian": "інженерка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "arquiteto",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        286
+      ],
+      "english": "architect (masculine)",
+      "ukrainian": "архітектор",
+      "level": "A2"
+    },
+    {
+      "portuguese": "arquiteta",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        286
+      ],
+      "english": "architect (feminine)",
+      "ukrainian": "архітекторка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "advogado",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        287
+      ],
+      "english": "lawyer (masculine)",
+      "ukrainian": "адвокат",
+      "level": "A2"
+    },
+    {
+      "portuguese": "advogada",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        287
+      ],
+      "english": "lawyer (feminine)",
+      "ukrainian": "адвокатка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bombeiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        289
+      ],
+      "english": "firefighter (masculine)",
+      "ukrainian": "пожежник",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bombeira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        289
+      ],
+      "english": "firefighter (feminine)",
+      "ukrainian": "пожежниця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cozinheiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        291
+      ],
+      "english": "cook (masculine)",
+      "ukrainian": "кухар",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cozinheira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        291
+      ],
+      "english": "cook (feminine)",
+      "ukrainian": "кухарка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "vendedor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        292
+      ],
+      "english": "salesperson (masculine)",
+      "ukrainian": "продавець",
+      "level": "A2"
+    },
+    {
+      "portuguese": "vendedora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        292
+      ],
+      "english": "salesperson (feminine)",
+      "ukrainian": "продавчиня",
+      "level": "A2"
+    },
+    {
+      "portuguese": "agricultor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        293
+      ],
+      "english": "farmer (masculine)",
+      "ukrainian": "фермер",
+      "level": "A2"
+    },
+    {
+      "portuguese": "agricultora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        293
+      ],
+      "english": "farmer (feminine)",
+      "ukrainian": "фермерка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pintor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        296
+      ],
+      "english": "painter (masculine)",
+      "ukrainian": "художник; маляр",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pintora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        296
+      ],
+      "english": "painter (feminine)",
+      "ukrainian": "художниця; малярка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "escritor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        297
+      ],
+      "english": "writer (masculine)",
+      "ukrainian": "письменник",
+      "level": "A2"
+    },
+    {
+      "portuguese": "escritora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        297
+      ],
+      "english": "writer (feminine)",
+      "ukrainian": "письменниця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "fotógrafo",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        299
+      ],
+      "english": "photographer (masculine)",
+      "ukrainian": "фотограф",
+      "level": "A2"
+    },
+    {
+      "portuguese": "fotógrafa",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        299
+      ],
+      "english": "photographer (feminine)",
+      "ukrainian": "фотографка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "a",
+      "groups": [
+        "Grammatical Words",
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        300,
+        509,
+        512,
+        514,
+        515,
+        516,
+        534,
+        535,
+        544,
+        547,
+        551,
+        557,
+        573,
+        576,
+        577,
+        578
+      ],
+      "english": "to, at",
+      "ukrainian": "до; у; на",
+      "level": "A1"
+    },
+    {
+      "portuguese": "o",
+      "groups": [
+        "Grammatical Words",
+        "Common Phrases",
+        "Questions",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        300,
+        491,
+        504,
+        511,
+        513,
+        516,
+        521,
+        539,
+        545,
+        549,
+        550,
+        551,
+        571
+      ],
+      "english": "the (masculine singular definite article)",
+      "ukrainian": "означений артикль чоловічого роду",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nosso",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        321
+      ],
+      "english": "our (masculine)",
+      "ukrainian": "наш",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nossa",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        321
+      ],
+      "english": "our (feminine)",
+      "ukrainian": "наша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vosso",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        322
+      ],
+      "english": "your (plural possessive; masculine)",
+      "ukrainian": "ваш",
+      "level": "A2"
+    },
+    {
+      "portuguese": "vossa",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        322
+      ],
+      "english": "your (plural possessive; feminine)",
+      "ukrainian": "ваша",
+      "level": "A2"
+    },
+    {
+      "portuguese": "às",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "source_word_ids": [
+        331
+      ],
+      "english": "at the; to the (a + as)",
+      "ukrainian": "о; до; у (a + as)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vezes",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "source_word_ids": [
+        331
+      ],
+      "english": "times; occasions",
+      "ukrainian": "рази",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pequeno",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        367
+      ],
+      "english": "small; little (masculine)",
+      "ukrainian": "малий; маленький",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pequena",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        367
+      ],
+      "english": "small; little (feminine)",
+      "ukrainian": "мала; маленька",
+      "level": "A1"
+    },
+    {
+      "portuguese": "velho",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        368
+      ],
+      "english": "old (masculine)",
+      "ukrainian": "старий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "velha",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        368
+      ],
+      "english": "old (feminine)",
+      "ukrainian": "стара",
+      "level": "A1"
+    },
+    {
+      "portuguese": "novo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives",
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        369,
+        429
+      ],
+      "english": "new; young (masculine)",
+      "ukrainian": "новий; молодий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nova",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        369
+      ],
+      "english": "new; young (feminine)",
+      "ukrainian": "нова; молода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "alto",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        370
+      ],
+      "english": "tall; high (masculine)",
+      "ukrainian": "високий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "alta",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        370
+      ],
+      "english": "tall; high (feminine)",
+      "ukrainian": "висока",
+      "level": "A1"
+    },
+    {
+      "portuguese": "baixo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        371
+      ],
+      "english": "short; low (masculine)",
+      "ukrainian": "низький",
+      "level": "A1"
+    },
+    {
+      "portuguese": "baixa",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        371
+      ],
+      "english": "short; low (feminine)",
+      "ukrainian": "низька",
+      "level": "A1"
+    },
+    {
+      "portuguese": "largo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        372
+      ],
+      "english": "wide; broad (masculine)",
+      "ukrainian": "широкий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "larga",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        372
+      ],
+      "english": "wide; broad (feminine)",
+      "ukrainian": "широка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estreito",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        373
+      ],
+      "english": "narrow (masculine)",
+      "ukrainian": "вузький",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estreita",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        373
+      ],
+      "english": "narrow (feminine)",
+      "ukrainian": "вузька",
+      "level": "A2"
+    },
+    {
+      "portuguese": "fraco",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        375
+      ],
+      "english": "weak (masculine)",
+      "ukrainian": "слабкий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fraca",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        375
+      ],
+      "english": "weak (feminine)",
+      "ukrainian": "слабка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "curto",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        382
+      ],
+      "english": "short (masculine)",
+      "ukrainian": "короткий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "curta",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        382
+      ],
+      "english": "short (feminine)",
+      "ukrainian": "коротка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        383
+      ],
+      "english": "long (masculine)",
+      "ukrainian": "довгий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longa",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        383
+      ],
+      "english": "long (feminine)",
+      "ukrainian": "довга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bonito",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        384
+      ],
+      "english": "beautiful (masculine)",
+      "ukrainian": "красивий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bonita",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        384
+      ],
+      "english": "beautiful (feminine)",
+      "ukrainian": "красива",
+      "level": "A1"
+    },
+    {
+      "portuguese": "giro",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        385
+      ],
+      "english": "cute; pretty (masculine)",
+      "ukrainian": "милий; гарний",
+      "level": "A2"
+    },
+    {
+      "portuguese": "gira",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        385
+      ],
+      "english": "cute; pretty (feminine)",
+      "ukrainian": "мила; гарна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nascer",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        409
+      ],
+      "english": "to be born; to rise (sun)",
+      "ukrainian": "народжуватися; сходити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "do",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day",
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        409,
+        413,
+        539,
+        557,
+        576
+      ],
+      "english": "of the; from the (de + o)",
+      "ukrainian": "з; від; належність (de + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pôr",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        413
+      ],
+      "english": "to put; to set (sun)",
+      "ukrainian": "класти; ставити; заходити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fim",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        424
+      ],
+      "english": "end",
+      "ukrainian": "кінець",
+      "level": "A1"
+    },
+    {
+      "portuguese": "semana",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        424
+      ],
+      "english": "week",
+      "ukrainian": "тиждень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "útil",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        426
+      ],
+      "english": "useful; working (day)",
+      "ukrainian": "корисний; робочий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ano",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        429
+      ],
+      "english": "year",
+      "ukrainian": "рік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primo",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        449
+      ],
+      "english": "cousin (masculine)",
+      "ukrainian": "двоюрідний брат",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prima",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        449
+      ],
+      "english": "cousin (feminine)",
+      "ukrainian": "двоюрідна сестра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bisneto",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        454
+      ],
+      "english": "great-grandson",
+      "ukrainian": "правнук",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bisneta",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        454
+      ],
+      "english": "great-granddaughter",
+      "ukrainian": "правнучка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "amigo",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "source_word_ids": [
+        455,
+        456
+      ],
+      "english": "friend (masculine)",
+      "ukrainian": "друг",
+      "level": "A1"
+    },
+    {
+      "portuguese": "amiga",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "source_word_ids": [
+        455
+      ],
+      "english": "friend (feminine)",
+      "ukrainian": "подруга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "melhor",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship",
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        456,
+        511
+      ],
+      "english": "better; best",
+      "ukrainian": "кращий; найкращий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "zangado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        459
+      ],
+      "english": "angry (masculine)",
+      "ukrainian": "сердитий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "zangada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        459
+      ],
+      "english": "angry (feminine)",
+      "ukrainian": "сердита",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cansado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        460
+      ],
+      "english": "tired (masculine)",
+      "ukrainian": "втомлений",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cansada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        460
+      ],
+      "english": "tired (feminine)",
+      "ukrainian": "втомлена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "assustado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        461
+      ],
+      "english": "scared (masculine)",
+      "ukrainian": "наляканий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "assustada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        461
+      ],
+      "english": "scared (feminine)",
+      "ukrainian": "налякана",
+      "level": "A2"
+    },
+    {
+      "portuguese": "animado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        462
+      ],
+      "english": "excited; lively (masculine)",
+      "ukrainian": "схвильований; жвавий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "animada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        462
+      ],
+      "english": "excited; lively (feminine)",
+      "ukrainian": "схвильована; жвава",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aborrecido",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        464
+      ],
+      "english": "bored (masculine)",
+      "ukrainian": "знуджений",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aborrecida",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        464
+      ],
+      "english": "bored (feminine)",
+      "ukrainian": "знуджена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "apaixonado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        465
+      ],
+      "english": "in love (masculine)",
+      "ukrainian": "закоханий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "apaixonada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        465
+      ],
+      "english": "in love (feminine)",
+      "ukrainian": "закохана",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ansioso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        466
+      ],
+      "english": "anxious (masculine)",
+      "ukrainian": "тривожний",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ansiosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        466
+      ],
+      "english": "anxious (feminine)",
+      "ukrainian": "тривожна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "calmo",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        467
+      ],
+      "english": "calm (masculine)",
+      "ukrainian": "спокійний",
+      "level": "A2"
+    },
+    {
+      "portuguese": "calma",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        467
+      ],
+      "english": "calm (feminine)",
+      "ukrainian": "спокійна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "deprimido",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        468
+      ],
+      "english": "depressed (masculine)",
+      "ukrainian": "пригнічений",
+      "level": "A2"
+    },
+    {
+      "portuguese": "deprimida",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        468
+      ],
+      "english": "depressed (feminine)",
+      "ukrainian": "пригнічена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "esperançoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        469
+      ],
+      "english": "hopeful (masculine)",
+      "ukrainian": "сповнений надії",
+      "level": "B1"
+    },
+    {
+      "portuguese": "esperançosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        469
+      ],
+      "english": "hopeful (feminine)",
+      "ukrainian": "сповнена надії",
+      "level": "B1"
+    },
+    {
+      "portuguese": "orgulhoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        470
+      ],
+      "english": "proud (masculine)",
+      "ukrainian": "гордий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "orgulhosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        470
+      ],
+      "english": "proud (feminine)",
+      "ukrainian": "горда",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nervoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        471
+      ],
+      "english": "nervous (masculine)",
+      "ukrainian": "нервовий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nervosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        471
+      ],
+      "english": "nervous (feminine)",
+      "ukrainian": "нервова",
+      "level": "A2"
+    },
+    {
+      "portuguese": "boa",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        472,
+        473
+      ],
+      "english": "good – feminine",
+      "ukrainian": "добра; хороша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tarde",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        472
+      ],
+      "english": "afternoon",
+      "ukrainian": "друга половина дня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "noite",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        473,
+        549
+      ],
+      "english": "night, evening",
+      "ukrainian": "ніч; вечір",
+      "level": "A1"
+    },
+    {
+      "portuguese": "com",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        478,
+        530
+      ],
+      "english": "with",
+      "ukrainian": "з; разом із",
+      "level": "A1"
+    },
+    {
+      "portuguese": "licença",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_word_ids": [
+        478
+      ],
+      "english": "permission",
+      "ukrainian": "дозвіл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tudo",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        482,
+        490
+      ],
+      "english": "everything; all",
+      "ukrainian": "усе",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bem",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        482,
+        484,
+        503
+      ],
+      "english": "well",
+      "ukrainian": "добре",
+      "level": "A1"
+    },
+    {
+      "portuguese": "como",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        483,
+        502,
+        505,
+        510,
+        556,
+        574
+      ],
+      "english": "how",
+      "ukrainian": "як",
+      "level": "A1"
+    },
+    {
+      "portuguese": "está",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        483
+      ],
+      "english": "is; are (estar, third-person singular)",
+      "ukrainian": "є; перебуває (форма estar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estou",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        484,
+        503,
+        534,
+        535
+      ],
+      "english": "I am (estar)",
+      "ukrainian": "я є; я перебуваю (форма estar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "muito",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        485,
+        506,
+        507,
+        508
+      ],
+      "english": "very",
+      "ukrainian": "дуже; багато",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nada",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_word_ids": [
+        486
+      ],
+      "english": "nothing",
+      "ukrainian": "нічого",
+      "level": "A1"
+    },
+    {
+      "portuguese": "até",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        487,
+        488
+      ],
+      "english": "until; up to",
+      "ukrainian": "до",
+      "level": "A1"
+    },
+    {
+      "portuguese": "logo",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        487
+      ],
+      "english": "soon; later",
+      "ukrainian": "незабаром; пізніше",
+      "level": "A1"
+    },
+    {
+      "portuguese": "amanhã",
+      "groups": [
+        "Common Phrases"
+      ],
+      "source_word_ids": [
+        488
+      ],
+      "english": "tomorrow",
+      "ukrainian": "завтра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trabalho",
+      "groups": [
+        "Common Phrases"
+      ],
+      "source_word_ids": [
+        489
+      ],
+      "english": "work",
+      "ukrainian": "робота",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quê",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        491
+      ],
+      "english": "what (stressed form)",
+      "ukrainian": "що (наголошена форма)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quantos",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        499
+      ],
+      "english": "how many (masculine)",
+      "ukrainian": "скільки (чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quantas",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        499
+      ],
+      "english": "how many (feminine)",
+      "ukrainian": "скільки (жіночий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quem",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        501
+      ],
+      "english": "who",
+      "ukrainian": "хто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vai",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        502,
+        517,
+        518
+      ],
+      "english": "goes; is going (ir, third-person singular)",
+      "ukrainian": "йде; їде (форма ir)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "eu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        503,
+        533,
+        537
+      ],
+      "english": "I",
+      "ukrainian": "я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "meu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        504
+      ],
+      "english": "my – masculine",
+      "ukrainian": "мій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nome",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        504
+      ],
+      "english": "name",
+      "ukrainian": "ім’я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "é",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        504,
+        511,
+        513,
+        514,
+        516,
+        523,
+        533,
+        539,
+        544,
+        549,
+        570,
+        576
+      ],
+      "english": "is (ser)",
+      "ukrainian": "є (форма ser)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "se",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        505,
+        521,
+        556,
+        574
+      ],
+      "english": "oneself; impersonal or reflexive pronoun",
+      "ukrainian": "себе; зворотний або безособовий займенник",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chama",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        505,
+        574
+      ],
+      "english": "calls; is called (chamar)",
+      "ukrainian": "називає; називається (форма chamar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prazer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506,
+        507
+      ],
+      "english": "pleasure",
+      "ukrainian": "задоволення",
+      "level": "A1"
+    },
+    {
+      "portuguese": "em",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Directions",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "source_word_ids": [
+        506,
+        507,
+        528,
+        538,
+        556
+      ],
+      "english": "in, on",
+      "ukrainian": "у; в; на",
+      "level": "A1"
+    },
+    {
+      "portuguese": "conhecer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506,
+        507
+      ],
+      "english": "to meet; to know a person or place",
+      "ukrainian": "познайомитися; знати людину або місце",
+      "level": "A2"
+    },
+    {
+      "portuguese": "lo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506
+      ],
+      "english": "him; it (masculine object clitic, variant of o)",
+      "ukrainian": "його; це (чоловічий рід, займенник-додаток)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "la",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        507
+      ],
+      "english": "her; it (feminine object clitic, variant of a)",
+      "ukrainian": "її; це (жіночий рід, займенник-додаток)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "onde",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        509,
+        512,
+        514,
+        515,
+        518,
+        520,
+        521,
+        524,
+        533,
+        564,
+        568
+      ],
+      "english": "where",
+      "ukrainian": "де",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fica",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        509,
+        512,
+        515
+      ],
+      "english": "is located; stays (ficar)",
+      "ukrainian": "знаходиться; залишається",
+      "level": "A1"
+    },
+    {
+      "portuguese": "casa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        509,
+        544
+      ],
+      "english": "house / home",
+      "ukrainian": "будинок; дім",
+      "level": "A1"
+    },
+    {
+      "portuguese": "banho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        509
+      ],
+      "english": "bath",
+      "ukrainian": "ванна; купання",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chego",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ],
+      "english": "I arrive; I get to (chegar)",
+      "ukrainian": "я прибуваю; я дістаюся",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ao",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Directions"
+      ],
+      "source_word_ids": [
+        510,
+        525
+      ],
+      "english": "to the; at the (a + o)",
+      "ukrainian": "до; у; на (a + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "centro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ],
+      "english": "center",
+      "ukrainian": "центр",
+      "level": "A1"
+    },
+    {
+      "portuguese": "da",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        510,
+        544
+      ],
+      "english": "of the; from the (de + a)",
+      "ukrainian": "з; від; належність (de + a)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cidade",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ],
+      "english": "city",
+      "ukrainian": "місто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "qual",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        511,
+        539,
+        544,
+        549,
+        576
+      ],
+      "english": "which",
+      "ukrainian": "який; котрий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "caminho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        511
+      ],
+      "english": "way; path",
+      "ukrainian": "шлях; дорога",
+      "level": "A1"
+    },
+    {
+      "portuguese": "para",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        511,
+        517,
+        518,
+        543,
+        571,
+        576
+      ],
+      "english": "for, to",
+      "ukrainian": "для; до",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aeroporto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        511
+      ],
+      "english": "airport",
+      "ukrainian": "аеропорт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estação",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        512
+      ],
+      "english": "station",
+      "ukrainian": "станція",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comboios",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        512
+      ],
+      "english": "trains",
+      "ukrainian": "поїзди",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quando",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513
+      ],
+      "english": "when",
+      "ukrainian": "коли",
+      "level": "A1"
+    },
+    {
+      "portuguese": "próximo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513,
+        516
+      ],
+      "english": "next; near (masculine)",
+      "ukrainian": "наступний; близький",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comboio",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513
+      ],
+      "english": "train",
+      "ukrainian": "поїзд",
+      "level": "A1"
+    },
+    {
+      "portuguese": "saída",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        514
+      ],
+      "english": "Exit",
+      "ukrainian": "вихід",
+      "level": "A1"
+    },
+    {
+      "portuguese": "paragem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515
+      ],
+      "english": "stop (bus stop)",
+      "ukrainian": "зупинка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "autocarro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515,
+        516,
+        517,
+        518
+      ],
+      "english": "bus",
+      "ukrainian": "автобус",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mais",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Communication"
+      ],
+      "source_word_ids": [
+        515,
+        555
+      ],
+      "english": "more; most",
+      "ukrainian": "більше; найбільш",
+      "level": "A1"
+    },
+    {
+      "portuguese": "próxima",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515
+      ],
+      "english": "next; near (feminine)",
+      "ukrainian": "наступна; близька",
+      "level": "A1"
+    },
+    {
+      "portuguese": "que",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        516,
+        533,
+        545,
+        551,
+        577,
+        578
+      ],
+      "english": "that, than",
+      "ukrainian": "що; ніж",
+      "level": "A1"
+    },
+    {
+      "portuguese": "horas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        516,
+        551,
+        577,
+        578
+      ],
+      "english": "hours; time",
+      "ukrainian": "години; час",
+      "level": "A1"
+    },
+    {
+      "portuguese": "este",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        517,
+        518,
+        570
+      ],
+      "english": "this (masculine)",
+      "ukrainian": "цей",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pode",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        519,
+        542,
+        552,
+        553,
+        555,
+        561,
+        562,
+        563,
+        567,
+        571
+      ],
+      "english": "can (poder, third-person singular)",
+      "ukrainian": "може; можете (форма poder)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chamar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        519
+      ],
+      "english": "to call",
+      "ukrainian": "кликати; викликати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "táxi",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        519,
+        520
+      ],
+      "english": "taxi",
+      "ukrainian": "таксі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "posso",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        520,
+        524,
+        530,
+        533,
+        536,
+        540,
+        550,
+        564,
+        568
+      ],
+      "english": "I can (poder)",
+      "ukrainian": "я можу",
+      "level": "A1"
+    },
+    {
+      "portuguese": "encontrar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        520,
+        568
+      ],
+      "english": "to find",
+      "ukrainian": "знаходити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "apanha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        521
+      ],
+      "english": "catches; takes (apanhar)",
+      "ukrainian": "ловить; сідає на транспорт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "metro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        521
+      ],
+      "english": "subway",
+      "ukrainian": "метро",
+      "level": "A1"
+    },
+    {
+      "portuguese": "há",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        522,
+        532,
+        565,
+        566,
+        569,
+        572
+      ],
+      "english": "there is; there are (haver)",
+      "ukrainian": "є; існує",
+      "level": "A1"
+    },
+    {
+      "portuguese": "algum",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        522,
+        532,
+        566
+      ],
+      "english": "some; any (masculine)",
+      "ukrainian": "якийсь; будь-який",
+      "level": "A1"
+    },
+    {
+      "portuguese": "supermercado",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        522
+      ],
+      "english": "supermarket",
+      "ukrainian": "супермаркет",
+      "level": "A1"
+    },
+    {
+      "portuguese": "perto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        522,
+        533,
+        569
+      ],
+      "english": "near",
+      "ukrainian": "близько",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longe",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        523
+      ],
+      "english": "far",
+      "ukrainian": "далеко",
+      "level": "A1"
+    },
+    {
+      "portuguese": "daqui",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        523,
+        533
+      ],
+      "english": "from here",
+      "ukrainian": "звідси",
+      "level": "A1"
+    },
+    {
+      "portuguese": "alugar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        524
+      ],
+      "english": "to rent",
+      "ukrainian": "орендувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "carro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        524
+      ],
+      "english": "car",
+      "ukrainian": "автомобіль",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lado",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_word_ids": [
+        525
+      ],
+      "english": "side",
+      "ukrainian": "сторона; бік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "frente",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_word_ids": [
+        528
+      ],
+      "english": "front",
+      "ukrainian": "перед; передня частина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quanto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        529,
+        573
+      ],
+      "english": "how much",
+      "ukrainian": "скільки (для незлічуваного)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "custa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        529
+      ],
+      "english": "costs (custar)",
+      "ukrainian": "коштує",
+      "level": "A1"
+    },
+    {
+      "portuguese": "isto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Communication"
+      ],
+      "source_word_ids": [
+        529,
+        556
+      ],
+      "english": "this (neutral demonstrative)",
+      "ukrainian": "це",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pagar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        530
+      ],
+      "english": "to pay",
+      "ukrainian": "платити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cartão",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        530,
+        531
+      ],
+      "english": "card",
+      "ukrainian": "картка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aceita",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ],
+      "english": "accepts (aceitar)",
+      "ukrainian": "приймає; приймаєте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "crédito",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ],
+      "english": "credit",
+      "ukrainian": "кредит",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ou",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ],
+      "english": "or",
+      "ukrainian": "або",
+      "level": "A1"
+    },
+    {
+      "portuguese": "débito",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ],
+      "english": "debit",
+      "ukrainian": "дебет",
+      "level": "A2"
+    },
+    {
+      "portuguese": "desconto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        532
+      ],
+      "english": "discount",
+      "ukrainian": "знижка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trocar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        533
+      ],
+      "english": "to exchange",
+      "ukrainian": "обмінювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dinheiro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        533
+      ],
+      "english": "money",
+      "ukrainian": "гроші",
+      "level": "A1"
+    },
+    {
+      "portuguese": "só",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        534,
+        535
+      ],
+      "english": "only; just",
+      "ukrainian": "лише; тільки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ver",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        534,
+        535,
+        550
+      ],
+      "english": "to see",
+      "ukrainian": "бачити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "reservar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        536
+      ],
+      "english": "to book; to reserve",
+      "ukrainian": "бронювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "uma",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        536,
+        537,
+        546,
+        554,
+        567,
+        572
+      ],
+      "english": "a; an (feminine); one",
+      "ukrainian": "неозначений артикль жіночого роду; одна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mesa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        536
+      ],
+      "english": "table",
+      "ukrainian": "стіл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tenho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        537
+      ],
+      "english": "I have (ter)",
+      "ukrainian": "я маю",
+      "level": "A1"
+    },
+    {
+      "portuguese": "reserva",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        537
+      ],
+      "english": "reservation",
+      "ukrainian": "бронювання",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        538,
+        541,
+        543,
+        548
+      ],
+      "english": "has; do you have (ter, third-person singular)",
+      "ukrainian": "має; маєте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "menu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        538
+      ],
+      "english": "menu",
+      "ukrainian": "меню",
+      "level": "A1"
+    },
+    {
+      "portuguese": "inglês",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "source_word_ids": [
+        538,
+        558
+      ],
+      "english": "English",
+      "ukrainian": "англійська мова; англійський",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prato",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        539
+      ],
+      "english": "dish; plate",
+      "ukrainian": "страва; тарілка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "experimentar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        540
+      ],
+      "english": "to try",
+      "ukrainian": "пробувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "algo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541,
+        543
+      ],
+      "english": "something",
+      "ukrainian": "щось",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541
+      ],
+      "english": "without",
+      "ukrainian": "без",
+      "level": "A1"
+    },
+    {
+      "portuguese": "glúten",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541
+      ],
+      "english": "gluten",
+      "ukrainian": "глютен",
+      "level": "A2"
+    },
+    {
+      "portuguese": "recomendar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        542,
+        552
+      ],
+      "english": "to recommend",
+      "ukrainian": "рекомендувати",
+      "level": "A2"
+    },
+    {
+      "portuguese": "restaurante",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        542
+      ],
+      "english": "restaurant",
+      "ukrainian": "ресторан",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vegetarianos",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        543
+      ],
+      "english": "vegetarians",
+      "ukrainian": "вегетаріанці",
+      "level": "A1"
+    },
+    {
+      "portuguese": "especialidade",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        544
+      ],
+      "english": "specialty",
+      "ukrainian": "фірмова страва; спеціальність",
+      "level": "A2"
+    },
+    {
+      "portuguese": "recomenda",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        545
+      ],
+      "english": "recommends (recomendar)",
+      "ukrainian": "рекомендує; рекомендуєте",
+      "level": "A2"
+    },
+    {
+      "portuguese": "queria",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546,
+        547
+      ],
+      "english": "I would like (polite querer form); wanted",
+      "ukrainian": "я хотів би; я хотіла б; хотів; хотіла",
+      "level": "A2"
+    },
+    {
+      "portuguese": "garrafa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ],
+      "english": "bottle",
+      "ukrainian": "пляшка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "água",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ],
+      "english": "water",
+      "ukrainian": "вода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fresca",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ],
+      "english": "cool; fresh (feminine)",
+      "ukrainian": "прохолодна; свіжа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pedir",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        547
+      ],
+      "english": "to ask for; to order",
+      "ukrainian": "просити; замовляти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "conta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        547
+      ],
+      "english": "bill; account",
+      "ukrainian": "рахунок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quartos",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        548
+      ],
+      "english": "rooms",
+      "ukrainian": "кімнати; номери",
+      "level": "A1"
+    },
+    {
+      "portuguese": "disponíveis",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        548,
+        565
+      ],
+      "english": "available (plural)",
+      "ukrainian": "доступні; вільні",
+      "level": "A2"
+    },
+    {
+      "portuguese": "preço",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        549
+      ],
+      "english": "price",
+      "ukrainian": "ціна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "antes",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        550
+      ],
+      "english": "before; first",
+      "ukrainian": "раніше; перед; спочатку",
+      "level": "A1"
+    },
+    {
+      "portuguese": "servem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        551
+      ],
+      "english": "serve (servir, third-person plural)",
+      "ukrainian": "подають; обслуговують",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        551
+      ],
+      "english": "breakfast",
+      "ukrainian": "сніданок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "me",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        552,
+        553,
+        563,
+        567
+      ],
+      "english": "me; to me (object clitic)",
+      "ukrainian": "мене; мені",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hotel",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        552
+      ],
+      "english": "hotel",
+      "ukrainian": "готель",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ajudar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        553
+      ],
+      "english": "to help",
+      "ukrainian": "допомагати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "preciso",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        554,
+        575
+      ],
+      "english": "I need (precisar)",
+      "ukrainian": "мені потрібно",
+      "level": "A1"
+    },
+    {
+      "portuguese": "informação",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        554
+      ],
+      "english": "information (singular)",
+      "ukrainian": "інформація; відомість",
+      "level": "A1"
+    },
+    {
+      "portuguese": "falar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        555
+      ],
+      "english": "to speak",
+      "ukrainian": "говорити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "devagar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        555
+      ],
+      "english": "slowly",
+      "ukrainian": "повільно",
+      "level": "A1"
+    },
+    {
+      "portuguese": "diz",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        556
+      ],
+      "english": "says (dizer)",
+      "ukrainian": "каже; говорить",
+      "level": "A1"
+    },
+    {
+      "portuguese": "português",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        556,
+        559
+      ],
+      "english": "Portuguese",
+      "ukrainian": "португальська мова; португальський",
+      "level": "A1"
+    },
+    {
+      "portuguese": "senha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        557
+      ],
+      "english": "password",
+      "ukrainian": "пароль",
+      "level": "A2"
+    },
+    {
+      "portuguese": "wi-fi",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        557
+      ],
+      "english": "Wi-Fi",
+      "ukrainian": "Wi-Fi; бездротова мережа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fala",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        558
+      ],
+      "english": "speaks (falar)",
+      "ukrainian": "говорить; говорите",
+      "level": "A1"
+    },
+    {
+      "portuguese": "desculpe",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559
+      ],
+      "english": "sorry, excuse me",
+      "ukrainian": "вибачте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "não",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559,
+        560
+      ],
+      "english": "no",
+      "ukrainian": "ні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "falo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559
+      ],
+      "english": "I speak (falar)",
+      "ukrainian": "я говорю",
+      "level": "A1"
+    },
+    {
+      "portuguese": "percebo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        560
+      ],
+      "english": "I understand (perceber)",
+      "ukrainian": "я розумію",
+      "level": "A1"
+    },
+    {
+      "portuguese": "repetir",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561
+      ],
+      "english": "to repeat",
+      "ukrainian": "повторювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "outra",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561,
+        562
+      ],
+      "english": "other; another (feminine)",
+      "ukrainian": "інша; ще одна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vez",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561,
+        562
+      ],
+      "english": "time; occasion",
+      "ukrainian": "раз",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dizer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        562
+      ],
+      "english": "to say",
+      "ukrainian": "казати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mostrar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ],
+      "english": "to show",
+      "ukrainian": "показувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "no",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ],
+      "english": "in the; on the (em + o)",
+      "ukrainian": "у; в; на (em + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mapa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ],
+      "english": "map",
+      "ukrainian": "карта",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comprar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        564
+      ],
+      "english": "to buy",
+      "ukrainian": "купувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bilhetes",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        564
+      ],
+      "english": "tickets",
+      "ukrainian": "квитки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "visitas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        565
+      ],
+      "english": "visits; tours",
+      "ukrainian": "відвідування; екскурсії",
+      "level": "A1"
+    },
+    {
+      "portuguese": "guiadas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        565
+      ],
+      "english": "guided (feminine plural)",
+      "ukrainian": "з гідом; супроводжувані",
+      "level": "A2"
+    },
+    {
+      "portuguese": "evento",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        566
+      ],
+      "english": "event",
+      "ukrainian": "захід; подія",
+      "level": "A1"
+    },
+    {
+      "portuguese": "local",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        566
+      ],
+      "english": "local",
+      "ukrainian": "місцевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hoje",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        566,
+        576
+      ],
+      "english": "today",
+      "ukrainian": "сьогодні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tirar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        567
+      ],
+      "english": "to take; to remove",
+      "ukrainian": "брати; знімати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "foto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        567
+      ],
+      "english": "photo",
+      "ukrainian": "фото",
+      "level": "A1"
+    },
+    {
+      "portuguese": "informações",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        568
+      ],
+      "english": "information; details (plural)",
+      "ukrainian": "інформація; відомості",
+      "level": "A1"
+    },
+    {
+      "portuguese": "turísticas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        568
+      ],
+      "english": "tourist (feminine plural)",
+      "ukrainian": "туристичні",
+      "level": "A2"
+    },
+    {
+      "portuguese": "lugar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        570
+      ],
+      "english": "place",
+      "ukrainian": "місце",
+      "level": "A1"
+    },
+    {
+      "portuguese": "seguro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        570
+      ],
+      "english": "safe",
+      "ukrainian": "безпечний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ligar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        571
+      ],
+      "english": "to call by phone; to connect",
+      "ukrainian": "телефонувати; з’єднувати",
+      "level": "A2"
+    },
+    {
+      "portuguese": "doze",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        571
+      ],
+      "english": "twelve",
+      "ukrainian": "дванадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "farmácia",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ],
+      "english": "pharmacy",
+      "ukrainian": "аптека",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nesta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ],
+      "english": "in this (em + esta)",
+      "ukrainian": "у цій (em + esta)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "zona",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ],
+      "english": "area; zone",
+      "ukrainian": "район; зона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tempo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573,
+        576
+      ],
+      "english": "weather",
+      "ukrainian": "погода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "demora",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ],
+      "english": "takes time (demorar)",
+      "ukrainian": "триває; займає час",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chegar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ],
+      "english": "to arrive",
+      "ukrainian": "прибувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lá",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ],
+      "english": "There",
+      "ukrainian": "там",
+      "level": "A1"
+    },
+    {
+      "portuguese": "esta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        574
+      ],
+      "english": "this (feminine)",
+      "ukrainian": "ця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rua",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        574
+      ],
+      "english": "street",
+      "ukrainian": "вулиця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "adaptador",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        575
+      ],
+      "english": "adapter",
+      "ukrainian": "адаптер",
+      "level": "A2"
+    },
+    {
+      "portuguese": "tomada",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        575
+      ],
+      "english": "electrical socket",
+      "ukrainian": "розетка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "previsão",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        576
+      ],
+      "english": "forecast",
+      "ukrainian": "прогноз",
+      "level": "A2"
+    },
+    {
+      "portuguese": "abre",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        577
+      ],
+      "english": "opens (abrir)",
+      "ukrainian": "відчиняється; відкриває",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fecha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        578
+      ],
+      "english": "closes (fechar)",
+      "ukrainian": "зачиняється; закриває",
+      "level": "A1"
+    }
+  ],
+  "enrichment": {
+    "translations": "Existing word translations retained; new components translated individually by assistant",
+    "level": "New component levels estimated from source entries; not certified",
+    "history": "Original phrase records and answers will be archived, not transferred to component words"
+  }
+}

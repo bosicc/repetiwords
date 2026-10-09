@@ -1,0 +1,19 @@
+{
+  "extracted": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-passaporte-topic-words-extracted.json",
+  "enriched": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-passaporte-topic-words-enriched.json",
+  "sqlite_backup": "/Users/borys.pratsiuk/proj/vocpt/data/backups/before-passaporte-import-2026-10-09T12-39-10-370508Z.sqlite",
+  "dry_run_report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-passaporte-topic-words-dry-run-report.json",
+  "import_report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-passaporte-topic-words-import-report.json",
+  "verification_report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-passaporte-topic-words-verification-report.json",
+  "level_counts": {
+    "A1": 598,
+    "A2": 191
+  },
+  "new_word_level_counts": {
+    "A1": 291,
+    "A2": 148
+  },
+  "unique_groups": 85,
+  "new_groups": 52,
+  "batch_memberships": 2881
+}

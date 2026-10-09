@@ -1,0 +1,191 @@
+{
+  "file": "imports/2026-10-09-carla-unique-words-enriched.json",
+  "source": "https://portuguesewithcarla.com/99-essential-european-portuguese-phrases/",
+  "dry_run": false,
+  "words": 193,
+  "added": 123,
+  "existing": 70,
+  "enriched": 1,
+  "groups_added": 1,
+  "memberships_added": 478,
+  "conflicts": [
+    {
+      "portuguese": "bom",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "dia",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "boa",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "noite",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "meu",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "muito",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "em",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "desculpe",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "por",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "de",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "obrigada",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "a",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "casa",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "qual",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "para",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "saída",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "que",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "um",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "lá",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "quanto",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "ver",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "jantar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "não",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "chegar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    }
+  ]
+}

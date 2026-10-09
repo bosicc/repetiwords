@@ -1,0 +1,5000 @@
+{
+  "source": "https://portuguesewithcarla.com/1000-most-common-portuguese-words/",
+  "prepared_at": "2026-10-09",
+  "stage": "enriched",
+  "words": [
+    {
+      "portuguese": "carro",
+      "english": "car",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "автомобіль",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mesa",
+      "english": "table",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "стіл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cadeira",
+      "english": "chair",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "стілець",
+      "level": "A1"
+    },
+    {
+      "portuguese": "porta",
+      "english": "door",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "двері",
+      "level": "A1"
+    },
+    {
+      "portuguese": "janela",
+      "english": "window",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "вікно",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cama",
+      "english": "bed",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "ліжко",
+      "level": "A1"
+    },
+    {
+      "portuguese": "livro",
+      "english": "book",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "книга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "caneta",
+      "english": "pen",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "ручка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "papel",
+      "english": "paper",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "папір",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chave",
+      "english": "key",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "ключ",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dinheiro",
+      "english": "money",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "гроші",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lâmpada",
+      "english": "lamp",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "лампа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "frigorífico",
+      "english": "fridge",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "холодильник",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fogão",
+      "english": "stove",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "плита",
+      "level": "A1"
+    },
+    {
+      "portuguese": "microondas",
+      "english": "microwave",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "мікрохвильова піч",
+      "level": "A1"
+    },
+    {
+      "portuguese": "máquina de lavar",
+      "english": "washing machine",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "пральна машина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "secadora",
+      "english": "dryer",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "сушильна машина",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aspirador",
+      "english": "vacuum cleaner",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "пилосос",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ventilador",
+      "english": "fan",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "ukrainian": "вентилятор",
+      "level": "A2"
+    },
+    {
+      "portuguese": "um",
+      "english": "one / a, an",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Grammatical Words"
+      ],
+      "ukrainian": "один / неозначений артикль (чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dois",
+      "english": "two",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "два",
+      "level": "A1"
+    },
+    {
+      "portuguese": "três",
+      "english": "three",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "три",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quatro",
+      "english": "four",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "чотири",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cinco",
+      "english": "five",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "п’ять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "seis",
+      "english": "six",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "шість",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sete",
+      "english": "seven",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сім",
+      "level": "A1"
+    },
+    {
+      "portuguese": "oito",
+      "english": "eight",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "вісім",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nove",
+      "english": "nine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "дев’ять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dez",
+      "english": "ten",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "десять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "onze",
+      "english": "eleven",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "одинадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "doze",
+      "english": "twelve",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "дванадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "treze",
+      "english": "thirteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "тринадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "catorze",
+      "english": "fourteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "чотирнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinze",
+      "english": "fifteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "п’ятнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dezasseis",
+      "english": "sixteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "шістнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dezassete",
+      "english": "seventeen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сімнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dezoito",
+      "english": "eighteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "вісімнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dezanove",
+      "english": "nineteen",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "дев’ятнадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vinte",
+      "english": "twenty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "двадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vinte e um",
+      "english": "twenty-one",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "двадцять один",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trinta",
+      "english": "thirty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "тридцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarenta",
+      "english": "forty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сорок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cinquenta",
+      "english": "fifty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "п’ятдесят",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sessenta",
+      "english": "sixty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "шістдесят",
+      "level": "A1"
+    },
+    {
+      "portuguese": "setenta",
+      "english": "seventy",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сімдесят",
+      "level": "A1"
+    },
+    {
+      "portuguese": "oitenta",
+      "english": "eighty",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "вісімдесят",
+      "level": "A1"
+    },
+    {
+      "portuguese": "noventa",
+      "english": "ninety",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "дев’яносто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cem",
+      "english": "one hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cento e um",
+      "english": "one hundred and one",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сто один",
+      "level": "A1"
+    },
+    {
+      "portuguese": "duzentos",
+      "english": "two hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "двісті",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trezentos",
+      "english": "three hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "триста",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quatrocentos",
+      "english": "four hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "чотириста",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinhentos",
+      "english": "five hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "п’ятсот",
+      "level": "A1"
+    },
+    {
+      "portuguese": "seiscentos",
+      "english": "six hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "шістсот",
+      "level": "A1"
+    },
+    {
+      "portuguese": "setecentos",
+      "english": "seven hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "сімсот",
+      "level": "A1"
+    },
+    {
+      "portuguese": "oitocentos",
+      "english": "eight hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "вісімсот",
+      "level": "A1"
+    },
+    {
+      "portuguese": "novecentos",
+      "english": "nine hundred",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "дев’ятсот",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mil",
+      "english": "thousand",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "тисяча",
+      "level": "A1"
+    },
+    {
+      "portuguese": "um milhão",
+      "english": "one million",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "один мільйон",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dois milhões",
+      "english": "two million",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "два мільйони",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mil milhões",
+      "english": "one billion",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "один мільярд",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dois mil milhões",
+      "english": "two billion",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "два мільярди",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primeiro/a",
+      "english": "first – masculine/feminine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "перший / перша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "segundo/a",
+      "english": "second – masculine/feminine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "другий / друга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "terceiro/a",
+      "english": "third, masculine/feminine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "третій / третя",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarto/a",
+      "english": "fourth – masculine/feminine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "четвертий / четверта",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinto/a",
+      "english": "fifth – masculine/feminine",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "ukrainian": "п’ятий / п’ята",
+      "level": "A1"
+    },
+    {
+      "portuguese": "terra",
+      "english": "earth",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "земля",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lua",
+      "english": "moon",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "місяць",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sol",
+      "english": "sun",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature",
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "сонце",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estrela",
+      "english": "star",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "зірка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "céu",
+      "english": "sky",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "небо",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mar",
+      "english": "sea",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "море",
+      "level": "A1"
+    },
+    {
+      "portuguese": "areia",
+      "english": "sand",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "пісок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rio",
+      "english": "river",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "річка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "montanha",
+      "english": "mountain",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "гора",
+      "level": "A1"
+    },
+    {
+      "portuguese": "floresta",
+      "english": "forest",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "ліс",
+      "level": "A1"
+    },
+    {
+      "portuguese": "árvore",
+      "english": "tree",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "дерево",
+      "level": "A1"
+    },
+    {
+      "portuguese": "flor",
+      "english": "flower",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "квітка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "relva",
+      "english": "grass",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "трава; газон",
+      "level": "A1"
+    },
+    {
+      "portuguese": "folha",
+      "english": "leaf",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "листок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pedra",
+      "english": "stone",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "камінь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fogo",
+      "english": "fire",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "вогонь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "gelo",
+      "english": "ice",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "лід",
+      "level": "A1"
+    },
+    {
+      "portuguese": "raio",
+      "english": "lightning",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "блискавка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "trovão",
+      "english": "thunder",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "грім",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nuvem",
+      "english": "cloud",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "хмара",
+      "level": "A1"
+    },
+    {
+      "portuguese": "arco-íris",
+      "english": "rainbow",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "ukrainian": "веселка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cão",
+      "english": "dog",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "собака",
+      "level": "A1"
+    },
+    {
+      "portuguese": "gato",
+      "english": "cat",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "кіт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pássaro",
+      "english": "bird",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "птах",
+      "level": "A1"
+    },
+    {
+      "portuguese": "peixe",
+      "english": "fish",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals",
+        "Food and Drink"
+      ],
+      "ukrainian": "риба",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cavalo",
+      "english": "horse",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "кінь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vaca",
+      "english": "cow",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "корова",
+      "level": "A1"
+    },
+    {
+      "portuguese": "porco",
+      "english": "pig",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "свиня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "coelho",
+      "english": "rabbit",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "кролик",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ovelha",
+      "english": "sheep",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "вівця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cabra",
+      "english": "goat",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "коза",
+      "level": "A1"
+    },
+    {
+      "portuguese": "galinha",
+      "english": "chicken",
+      "groups": [
+        "Basic Vocabulary",
+        "Animals"
+      ],
+      "ukrainian": "курка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "branco",
+      "english": "white",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "білий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "preto",
+      "english": "black",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "чорний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vermelho",
+      "english": "red",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "червоний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "azul",
+      "english": "blue",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "синій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "verde",
+      "english": "green",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "зелений",
+      "level": "A1"
+    },
+    {
+      "portuguese": "amarelo",
+      "english": "yellow",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "жовтий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "castanho",
+      "english": "brown",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "коричневий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cinzento",
+      "english": "gray",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "сірий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cor de rosa",
+      "english": "pink",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "рожевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "roxo",
+      "english": "purple",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "фіолетовий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cor de laranja",
+      "english": "orange",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "помаранчевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prateado",
+      "english": "silver",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "сріблястий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "dourado",
+      "english": "golden",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "золотистий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "turquesa",
+      "english": "turquoise",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "бірюзовий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bege",
+      "english": "beige",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "бежевий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "violeta",
+      "english": "violet",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "фіалковий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "lilás",
+      "english": "lilac",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "бузковий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bordô",
+      "english": "burgundy",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "ukrainian": "бордовий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "luvas",
+      "english": "gloves",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "рукавички",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cinto",
+      "english": "belt",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "ремінь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "óculos",
+      "english": "glasses",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "окуляри",
+      "level": "A1"
+    },
+    {
+      "portuguese": "óculos de sol",
+      "english": "sunglasses",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "сонцезахисні окуляри",
+      "level": "A1"
+    },
+    {
+      "portuguese": "relógio",
+      "english": "watch",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "годинник",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mala",
+      "english": "bag",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "сумка; валіза",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mochila",
+      "english": "backpack",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "рюкзак",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cachecol",
+      "english": "scarf",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "шарф",
+      "level": "A1"
+    },
+    {
+      "portuguese": "colar",
+      "english": "necklace",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "намисто",
+      "level": "A2"
+    },
+    {
+      "portuguese": "camisa",
+      "english": "shirt",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "сорочка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "calças",
+      "english": "pants, trousers",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "штани",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vestido",
+      "english": "dress",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "сукня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "saia",
+      "english": "skirt",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "спідниця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sapatos",
+      "english": "shoes",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "туфлі; взуття",
+      "level": "A1"
+    },
+    {
+      "portuguese": "meias",
+      "english": "socks",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "шкарпетки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "casaco",
+      "english": "coat",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "пальто; куртка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chapéu",
+      "english": "hat",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "капелюх",
+      "level": "A1"
+    },
+    {
+      "portuguese": "blusa",
+      "english": "blouse",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "блузка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ténis",
+      "english": "sneakers",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "кросівки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "brincos",
+      "english": "earrings",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "сережки",
+      "level": "A2"
+    },
+    {
+      "portuguese": "anel",
+      "english": "ring",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "ukrainian": "каблучка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "computador",
+      "english": "computer",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "комп’ютер",
+      "level": "A1"
+    },
+    {
+      "portuguese": "telefone",
+      "english": "phone",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "телефон",
+      "level": "A1"
+    },
+    {
+      "portuguese": "telemóvel",
+      "english": "cell phone",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "мобільний телефон",
+      "level": "A1"
+    },
+    {
+      "portuguese": "carregador",
+      "english": "charger",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "зарядний пристрій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ligação",
+      "english": "connection",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "з’єднання",
+      "level": "A2"
+    },
+    {
+      "portuguese": "teclado",
+      "english": "keyboard",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "клавіатура",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ecrã",
+      "english": "screen",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "екран",
+      "level": "A1"
+    },
+    {
+      "portuguese": "impressora",
+      "english": "printer",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "принтер",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aplicação",
+      "english": "application, app",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "застосунок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cabo",
+      "english": "cable",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "ukrainian": "кабель",
+      "level": "A2"
+    },
+    {
+      "portuguese": "água",
+      "english": "water",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "вода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vinho",
+      "english": "wine",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "вино",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cerveja",
+      "english": "beer",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "пиво",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pão",
+      "english": "bread",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "хліб",
+      "level": "A1"
+    },
+    {
+      "portuguese": "carne",
+      "english": "meat",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "м’ясо",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fruta",
+      "english": "fruit",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "фрукти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "legumes",
+      "english": "vegetables",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "овочі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sopa",
+      "english": "soup",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "суп",
+      "level": "A1"
+    },
+    {
+      "portuguese": "salada",
+      "english": "salad",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "салат",
+      "level": "A1"
+    },
+    {
+      "portuguese": "doce",
+      "english": "dessert",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "солодощі; десерт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bolo",
+      "english": "cake",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "торт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chocolate",
+      "english": "chocolate",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "шоколад",
+      "level": "A1"
+    },
+    {
+      "portuguese": "café",
+      "english": "coffee",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "кава",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chá",
+      "english": "tea",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "чай",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "english": "breakfast",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "сніданок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "almoço",
+      "english": "lunch",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "обід",
+      "level": "A1"
+    },
+    {
+      "portuguese": "jantar",
+      "english": "dinner",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "вечеря",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lanche",
+      "english": "snack",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "перекус",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sumo",
+      "english": "juice",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "сік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "refrigerante",
+      "english": "soda",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "ukrainian": "газований напій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "coisa",
+      "english": "thing",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "річ",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pessoa",
+      "english": "person",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "людина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nome",
+      "english": "name",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "ім’я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "história",
+      "english": "story",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "історія",
+      "level": "A1"
+    },
+    {
+      "portuguese": "música",
+      "english": "music",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "музика",
+      "level": "A1"
+    },
+    {
+      "portuguese": "jogo",
+      "english": "game",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "гра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "filme",
+      "english": "movie",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "фільм",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trabalho",
+      "english": "work",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "робота",
+      "level": "A1"
+    },
+    {
+      "portuguese": "viagem",
+      "english": "trip",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "подорож",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mapa",
+      "english": "map",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "ukrainian": "карта",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cabeça",
+      "english": "head",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "голова",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pescoço",
+      "english": "neck",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "шия",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nuca",
+      "english": "nape",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "потилиця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "garganta",
+      "english": "throat",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "горло",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ombro",
+      "english": "shoulder",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "плече",
+      "level": "A2"
+    },
+    {
+      "portuguese": "braço",
+      "english": "arm",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "рука (від плеча до кисті)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cotovelo",
+      "english": "elbow",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "лікоть",
+      "level": "A2"
+    },
+    {
+      "portuguese": "mão",
+      "english": "hand",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "кисть руки",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pulso",
+      "english": "wrist",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "зап’ясток",
+      "level": "A2"
+    },
+    {
+      "portuguese": "dedo",
+      "english": "finger",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "палець",
+      "level": "A2"
+    },
+    {
+      "portuguese": "peito",
+      "english": "chest",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "груди",
+      "level": "A2"
+    },
+    {
+      "portuguese": "barriga",
+      "english": "belly",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "живіт",
+      "level": "A2"
+    },
+    {
+      "portuguese": "costas",
+      "english": "back",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "спина",
+      "level": "A2"
+    },
+    {
+      "portuguese": "perna",
+      "english": "leg",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "нога",
+      "level": "A2"
+    },
+    {
+      "portuguese": "joelho",
+      "english": "knee",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "коліно",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pé",
+      "english": "foot",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "стопа",
+      "level": "A2"
+    },
+    {
+      "portuguese": "calcanhar",
+      "english": "heel",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "п’ята",
+      "level": "A2"
+    },
+    {
+      "portuguese": "tornozelo",
+      "english": "ankle",
+      "groups": [
+        "The Human Body",
+        "Body Parts"
+      ],
+      "ukrainian": "щиколотка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cabelo",
+      "english": "hair",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "волосся",
+      "level": "A2"
+    },
+    {
+      "portuguese": "rosto",
+      "english": "face",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "обличчя",
+      "level": "A2"
+    },
+    {
+      "portuguese": "olho",
+      "english": "eye",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "око",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nariz",
+      "english": "nose",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "ніс",
+      "level": "A2"
+    },
+    {
+      "portuguese": "boca",
+      "english": "mouth",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "рот",
+      "level": "A2"
+    },
+    {
+      "portuguese": "dente",
+      "english": "tooth",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "зуб",
+      "level": "A2"
+    },
+    {
+      "portuguese": "língua",
+      "english": "tongue",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "язик",
+      "level": "A2"
+    },
+    {
+      "portuguese": "orelha",
+      "english": "ear",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "вухо",
+      "level": "A2"
+    },
+    {
+      "portuguese": "sobrancelha",
+      "english": "eyebrow",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "брова",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pestanas",
+      "english": "eyelashes",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "вії",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bochecha",
+      "english": "cheek",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "щока",
+      "level": "A2"
+    },
+    {
+      "portuguese": "maxilar",
+      "english": "jaw",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "щелепа",
+      "level": "A2"
+    },
+    {
+      "portuguese": "queixo",
+      "english": "chin",
+      "groups": [
+        "The Human Body",
+        "The Face"
+      ],
+      "ukrainian": "підборіддя",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cérebro",
+      "english": "brain",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "мозок",
+      "level": "A2"
+    },
+    {
+      "portuguese": "coração",
+      "english": "heart",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "серце",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pulmão",
+      "english": "lung",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "легеня",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estômago",
+      "english": "stomach",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "шлунок",
+      "level": "A2"
+    },
+    {
+      "portuguese": "fígado",
+      "english": "liver",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "печінка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "rim",
+      "english": "kidney",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "нирка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pele",
+      "english": "skin",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "шкіра",
+      "level": "A2"
+    },
+    {
+      "portuguese": "músculo",
+      "english": "muscle",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "м’яз",
+      "level": "A2"
+    },
+    {
+      "portuguese": "tendão",
+      "english": "tendon",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "сухожилля",
+      "level": "B1"
+    },
+    {
+      "portuguese": "articulações",
+      "english": "joints",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "суглоби",
+      "level": "B1"
+    },
+    {
+      "portuguese": "osso",
+      "english": "bone",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "кістка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "veia",
+      "english": "vein",
+      "groups": [
+        "The Human Body",
+        "Anatomy"
+      ],
+      "ukrainian": "вена",
+      "level": "B1"
+    },
+    {
+      "portuguese": "autocarro",
+      "english": "bus",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "автобус",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comboio",
+      "english": "train",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "поїзд",
+      "level": "A1"
+    },
+    {
+      "portuguese": "avião",
+      "english": "plane",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "літак",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bicicleta",
+      "english": "bicycle",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "велосипед",
+      "level": "A1"
+    },
+    {
+      "portuguese": "barco",
+      "english": "boat",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "човен",
+      "level": "A1"
+    },
+    {
+      "portuguese": "táxi",
+      "english": "taxi",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "таксі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "metro",
+      "english": "subway",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "метро",
+      "level": "A1"
+    },
+    {
+      "portuguese": "moto",
+      "english": "motorcycle",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "мотоцикл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "camião",
+      "english": "truck",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "вантажівка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "passageiro/a",
+      "english": "passenger, masculine/feminine",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "пасажир / пасажирка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "peão",
+      "english": "pedestrian",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "пішохід",
+      "level": "A2"
+    },
+    {
+      "portuguese": "semáforo",
+      "english": "traffic light",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "світлофор",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estrada",
+      "english": "road",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "дорога",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ponte",
+      "english": "bridge",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "міст",
+      "level": "A1"
+    },
+    {
+      "portuguese": "autoestrada",
+      "english": "highway",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "автомагістраль",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cruzamento",
+      "english": "crossroad",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "перехрестя",
+      "level": "A2"
+    },
+    {
+      "portuguese": "trânsito",
+      "english": "traffic",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "ukrainian": "дорожній рух",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cidade",
+      "english": "city",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "місто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vila",
+      "english": "town",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "містечко",
+      "level": "A1"
+    },
+    {
+      "portuguese": "país",
+      "english": "country",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "країна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rua",
+      "english": "street",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "вулиця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "praça",
+      "english": "square",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "площа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "loja",
+      "english": "store",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "магазин",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mercado",
+      "english": "market",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "ринок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "farmácia",
+      "english": "pharmacy",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "аптека",
+      "level": "A1"
+    },
+    {
+      "portuguese": "restaurante",
+      "english": "restaurant",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "ресторан",
+      "level": "A1"
+    },
+    {
+      "portuguese": "igreja",
+      "english": "church",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "церква",
+      "level": "A1"
+    },
+    {
+      "portuguese": "museu",
+      "english": "museum",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "музей",
+      "level": "A1"
+    },
+    {
+      "portuguese": "biblioteca",
+      "english": "library",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places",
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "бібліотека",
+      "level": "A1"
+    },
+    {
+      "portuguese": "escola",
+      "english": "school",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "школа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "universidade",
+      "english": "university",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "університет",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hospital",
+      "english": "hospital",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "лікарня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "parque",
+      "english": "park",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "парк",
+      "level": "A1"
+    },
+    {
+      "portuguese": "praia",
+      "english": "beach",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "пляж",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estação",
+      "english": "station",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "станція",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aeroporto",
+      "english": "airport",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "ukrainian": "аеропорт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "direita",
+      "english": "right",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "праворуч; права сторона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "esquerda",
+      "english": "left",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "ліворуч; ліва сторона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "frente",
+      "english": "front",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "перед; передня частина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "atrás",
+      "english": "back",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "позаду",
+      "level": "A1"
+    },
+    {
+      "portuguese": "perto",
+      "english": "near",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "близько",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longe",
+      "english": "far",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "далеко",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aqui",
+      "english": "here",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "тут",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ali",
+      "english": "there",
+      "groups": [
+        "Locations and Means of Transport",
+        "Directions"
+      ],
+      "ukrainian": "там",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aluno/a",
+      "english": "student – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "учень / учениця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "caderno",
+      "english": "notebook",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "зошит",
+      "level": "A2"
+    },
+    {
+      "portuguese": "borracha",
+      "english": "eraser",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "гумка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "diretor/a",
+      "english": "principal – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "директор / директорка школи",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cantina",
+      "english": "cafeteria",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "їдальня",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aula",
+      "english": "class",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "урок; заняття",
+      "level": "A2"
+    },
+    {
+      "portuguese": "lição",
+      "english": "lesson",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "урок",
+      "level": "A2"
+    },
+    {
+      "portuguese": "teste",
+      "english": "exam",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "тест; іспит",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nota",
+      "english": "grade",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "оцінка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "matéria",
+      "english": "subject",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "навчальний предмет; матеріал",
+      "level": "A2"
+    },
+    {
+      "portuguese": "formatura",
+      "english": "graduation",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "ukrainian": "випуск; закінчення навчання",
+      "level": "B1"
+    },
+    {
+      "portuguese": "médico/a",
+      "english": "doctor – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "лікар / лікарка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "enfermeiro/a",
+      "english": "nurse – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "медбрат / медсестра",
+      "level": "A2"
+    },
+    {
+      "portuguese": "professor/a",
+      "english": "teacher – masculine/ feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "учитель / учителька",
+      "level": "A2"
+    },
+    {
+      "portuguese": "engenheiro/a",
+      "english": "engineer – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "інженер / інженерка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "arquiteto/a",
+      "english": "architect – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "архітектор / архітекторка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "advogado/a",
+      "english": "lawyer – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "адвокат / адвокатка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "polícia",
+      "english": "police officer",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "поліцейський / поліцейська",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bombeiro/a",
+      "english": "firefighter – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "пожежник / пожежниця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "motorista",
+      "english": "driver",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "водій",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cozinheiro/a",
+      "english": "cook – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "кухар / кухарка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "vendedor/a",
+      "english": "salesperson – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "продавець / продавчиня",
+      "level": "A2"
+    },
+    {
+      "portuguese": "agricultor/a",
+      "english": "farmer – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "фермер / фермерка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cientista",
+      "english": "scientist",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "науковець / науковиця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "mecânico",
+      "english": "mechanic – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "механік",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pintor/a",
+      "english": "painter – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "художник / художниця; маляр / малярка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "escritor/a",
+      "english": "writer – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "письменник / письменниця",
+      "level": "A2"
+    },
+    {
+      "portuguese": "jornalista",
+      "english": "journalist",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "журналіст / журналістка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "fotógrafo/a",
+      "english": "photographer – masculine/feminine",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "ukrainian": "фотограф / фотографка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "a/o",
+      "english": "the – feminine/masculine",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "ukrainian": "означений артикль (жіночий / чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "de",
+      "english": "of, from",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "з; від; належність",
+      "level": "A1"
+    },
+    {
+      "portuguese": "que",
+      "english": "that, than",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "ukrainian": "що; ніж",
+      "level": "A1"
+    },
+    {
+      "portuguese": "e",
+      "english": "and",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "ukrainian": "і",
+      "level": "A1"
+    },
+    {
+      "portuguese": "em",
+      "english": "in, on",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "у; в; на",
+      "level": "A1"
+    },
+    {
+      "portuguese": "para",
+      "english": "for, to",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "для; до",
+      "level": "A1"
+    },
+    {
+      "portuguese": "com",
+      "english": "with",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "з; разом із",
+      "level": "A1"
+    },
+    {
+      "portuguese": "eu",
+      "english": "I",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tu",
+      "english": "you – informal singular",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "ти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ele",
+      "english": "he",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "він",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ela",
+      "english": "she",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "вона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nós",
+      "english": "we",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "ми",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vós",
+      "english": "you (traditional plural, regional or literary usage)",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "ви (традиційна форма множини)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "eles",
+      "english": "they – masculine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "вони (чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "elas",
+      "english": "they – feminine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "вони (жіночий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "meu",
+      "english": "my – masculine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "мій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "minha",
+      "english": "my – feminine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "моя",
+      "level": "A1"
+    },
+    {
+      "portuguese": "teu",
+      "english": "your – informal singular masculine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "твій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tua",
+      "english": "your – informal singular feminine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "твоя",
+      "level": "A1"
+    },
+    {
+      "portuguese": "seu",
+      "english": "his, her, your – formal masculine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "його; її; Ваш (чоловічий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sua",
+      "english": "his, her, your – formal feminine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "його; її; Ваша (жіночий рід)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nosso/a",
+      "english": "our – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "наш / наша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vosso/a",
+      "english": "your (plural possessive, masculine/feminine)",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "ваш / ваша (традиційна форма множини)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "mim",
+      "english": "me",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "мене; мені",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ti",
+      "english": "you – informal singular",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "тебе; тобі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "si",
+      "english": "himself, herself, yourself – formal",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "ukrainian": "себе; собі",
+      "level": "A2"
+    },
+    {
+      "portuguese": "muito",
+      "english": "very",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "дуже; багато",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bem",
+      "english": "well",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "добре",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mal",
+      "english": "badly",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "погано",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sempre",
+      "english": "always",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "завжди",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nunca",
+      "english": "never",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "ніколи",
+      "level": "A1"
+    },
+    {
+      "portuguese": "às vezes",
+      "english": "sometimes",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "іноді",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hoje",
+      "english": "today",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "сьогодні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "amanhã",
+      "english": "tomorrow",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "завтра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ontem",
+      "english": "yesterday",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "вчора",
+      "level": "A1"
+    },
+    {
+      "portuguese": "agora",
+      "english": "now",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "ukrainian": "зараз",
+      "level": "A1"
+    },
+    {
+      "portuguese": "a",
+      "english": "to, at",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "до; у; на",
+      "level": "A1"
+    },
+    {
+      "portuguese": "por",
+      "english": "by, through",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "через; за; кимось",
+      "level": "A1"
+    },
+    {
+      "portuguese": "debaixo",
+      "english": "under",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "під; унизу",
+      "level": "A2"
+    },
+    {
+      "portuguese": "sobre",
+      "english": "about, over",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "про; над; на",
+      "level": "A2"
+    },
+    {
+      "portuguese": "entre",
+      "english": "between",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "між",
+      "level": "A2"
+    },
+    {
+      "portuguese": "sem",
+      "english": "without",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "ukrainian": "без",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ser",
+      "english": "to be, permanent states and characteristics",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "бути (постійні властивості)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estar",
+      "english": "to be (states, feelings, or location)",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "бути (стан або місцеперебування)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ter",
+      "english": "to have",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "мати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fazer",
+      "english": "to do, to make",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "робити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "poder",
+      "english": "can, to be able to",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "могти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dizer",
+      "english": "to say",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "казати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ir",
+      "english": "to go",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "йти; їхати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ver",
+      "english": "to see",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "бачити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dar",
+      "english": "to give",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "давати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "saber",
+      "english": "to know",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "знати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "querer",
+      "english": "to want",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "хотіти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chegar",
+      "english": "to arrive",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "прибувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "falar",
+      "english": "to speak",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "говорити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ouvir",
+      "english": "to hear",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "чути",
+      "level": "A1"
+    },
+    {
+      "portuguese": "partir",
+      "english": "to leave, to break",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "від’їжджати; ламати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "gostar",
+      "english": "to like",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "подобатися; любити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pensar",
+      "english": "to think",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "думати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trazer",
+      "english": "to bring",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "приносити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vir",
+      "english": "to come",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "приходити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comer",
+      "english": "to eat",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "ukrainian": "їсти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bom",
+      "english": "good – masculine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "добрий; хороший",
+      "level": "A1"
+    },
+    {
+      "portuguese": "boa",
+      "english": "good – feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "добра; хороша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mau",
+      "english": "bad – masculine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "поганий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "má",
+      "english": "bad – feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "погана",
+      "level": "A1"
+    },
+    {
+      "portuguese": "grande",
+      "english": "big, large",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "великий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pequeno/a",
+      "english": "small, little – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "малий / мала",
+      "level": "A1"
+    },
+    {
+      "portuguese": "velho/a",
+      "english": "old – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "старий / стара",
+      "level": "A1"
+    },
+    {
+      "portuguese": "novo/a",
+      "english": "new, young – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "новий / нова; молодий / молода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "alto/a",
+      "english": "tall, high – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "високий / висока",
+      "level": "A1"
+    },
+    {
+      "portuguese": "baixo/a",
+      "english": "short, low – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "низький / низька",
+      "level": "A1"
+    },
+    {
+      "portuguese": "largo/a",
+      "english": "wide, broad – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "широкий / широка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "estreito/a",
+      "english": "narrow, masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "вузький / вузька",
+      "level": "A2"
+    },
+    {
+      "portuguese": "forte",
+      "english": "strong",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "сильний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fraco/a",
+      "english": "weak, masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "слабкий / слабка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "claro",
+      "english": "light",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "світлий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "escuro",
+      "english": "dark",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "темний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lento",
+      "english": "slow",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "повільний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rápido",
+      "english": "fast",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "швидкий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sujo",
+      "english": "dirty",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "брудний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "limpo",
+      "english": "clean",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "чистий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "curto/a",
+      "english": "short – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "короткий / коротка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longo/a",
+      "english": "long – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "довгий / довга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bonito/a",
+      "english": "beautiful – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "красивий / красива",
+      "level": "A1"
+    },
+    {
+      "portuguese": "giro/a",
+      "english": "cute – masculine/feminine",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "ukrainian": "милий / мила; гарний / гарна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "segunda-feira",
+      "english": "Monday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "понеділок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "terça-feira",
+      "english": "Tuesday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "вівторок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarta-feira",
+      "english": "Wednesday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "середа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quinta-feira",
+      "english": "Thursday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "четвер",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sexta-feira",
+      "english": "Friday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "п’ятниця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sábado",
+      "english": "Saturday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "субота",
+      "level": "A1"
+    },
+    {
+      "portuguese": "domingo",
+      "english": "Sunday",
+      "groups": [
+        "Time and Dates",
+        "Days of the Week"
+      ],
+      "ukrainian": "неділя",
+      "level": "A1"
+    },
+    {
+      "portuguese": "janeiro",
+      "english": "January",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "січень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fevereiro",
+      "english": "February",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "лютий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "março",
+      "english": "March",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "березень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "abril",
+      "english": "April",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "квітень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "maio",
+      "english": "May",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "травень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "junho",
+      "english": "June",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "червень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "julho",
+      "english": "July",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "липень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "agosto",
+      "english": "August",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "серпень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "setembro",
+      "english": "September",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "вересень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "outubro",
+      "english": "October",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "жовтень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "novembro",
+      "english": "November",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "листопад",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dezembro",
+      "english": "December",
+      "groups": [
+        "Time and Dates",
+        "Months"
+      ],
+      "ukrainian": "грудень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primavera",
+      "english": "spring",
+      "groups": [
+        "Time and Dates",
+        "Seasons"
+      ],
+      "ukrainian": "весна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "verão",
+      "english": "summer",
+      "groups": [
+        "Time and Dates",
+        "Seasons"
+      ],
+      "ukrainian": "літо",
+      "level": "A1"
+    },
+    {
+      "portuguese": "outono",
+      "english": "autumn",
+      "groups": [
+        "Time and Dates",
+        "Seasons"
+      ],
+      "ukrainian": "осінь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "inverno",
+      "english": "winter",
+      "groups": [
+        "Time and Dates",
+        "Seasons"
+      ],
+      "ukrainian": "зима",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nascer do sol",
+      "english": "sunrise",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "схід сонця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "manhã",
+      "english": "morning",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "ранок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "meio-dia",
+      "english": "midday, noon",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "полудень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tarde",
+      "english": "afternoon",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "друга половина дня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pôr do sol",
+      "english": "sunset",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "захід сонця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "noite",
+      "english": "night, evening",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "ніч; вечір",
+      "level": "A1"
+    },
+    {
+      "portuguese": "madrugada",
+      "english": "early hours before dawn",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "час після опівночі до ранку; світанок",
+      "level": "A2"
+    },
+    {
+      "portuguese": "meia-noite",
+      "english": "midnight",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "ukrainian": "опівніч",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hora",
+      "english": "hour",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "година",
+      "level": "A1"
+    },
+    {
+      "portuguese": "minuto",
+      "english": "minute",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "хвилина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "segundo",
+      "english": "second",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "секунда",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dia",
+      "english": "day",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "день",
+      "level": "A2"
+    },
+    {
+      "portuguese": "semana",
+      "english": "week",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "тиждень",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mês",
+      "english": "month",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "місяць",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ano",
+      "english": "year",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "рік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fim de semana",
+      "english": "weekend",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "вихідні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "feriado",
+      "english": "holiday",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "святковий неробочий день",
+      "level": "A2"
+    },
+    {
+      "portuguese": "dia útil",
+      "english": "weekday",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "робочий день",
+      "level": "A1"
+    },
+    {
+      "portuguese": "data",
+      "english": "date",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "дата",
+      "level": "A1"
+    },
+    {
+      "portuguese": "calendário",
+      "english": "calendar",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "календар",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ano novo",
+      "english": "new year",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "ukrainian": "новий рік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tempo",
+      "english": "weather",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "погода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "solarengo",
+      "english": "sunny",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "сонячний",
+      "level": "A2"
+    },
+    {
+      "portuguese": "chuva",
+      "english": "rain",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "дощ",
+      "level": "A1"
+    },
+    {
+      "portuguese": "neve",
+      "english": "snow",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "сніг",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vento",
+      "english": "wind",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "вітер",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nublado",
+      "english": "cloudy",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "хмарний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quente",
+      "english": "hot",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "гарячий; теплий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "frio",
+      "english": "cold",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "холодний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tempestade",
+      "english": "storm",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "ukrainian": "буря",
+      "level": "A2"
+    },
+    {
+      "portuguese": "pai",
+      "english": "father",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "батько",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mãe",
+      "english": "mother",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "мати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "irmão",
+      "english": "brother",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "брат",
+      "level": "A1"
+    },
+    {
+      "portuguese": "irmã",
+      "english": "sister",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "сестра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "filho",
+      "english": "son",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "син",
+      "level": "A1"
+    },
+    {
+      "portuguese": "filha",
+      "english": "daughter",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "дочка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "avô",
+      "english": "grandfather",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "дідусь",
+      "level": "A1"
+    },
+    {
+      "portuguese": "avó",
+      "english": "grandmother",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "бабуся",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tio",
+      "english": "uncle",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "дядько",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tia",
+      "english": "aunt",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "тітка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "primo/a",
+      "english": "cousin – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "двоюрідний брат / двоюрідна сестра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sobrinho",
+      "english": "nephew",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "племінник",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sobrinha",
+      "english": "niece",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "племінниця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "neto",
+      "english": "grandson",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "онук",
+      "level": "A1"
+    },
+    {
+      "portuguese": "neta",
+      "english": "grand-daughter",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "онука",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bisneto/a",
+      "english": "great-grandson/grand-daughter",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "ukrainian": "правнук / правнучка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "amigo/a",
+      "english": "friend – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "ukrainian": "друг / подруга",
+      "level": "A1"
+    },
+    {
+      "portuguese": "melhor amigo",
+      "english": "best friend",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "ukrainian": "найкращий друг",
+      "level": "A1"
+    },
+    {
+      "portuguese": "feliz",
+      "english": "happy",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "щасливий",
+      "level": "A2"
+    },
+    {
+      "portuguese": "triste",
+      "english": "sad",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "сумний",
+      "level": "A2"
+    },
+    {
+      "portuguese": "zangado/a",
+      "english": "angry – masculine/ feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "сердитий / сердита",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cansado/a",
+      "english": "tired – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "втомлений / втомлена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "assustado/a",
+      "english": "scared – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "наляканий / налякана",
+      "level": "A2"
+    },
+    {
+      "portuguese": "animado/a",
+      "english": "excited – masculine/ feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "схвильований / схвильована; у піднесеному настрої",
+      "level": "A2"
+    },
+    {
+      "portuguese": "chateado",
+      "english": "upset – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "засмучений; роздратований",
+      "level": "A2"
+    },
+    {
+      "portuguese": "aborrecido/a",
+      "english": "bored – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "знуджений / знуджена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "apaixonado/a",
+      "english": "in love – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "закоханий / закохана",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ansioso/a",
+      "english": "anxious – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "тривожний / тривожна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "calmo/a",
+      "english": "calm – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "спокійний / спокійна",
+      "level": "A2"
+    },
+    {
+      "portuguese": "deprimido/a",
+      "english": "depressed – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "пригнічений / пригнічена",
+      "level": "A2"
+    },
+    {
+      "portuguese": "esperançoso/a",
+      "english": "hopeful – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "сповнений / сповнена надії",
+      "level": "B1"
+    },
+    {
+      "portuguese": "orgulhoso/a",
+      "english": "proud – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "гордий / горда",
+      "level": "A2"
+    },
+    {
+      "portuguese": "nervoso/a",
+      "english": "nervous – masculine/feminine",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "ukrainian": "нервовий / нервова",
+      "level": "A2"
+    },
+    {
+      "portuguese": "bom dia",
+      "english": "good morning",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "доброго ранку",
+      "level": "A1"
+    },
+    {
+      "portuguese": "boa tarde",
+      "english": "good afternoon",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "добрий день",
+      "level": "A1"
+    },
+    {
+      "portuguese": "boa noite",
+      "english": "good night",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "добрий вечір; на добраніч",
+      "level": "A1"
+    },
+    {
+      "portuguese": "olá",
+      "english": "hello",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "привіт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "adeus",
+      "english": "goodbye",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "прощавай; до побачення",
+      "level": "A1"
+    },
+    {
+      "portuguese": "por favor",
+      "english": "please",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "будь ласка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "obrigado",
+      "english": "thank you – if you are masculine",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "дякую (каже чоловік)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "obrigada",
+      "english": "thank you – if you are feminine",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "дякую (каже жінка)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "desculpe",
+      "english": "sorry, excuse me",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "вибачте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "com licença",
+      "english": "excuse me",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "дозвольте; перепрошую",
+      "level": "A1"
+    },
+    {
+      "portuguese": "talvez",
+      "english": "maybe",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "можливо",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sim",
+      "english": "yes",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "так",
+      "level": "A1"
+    },
+    {
+      "portuguese": "não",
+      "english": "no",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "ні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tudo bem?",
+      "english": "everything okay?",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "усе гаразд?",
+      "level": "A1"
+    },
+    {
+      "portuguese": "como está?",
+      "english": "how are you?",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "як Ви?",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estou bem",
+      "english": "I am fine",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "у мене все добре",
+      "level": "A1"
+    },
+    {
+      "portuguese": "muito obrigado",
+      "english": "thank you very much",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "дуже дякую (каже чоловік)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "de nada",
+      "english": "you’re welcome",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "нема за що",
+      "level": "A1"
+    },
+    {
+      "portuguese": "até logo",
+      "english": "see you later",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "до зустрічі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "até amanhã",
+      "english": "see you tomorrow",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "до завтра",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bom trabalho",
+      "english": "good work",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "гарної роботи",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tudo de bom!",
+      "english": "all the best!",
+      "groups": [
+        "Common Phrases"
+      ],
+      "ukrainian": "усього найкращого!",
+      "level": "A1"
+    },
+    {
+      "portuguese": "o quê",
+      "english": "what",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "що",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quem",
+      "english": "who",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "хто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "onde",
+      "english": "where",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "де",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quando",
+      "english": "when",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "коли",
+      "level": "A1"
+    },
+    {
+      "portuguese": "porquê",
+      "english": "why",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "чому",
+      "level": "A1"
+    },
+    {
+      "portuguese": "porque",
+      "english": "because",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "тому що",
+      "level": "A1"
+    },
+    {
+      "portuguese": "como",
+      "english": "how",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "як",
+      "level": "A1"
+    },
+    {
+      "portuguese": "qual",
+      "english": "which",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "який; котрий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quantos/as",
+      "english": "how many – masculine/feminine",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "скільки (для злічуваного)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quanto",
+      "english": "how much",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "скільки (для незлічуваного)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "de quem",
+      "english": "whose",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "ukrainian": "чий; кого",
+      "level": "A1"
+    }
+  ],
+  "extracted_count": 508,
+  "enrichment": {
+    "english": "Source meanings; listed corrections by assistant",
+    "ukrainian": "Assistant translations; not independently reviewed",
+    "level": "Assistant CEFR estimates, not certified or source-provided",
+    "groups": "Source topic and parent headings",
+    "english_corrections": {
+      "madrugada": "early hours before dawn",
+      "vós": "you (traditional plural, regional or literary usage)",
+      "vosso/a": "your (plural possessive, masculine/feminine)",
+      "brincos": "earrings",
+      "vila": "town",
+      "estar": "to be (states, feelings, or location)"
+    },
+    "notes": [
+      "Only written Part 1 lists extracted; video-only vocabulary not included.",
+      "Source spellings retained, including secadora (European Portuguese commonly uses máquina de secar roupa).",
+      "Gender shorthand and phrases retained as single vocabulary records."
+    ]
+  }
+}

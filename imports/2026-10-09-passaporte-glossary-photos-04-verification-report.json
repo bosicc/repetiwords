@@ -1,0 +1,367 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 128,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1806,
+      "portuguese": "ferro"
+    },
+    {
+      "id": 1807,
+      "portuguese": "fotográfica"
+    },
+    {
+      "id": 1808,
+      "portuguese": "loiça"
+    },
+    {
+      "id": 1809,
+      "portuguese": "mal-educado"
+    },
+    {
+      "id": 1810,
+      "portuguese": "maluco"
+    },
+    {
+      "id": 1811,
+      "portuguese": "mandar"
+    },
+    {
+      "id": 1812,
+      "portuguese": "maneira"
+    },
+    {
+      "id": 1813,
+      "portuguese": "manutenção"
+    },
+    {
+      "id": 1814,
+      "portuguese": "marcada"
+    },
+    {
+      "id": 1815,
+      "portuguese": "marcar"
+    },
+    {
+      "id": 1816,
+      "portuguese": "margem"
+    },
+    {
+      "id": 1817,
+      "portuguese": "marroquino"
+    },
+    {
+      "id": 1818,
+      "portuguese": "matar"
+    },
+    {
+      "id": 1819,
+      "portuguese": "medicina"
+    },
+    {
+      "id": 1820,
+      "portuguese": "meio"
+    },
+    {
+      "id": 1821,
+      "portuguese": "melhoras"
+    },
+    {
+      "id": 1822,
+      "portuguese": "mercearia"
+    },
+    {
+      "id": 1823,
+      "portuguese": "molhado"
+    },
+    {
+      "id": 1824,
+      "portuguese": "multa"
+    },
+    {
+      "id": 1825,
+      "portuguese": "mundial"
+    },
+    {
+      "id": 1826,
+      "portuguese": "mundo"
+    },
+    {
+      "id": 1827,
+      "portuguese": "máximo"
+    },
+    {
+      "id": 1828,
+      "portuguese": "médio"
+    },
+    {
+      "id": 1829,
+      "portuguese": "móvel"
+    },
+    {
+      "id": 1830,
+      "portuguese": "nacional"
+    },
+    {
+      "id": 1831,
+      "portuguese": "namorar"
+    },
+    {
+      "id": 1832,
+      "portuguese": "natas"
+    },
+    {
+      "id": 1833,
+      "portuguese": "natural"
+    },
+    {
+      "id": 1834,
+      "portuguese": "negócio"
+    },
+    {
+      "id": 1835,
+      "portuguese": "normal"
+    },
+    {
+      "id": 1836,
+      "portuguese": "normalmente"
+    },
+    {
+      "id": 1837,
+      "portuguese": "norte-americano"
+    },
+    {
+      "id": 1838,
+      "portuguese": "ouvido"
+    },
+    {
+      "id": 1839,
+      "portuguese": "pais"
+    },
+    {
+      "id": 1840,
+      "portuguese": "paisagem"
+    },
+    {
+      "id": 1841,
+      "portuguese": "palco"
+    },
+    {
+      "id": 1842,
+      "portuguese": "papa"
+    },
+    {
+      "id": 1843,
+      "portuguese": "papagaio"
+    },
+    {
+      "id": 1844,
+      "portuguese": "parar"
+    },
+    {
+      "id": 1845,
+      "portuguese": "parecer"
+    },
+    {
+      "id": 1846,
+      "portuguese": "parede"
+    },
+    {
+      "id": 1847,
+      "portuguese": "parte"
+    },
+    {
+      "id": 1848,
+      "portuguese": "pessoal"
+    },
+    {
+      "id": 1849,
+      "portuguese": "pessoalmente"
+    },
+    {
+      "id": 1850,
+      "portuguese": "pilha"
+    },
+    {
+      "id": 1851,
+      "portuguese": "pintar"
+    },
+    {
+      "id": 1852,
+      "portuguese": "piranha"
+    },
+    {
+      "id": 1853,
+      "portuguese": "piso"
+    },
+    {
+      "id": 1854,
+      "portuguese": "planear"
+    },
+    {
+      "id": 1855,
+      "portuguese": "plástico"
+    },
+    {
+      "id": 1856,
+      "portuguese": "pobre"
+    },
+    {
+      "id": 1857,
+      "portuguese": "pois"
+    },
+    {
+      "id": 1858,
+      "portuguese": "poluição"
+    },
+    {
+      "id": 1859,
+      "portuguese": "polvo"
+    },
+    {
+      "id": 1860,
+      "portuguese": "política"
+    },
+    {
+      "id": 1861,
+      "portuguese": "político"
+    },
+    {
+      "id": 1862,
+      "portuguese": "popular"
+    },
+    {
+      "id": 1863,
+      "portuguese": "possível"
+    },
+    {
+      "id": 1864,
+      "portuguese": "provavelmente"
+    },
+    {
+      "id": 1865,
+      "portuguese": "próprio"
+    },
+    {
+      "id": 1866,
+      "portuguese": "psicólogo"
+    },
+    {
+      "id": 1867,
+      "portuguese": "puxe"
+    },
+    {
+      "id": 1868,
+      "portuguese": "pó"
+    },
+    {
+      "id": 1869,
+      "portuguese": "quadrado"
+    },
+    {
+      "id": 1870,
+      "portuguese": "quer"
+    },
+    {
+      "id": 1871,
+      "portuguese": "querido"
+    },
+    {
+      "id": 1872,
+      "portuguese": "quilómetro"
+    },
+    {
+      "id": 1873,
+      "portuguese": "quiosque"
+    },
+    {
+      "id": 1874,
+      "portuguese": "rapariga"
+    },
+    {
+      "id": 1875,
+      "portuguese": "rapaz"
+    },
+    {
+      "id": 1876,
+      "portuguese": "rapidamente"
+    },
+    {
+      "id": 1877,
+      "portuguese": "raramente"
+    },
+    {
+      "id": 1878,
+      "portuguese": "rádio"
+    },
+    {
+      "id": 1879,
+      "portuguese": "transporte"
+    },
+    {
+      "id": 1880,
+      "portuguese": "ótimo"
+    }
+  ],
+  "counts_after": {
+    "words": 1719,
+    "groups": 50,
+    "word_groups": 3691,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:07:59.217226+00:00"
+}

@@ -1,0 +1,351 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 146,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1735,
+      "portuguese": "boas"
+    },
+    {
+      "id": 1736,
+      "portuguese": "civil"
+    },
+    {
+      "id": 1737,
+      "portuguese": "diga"
+    },
+    {
+      "id": 1738,
+      "portuguese": "disco"
+    },
+    {
+      "id": 1739,
+      "portuguese": "discoteca"
+    },
+    {
+      "id": 1740,
+      "portuguese": "discutir"
+    },
+    {
+      "id": 1741,
+      "portuguese": "distância"
+    },
+    {
+      "id": 1742,
+      "portuguese": "divertido"
+    },
+    {
+      "id": 1743,
+      "portuguese": "divisão"
+    },
+    {
+      "id": 1744,
+      "portuguese": "divorciar"
+    },
+    {
+      "id": 1745,
+      "portuguese": "divórcio"
+    },
+    {
+      "id": 1746,
+      "portuguese": "doces"
+    },
+    {
+      "id": 1747,
+      "portuguese": "dona"
+    },
+    {
+      "id": 1748,
+      "portuguese": "dono"
+    },
+    {
+      "id": 1749,
+      "portuguese": "dose"
+    },
+    {
+      "id": 1750,
+      "portuguese": "duas"
+    },
+    {
+      "id": 1751,
+      "portuguese": "duplo"
+    },
+    {
+      "id": 1752,
+      "portuguese": "durar"
+    },
+    {
+      "id": 1753,
+      "portuguese": "edifício"
+    },
+    {
+      "id": 1754,
+      "portuguese": "elétrico"
+    },
+    {
+      "id": 1755,
+      "portuguese": "emagrecer"
+    },
+    {
+      "id": 1756,
+      "portuguese": "embaixada"
+    },
+    {
+      "id": 1757,
+      "portuguese": "espaço"
+    },
+    {
+      "id": 1758,
+      "portuguese": "esquerdo"
+    },
+    {
+      "id": 1759,
+      "portuguese": "esqui"
+    },
+    {
+      "id": 1760,
+      "portuguese": "essa"
+    },
+    {
+      "id": 1761,
+      "portuguese": "esse"
+    },
+    {
+      "id": 1762,
+      "portuguese": "estacionar"
+    },
+    {
+      "id": 1763,
+      "portuguese": "estado"
+    },
+    {
+      "id": 1764,
+      "portuguese": "estatísticas"
+    },
+    {
+      "id": 1765,
+      "portuguese": "estragar"
+    },
+    {
+      "id": 1766,
+      "portuguese": "estrangeiro"
+    },
+    {
+      "id": 1767,
+      "portuguese": "estádio"
+    },
+    {
+      "id": 1768,
+      "portuguese": "estúpido"
+    },
+    {
+      "id": 1769,
+      "portuguese": "exagerar"
+    },
+    {
+      "id": 1770,
+      "portuguese": "ficha"
+    },
+    {
+      "id": 1771,
+      "portuguese": "fiel"
+    },
+    {
+      "id": 1772,
+      "portuguese": "fila"
+    },
+    {
+      "id": 1773,
+      "portuguese": "formação"
+    },
+    {
+      "id": 1774,
+      "portuguese": "formulário"
+    },
+    {
+      "id": 1775,
+      "portuguese": "frasco"
+    },
+    {
+      "id": 1776,
+      "portuguese": "frequente"
+    },
+    {
+      "id": 1777,
+      "portuguese": "frequência"
+    },
+    {
+      "id": 1778,
+      "portuguese": "frito"
+    },
+    {
+      "id": 1779,
+      "portuguese": "fronteira"
+    },
+    {
+      "id": 1780,
+      "portuguese": "gravar"
+    },
+    {
+      "id": 1781,
+      "portuguese": "grave"
+    },
+    {
+      "id": 1782,
+      "portuguese": "grego"
+    },
+    {
+      "id": 1783,
+      "portuguese": "grelhado"
+    },
+    {
+      "id": 1784,
+      "portuguese": "gritar"
+    },
+    {
+      "id": 1785,
+      "portuguese": "grávida"
+    },
+    {
+      "id": 1786,
+      "portuguese": "guerra"
+    },
+    {
+      "id": 1787,
+      "portuguese": "guloso"
+    },
+    {
+      "id": 1788,
+      "portuguese": "histórico"
+    },
+    {
+      "id": 1789,
+      "portuguese": "holandês"
+    },
+    {
+      "id": 1790,
+      "portuguese": "horror"
+    },
+    {
+      "id": 1791,
+      "portuguese": "horrível"
+    },
+    {
+      "id": 1792,
+      "portuguese": "hábitos"
+    },
+    {
+      "id": 1793,
+      "portuguese": "húngaro"
+    },
+    {
+      "id": 1794,
+      "portuguese": "ideia"
+    },
+    {
+      "id": 1795,
+      "portuguese": "igualmente"
+    },
+    {
+      "id": 1796,
+      "portuguese": "imediatamente"
+    },
+    {
+      "id": 1797,
+      "portuguese": "imediato"
+    },
+    {
+      "id": 1798,
+      "portuguese": "imenso"
+    },
+    {
+      "id": 1799,
+      "portuguese": "inscrição"
+    },
+    {
+      "id": 1800,
+      "portuguese": "irlandês"
+    },
+    {
+      "id": 1801,
+      "portuguese": "japonês"
+    },
+    {
+      "id": 1802,
+      "portuguese": "jornal"
+    },
+    {
+      "id": 1803,
+      "portuguese": "juntar"
+    },
+    {
+      "id": 1804,
+      "portuguese": "juntos"
+    },
+    {
+      "id": 1805,
+      "portuguese": "zoológico"
+    }
+  ],
+  "counts_after": {
+    "words": 1644,
+    "groups": 50,
+    "word_groups": 3563,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:04:05.063187+00:00"
+}

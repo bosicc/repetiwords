@@ -1,0 +1,191 @@
+{
+  "file": "imports/2026-10-09-carla-phrases-enriched.json",
+  "source": "https://portuguesewithcarla.com/99-essential-european-portuguese-phrases/",
+  "dry_run": false,
+  "words": 106,
+  "added": 77,
+  "existing": 29,
+  "enriched": 0,
+  "groups_added": 11,
+  "memberships_added": 197,
+  "conflicts": [
+    {
+      "portuguese": "olá",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "tudo bem?",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "como está?",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "bom dia",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "boa tarde",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "boa noite",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "até logo",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "desculpe",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "com licença",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "por favor",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "de nada",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "obrigada",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "muito obrigado",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "perto",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "longe",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "aqui",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "esquerda",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "direita",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "água",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "carne",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "peixe",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "vinho",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "pão",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "chá",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "café",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "almoço",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "jantar",
+      "fields": [
+        "english"
+      ]
+    }
+  ]
+}

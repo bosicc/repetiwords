@@ -1,0 +1,1397 @@
+{
+  "source": "https://portuguesewithcarla.com/99-essential-european-portuguese-phrases/",
+  "prepared_at": "2026-10-09",
+  "enrichment": {
+    "english": "Source translations for phrases; assistant contextual translations for individual words",
+    "ukrainian": "Assistant translations; not independently reviewed",
+    "level": "Assistant CEFR estimates, not certified or supplied by the source",
+    "normalization": "Lowercase NFC, punctuation and placeholders removed; compounds retained; clitics separated; conhecer restored from conhecê-lo/la; other inflected forms kept, not lemmatized.",
+    "corrections": {
+      "emergency_phrase": "Source English says 911 although Portuguese says 112; enriched translation uses 112.",
+      "until_later": "Source has an unclosed translation parenthesis; parsed as See you later.",
+      "gender_and_verb_alternatives": "Expanded source shorthand into complete alternative phrases; original preserved in extracted JSON."
+    }
+  },
+  "stage": "phrases-enriched",
+  "source_entry_count": 100,
+  "words": [
+    {
+      "portuguese": "olá",
+      "english": "Hello",
+      "ukrainian": "привіт",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        0
+      ]
+    },
+    {
+      "portuguese": "tudo bem?",
+      "english": "Everything good?",
+      "ukrainian": "усе добре?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        1
+      ]
+    },
+    {
+      "portuguese": "como está?",
+      "english": "How are you doing?",
+      "ukrainian": "як Ви? / як справи?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        2
+      ]
+    },
+    {
+      "portuguese": "como vai?",
+      "english": "How are you doing?",
+      "ukrainian": "як Ви? / як справи?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        2
+      ]
+    },
+    {
+      "portuguese": "eu estou bem",
+      "english": "I am okay",
+      "ukrainian": "у мене все добре",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        3
+      ]
+    },
+    {
+      "portuguese": "bom dia",
+      "english": "Good morning",
+      "ukrainian": "доброго ранку",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        4
+      ]
+    },
+    {
+      "portuguese": "boa tarde",
+      "english": "Good afternoon",
+      "ukrainian": "добрий день",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        5
+      ]
+    },
+    {
+      "portuguese": "boa noite",
+      "english": "Good night",
+      "ukrainian": "добрий вечір; на добраніч",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        6
+      ]
+    },
+    {
+      "portuguese": "até logo",
+      "english": "See you later",
+      "ukrainian": "до зустрічі",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        7
+      ]
+    },
+    {
+      "portuguese": "o meu nome é [name]",
+      "english": "My name is [name]",
+      "ukrainian": "мене звати [ім’я]",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        8
+      ]
+    },
+    {
+      "portuguese": "como se chama?",
+      "english": "What is your name?",
+      "ukrainian": "як Вас звати?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        9
+      ]
+    },
+    {
+      "portuguese": "muito prazer em conhecê-lo",
+      "english": "I’m pleased to meet you",
+      "ukrainian": "дуже приємно познайомитися з Вами",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        10
+      ]
+    },
+    {
+      "portuguese": "muito prazer em conhecê-la",
+      "english": "I’m pleased to meet you",
+      "ukrainian": "дуже приємно познайомитися з Вами",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_entry_indices": [
+        10
+      ]
+    },
+    {
+      "portuguese": "desculpe",
+      "english": "Pardon me, Sorry",
+      "ukrainian": "вибачте; перепрошую",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        11
+      ]
+    },
+    {
+      "portuguese": "com licença",
+      "english": "Excuse me",
+      "ukrainian": "перепрошую; дозвольте",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        12
+      ]
+    },
+    {
+      "portuguese": "por favor",
+      "english": "Please",
+      "ukrainian": "будь ласка",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        13
+      ]
+    },
+    {
+      "portuguese": "de nada",
+      "english": "You’re welcome",
+      "ukrainian": "нема за що",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        14
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "english": "Thank You (male/female speaker)",
+      "ukrainian": "дякую (каже чоловік)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        15
+      ]
+    },
+    {
+      "portuguese": "obrigada",
+      "english": "Thank You (male/female speaker)",
+      "ukrainian": "дякую (каже жінка)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        15
+      ]
+    },
+    {
+      "portuguese": "muito obrigado",
+      "english": "Thank you very much",
+      "ukrainian": "дуже дякую (каже чоловік)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        16
+      ]
+    },
+    {
+      "portuguese": "muito obrigada",
+      "english": "Thank you very much",
+      "ukrainian": "дуже дякую (каже жінка)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_entry_indices": [
+        16
+      ]
+    },
+    {
+      "portuguese": "onde fica a casa de banho?",
+      "english": "Where is the bathroom?",
+      "ukrainian": "де туалет?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        17
+      ]
+    },
+    {
+      "portuguese": "como chego ao centro da cidade?",
+      "english": "How do I get to the city center?",
+      "ukrainian": "як мені дістатися до центру міста?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        18
+      ]
+    },
+    {
+      "portuguese": "qual é o melhor caminho para o aeroporto?",
+      "english": "What is the best way to the airport?",
+      "ukrainian": "який найкращий шлях до аеропорту?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        19
+      ]
+    },
+    {
+      "portuguese": "onde fica a estação de comboios?",
+      "english": "Where is the train station?",
+      "ukrainian": "де залізнична станція?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        20
+      ]
+    },
+    {
+      "portuguese": "quando é o próximo comboio?",
+      "english": "When is the next train?",
+      "ukrainian": "коли наступний поїзд?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        21
+      ]
+    },
+    {
+      "portuguese": "onde é a saída?",
+      "english": "Where is the exit?",
+      "ukrainian": "де вихід?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        22
+      ]
+    },
+    {
+      "portuguese": "onde fica a paragem de autocarro mais próxima?",
+      "english": "Where is the nearest bus stop?",
+      "ukrainian": "де найближча автобусна зупинка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        23
+      ]
+    },
+    {
+      "portuguese": "a que horas é o próximo autocarro?",
+      "english": "What time is the next bus?",
+      "ukrainian": "о котрій годині наступний автобус?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        24
+      ]
+    },
+    {
+      "portuguese": "este autocarro vai para…?",
+      "english": "Does this bus go to…?",
+      "ukrainian": "цей автобус їде до…?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        25
+      ]
+    },
+    {
+      "portuguese": "este autocarro vai para onde?",
+      "english": "Where does this bus go?",
+      "ukrainian": "куди їде цей автобус?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        26
+      ]
+    },
+    {
+      "portuguese": "pode chamar um táxi, por favor?",
+      "english": "Can you call a taxi, please?",
+      "ukrainian": "можете викликати таксі, будь ласка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        27
+      ]
+    },
+    {
+      "portuguese": "onde posso encontrar um táxi?",
+      "english": "Where can I find a taxi?",
+      "ukrainian": "де я можу знайти таксі?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        28
+      ]
+    },
+    {
+      "portuguese": "onde se apanha o metro?",
+      "english": "Where do you catch the subway/metro?",
+      "ukrainian": "де можна сісти на метро?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        29
+      ]
+    },
+    {
+      "portuguese": "há algum supermercado por perto?",
+      "english": "Is there a supermarket nearby?",
+      "ukrainian": "чи є поблизу супермаркет?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        30
+      ]
+    },
+    {
+      "portuguese": "é longe daqui?",
+      "english": "Is it far from here?",
+      "ukrainian": "це далеко звідси?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        31
+      ]
+    },
+    {
+      "portuguese": "onde posso alugar um carro?",
+      "english": "Where can I rent a car?",
+      "ukrainian": "де я можу орендувати автомобіль?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_entry_indices": [
+        32
+      ]
+    },
+    {
+      "portuguese": "ao lado",
+      "english": "Next to",
+      "ukrainian": "поруч",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        33
+      ]
+    },
+    {
+      "portuguese": "perto",
+      "english": "Close, near",
+      "ukrainian": "близько",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        34
+      ]
+    },
+    {
+      "portuguese": "longe",
+      "english": "Far",
+      "ukrainian": "далеко",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        35
+      ]
+    },
+    {
+      "portuguese": "lá",
+      "english": "There",
+      "ukrainian": "там",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        36
+      ]
+    },
+    {
+      "portuguese": "aqui",
+      "english": "Here",
+      "ukrainian": "тут",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        37
+      ]
+    },
+    {
+      "portuguese": "esquerda",
+      "english": "Left",
+      "ukrainian": "ліворуч; ліва сторона",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        38
+      ]
+    },
+    {
+      "portuguese": "direita",
+      "english": "Right",
+      "ukrainian": "праворуч; права сторона",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        39
+      ]
+    },
+    {
+      "portuguese": "saída",
+      "english": "Exit",
+      "ukrainian": "вихід",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        40
+      ]
+    },
+    {
+      "portuguese": "em frente",
+      "english": "Straight ahead",
+      "ukrainian": "прямо попереду",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_entry_indices": [
+        41
+      ]
+    },
+    {
+      "portuguese": "quanto custa isto?",
+      "english": "How much does this cost?",
+      "ukrainian": "скільки це коштує?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        42
+      ]
+    },
+    {
+      "portuguese": "posso pagar com cartão?",
+      "english": "Can I pay with a card?",
+      "ukrainian": "можна заплатити карткою?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        43
+      ]
+    },
+    {
+      "portuguese": "aceita cartão de crédito ou débito?",
+      "english": "Do you accept credit or debit card?",
+      "ukrainian": "Ви приймаєте кредитні або дебетові картки?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        44
+      ]
+    },
+    {
+      "portuguese": "há algum desconto?",
+      "english": "Is there any discount?",
+      "ukrainian": "чи є якась знижка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        45
+      ]
+    },
+    {
+      "portuguese": "onde é que eu posso trocar dinheiro perto daqui?",
+      "english": "Where can I exchange money nearby?",
+      "ukrainian": "де поблизу я можу обміняти гроші?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        46
+      ]
+    },
+    {
+      "portuguese": "estou só a ver, obrigado.",
+      "english": "I’m just looking, thank you.",
+      "ukrainian": "я лише дивлюся, дякую (каже чоловік)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        47
+      ]
+    },
+    {
+      "portuguese": "estou só a ver, obrigada.",
+      "english": "I’m just looking, thank you.",
+      "ukrainian": "я лише дивлюся, дякую (каже жінка)",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_entry_indices": [
+        47
+      ]
+    },
+    {
+      "portuguese": "posso reservar uma mesa?",
+      "english": "Can I book a table?",
+      "ukrainian": "можна забронювати столик?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        48
+      ]
+    },
+    {
+      "portuguese": "eu tenho uma reserva",
+      "english": "I have a reservation.",
+      "ukrainian": "у мене є бронювання",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        49
+      ]
+    },
+    {
+      "portuguese": "tem um menu em inglês?",
+      "english": "Do you have a menu in English?",
+      "ukrainian": "у Вас є меню англійською?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        50
+      ]
+    },
+    {
+      "portuguese": "qual é o prato do dia?",
+      "english": "What is the dish of the day?",
+      "ukrainian": "яка страва дня?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        51
+      ]
+    },
+    {
+      "portuguese": "posso experimentar?",
+      "english": "Can I try it?",
+      "ukrainian": "можна спробувати?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        52
+      ]
+    },
+    {
+      "portuguese": "tem algo sem glúten?",
+      "english": "Do you have anything gluten-free?",
+      "ukrainian": "у Вас є щось без глютену?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        53
+      ]
+    },
+    {
+      "portuguese": "pode recomendar um restaurante?",
+      "english": "Can you recommend a restaurant?",
+      "ukrainian": "можете порекомендувати ресторан?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        54
+      ]
+    },
+    {
+      "portuguese": "tem algo para vegetarianos?",
+      "english": "Do you have anything for vegetarians?",
+      "ukrainian": "у Вас є щось для вегетаріанців?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        55
+      ]
+    },
+    {
+      "portuguese": "qual é a especialidade da casa?",
+      "english": "What is the house specialty?",
+      "ukrainian": "яка фірмова страва закладу?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        56
+      ]
+    },
+    {
+      "portuguese": "o que recomenda?",
+      "english": "What do you recommend?",
+      "ukrainian": "що Ви рекомендуєте?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        57
+      ]
+    },
+    {
+      "portuguese": "queria uma garrafa de água fresca, por favor.",
+      "english": "I would like a cold water bottle, please.",
+      "ukrainian": "я хотів би / хотіла б пляшку прохолодної води, будь ласка",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        58
+      ]
+    },
+    {
+      "portuguese": "queria pedir a conta, por favor.",
+      "english": "I would like to ask for the bill, please.",
+      "ukrainian": "я хотів би / хотіла б попросити рахунок, будь ласка",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_entry_indices": [
+        59
+      ]
+    },
+    {
+      "portuguese": "água",
+      "english": "Water",
+      "ukrainian": "вода",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        60
+      ]
+    },
+    {
+      "portuguese": "carne",
+      "english": "Meat",
+      "ukrainian": "м’ясо",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        61
+      ]
+    },
+    {
+      "portuguese": "peixe",
+      "english": "Fish",
+      "ukrainian": "риба",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        62
+      ]
+    },
+    {
+      "portuguese": "vinho",
+      "english": "Wine",
+      "ukrainian": "вино",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        63
+      ]
+    },
+    {
+      "portuguese": "pão",
+      "english": "Bread",
+      "ukrainian": "хліб",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        64
+      ]
+    },
+    {
+      "portuguese": "chá",
+      "english": "Tea",
+      "ukrainian": "чай",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        65
+      ]
+    },
+    {
+      "portuguese": "café",
+      "english": "Coffee",
+      "ukrainian": "кава",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        66
+      ]
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "english": "Breakfast",
+      "ukrainian": "сніданок",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        67
+      ]
+    },
+    {
+      "portuguese": "almoço",
+      "english": "Lunch",
+      "ukrainian": "обід",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        68
+      ]
+    },
+    {
+      "portuguese": "jantar",
+      "english": "Dinner",
+      "ukrainian": "вечеря",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "source_entry_indices": [
+        69
+      ]
+    },
+    {
+      "portuguese": "tem quartos disponíveis?",
+      "english": "Do you have rooms available?",
+      "ukrainian": "у Вас є вільні номери?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_entry_indices": [
+        70
+      ]
+    },
+    {
+      "portuguese": "qual é o preço por noite?",
+      "english": "What is the price per night?",
+      "ukrainian": "яка ціна за ніч?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_entry_indices": [
+        71
+      ]
+    },
+    {
+      "portuguese": "posso ver o quarto antes?",
+      "english": "Can I see the room first?",
+      "ukrainian": "можна спочатку подивитися кімнату?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_entry_indices": [
+        72
+      ]
+    },
+    {
+      "portuguese": "a que horas servem o pequeno-almoço?",
+      "english": "What time do you serve breakfast?",
+      "ukrainian": "о котрій годині подають сніданок?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_entry_indices": [
+        73
+      ]
+    },
+    {
+      "portuguese": "pode recomendar-me um hotel?",
+      "english": "Can you recommend a hotel?",
+      "ukrainian": "можете порекомендувати мені готель?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_entry_indices": [
+        74
+      ]
+    },
+    {
+      "portuguese": "pode ajudar-me, por favor?",
+      "english": "Can you help me, please?",
+      "ukrainian": "можете допомогти мені, будь ласка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        75
+      ]
+    },
+    {
+      "portuguese": "preciso de uma informação, por favor.",
+      "english": "I need some information, please.",
+      "ukrainian": "мені потрібна інформація, будь ласка",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        76
+      ]
+    },
+    {
+      "portuguese": "pode falar mais devagar, por favor?",
+      "english": "Can you speak more slowly, please?",
+      "ukrainian": "можете говорити повільніше, будь ласка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        77
+      ]
+    },
+    {
+      "portuguese": "como se diz isto em português?",
+      "english": "How do you say this in Portuguese?",
+      "ukrainian": "як це сказати португальською?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        78
+      ]
+    },
+    {
+      "portuguese": "a senha do wi-fi, por favor.",
+      "english": "The Wi-Fi password, please.",
+      "ukrainian": "пароль від Wi-Fi, будь ласка",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        79
+      ]
+    },
+    {
+      "portuguese": "fala inglês?",
+      "english": "Do you speak English?",
+      "ukrainian": "Ви говорите англійською?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        80
+      ]
+    },
+    {
+      "portuguese": "desculpe, não falo português.",
+      "english": "Sorry, I don’t speak Portuguese.",
+      "ukrainian": "вибачте, я не говорю португальською",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        81
+      ]
+    },
+    {
+      "portuguese": "não percebo.",
+      "english": "I do not understand.",
+      "ukrainian": "я не розумію",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        82
+      ]
+    },
+    {
+      "portuguese": "pode repetir outra vez?",
+      "english": "Can you repeat that again?",
+      "ukrainian": "можете повторити ще раз?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        83
+      ]
+    },
+    {
+      "portuguese": "pode dizer outra vez?",
+      "english": "Can you say that again?",
+      "ukrainian": "можете сказати ще раз?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_entry_indices": [
+        83
+      ]
+    },
+    {
+      "portuguese": "pode mostrar-me no mapa?",
+      "english": "Can you show me on the map?",
+      "ukrainian": "можете показати мені на карті?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        84
+      ]
+    },
+    {
+      "portuguese": "onde posso comprar bilhetes?",
+      "english": "Where can I buy tickets?",
+      "ukrainian": "де можна купити квитки?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        85
+      ]
+    },
+    {
+      "portuguese": "há visitas guiadas disponíveis?",
+      "english": "Are there guided tours available?",
+      "ukrainian": "чи є доступні екскурсії з гідом?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        86
+      ]
+    },
+    {
+      "portuguese": "há algum evento local hoje?",
+      "english": "Is there any local event today?",
+      "ukrainian": "чи є сьогодні якийсь місцевий захід?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        87
+      ]
+    },
+    {
+      "portuguese": "pode tirar-me uma foto, por favor?",
+      "english": "Can you take a picture of me, please?",
+      "ukrainian": "можете сфотографувати мене, будь ласка?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        88
+      ]
+    },
+    {
+      "portuguese": "onde posso encontrar informações turísticas?",
+      "english": "Where can I find tourist information?",
+      "ukrainian": "де я можу знайти туристичну інформацію?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_entry_indices": [
+        89
+      ]
+    },
+    {
+      "portuguese": "há um médico por perto?",
+      "english": "Is there a doctor nearby?",
+      "ukrainian": "чи є поблизу лікар?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_entry_indices": [
+        90
+      ]
+    },
+    {
+      "portuguese": "este lugar é seguro?",
+      "english": "Is this place safe?",
+      "ukrainian": "це місце безпечне?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_entry_indices": [
+        91
+      ]
+    },
+    {
+      "portuguese": "pode ligar para o cento e doze (112)?",
+      "english": "Can you call 112?",
+      "ukrainian": "можете зателефонувати за номером сто дванадцять (112)?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_entry_indices": [
+        92
+      ]
+    },
+    {
+      "portuguese": "há uma farmácia nesta zona?",
+      "english": "Is there a pharmacy in this area?",
+      "ukrainian": "чи є аптека в цьому районі?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_entry_indices": [
+        93
+      ]
+    },
+    {
+      "portuguese": "quanto tempo demora a chegar lá?",
+      "english": "How long does it take to get there?",
+      "ukrainian": "скільки часу потрібно, щоб дістатися туди?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        94
+      ]
+    },
+    {
+      "portuguese": "como se chama esta rua?",
+      "english": "What is the name of this street?",
+      "ukrainian": "як називається ця вулиця?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        95
+      ]
+    },
+    {
+      "portuguese": "preciso de um adaptador de tomada.",
+      "english": "I need a power adapter.",
+      "ukrainian": "мені потрібен адаптер для розетки",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        96
+      ]
+    },
+    {
+      "portuguese": "qual é a previsão do tempo para hoje?",
+      "english": "What is the weather forecast for today?",
+      "ukrainian": "який прогноз погоди на сьогодні?",
+      "level": "A2",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        97
+      ]
+    },
+    {
+      "portuguese": "a que horas abre?",
+      "english": "What time does it open?",
+      "ukrainian": "о котрій годині відчиняється?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        98
+      ]
+    },
+    {
+      "portuguese": "a que horas fecha?",
+      "english": "What time does it close?",
+      "ukrainian": "о котрій годині зачиняється?",
+      "level": "A1",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_entry_indices": [
+        99
+      ]
+    }
+  ]
+}

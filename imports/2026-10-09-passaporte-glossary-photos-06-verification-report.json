@@ -1,0 +1,335 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 115,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1970,
+      "portuguese": "bancária"
+    },
+    {
+      "id": 1971,
+      "portuguese": "bruxas"
+    },
+    {
+      "id": 1972,
+      "portuguese": "caber"
+    },
+    {
+      "id": 1973,
+      "portuguese": "cacau"
+    },
+    {
+      "id": 1974,
+      "portuguese": "cair"
+    },
+    {
+      "id": 1975,
+      "portuguese": "calado"
+    },
+    {
+      "id": 1976,
+      "portuguese": "calar"
+    },
+    {
+      "id": 1977,
+      "portuguese": "caldeirada"
+    },
+    {
+      "id": 1978,
+      "portuguese": "calhar"
+    },
+    {
+      "id": 1979,
+      "portuguese": "calçado"
+    },
+    {
+      "id": 1980,
+      "portuguese": "calçar"
+    },
+    {
+      "id": 1981,
+      "portuguese": "camioneta"
+    },
+    {
+      "id": 1982,
+      "portuguese": "campismo"
+    },
+    {
+      "id": 1983,
+      "portuguese": "cancelado"
+    },
+    {
+      "id": 1984,
+      "portuguese": "candeeiro"
+    },
+    {
+      "id": 1985,
+      "portuguese": "certeza"
+    },
+    {
+      "id": 1986,
+      "portuguese": "chato"
+    },
+    {
+      "id": 1987,
+      "portuguese": "cheio"
+    },
+    {
+      "id": 1988,
+      "portuguese": "chinelos"
+    },
+    {
+      "id": 1989,
+      "portuguese": "chorar"
+    },
+    {
+      "id": 1990,
+      "portuguese": "chumbar"
+    },
+    {
+      "id": 1991,
+      "portuguese": "chuveiro"
+    },
+    {
+      "id": 1992,
+      "portuguese": "chão"
+    },
+    {
+      "id": 1993,
+      "portuguese": "cigarro"
+    },
+    {
+      "id": 1994,
+      "portuguese": "cima"
+    },
+    {
+      "id": 1995,
+      "portuguese": "conselho"
+    },
+    {
+      "id": 1996,
+      "portuguese": "constipado"
+    },
+    {
+      "id": 1997,
+      "portuguese": "contornar"
+    },
+    {
+      "id": 1998,
+      "portuguese": "conversa"
+    },
+    {
+      "id": 1999,
+      "portuguese": "cor-de-rosa"
+    },
+    {
+      "id": 2000,
+      "portuguese": "coreano"
+    },
+    {
+      "id": 2001,
+      "portuguese": "corpo"
+    },
+    {
+      "id": 2002,
+      "portuguese": "correios"
+    },
+    {
+      "id": 2003,
+      "portuguese": "correto"
+    },
+    {
+      "id": 2004,
+      "portuguese": "costa"
+    },
+    {
+      "id": 2005,
+      "portuguese": "costumes"
+    },
+    {
+      "id": 2006,
+      "portuguese": "cozido"
+    },
+    {
+      "id": 2007,
+      "portuguese": "das"
+    },
+    {
+      "id": 2008,
+      "portuguese": "deserto"
+    },
+    {
+      "id": 2009,
+      "portuguese": "despedir"
+    },
+    {
+      "id": 2010,
+      "portuguese": "despertador"
+    },
+    {
+      "id": 2011,
+      "portuguese": "dezenas"
+    },
+    {
+      "id": 2012,
+      "portuguese": "dieta"
+    },
+    {
+      "id": 2013,
+      "portuguese": "diferença"
+    },
+    {
+      "id": 2014,
+      "portuguese": "direito"
+    },
+    {
+      "id": 2015,
+      "portuguese": "doméstica"
+    },
+    {
+      "id": 2016,
+      "portuguese": "embora"
+    },
+    {
+      "id": 2017,
+      "portuguese": "embrulhar"
+    },
+    {
+      "id": 2018,
+      "portuguese": "empresa"
+    },
+    {
+      "id": 2019,
+      "portuguese": "empresário"
+    },
+    {
+      "id": 2020,
+      "portuguese": "empurre"
+    },
+    {
+      "id": 2021,
+      "portuguese": "encerrar"
+    },
+    {
+      "id": 2022,
+      "portuguese": "encomenda"
+    },
+    {
+      "id": 2023,
+      "portuguese": "encomendar"
+    },
+    {
+      "id": 2024,
+      "portuguese": "encontro"
+    },
+    {
+      "id": 2025,
+      "portuguese": "engordar"
+    },
+    {
+      "id": 2026,
+      "portuguese": "enorme"
+    },
+    {
+      "id": 2027,
+      "portuguese": "entrevista"
+    },
+    {
+      "id": 2028,
+      "portuguese": "então"
+    },
+    {
+      "id": 2029,
+      "portuguese": "envelope"
+    },
+    {
+      "id": 2030,
+      "portuguese": "escreve"
+    },
+    {
+      "id": 2031,
+      "portuguese": "municipal"
+    },
+    {
+      "id": 2032,
+      "portuguese": "num"
+    },
+    {
+      "id": 2033,
+      "portuguese": "patrício"
+    },
+    {
+      "id": 2034,
+      "portuguese": "segurança"
+    },
+    {
+      "id": 2035,
+      "portuguese": "são"
+    },
+    {
+      "id": 2036,
+      "portuguese": "valentim"
+    }
+  ],
+  "counts_after": {
+    "words": 1875,
+    "groups": 50,
+    "word_groups": 3945,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:18:22.278587+00:00"
+}

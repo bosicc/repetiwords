@@ -1,0 +1,34 @@
+{
+  "source": "Three user-supplied photographs of the Passaporte para Português glossary, entries abaixo–aprender",
+  "prepared_at": "2026-10-09",
+  "sqlite_backup": "data/backups/before-passaporte-glossary-photos-2026-10-09T14-41-33-717962Z.sqlite",
+  "extracted_backup": "imports/2026-10-09-passaporte-glossary-photos-extracted.json",
+  "enriched_backup": "imports/2026-10-09-passaporte-glossary-photos-enriched.json",
+  "source_files": [
+    {
+      "image": 1,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/1-1000057490.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/1-1000057490.jpg",
+      "sha256": "1cc23eed33f73fcaaed07a84e876b36117f0c3f0a29c43fb7958fda4702f5427"
+    },
+    {
+      "image": 2,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/2-1000057491.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/2-1000057491.jpg",
+      "sha256": "c70c41dde5cc5c2d78e5da10132d6a07c0c8608bb82560b68fe409ee9cbf53d3"
+    },
+    {
+      "image": 3,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/3-1000057492.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/3-1000057492.jpg",
+      "sha256": "5dff6d7d8fd2eb595fb7221f209def8eb718100c339258c61be05bbcebe64eb1"
+    }
+  ],
+  "counts": {
+    "visible_row_occurrences": 99,
+    "unique_source_entries": 97,
+    "unique_words": 106,
+    "new_words": 37,
+    "existing_words": 69
+  }
+}

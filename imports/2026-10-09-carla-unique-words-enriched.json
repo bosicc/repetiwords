@@ -1,0 +1,2836 @@
+{
+  "source": "https://portuguesewithcarla.com/99-essential-european-portuguese-phrases/",
+  "prepared_at": "2026-10-09",
+  "enrichment": {
+    "english": "Source translations for phrases; assistant contextual translations for individual words",
+    "ukrainian": "Assistant translations; not independently reviewed",
+    "level": "Assistant CEFR estimates, not certified or supplied by the source",
+    "normalization": "Lowercase NFC, punctuation and placeholders removed; compounds retained; clitics separated; conhecer restored from conhecê-lo/la; other inflected forms kept, not lemmatized.",
+    "corrections": {
+      "emergency_phrase": "Source English says 911 although Portuguese says 112; enriched translation uses 112.",
+      "until_later": "Source has an unclosed translation parenthesis; parsed as See you later.",
+      "gender_and_verb_alternatives": "Expanded source shorthand into complete alternative phrases; original preserved in extracted JSON."
+    }
+  },
+  "stage": "unique-words-enriched",
+  "source_entry_count": 100,
+  "words": [
+    {
+      "portuguese": "olá",
+      "phrase_indices": [
+        0
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "hello",
+      "ukrainian": "привіт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tudo",
+      "phrase_indices": [
+        1
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "everything; all",
+      "ukrainian": "усе",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bem",
+      "phrase_indices": [
+        1,
+        3
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "well",
+      "ukrainian": "добре",
+      "level": "A1"
+    },
+    {
+      "portuguese": "como",
+      "phrase_indices": [
+        2,
+        9,
+        18,
+        78,
+        95
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "how",
+      "ukrainian": "як",
+      "level": "A1"
+    },
+    {
+      "portuguese": "está",
+      "phrase_indices": [
+        2
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "is; are (estar, third-person singular)",
+      "ukrainian": "є; перебуває (форма estar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vai",
+      "phrase_indices": [
+        2,
+        25,
+        26
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around"
+      ],
+      "english": "goes; is going (ir, third-person singular)",
+      "ukrainian": "йде; їде (форма ir)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "eu",
+      "phrase_indices": [
+        3,
+        46,
+        49
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments",
+        "Restaurants and Cafés"
+      ],
+      "english": "I",
+      "ukrainian": "я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estou",
+      "phrase_indices": [
+        3,
+        47
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments"
+      ],
+      "english": "I am (estar)",
+      "ukrainian": "я є; я перебуваю (форма estar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bom",
+      "phrase_indices": [
+        4
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "good (masculine)",
+      "ukrainian": "добрий; хороший",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dia",
+      "phrase_indices": [
+        4,
+        51
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Restaurants and Cafés"
+      ],
+      "english": "day",
+      "ukrainian": "день",
+      "level": "A1"
+    },
+    {
+      "portuguese": "boa",
+      "phrase_indices": [
+        5,
+        6
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "good (feminine)",
+      "ukrainian": "добра; хороша",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tarde",
+      "phrase_indices": [
+        5
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "afternoon",
+      "ukrainian": "друга половина дня",
+      "level": "A1"
+    },
+    {
+      "portuguese": "noite",
+      "phrase_indices": [
+        6,
+        71
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Accommodation"
+      ],
+      "english": "night; evening",
+      "ukrainian": "ніч; вечір",
+      "level": "A1"
+    },
+    {
+      "portuguese": "até",
+      "phrase_indices": [
+        7
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "until; up to",
+      "ukrainian": "до",
+      "level": "A1"
+    },
+    {
+      "portuguese": "logo",
+      "phrase_indices": [
+        7
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "soon; later",
+      "ukrainian": "незабаром; пізніше",
+      "level": "A1"
+    },
+    {
+      "portuguese": "o",
+      "phrase_indices": [
+        8,
+        19,
+        21,
+        24,
+        29,
+        51,
+        57,
+        71,
+        72,
+        73,
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health"
+      ],
+      "english": "the (masculine singular definite article)",
+      "ukrainian": "означений артикль чоловічого роду",
+      "level": "A1"
+    },
+    {
+      "portuguese": "meu",
+      "phrase_indices": [
+        8
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "my (masculine)",
+      "ukrainian": "мій",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nome",
+      "phrase_indices": [
+        8
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "name",
+      "ukrainian": "ім’я",
+      "level": "A1"
+    },
+    {
+      "portuguese": "é",
+      "phrase_indices": [
+        8,
+        19,
+        21,
+        22,
+        24,
+        31,
+        46,
+        51,
+        56,
+        71,
+        91,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "english": "is (ser)",
+      "ukrainian": "є (форма ser)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "se",
+      "phrase_indices": [
+        9,
+        29,
+        78,
+        95
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "oneself; impersonal or reflexive pronoun",
+      "ukrainian": "себе; зворотний або безособовий займенник",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chama",
+      "phrase_indices": [
+        9,
+        95
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Useful Sentences"
+      ],
+      "english": "calls; is called (chamar)",
+      "ukrainian": "називає; називається (форма chamar)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "muito",
+      "phrase_indices": [
+        10,
+        16
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Polite Expressions"
+      ],
+      "english": "very; much",
+      "ukrainian": "дуже; багато",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prazer",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "pleasure",
+      "ukrainian": "задоволення",
+      "level": "A1"
+    },
+    {
+      "portuguese": "em",
+      "phrase_indices": [
+        10,
+        41,
+        50,
+        78
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Directions",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "english": "in; on",
+      "ukrainian": "у; в; на",
+      "level": "A1"
+    },
+    {
+      "portuguese": "conhecer",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "to meet; to know a person or place",
+      "ukrainian": "познайомитися; знати людину або місце",
+      "level": "A2"
+    },
+    {
+      "portuguese": "lo",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "him; it (masculine object clitic, variant of o)",
+      "ukrainian": "його; це (чоловічий рід, займенник-додаток)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "la",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "english": "her; it (feminine object clitic, variant of a)",
+      "ukrainian": "її; це (жіночий рід, займенник-додаток)",
+      "level": "A2"
+    },
+    {
+      "portuguese": "desculpe",
+      "phrase_indices": [
+        11,
+        81
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Communication"
+      ],
+      "english": "sorry; excuse me",
+      "ukrainian": "вибачте; перепрошую",
+      "level": "A1"
+    },
+    {
+      "portuguese": "com",
+      "phrase_indices": [
+        12,
+        43
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "english": "with",
+      "ukrainian": "з; разом із",
+      "level": "A1"
+    },
+    {
+      "portuguese": "licença",
+      "phrase_indices": [
+        12
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "english": "permission",
+      "ukrainian": "дозвіл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "por",
+      "phrase_indices": [
+        13,
+        27,
+        30,
+        58,
+        59,
+        71,
+        75,
+        76,
+        77,
+        79,
+        88,
+        90
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "english": "by; through; for",
+      "ukrainian": "через; за; для",
+      "level": "A1"
+    },
+    {
+      "portuguese": "favor",
+      "phrase_indices": [
+        13,
+        27,
+        58,
+        59,
+        75,
+        76,
+        77,
+        79,
+        88
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "english": "favor",
+      "ukrainian": "послуга; ласка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "de",
+      "phrase_indices": [
+        14,
+        17,
+        20,
+        23,
+        44,
+        58,
+        76,
+        96
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "of; from",
+      "ukrainian": "з; від; належність",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nada",
+      "phrase_indices": [
+        14
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "english": "nothing",
+      "ukrainian": "нічого",
+      "level": "A1"
+    },
+    {
+      "portuguese": "obrigado",
+      "phrase_indices": [
+        15,
+        16,
+        47
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "english": "thank you (male speaker)",
+      "ukrainian": "дякую (каже чоловік)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "obrigada",
+      "phrase_indices": [
+        15,
+        16,
+        47
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "english": "thank you (female speaker)",
+      "ukrainian": "дякую (каже жінка)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "onde",
+      "phrase_indices": [
+        17,
+        20,
+        22,
+        23,
+        26,
+        28,
+        29,
+        32,
+        46,
+        85,
+        89
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "english": "where",
+      "ukrainian": "де; куди",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fica",
+      "phrase_indices": [
+        17,
+        20,
+        23
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "is located; stays (ficar)",
+      "ukrainian": "знаходиться; залишається",
+      "level": "A1"
+    },
+    {
+      "portuguese": "a",
+      "phrase_indices": [
+        17,
+        20,
+        22,
+        23,
+        24,
+        47,
+        56,
+        59,
+        73,
+        79,
+        94,
+        97,
+        98,
+        99
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "the (feminine singular article); to; at",
+      "ukrainian": "означений артикль жіночого роду; до; у",
+      "level": "A1"
+    },
+    {
+      "portuguese": "casa",
+      "phrase_indices": [
+        17,
+        56
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "english": "house; home",
+      "ukrainian": "будинок; дім",
+      "level": "A1"
+    },
+    {
+      "portuguese": "banho",
+      "phrase_indices": [
+        17
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "bath",
+      "ukrainian": "ванна; купання",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chego",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "I arrive; I get to (chegar)",
+      "ukrainian": "я прибуваю; я дістаюся",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ao",
+      "phrase_indices": [
+        18,
+        33
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Directions"
+      ],
+      "english": "to the; at the (a + o)",
+      "ukrainian": "до; у; на (a + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "centro",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "center",
+      "ukrainian": "центр",
+      "level": "A1"
+    },
+    {
+      "portuguese": "da",
+      "phrase_indices": [
+        18,
+        56
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "english": "of the; from the (de + a)",
+      "ukrainian": "з; від; належність (de + a)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cidade",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "city",
+      "ukrainian": "місто",
+      "level": "A1"
+    },
+    {
+      "portuguese": "qual",
+      "phrase_indices": [
+        19,
+        51,
+        56,
+        71,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "english": "which; what",
+      "ukrainian": "який; котрий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "melhor",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "better; best",
+      "ukrainian": "кращий; найкращий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "caminho",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "way; path",
+      "ukrainian": "шлях; дорога",
+      "level": "A1"
+    },
+    {
+      "portuguese": "para",
+      "phrase_indices": [
+        19,
+        25,
+        26,
+        55,
+        92,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "english": "for; to",
+      "ukrainian": "для; до",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aeroporto",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "airport",
+      "ukrainian": "аеропорт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "estação",
+      "phrase_indices": [
+        20
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "station",
+      "ukrainian": "станція",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comboios",
+      "phrase_indices": [
+        20
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "trains",
+      "ukrainian": "поїзди",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quando",
+      "phrase_indices": [
+        21
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "when",
+      "ukrainian": "коли",
+      "level": "A1"
+    },
+    {
+      "portuguese": "próximo",
+      "phrase_indices": [
+        21,
+        24
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "next; near (masculine)",
+      "ukrainian": "наступний; близький",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comboio",
+      "phrase_indices": [
+        21
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "train",
+      "ukrainian": "поїзд",
+      "level": "A1"
+    },
+    {
+      "portuguese": "saída",
+      "phrase_indices": [
+        22,
+        40
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Directions"
+      ],
+      "english": "exit",
+      "ukrainian": "вихід",
+      "level": "A1"
+    },
+    {
+      "portuguese": "paragem",
+      "phrase_indices": [
+        23
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "stop (bus stop)",
+      "ukrainian": "зупинка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "autocarro",
+      "phrase_indices": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "bus",
+      "ukrainian": "автобус",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mais",
+      "phrase_indices": [
+        23,
+        77
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Communication"
+      ],
+      "english": "more; most",
+      "ukrainian": "більше; найбільш",
+      "level": "A1"
+    },
+    {
+      "portuguese": "próxima",
+      "phrase_indices": [
+        23
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "next; near (feminine)",
+      "ukrainian": "наступна; близька",
+      "level": "A1"
+    },
+    {
+      "portuguese": "que",
+      "phrase_indices": [
+        24,
+        46,
+        57,
+        73,
+        98,
+        99
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "english": "that; what; than",
+      "ukrainian": "що; який; ніж",
+      "level": "A1"
+    },
+    {
+      "portuguese": "horas",
+      "phrase_indices": [
+        24,
+        73,
+        98,
+        99
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "english": "hours; time",
+      "ukrainian": "години; час",
+      "level": "A1"
+    },
+    {
+      "portuguese": "este",
+      "phrase_indices": [
+        25,
+        26,
+        91
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Emergencies and Health"
+      ],
+      "english": "this (masculine)",
+      "ukrainian": "цей",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pode",
+      "phrase_indices": [
+        27,
+        54,
+        74,
+        75,
+        77,
+        83,
+        84,
+        88,
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "english": "can (poder, third-person singular)",
+      "ukrainian": "може; можете (форма poder)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chamar",
+      "phrase_indices": [
+        27
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "to call",
+      "ukrainian": "кликати; викликати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "um",
+      "phrase_indices": [
+        27,
+        28,
+        32,
+        50,
+        54,
+        74,
+        90,
+        96
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "english": "a; an (masculine); one",
+      "ukrainian": "неозначений артикль чоловічого роду; один",
+      "level": "A1"
+    },
+    {
+      "portuguese": "táxi",
+      "phrase_indices": [
+        27,
+        28
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "taxi",
+      "ukrainian": "таксі",
+      "level": "A1"
+    },
+    {
+      "portuguese": "posso",
+      "phrase_indices": [
+        28,
+        32,
+        43,
+        46,
+        48,
+        52,
+        72,
+        85,
+        89
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "english": "I can (poder)",
+      "ukrainian": "я можу",
+      "level": "A1"
+    },
+    {
+      "portuguese": "encontrar",
+      "phrase_indices": [
+        28,
+        89
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Sightseeing and Activities"
+      ],
+      "english": "to find",
+      "ukrainian": "знаходити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "apanha",
+      "phrase_indices": [
+        29
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "catches; takes (apanhar)",
+      "ukrainian": "ловить; сідає на транспорт",
+      "level": "A1"
+    },
+    {
+      "portuguese": "metro",
+      "phrase_indices": [
+        29
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "subway; metro",
+      "ukrainian": "метро",
+      "level": "A1"
+    },
+    {
+      "portuguese": "há",
+      "phrase_indices": [
+        30,
+        45,
+        86,
+        87,
+        90,
+        93
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "english": "there is; there are (haver)",
+      "ukrainian": "є; існує",
+      "level": "A1"
+    },
+    {
+      "portuguese": "algum",
+      "phrase_indices": [
+        30,
+        45,
+        87
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "english": "some; any (masculine)",
+      "ukrainian": "якийсь; будь-який",
+      "level": "A1"
+    },
+    {
+      "portuguese": "supermercado",
+      "phrase_indices": [
+        30
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "supermarket",
+      "ukrainian": "супермаркет",
+      "level": "A1"
+    },
+    {
+      "portuguese": "perto",
+      "phrase_indices": [
+        30,
+        34,
+        46,
+        90
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Directions",
+        "Shopping and Payments",
+        "Emergencies and Health"
+      ],
+      "english": "near",
+      "ukrainian": "близько",
+      "level": "A1"
+    },
+    {
+      "portuguese": "longe",
+      "phrase_indices": [
+        31,
+        35
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Directions"
+      ],
+      "english": "far",
+      "ukrainian": "далеко",
+      "level": "A1"
+    },
+    {
+      "portuguese": "daqui",
+      "phrase_indices": [
+        31,
+        46
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments"
+      ],
+      "english": "from here",
+      "ukrainian": "звідси",
+      "level": "A1"
+    },
+    {
+      "portuguese": "alugar",
+      "phrase_indices": [
+        32
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "to rent",
+      "ukrainian": "орендувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "carro",
+      "phrase_indices": [
+        32
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "english": "car",
+      "ukrainian": "автомобіль",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lado",
+      "phrase_indices": [
+        33
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions"
+      ],
+      "english": "side",
+      "ukrainian": "сторона; бік",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lá",
+      "phrase_indices": [
+        36,
+        94
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions",
+        "Useful Sentences"
+      ],
+      "english": "there",
+      "ukrainian": "там",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aqui",
+      "phrase_indices": [
+        37
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions"
+      ],
+      "english": "here",
+      "ukrainian": "тут",
+      "level": "A1"
+    },
+    {
+      "portuguese": "esquerda",
+      "phrase_indices": [
+        38
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions"
+      ],
+      "english": "left",
+      "ukrainian": "ліворуч; ліва сторона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "direita",
+      "phrase_indices": [
+        39
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions"
+      ],
+      "english": "right",
+      "ukrainian": "праворуч; права сторона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "frente",
+      "phrase_indices": [
+        41
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Directions"
+      ],
+      "english": "front",
+      "ukrainian": "перед; передня частина",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quanto",
+      "phrase_indices": [
+        42,
+        94
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments",
+        "Useful Sentences"
+      ],
+      "english": "how much",
+      "ukrainian": "скільки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "custa",
+      "phrase_indices": [
+        42
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "costs (custar)",
+      "ukrainian": "коштує",
+      "level": "A1"
+    },
+    {
+      "portuguese": "isto",
+      "phrase_indices": [
+        42,
+        78
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments",
+        "Communication"
+      ],
+      "english": "this (neutral demonstrative)",
+      "ukrainian": "це",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pagar",
+      "phrase_indices": [
+        43
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "to pay",
+      "ukrainian": "платити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "cartão",
+      "phrase_indices": [
+        43,
+        44
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "card",
+      "ukrainian": "картка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "aceita",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "accepts (aceitar)",
+      "ukrainian": "приймає; приймаєте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "crédito",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "credit",
+      "ukrainian": "кредит",
+      "level": "A2"
+    },
+    {
+      "portuguese": "ou",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "or",
+      "ukrainian": "або",
+      "level": "A1"
+    },
+    {
+      "portuguese": "débito",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "debit",
+      "ukrainian": "дебет",
+      "level": "A2"
+    },
+    {
+      "portuguese": "desconto",
+      "phrase_indices": [
+        45
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "discount",
+      "ukrainian": "знижка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "trocar",
+      "phrase_indices": [
+        46
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "to exchange",
+      "ukrainian": "обмінювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dinheiro",
+      "phrase_indices": [
+        46
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "money",
+      "ukrainian": "гроші",
+      "level": "A1"
+    },
+    {
+      "portuguese": "só",
+      "phrase_indices": [
+        47
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "english": "only; just",
+      "ukrainian": "лише; тільки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ver",
+      "phrase_indices": [
+        47,
+        72
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Shopping and Payments",
+        "Accommodation"
+      ],
+      "english": "to see; to look",
+      "ukrainian": "бачити; дивитися",
+      "level": "A1"
+    },
+    {
+      "portuguese": "reservar",
+      "phrase_indices": [
+        48
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "to book; to reserve",
+      "ukrainian": "бронювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "uma",
+      "phrase_indices": [
+        48,
+        49,
+        58,
+        76,
+        88,
+        93
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "english": "a; an (feminine); one",
+      "ukrainian": "неозначений артикль жіночого роду; одна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mesa",
+      "phrase_indices": [
+        48
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "table",
+      "ukrainian": "стіл",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tenho",
+      "phrase_indices": [
+        49
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "I have (ter)",
+      "ukrainian": "я маю",
+      "level": "A1"
+    },
+    {
+      "portuguese": "reserva",
+      "phrase_indices": [
+        49
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "reservation",
+      "ukrainian": "бронювання",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tem",
+      "phrase_indices": [
+        50,
+        53,
+        55,
+        70
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "english": "has; do you have (ter, third-person singular)",
+      "ukrainian": "має; маєте",
+      "level": "A1"
+    },
+    {
+      "portuguese": "menu",
+      "phrase_indices": [
+        50
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "menu",
+      "ukrainian": "меню",
+      "level": "A1"
+    },
+    {
+      "portuguese": "inglês",
+      "phrase_indices": [
+        50,
+        80
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "english": "English",
+      "ukrainian": "англійська мова; англійський",
+      "level": "A1"
+    },
+    {
+      "portuguese": "prato",
+      "phrase_indices": [
+        51
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "dish; plate",
+      "ukrainian": "страва; тарілка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "do",
+      "phrase_indices": [
+        51,
+        79,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "of the; from the (de + o)",
+      "ukrainian": "з; від; належність (de + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "experimentar",
+      "phrase_indices": [
+        52
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "to try",
+      "ukrainian": "пробувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "algo",
+      "phrase_indices": [
+        53,
+        55
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "something",
+      "ukrainian": "щось",
+      "level": "A1"
+    },
+    {
+      "portuguese": "sem",
+      "phrase_indices": [
+        53
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "without",
+      "ukrainian": "без",
+      "level": "A1"
+    },
+    {
+      "portuguese": "glúten",
+      "phrase_indices": [
+        53
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "gluten",
+      "ukrainian": "глютен",
+      "level": "A2"
+    },
+    {
+      "portuguese": "recomendar",
+      "phrase_indices": [
+        54,
+        74
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "english": "to recommend",
+      "ukrainian": "рекомендувати",
+      "level": "A2"
+    },
+    {
+      "portuguese": "restaurante",
+      "phrase_indices": [
+        54
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "restaurant",
+      "ukrainian": "ресторан",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vegetarianos",
+      "phrase_indices": [
+        55
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "vegetarians",
+      "ukrainian": "вегетаріанці",
+      "level": "A1"
+    },
+    {
+      "portuguese": "especialidade",
+      "phrase_indices": [
+        56
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "specialty",
+      "ukrainian": "фірмова страва; спеціальність",
+      "level": "A2"
+    },
+    {
+      "portuguese": "recomenda",
+      "phrase_indices": [
+        57
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "recommends (recomendar)",
+      "ukrainian": "рекомендує; рекомендуєте",
+      "level": "A2"
+    },
+    {
+      "portuguese": "queria",
+      "phrase_indices": [
+        58,
+        59
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "I would like (polite querer form); wanted",
+      "ukrainian": "я хотів би; я хотіла б; хотів; хотіла",
+      "level": "A2"
+    },
+    {
+      "portuguese": "garrafa",
+      "phrase_indices": [
+        58
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "bottle",
+      "ukrainian": "пляшка",
+      "level": "A1"
+    },
+    {
+      "portuguese": "água",
+      "phrase_indices": [
+        58,
+        60
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Food and Drink"
+      ],
+      "english": "water",
+      "ukrainian": "вода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fresca",
+      "phrase_indices": [
+        58
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "cool; fresh (feminine)",
+      "ukrainian": "прохолодна; свіжа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pedir",
+      "phrase_indices": [
+        59
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "to ask for; to order",
+      "ukrainian": "просити; замовляти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "conta",
+      "phrase_indices": [
+        59
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "english": "bill; account",
+      "ukrainian": "рахунок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "carne",
+      "phrase_indices": [
+        61
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "meat",
+      "ukrainian": "м’ясо",
+      "level": "A1"
+    },
+    {
+      "portuguese": "peixe",
+      "phrase_indices": [
+        62
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "fish",
+      "ukrainian": "риба",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vinho",
+      "phrase_indices": [
+        63
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "wine",
+      "ukrainian": "вино",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pão",
+      "phrase_indices": [
+        64
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "bread",
+      "ukrainian": "хліб",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chá",
+      "phrase_indices": [
+        65
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "tea",
+      "ukrainian": "чай",
+      "level": "A1"
+    },
+    {
+      "portuguese": "café",
+      "phrase_indices": [
+        66
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "coffee",
+      "ukrainian": "кава",
+      "level": "A1"
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "phrase_indices": [
+        67,
+        73
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink",
+        "Accommodation"
+      ],
+      "english": "breakfast",
+      "ukrainian": "сніданок",
+      "level": "A1"
+    },
+    {
+      "portuguese": "almoço",
+      "phrase_indices": [
+        68
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "lunch",
+      "ukrainian": "обід",
+      "level": "A1"
+    },
+    {
+      "portuguese": "jantar",
+      "phrase_indices": [
+        69
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Food and Drink"
+      ],
+      "english": "dinner; to dine",
+      "ukrainian": "вечеря; вечеряти",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quartos",
+      "phrase_indices": [
+        70
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "rooms",
+      "ukrainian": "кімнати; номери",
+      "level": "A1"
+    },
+    {
+      "portuguese": "disponíveis",
+      "phrase_indices": [
+        70,
+        86
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "english": "available (plural)",
+      "ukrainian": "доступні; вільні",
+      "level": "A2"
+    },
+    {
+      "portuguese": "preço",
+      "phrase_indices": [
+        71
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "price",
+      "ukrainian": "ціна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "quarto",
+      "phrase_indices": [
+        72
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "room",
+      "ukrainian": "кімната; номер",
+      "level": "A1"
+    },
+    {
+      "portuguese": "antes",
+      "phrase_indices": [
+        72
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "before; first",
+      "ukrainian": "раніше; перед; спочатку",
+      "level": "A1"
+    },
+    {
+      "portuguese": "servem",
+      "phrase_indices": [
+        73
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "serve (servir, third-person plural)",
+      "ukrainian": "подають; обслуговують",
+      "level": "A2"
+    },
+    {
+      "portuguese": "me",
+      "phrase_indices": [
+        74,
+        75,
+        84,
+        88
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "english": "me; to me (object clitic)",
+      "ukrainian": "мене; мені",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hotel",
+      "phrase_indices": [
+        74
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "english": "hotel",
+      "ukrainian": "готель",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ajudar",
+      "phrase_indices": [
+        75
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "to help",
+      "ukrainian": "допомагати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "preciso",
+      "phrase_indices": [
+        76,
+        96
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "english": "I need (precisar)",
+      "ukrainian": "мені потрібно",
+      "level": "A1"
+    },
+    {
+      "portuguese": "informação",
+      "phrase_indices": [
+        76
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "information (singular)",
+      "ukrainian": "інформація; відомість",
+      "level": "A1"
+    },
+    {
+      "portuguese": "falar",
+      "phrase_indices": [
+        77
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "to speak",
+      "ukrainian": "говорити",
+      "level": "A1"
+    },
+    {
+      "portuguese": "devagar",
+      "phrase_indices": [
+        77
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "slowly",
+      "ukrainian": "повільно",
+      "level": "A1"
+    },
+    {
+      "portuguese": "diz",
+      "phrase_indices": [
+        78
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "says (dizer)",
+      "ukrainian": "каже; говорить",
+      "level": "A1"
+    },
+    {
+      "portuguese": "português",
+      "phrase_indices": [
+        78,
+        81
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "Portuguese",
+      "ukrainian": "португальська мова; португальський",
+      "level": "A1"
+    },
+    {
+      "portuguese": "senha",
+      "phrase_indices": [
+        79
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "password",
+      "ukrainian": "пароль",
+      "level": "A2"
+    },
+    {
+      "portuguese": "wi-fi",
+      "phrase_indices": [
+        79
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "Wi-Fi",
+      "ukrainian": "Wi-Fi; бездротова мережа",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fala",
+      "phrase_indices": [
+        80
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "speaks (falar)",
+      "ukrainian": "говорить; говорите",
+      "level": "A1"
+    },
+    {
+      "portuguese": "não",
+      "phrase_indices": [
+        81,
+        82
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "no; not",
+      "ukrainian": "ні; не",
+      "level": "A1"
+    },
+    {
+      "portuguese": "falo",
+      "phrase_indices": [
+        81
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "I speak (falar)",
+      "ukrainian": "я говорю",
+      "level": "A1"
+    },
+    {
+      "portuguese": "percebo",
+      "phrase_indices": [
+        82
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "I understand (perceber)",
+      "ukrainian": "я розумію",
+      "level": "A1"
+    },
+    {
+      "portuguese": "repetir",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "to repeat",
+      "ukrainian": "повторювати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "outra",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "other; another (feminine)",
+      "ukrainian": "інша; ще одна",
+      "level": "A1"
+    },
+    {
+      "portuguese": "vez",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "time; occasion",
+      "ukrainian": "раз",
+      "level": "A1"
+    },
+    {
+      "portuguese": "dizer",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Communication"
+      ],
+      "english": "to say",
+      "ukrainian": "казати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mostrar",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "to show",
+      "ukrainian": "показувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "no",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "in the; on the (em + o)",
+      "ukrainian": "у; в; на (em + o)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "mapa",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "map",
+      "ukrainian": "карта",
+      "level": "A1"
+    },
+    {
+      "portuguese": "comprar",
+      "phrase_indices": [
+        85
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "to buy",
+      "ukrainian": "купувати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "bilhetes",
+      "phrase_indices": [
+        85
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "tickets",
+      "ukrainian": "квитки",
+      "level": "A1"
+    },
+    {
+      "portuguese": "visitas",
+      "phrase_indices": [
+        86
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "visits; tours",
+      "ukrainian": "відвідування; екскурсії",
+      "level": "A1"
+    },
+    {
+      "portuguese": "guiadas",
+      "phrase_indices": [
+        86
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "guided (feminine plural)",
+      "ukrainian": "з гідом; супроводжувані",
+      "level": "A2"
+    },
+    {
+      "portuguese": "evento",
+      "phrase_indices": [
+        87
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "event",
+      "ukrainian": "захід; подія",
+      "level": "A1"
+    },
+    {
+      "portuguese": "local",
+      "phrase_indices": [
+        87
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "local",
+      "ukrainian": "місцевий",
+      "level": "A1"
+    },
+    {
+      "portuguese": "hoje",
+      "phrase_indices": [
+        87,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities",
+        "Useful Sentences"
+      ],
+      "english": "today",
+      "ukrainian": "сьогодні",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tirar",
+      "phrase_indices": [
+        88
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "to take; to remove",
+      "ukrainian": "брати; знімати",
+      "level": "A1"
+    },
+    {
+      "portuguese": "foto",
+      "phrase_indices": [
+        88
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "photo",
+      "ukrainian": "фото",
+      "level": "A1"
+    },
+    {
+      "portuguese": "informações",
+      "phrase_indices": [
+        89
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "information; details (plural)",
+      "ukrainian": "інформація; відомості",
+      "level": "A1"
+    },
+    {
+      "portuguese": "turísticas",
+      "phrase_indices": [
+        89
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "english": "tourist (feminine plural)",
+      "ukrainian": "туристичні",
+      "level": "A2"
+    },
+    {
+      "portuguese": "médico",
+      "phrase_indices": [
+        90
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "doctor",
+      "ukrainian": "лікар",
+      "level": "A1"
+    },
+    {
+      "portuguese": "lugar",
+      "phrase_indices": [
+        91
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "place",
+      "ukrainian": "місце",
+      "level": "A1"
+    },
+    {
+      "portuguese": "seguro",
+      "phrase_indices": [
+        91
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "safe",
+      "ukrainian": "безпечний",
+      "level": "A1"
+    },
+    {
+      "portuguese": "ligar",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "to call by phone; to connect",
+      "ukrainian": "телефонувати; з’єднувати",
+      "level": "A2"
+    },
+    {
+      "portuguese": "cento",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "hundred (before another number)",
+      "ukrainian": "сто (у складеному числівнику)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "e",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "and",
+      "ukrainian": "і",
+      "level": "A1"
+    },
+    {
+      "portuguese": "doze",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "twelve",
+      "ukrainian": "дванадцять",
+      "level": "A1"
+    },
+    {
+      "portuguese": "farmácia",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "pharmacy",
+      "ukrainian": "аптека",
+      "level": "A1"
+    },
+    {
+      "portuguese": "nesta",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "in this (em + esta)",
+      "ukrainian": "у цій (em + esta)",
+      "level": "A1"
+    },
+    {
+      "portuguese": "zona",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "english": "area; zone",
+      "ukrainian": "район; зона",
+      "level": "A1"
+    },
+    {
+      "portuguese": "tempo",
+      "phrase_indices": [
+        94,
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "time; weather",
+      "ukrainian": "час; погода",
+      "level": "A1"
+    },
+    {
+      "portuguese": "demora",
+      "phrase_indices": [
+        94
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "takes time (demorar)",
+      "ukrainian": "триває; займає час",
+      "level": "A1"
+    },
+    {
+      "portuguese": "chegar",
+      "phrase_indices": [
+        94
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "to arrive; to reach",
+      "ukrainian": "прибувати; діставатися",
+      "level": "A1"
+    },
+    {
+      "portuguese": "esta",
+      "phrase_indices": [
+        95
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "this (feminine)",
+      "ukrainian": "ця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "rua",
+      "phrase_indices": [
+        95
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "street",
+      "ukrainian": "вулиця",
+      "level": "A1"
+    },
+    {
+      "portuguese": "adaptador",
+      "phrase_indices": [
+        96
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "adapter",
+      "ukrainian": "адаптер",
+      "level": "A2"
+    },
+    {
+      "portuguese": "tomada",
+      "phrase_indices": [
+        96
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "electrical socket",
+      "ukrainian": "розетка",
+      "level": "A2"
+    },
+    {
+      "portuguese": "previsão",
+      "phrase_indices": [
+        97
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "forecast",
+      "ukrainian": "прогноз",
+      "level": "A2"
+    },
+    {
+      "portuguese": "abre",
+      "phrase_indices": [
+        98
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "opens (abrir)",
+      "ukrainian": "відчиняється; відкриває",
+      "level": "A1"
+    },
+    {
+      "portuguese": "fecha",
+      "phrase_indices": [
+        99
+      ],
+      "groups": [
+        "Words from Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "english": "closes (fechar)",
+      "ukrainian": "зачиняється; закриває",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "vocpt",
+  "version": "1.0.0",
+  "description": "A project for learning European Portuguese as spoken in Lisbon through a vocabulary-based learning approach.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:init": "node scripts/init-db.js",
+    "words:import": "node scripts/import-words.js",
+    "test": "node --test scripts/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "next": "^16.4.0",
+    "pg": "^8.23.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8"
+  }
+}

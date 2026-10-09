@@ -1,0 +1,29 @@
+# Dependencies and Next.js build output
+node_modules/
+.next/
+out/
+
+# Local environment configuration
+.env*
+!.env.example
+!.env.*.example
+
+# Local SQLite databases and backups
+*.sqlite
+*.sqlite-*
+/data/backups/
+
+# Logs and test output
+*.log
+coverage/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+
+
+*.jpeg
+*.jpg

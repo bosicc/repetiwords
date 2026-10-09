@@ -1,0 +1,3851 @@
+{
+  "source": "Five user photographs of the Passaporte para Português glossary: pages 136, 138, 140, 142 and 144, including readable following-page fragments",
+  "prepared_at": "2026-10-09",
+  "source_files": [
+    {
+      "image": 1,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/e5edcab7-1715-4322-a163-ffd51eb94a2a/1-1000057518.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-07-sources/1-1000057518.jpg",
+      "sha256": "eea0a250b4909b831c1e04786bd7d16876d5b3927d0f62f6f54006fa3639c782"
+    },
+    {
+      "image": 2,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/e5edcab7-1715-4322-a163-ffd51eb94a2a/2-1000057519.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-07-sources/2-1000057519.jpg",
+      "sha256": "103d16e1a7bd871ab997ef0c12a40891f3082d17dbfd1dd8a2885a8a9d636fa4"
+    },
+    {
+      "image": 3,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/e5edcab7-1715-4322-a163-ffd51eb94a2a/3-1000057520.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-07-sources/3-1000057520.jpg",
+      "sha256": "80c0263cdfdf9e015191feba0a8b40563d951f1c7c775af4d3c89b881b3623ed"
+    },
+    {
+      "image": 4,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/e5edcab7-1715-4322-a163-ffd51eb94a2a/4-1000057521.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-07-sources/4-1000057521.jpg",
+      "sha256": "109ecf86355fa5d764aafae3ca2e9ac55b76e18be3b35a3a8cdf72f121427a5c"
+    },
+    {
+      "image": 5,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/e5edcab7-1715-4322-a163-ffd51eb94a2a/5-1000057522.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-07-sources/5-1000057522.jpg",
+      "sha256": "825e555aa96a3fa12a71c4680f62f28c0857f8ec6c22625b87e883f55326e8ca"
+    }
+  ],
+  "extraction_method": "Assistant visual transcription",
+  "normalization_notes": [
+    "Manually transcribe pages 136, 138, 140, 142 and 144 and readable following-page fragments. Page 136 is identified from its position between previously imported pages 135 and 137; its printed number is obscured.",
+    "Exclude running publisher text, headings and page numbers. Printed references identify book sections, not CEFR levels.",
+    "Use lowercase NFC individual words; remove punctuation and trailing gender articles. Retain articles/prepositions within expressions.",
+    "Expand Exmos. as excelentíssimos, with dictionary verification. Do not insert the punctuation-bearing abbreviation as a word.",
+    "Expand loiro/louro, loiça/louça and meu/minha into separate word forms; o/a annotations on fã and fadista do not imply distinct spellings.",
+    "Split importar-se and mudar-se into base verb plus se. Retain original pronominal constructions for context.",
+    "Expand faz/por favor into faz, por and favor. Keep the lexical compound mal-educado intact.",
+    "Translate each component independently. Keep complete source expressions and the photographed German meanings in rows.",
+    "Repeated meanings such as metro (transport/measurement), ligar and mulher share one normalized word while their source occurrences remain distinct.",
+    "Deduplicate overlaps with earlier batches. Do not infer cropped rows below the page edge."
+  ],
+  "excluded_fragments": [
+    {
+      "image": 1,
+      "location": "bottom edge after the final transcribed row",
+      "reason": "Further following-page text is cropped; the following odd-numbered page was already imported from its complete photograph."
+    },
+    {
+      "image": 2,
+      "location": "bottom edge after the final transcribed row",
+      "reason": "Further following-page text is cropped; the following odd-numbered page was already imported from its complete photograph."
+    },
+    {
+      "image": 3,
+      "location": "bottom edge after the final transcribed row",
+      "reason": "Further following-page text is cropped; the following odd-numbered page was already imported from its complete photograph."
+    },
+    {
+      "image": 4,
+      "location": "bottom edge after the final transcribed row",
+      "reason": "Further following-page text is cropped; the following odd-numbered page was already imported from its complete photograph."
+    },
+    {
+      "image": 5,
+      "location": "bottom edge after the final transcribed row",
+      "reason": "Further following-page text is cropped; the following odd-numbered page was already imported from its complete photograph."
+    }
+  ],
+  "counts": {
+    "source_rows": 209,
+    "distinct_source_labels": 205,
+    "unique_words": 228,
+    "rows_by_image": {
+      "1": 41,
+      "2": 42,
+      "3": 41,
+      "4": 42,
+      "5": 43
+    }
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fazer exercício",
+      "printed_reference": "15",
+      "german_original": "Sport machen",
+      "normalized_words": [
+        "fazer",
+        "exercício"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "existir",
+      "printed_reference": "37",
+      "german_original": "da sein, existieren",
+      "normalized_words": [
+        "existir"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "êxito, o",
+      "printed_reference": "25",
+      "german_original": "Erfolg",
+      "normalized_words": [
+        "êxito"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "Exmos. Senhores,",
+      "printed_reference": "36",
+      "german_original": "Sehr geehrte Herrschaften!",
+      "normalized_words": [
+        "excelentíssimos",
+        "senhores"
+      ],
+      "normalization_note": "Expand the plural abbreviation Exmos. to excelentíssimos; retain the original formal greeting here."
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "experiência, a",
+      "printed_reference": "40",
+      "german_original": "Erfahrung",
+      "normalized_words": [
+        "experiência"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "experimentar (roupa)",
+      "printed_reference": "P8",
+      "german_original": "anprobieren",
+      "normalized_words": [
+        "experimentar",
+        "roupa"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "explorar",
+      "printed_reference": "26",
+      "german_original": "erkunden",
+      "normalized_words": [
+        "explorar"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "exposição, a",
+      "printed_reference": "30",
+      "german_original": "Ausstellung",
+      "normalized_words": [
+        "exposição"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fã, o/a",
+      "printed_reference": "39",
+      "german_original": "Fan",
+      "normalized_words": [
+        "fã"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "faca, a",
+      "printed_reference": "23",
+      "german_original": "Messer",
+      "normalized_words": [
+        "faca"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fácil",
+      "printed_reference": "19",
+      "german_original": "einfach",
+      "normalized_words": [
+        "fácil"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "de facto",
+      "printed_reference": "37",
+      "german_original": "in der Tat",
+      "normalized_words": [
+        "de",
+        "facto"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fadista, o/a",
+      "printed_reference": "35",
+      "german_original": "Fado-Sänger(in)",
+      "normalized_words": [
+        "fadista"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "falador",
+      "printed_reference": "28",
+      "german_original": "gesprächig",
+      "normalized_words": [
+        "falador"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "falar",
+      "printed_reference": "20",
+      "german_original": "sprechen",
+      "normalized_words": [
+        "falar"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "sentir a falta de",
+      "printed_reference": "30",
+      "german_original": "vermissen",
+      "normalized_words": [
+        "sentir",
+        "a",
+        "falta",
+        "de"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "faltar",
+      "printed_reference": "13",
+      "german_original": "fehlen",
+      "normalized_words": [
+        "faltar"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "família, a",
+      "printed_reference": "5",
+      "german_original": "Familie",
+      "normalized_words": [
+        "família"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "famoso",
+      "printed_reference": "24",
+      "german_original": "berühmt",
+      "normalized_words": [
+        "famoso"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "farmácia, a",
+      "printed_reference": "33",
+      "german_original": "Apotheke",
+      "normalized_words": [
+        "farmácia"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fatia, a",
+      "printed_reference": "26",
+      "german_original": "Scheibe",
+      "normalized_words": [
+        "fatia"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fato de banho, o",
+      "printed_reference": "33",
+      "german_original": "Badeanzug",
+      "normalized_words": [
+        "fato",
+        "de",
+        "banho"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fato, o",
+      "printed_reference": "33",
+      "german_original": "Anzug",
+      "normalized_words": [
+        "fato"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "faz/por favor",
+      "printed_reference": "P1",
+      "german_original": "bitte",
+      "normalized_words": [
+        "faz",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fazer",
+      "printed_reference": "13",
+      "german_original": "machen, tun",
+      "normalized_words": [
+        "fazer"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "Não faz mal.",
+      "printed_reference": "P3",
+      "german_original": "Kein Problem.",
+      "normalized_words": [
+        "não",
+        "faz",
+        "mal"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "febre, a",
+      "printed_reference": "34",
+      "german_original": "Fieber",
+      "normalized_words": [
+        "febre"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fechado",
+      "printed_reference": "16",
+      "german_original": "geschlossen",
+      "normalized_words": [
+        "fechado"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fechar",
+      "printed_reference": "24",
+      "german_original": "schließen",
+      "normalized_words": [
+        "fechar"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "feijão, o",
+      "printed_reference": "17",
+      "german_original": "Bohne",
+      "normalized_words": [
+        "feijão"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "feio",
+      "printed_reference": "7",
+      "german_original": "hässlich",
+      "normalized_words": [
+        "feio"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "feliz",
+      "printed_reference": "35",
+      "german_original": "glücklich",
+      "normalized_words": [
+        "feliz"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "felizmente",
+      "printed_reference": "8",
+      "german_original": "glücklicherweise",
+      "normalized_words": [
+        "felizmente"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "férias, as",
+      "printed_reference": "7",
+      "german_original": "Urlaub",
+      "normalized_words": [
+        "férias"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "Boas férias!",
+      "printed_reference": "7",
+      "german_original": "Schönen Urlaub!",
+      "normalized_words": [
+        "boas",
+        "férias"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "festa, a",
+      "printed_reference": "13",
+      "german_original": "Party",
+      "normalized_words": [
+        "festa"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fevereiro",
+      "printed_reference": "13",
+      "german_original": "Februar",
+      "normalized_words": [
+        "fevereiro"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "fiambre, o",
+      "printed_reference": "17",
+      "german_original": "Kochschinken",
+      "normalized_words": [
+        "fiambre"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "position": "main page",
+      "portuguese_original": "ficar",
+      "printed_reference": "2",
+      "german_original": "bleiben",
+      "normalized_words": [
+        "ficar"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 1,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "ficar",
+      "printed_reference": "P2",
+      "german_original": "sein",
+      "normalized_words": [
+        "ficar"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 1,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "ficar (triste)",
+      "printed_reference": "38",
+      "german_original": "(traurig) werden",
+      "normalized_words": [
+        "ficar",
+        "triste"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "fugir",
+      "printed_reference": "36",
+      "german_original": "fliehen",
+      "normalized_words": [
+        "fugir"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "fumado",
+      "printed_reference": "16",
+      "german_original": "geräuchert",
+      "normalized_words": [
+        "fumado"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "fumar",
+      "printed_reference": "10",
+      "german_original": "rauchen",
+      "normalized_words": [
+        "fumar"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "funcional",
+      "printed_reference": "R37/40",
+      "german_original": "funktionell",
+      "normalized_words": [
+        "funcional"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "funcionar",
+      "printed_reference": "29",
+      "german_original": "funktionieren",
+      "normalized_words": [
+        "funcionar"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "funcionário, o",
+      "printed_reference": "25",
+      "german_original": "Angestellter",
+      "normalized_words": [
+        "funcionário"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "ao fundo (de)",
+      "printed_reference": "P7",
+      "german_original": "am Ende (von)",
+      "normalized_words": [
+        "ao",
+        "fundo",
+        "de"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "furioso",
+      "printed_reference": "38",
+      "german_original": "wütend",
+      "normalized_words": [
+        "furioso"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "futebol, o",
+      "printed_reference": "11",
+      "german_original": "Fußball",
+      "normalized_words": [
+        "futebol"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gabinete de prova, o",
+      "printed_reference": "P8",
+      "german_original": "Umkleidekabine",
+      "normalized_words": [
+        "gabinete",
+        "de",
+        "prova"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "galeria de arte, a",
+      "printed_reference": "29",
+      "german_original": "Kunstgalerie",
+      "normalized_words": [
+        "galeria",
+        "de",
+        "arte"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "ganhar",
+      "printed_reference": "AC",
+      "german_original": "gewinnen",
+      "normalized_words": [
+        "ganhar"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "ganhar (dinheiro)",
+      "printed_reference": "8",
+      "german_original": "verdienen",
+      "normalized_words": [
+        "ganhar",
+        "dinheiro"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "garagem, a",
+      "printed_reference": "22",
+      "german_original": "Garage",
+      "normalized_words": [
+        "garagem"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "garfo, o",
+      "printed_reference": "23",
+      "german_original": "Gabel",
+      "normalized_words": [
+        "garfo"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "garganta, a",
+      "printed_reference": "34",
+      "german_original": "Hals",
+      "normalized_words": [
+        "garganta"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "garrafa, a",
+      "printed_reference": "5",
+      "german_original": "Flasche",
+      "normalized_words": [
+        "garrafa"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "água com gás",
+      "printed_reference": "P1",
+      "german_original": "Sprudelwasser",
+      "normalized_words": [
+        "água",
+        "com",
+        "gás"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gastar",
+      "printed_reference": "19",
+      "german_original": "ausgeben",
+      "normalized_words": [
+        "gastar"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gato, o",
+      "printed_reference": "10",
+      "german_original": "Katze",
+      "normalized_words": [
+        "gato"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gelado, o",
+      "printed_reference": "16",
+      "german_original": "(Speise-)Eis",
+      "normalized_words": [
+        "gelado"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gelo, o",
+      "printed_reference": "P1",
+      "german_original": "Eis",
+      "normalized_words": [
+        "gelo"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gente, a",
+      "printed_reference": "23",
+      "german_original": "Leute, wir",
+      "normalized_words": [
+        "gente"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "toda a gente",
+      "printed_reference": "23",
+      "german_original": "alle",
+      "normalized_words": [
+        "toda",
+        "a",
+        "gente"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "Gestão, a",
+      "printed_reference": "30",
+      "german_original": "Verwaltung",
+      "normalized_words": [
+        "gestão"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "ginásio, o",
+      "printed_reference": "11",
+      "german_original": "Fitnessstudio",
+      "normalized_words": [
+        "ginásio"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "girafa, a",
+      "printed_reference": "20",
+      "german_original": "Giraffe",
+      "normalized_words": [
+        "girafa"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "giro",
+      "printed_reference": "9",
+      "german_original": "toll, hübsch",
+      "normalized_words": [
+        "giro"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gordo",
+      "printed_reference": "10",
+      "german_original": "dick",
+      "normalized_words": [
+        "gordo"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gostar",
+      "printed_reference": "7",
+      "german_original": "mögen, gut finden",
+      "normalized_words": [
+        "gostar"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gostos, os",
+      "printed_reference": "10",
+      "german_original": "Vorlieben",
+      "normalized_words": [
+        "gostos"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "Muito gosto!",
+      "printed_reference": "1",
+      "german_original": "Sehr erfreut!",
+      "normalized_words": [
+        "muito",
+        "gosto"
+      ]
+    },
+    {
+      "id": 74,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "grama, o",
+      "printed_reference": "27",
+      "german_original": "Gramm",
+      "normalized_words": [
+        "grama"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "grande",
+      "printed_reference": "7",
+      "german_original": "groß",
+      "normalized_words": [
+        "grande"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gratuito",
+      "printed_reference": "24",
+      "german_original": "gratis",
+      "normalized_words": [
+        "gratuito"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "grau, o",
+      "printed_reference": "18",
+      "german_original": "Stufe, Grad",
+      "normalized_words": [
+        "grau"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gravar",
+      "printed_reference": "39",
+      "german_original": "aufnehmen",
+      "normalized_words": [
+        "gravar"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "gravata, a",
+      "printed_reference": "33",
+      "german_original": "Krawatte",
+      "normalized_words": [
+        "gravata"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "grave",
+      "printed_reference": "34",
+      "german_original": "ernst",
+      "normalized_words": [
+        "grave"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 2,
+      "position": "main page",
+      "portuguese_original": "grávida",
+      "printed_reference": "R33/36",
+      "german_original": "schwanger",
+      "normalized_words": [
+        "grávida"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 2,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "grego",
+      "printed_reference": "3",
+      "german_original": "Griechisch, Grieche",
+      "normalized_words": [
+        "grego"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 2,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "grelhado",
+      "printed_reference": "16",
+      "german_original": "gegrillt",
+      "normalized_words": [
+        "grelhado"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "agência imobiliária, a",
+      "printed_reference": "22",
+      "german_original": "Immobilienbüro",
+      "normalized_words": [
+        "agência",
+        "imobiliária"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "agente imobiliário, o",
+      "printed_reference": "22",
+      "german_original": "Immobilienmakler",
+      "normalized_words": [
+        "agente",
+        "imobiliário"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "impaciente",
+      "printed_reference": "28",
+      "german_original": "ungeduldig",
+      "normalized_words": [
+        "impaciente"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "imperial, a",
+      "printed_reference": "30",
+      "german_original": "kleines (gezapftes) Bier",
+      "normalized_words": [
+        "imperial"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "importante",
+      "printed_reference": "15",
+      "german_original": "wichtig",
+      "normalized_words": [
+        "importante"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "importar-se (de)",
+      "printed_reference": "33",
+      "german_original": "könntest du/könnten Sie bitte",
+      "normalized_words": [
+        "importar",
+        "se",
+        "de"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "impresso, o",
+      "printed_reference": "25",
+      "german_original": "Formular",
+      "normalized_words": [
+        "impresso"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "imprimir",
+      "printed_reference": "40",
+      "german_original": "drucken",
+      "normalized_words": [
+        "imprimir"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "tudo incluído",
+      "printed_reference": "18",
+      "german_original": "pauschal",
+      "normalized_words": [
+        "tudo",
+        "incluído"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "incómodo, o",
+      "printed_reference": "35",
+      "german_original": "Belästigung",
+      "normalized_words": [
+        "incómodo"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "indeciso",
+      "printed_reference": "28",
+      "german_original": "unentschlossen",
+      "normalized_words": [
+        "indeciso"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "indiano",
+      "printed_reference": "3",
+      "german_original": "Indisch, Inder",
+      "normalized_words": [
+        "indiano"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "quarto individual, o",
+      "printed_reference": "P7",
+      "german_original": "Einzelzimmer",
+      "normalized_words": [
+        "quarto",
+        "individual"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "infeliz",
+      "printed_reference": "35",
+      "german_original": "unglücklich",
+      "normalized_words": [
+        "infeliz"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "infelizmente",
+      "printed_reference": "8",
+      "german_original": "leider",
+      "normalized_words": [
+        "infelizmente"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "informação, a",
+      "printed_reference": "25",
+      "german_original": "Information",
+      "normalized_words": [
+        "informação"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "informático, o",
+      "printed_reference": "6",
+      "german_original": "Informatiker",
+      "normalized_words": [
+        "informático"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inglês",
+      "printed_reference": "3",
+      "german_original": "Englisch, Engländer",
+      "normalized_words": [
+        "inglês"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "ingrediente, o",
+      "printed_reference": "26",
+      "german_original": "Zutat",
+      "normalized_words": [
+        "ingrediente"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "início, o",
+      "printed_reference": "19",
+      "german_original": "Anfang",
+      "normalized_words": [
+        "início"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inquilino, o",
+      "printed_reference": "6",
+      "german_original": "Mieter",
+      "normalized_words": [
+        "inquilino"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inserir",
+      "printed_reference": "32",
+      "german_original": "einfügen",
+      "normalized_words": [
+        "inserir"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "instrumento, o",
+      "printed_reference": "39",
+      "german_original": "Instrument",
+      "normalized_words": [
+        "instrumento"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "instrutor, o",
+      "printed_reference": "R33/36",
+      "german_original": "Lehrer",
+      "normalized_words": [
+        "instrutor"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inteligente",
+      "printed_reference": "28",
+      "german_original": "intelligent",
+      "normalized_words": [
+        "inteligente"
+      ]
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "interdito",
+      "printed_reference": "35",
+      "german_original": "verboten",
+      "normalized_words": [
+        "interdito"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "interessante",
+      "printed_reference": "8",
+      "german_original": "interessant",
+      "normalized_words": [
+        "interessante"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "ter interesse (em)",
+      "printed_reference": "12",
+      "german_original": "sich interessieren (für)",
+      "normalized_words": [
+        "ter",
+        "interesse",
+        "em"
+      ]
+    },
+    {
+      "id": 112,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "internacional",
+      "printed_reference": "13",
+      "german_original": "international",
+      "normalized_words": [
+        "internacional"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inútil",
+      "printed_reference": "32",
+      "german_original": "nutzlos",
+      "normalized_words": [
+        "inútil"
+      ]
+    },
+    {
+      "id": 114,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "Que inveja!",
+      "printed_reference": "39",
+      "german_original": "Da bin ich aber neidisch!",
+      "normalized_words": [
+        "que",
+        "inveja"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "inverno, o",
+      "printed_reference": "28",
+      "german_original": "Winter",
+      "normalized_words": [
+        "inverno"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "iogurte, o",
+      "printed_reference": "17",
+      "german_original": "Joghurt",
+      "normalized_words": [
+        "iogurte"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "ir",
+      "printed_reference": "11",
+      "german_original": "gehen, fahren",
+      "normalized_words": [
+        "ir"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "irlandês",
+      "printed_reference": "12",
+      "german_original": "Irisch, Ire",
+      "normalized_words": [
+        "irlandês"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "irmã, a",
+      "printed_reference": "9",
+      "german_original": "Schwester",
+      "normalized_words": [
+        "irmã"
+      ]
+    },
+    {
+      "id": 120,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "irmão, o",
+      "printed_reference": "9",
+      "german_original": "Bruder",
+      "normalized_words": [
+        "irmão"
+      ]
+    },
+    {
+      "id": 121,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "isso",
+      "printed_reference": "4",
+      "german_original": "das (da)",
+      "normalized_words": [
+        "isso"
+      ]
+    },
+    {
+      "id": 122,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "isto",
+      "printed_reference": "2",
+      "german_original": "das (hier)",
+      "normalized_words": [
+        "isto"
+      ]
+    },
+    {
+      "id": 123,
+      "image": 3,
+      "position": "main page",
+      "portuguese_original": "italiano",
+      "printed_reference": "3",
+      "german_original": "Italienisch, Italiener",
+      "normalized_words": [
+        "italiano"
+      ]
+    },
+    {
+      "id": 124,
+      "image": 3,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "já",
+      "printed_reference": "9",
+      "german_original": "schon",
+      "normalized_words": [
+        "já"
+      ]
+    },
+    {
+      "id": 125,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "para levar",
+      "printed_reference": "P3",
+      "german_original": "zum Mitnehmen",
+      "normalized_words": [
+        "para",
+        "levar"
+      ]
+    },
+    {
+      "id": 126,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "leve",
+      "printed_reference": "40",
+      "german_original": "leicht",
+      "normalized_words": [
+        "leve"
+      ]
+    },
+    {
+      "id": 127,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "Com licença!",
+      "printed_reference": "P6",
+      "german_original": "Entschuldigen Sie bitte!",
+      "normalized_words": [
+        "com",
+        "licença"
+      ]
+    },
+    {
+      "id": 128,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "ligar",
+      "printed_reference": "19",
+      "german_original": "anrufen",
+      "normalized_words": [
+        "ligar"
+      ]
+    },
+    {
+      "id": 129,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "ligar",
+      "printed_reference": "20",
+      "german_original": "anmachen",
+      "normalized_words": [
+        "ligar"
+      ]
+    },
+    {
+      "id": 130,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "limão, o",
+      "printed_reference": "P1",
+      "german_original": "Zitrone",
+      "normalized_words": [
+        "limão"
+      ]
+    },
+    {
+      "id": 131,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "limpar",
+      "printed_reference": "14",
+      "german_original": "putzen",
+      "normalized_words": [
+        "limpar"
+      ]
+    },
+    {
+      "id": 132,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "limpo",
+      "printed_reference": "22",
+      "german_original": "sauber",
+      "normalized_words": [
+        "limpo"
+      ]
+    },
+    {
+      "id": 133,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lindo",
+      "printed_reference": "7",
+      "german_original": "schön",
+      "normalized_words": [
+        "lindo"
+      ]
+    },
+    {
+      "id": 134,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "língua, a",
+      "printed_reference": "3",
+      "german_original": "Sprache",
+      "normalized_words": [
+        "língua"
+      ]
+    },
+    {
+      "id": 135,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "linha, a",
+      "printed_reference": "P6",
+      "german_original": "Zeile",
+      "normalized_words": [
+        "linha"
+      ]
+    },
+    {
+      "id": 136,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lisboeta",
+      "printed_reference": "26",
+      "german_original": "Lissabonner",
+      "normalized_words": [
+        "lisboeta"
+      ]
+    },
+    {
+      "id": 137,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "livraria, a",
+      "printed_reference": "33",
+      "german_original": "Buchhandlung",
+      "normalized_words": [
+        "livraria"
+      ]
+    },
+    {
+      "id": 138,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "livre",
+      "printed_reference": "16",
+      "german_original": "frei",
+      "normalized_words": [
+        "livre"
+      ]
+    },
+    {
+      "id": 139,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "livro, o",
+      "printed_reference": "4",
+      "german_original": "Buch",
+      "normalized_words": [
+        "livro"
+      ]
+    },
+    {
+      "id": 140,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lixo, o",
+      "printed_reference": "27",
+      "german_original": "Müll",
+      "normalized_words": [
+        "lixo"
+      ]
+    },
+    {
+      "id": 141,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "local de trabalho, o",
+      "printed_reference": "16",
+      "german_original": "Arbeitsplatz",
+      "normalized_words": [
+        "local",
+        "de",
+        "trabalho"
+      ]
+    },
+    {
+      "id": 142,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "localização, a",
+      "printed_reference": "22",
+      "german_original": "Ort, Standort",
+      "normalized_words": [
+        "localização"
+      ]
+    },
+    {
+      "id": 143,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "logo",
+      "printed_reference": "25",
+      "german_original": "gleich",
+      "normalized_words": [
+        "logo"
+      ]
+    },
+    {
+      "id": 144,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "Até logo!",
+      "printed_reference": "1",
+      "german_original": "Auf Wiedersehen!",
+      "normalized_words": [
+        "até",
+        "logo"
+      ]
+    },
+    {
+      "id": 145,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "loiro/louro",
+      "printed_reference": "10",
+      "german_original": "blond",
+      "normalized_words": [
+        "loiro",
+        "louro"
+      ]
+    },
+    {
+      "id": 146,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "loja, a",
+      "printed_reference": "17",
+      "german_original": "Laden",
+      "normalized_words": [
+        "loja"
+      ]
+    },
+    {
+      "id": 147,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "longe",
+      "printed_reference": "7",
+      "german_original": "weit",
+      "normalized_words": [
+        "longe"
+      ]
+    },
+    {
+      "id": 148,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "longo",
+      "printed_reference": "18",
+      "german_original": "lang",
+      "normalized_words": [
+        "longo"
+      ]
+    },
+    {
+      "id": 149,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "ao longo de",
+      "printed_reference": "25",
+      "german_original": "entlang",
+      "normalized_words": [
+        "ao",
+        "longo",
+        "de"
+      ]
+    },
+    {
+      "id": 150,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "loiça/louça, a",
+      "printed_reference": "27",
+      "german_original": "Geschirr",
+      "normalized_words": [
+        "loiça",
+        "louça"
+      ]
+    },
+    {
+      "id": 151,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lua, a",
+      "printed_reference": "32",
+      "german_original": "Mond",
+      "normalized_words": [
+        "lua"
+      ]
+    },
+    {
+      "id": 152,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lugar, o",
+      "printed_reference": "16",
+      "german_original": "Ort, Stelle, Platz",
+      "normalized_words": [
+        "lugar"
+      ]
+    },
+    {
+      "id": 153,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "lume, o",
+      "printed_reference": "27",
+      "german_original": "Feuer",
+      "normalized_words": [
+        "lume"
+      ]
+    },
+    {
+      "id": 154,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "luz, a",
+      "printed_reference": "22",
+      "german_original": "Licht",
+      "normalized_words": [
+        "luz"
+      ]
+    },
+    {
+      "id": 155,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mãe, a",
+      "printed_reference": "9",
+      "german_original": "Mutter",
+      "normalized_words": [
+        "mãe"
+      ]
+    },
+    {
+      "id": 156,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "magro",
+      "printed_reference": "10",
+      "german_original": "dünn",
+      "normalized_words": [
+        "magro"
+      ]
+    },
+    {
+      "id": 157,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "maio",
+      "printed_reference": "13",
+      "german_original": "Mai",
+      "normalized_words": [
+        "maio"
+      ]
+    },
+    {
+      "id": 158,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mais",
+      "printed_reference": "18",
+      "german_original": "mehr",
+      "normalized_words": [
+        "mais"
+      ]
+    },
+    {
+      "id": 159,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mais ou menos",
+      "printed_reference": "18",
+      "german_original": "mehr oder weniger",
+      "normalized_words": [
+        "mais",
+        "ou",
+        "menos"
+      ]
+    },
+    {
+      "id": 160,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "Mais alguma coisa?",
+      "printed_reference": "P1",
+      "german_original": "Sonst noch etwas?",
+      "normalized_words": [
+        "mais",
+        "alguma",
+        "coisa"
+      ]
+    },
+    {
+      "id": 161,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mal",
+      "printed_reference": "15",
+      "german_original": "schlecht",
+      "normalized_words": [
+        "mal"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mala, a",
+      "printed_reference": "5",
+      "german_original": "Tasche",
+      "normalized_words": [
+        "mala"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "mala, a",
+      "printed_reference": "19",
+      "german_original": "Koffer",
+      "normalized_words": [
+        "mala"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 4,
+      "position": "main page",
+      "portuguese_original": "fazer a mala",
+      "printed_reference": "40",
+      "german_original": "den Koffer packen",
+      "normalized_words": [
+        "fazer",
+        "a",
+        "mala"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 4,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "mal-educado",
+      "printed_reference": "23",
+      "german_original": "unhöflich",
+      "normalized_words": [
+        "mal-educado"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 4,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "maluco",
+      "printed_reference": "40",
+      "german_original": "verrückt",
+      "normalized_words": [
+        "maluco"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mergulhar",
+      "printed_reference": "36",
+      "german_original": "tauchen",
+      "normalized_words": [
+        "mergulhar"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "fazer mergulho",
+      "printed_reference": "31",
+      "german_original": "Sporttauchen",
+      "normalized_words": [
+        "fazer",
+        "mergulho"
+      ]
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mês, o",
+      "printed_reference": "13",
+      "german_original": "Monat",
+      "normalized_words": [
+        "mês"
+      ]
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mesa, a",
+      "printed_reference": "4",
+      "german_original": "Tisch",
+      "normalized_words": [
+        "mesa"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mesmo, o",
+      "printed_reference": "35",
+      "german_original": "das selbe",
+      "normalized_words": [
+        "mesmo"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mesquita, a",
+      "printed_reference": "24",
+      "german_original": "Moschee",
+      "normalized_words": [
+        "mesquita"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "metro, o",
+      "printed_reference": "21",
+      "german_original": "U-Bahn, Straßenbahn (in manchen Städten auch)",
+      "normalized_words": [
+        "metro"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "metro, um",
+      "printed_reference": "22",
+      "german_original": "Meter",
+      "normalized_words": [
+        "metro"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "meu/minha",
+      "printed_reference": "5",
+      "german_original": "mein(e)",
+      "normalized_words": [
+        "meu",
+        "minha"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mexicano",
+      "printed_reference": "3",
+      "german_original": "mexikanisch, Mexikaner",
+      "normalized_words": [
+        "mexicano"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mil",
+      "printed_reference": "3",
+      "german_original": "tausend",
+      "normalized_words": [
+        "mil"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "milhão",
+      "printed_reference": "24",
+      "german_original": "Million",
+      "normalized_words": [
+        "milhão"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "milhares, os",
+      "printed_reference": "39",
+      "german_original": "Tausende",
+      "normalized_words": [
+        "milhares"
+      ]
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mina, a",
+      "printed_reference": "36",
+      "german_original": "Mine",
+      "normalized_words": [
+        "mina"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "minuto, o",
+      "printed_reference": "13",
+      "german_original": "Minute",
+      "normalized_words": [
+        "minuto"
+      ]
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "miradouro, o",
+      "printed_reference": "24",
+      "german_original": "Aussichtspunkt",
+      "normalized_words": [
+        "miradouro"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "misturar",
+      "printed_reference": "26",
+      "german_original": "mischen",
+      "normalized_words": [
+        "misturar"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "miúdo, o",
+      "printed_reference": "32",
+      "german_original": "Junge",
+      "normalized_words": [
+        "miúdo"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mobília, a",
+      "printed_reference": "22",
+      "german_original": "Möbel",
+      "normalized_words": [
+        "mobília"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mochila, a",
+      "printed_reference": "5",
+      "german_original": "Rucksack",
+      "normalized_words": [
+        "mochila"
+      ]
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "moderno",
+      "printed_reference": "7",
+      "german_original": "modern",
+      "normalized_words": [
+        "moderno"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "moeda, a",
+      "printed_reference": "5",
+      "german_original": "Münze",
+      "normalized_words": [
+        "moeda"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "molhado",
+      "printed_reference": "35",
+      "german_original": "nass",
+      "normalized_words": [
+        "molhado"
+      ]
+    },
+    {
+      "id": 190,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "molho, o",
+      "printed_reference": "28",
+      "german_original": "Sauce",
+      "normalized_words": [
+        "molho"
+      ]
+    },
+    {
+      "id": 191,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "momento, o",
+      "printed_reference": "18",
+      "german_original": "Moment",
+      "normalized_words": [
+        "momento"
+      ]
+    },
+    {
+      "id": 192,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "montanha, a",
+      "printed_reference": "18",
+      "german_original": "Gebirge",
+      "normalized_words": [
+        "montanha"
+      ]
+    },
+    {
+      "id": 193,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "morada, a",
+      "printed_reference": "6",
+      "german_original": "Adresse",
+      "normalized_words": [
+        "morada"
+      ]
+    },
+    {
+      "id": 194,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "moradia, a",
+      "printed_reference": "22",
+      "german_original": "Einfamilienhaus",
+      "normalized_words": [
+        "moradia"
+      ]
+    },
+    {
+      "id": 195,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "morar",
+      "printed_reference": "3",
+      "german_original": "wohnen",
+      "normalized_words": [
+        "morar"
+      ]
+    },
+    {
+      "id": 196,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "moreno",
+      "printed_reference": "10",
+      "german_original": "dunkelhaarig",
+      "normalized_words": [
+        "moreno"
+      ]
+    },
+    {
+      "id": 197,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "morrer",
+      "printed_reference": "35",
+      "german_original": "sterben",
+      "normalized_words": [
+        "morrer"
+      ]
+    },
+    {
+      "id": 198,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "morte, a",
+      "printed_reference": "35",
+      "german_original": "Tod",
+      "normalized_words": [
+        "morte"
+      ]
+    },
+    {
+      "id": 199,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mostrar",
+      "printed_reference": "32",
+      "german_original": "zeigen",
+      "normalized_words": [
+        "mostrar"
+      ]
+    },
+    {
+      "id": 200,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "motivo, o",
+      "printed_reference": "32",
+      "german_original": "Grund",
+      "normalized_words": [
+        "motivo"
+      ]
+    },
+    {
+      "id": 201,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "móvel, o",
+      "printed_reference": "22",
+      "german_original": "Möbelstück",
+      "normalized_words": [
+        "móvel"
+      ]
+    },
+    {
+      "id": 202,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mudar (de)",
+      "printed_reference": "21",
+      "german_original": "umziehen, umsteigen",
+      "normalized_words": [
+        "mudar",
+        "de"
+      ]
+    },
+    {
+      "id": 203,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mudar-se",
+      "printed_reference": "29",
+      "german_original": "umziehen",
+      "normalized_words": [
+        "mudar",
+        "se"
+      ]
+    },
+    {
+      "id": 204,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "muito",
+      "printed_reference": "3",
+      "german_original": "sehr, viel",
+      "normalized_words": [
+        "muito"
+      ]
+    },
+    {
+      "id": 205,
+      "image": 5,
+      "position": "main page",
+      "portuguese_original": "mulher, a",
+      "printed_reference": "9",
+      "german_original": "Ehefrau",
+      "normalized_words": [
+        "mulher"
+      ]
+    },
+    {
+      "id": 206,
+      "image": 5,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "mulher, a",
+      "printed_reference": "9",
+      "german_original": "Frau",
+      "normalized_words": [
+        "mulher"
+      ]
+    },
+    {
+      "id": 207,
+      "image": 5,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "multa, a",
+      "printed_reference": "16",
+      "german_original": "Bußgeld",
+      "normalized_words": [
+        "multa"
+      ]
+    },
+    {
+      "id": 208,
+      "image": 5,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "multibanco, o",
+      "printed_reference": "25",
+      "german_original": "Geldautomat",
+      "normalized_words": [
+        "multibanco"
+      ]
+    },
+    {
+      "id": 209,
+      "image": 5,
+      "position": "following-page fragment (overlaps earlier batch)",
+      "portuguese_original": "mundial",
+      "printed_reference": "13",
+      "german_original": "weltweit",
+      "normalized_words": [
+        "mundial"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        16,
+        65,
+        164
+      ]
+    },
+    {
+      "portuguese": "agente",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "agência",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "alguma",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "ao",
+      "source_row_ids": [
+        48,
+        149
+      ]
+    },
+    {
+      "portuguese": "arte",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "até",
+      "source_row_ids": [
+        144
+      ]
+    },
+    {
+      "portuguese": "banho",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "boas",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "coisa",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "com",
+      "source_row_ids": [
+        59,
+        127
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        12,
+        16,
+        22,
+        48,
+        51,
+        52,
+        89,
+        141,
+        149,
+        202
+      ]
+    },
+    {
+      "portuguese": "dinheiro",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "excelentíssimos",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "exercício",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "existir",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "experimentar",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "experiência",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "explorar",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "exposição",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "faca",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "facto",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "fadista",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "falador",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "falar",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "falta",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "faltar",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "famoso",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "família",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "farmácia",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "fatia",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "fato",
+      "source_row_ids": [
+        22,
+        23
+      ]
+    },
+    {
+      "portuguese": "favor",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "faz",
+      "source_row_ids": [
+        24,
+        26
+      ]
+    },
+    {
+      "portuguese": "fazer",
+      "source_row_ids": [
+        1,
+        25,
+        164,
+        168
+      ]
+    },
+    {
+      "portuguese": "febre",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "fechado",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "fechar",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "feijão",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "feio",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "feliz",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "felizmente",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "festa",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "fevereiro",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "fiambre",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "ficar",
+      "source_row_ids": [
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "portuguese": "fugir",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "fumado",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "fumar",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "funcional",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "funcionar",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "funcionário",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "fundo",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "furioso",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "futebol",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "fácil",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "fã",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "férias",
+      "source_row_ids": [
+        34,
+        35
+      ]
+    },
+    {
+      "portuguese": "gabinete",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "galeria",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "ganhar",
+      "source_row_ids": [
+        53,
+        54
+      ]
+    },
+    {
+      "portuguese": "garagem",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "garfo",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "garganta",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "garrafa",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "gastar",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "gato",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "gelado",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "gelo",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "gente",
+      "source_row_ids": [
+        64,
+        65
+      ]
+    },
+    {
+      "portuguese": "gestão",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "ginásio",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "girafa",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "giro",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "gordo",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "gostar",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "gosto",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "gostos",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "grama",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "grande",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "gratuito",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "grau",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "gravar",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "gravata",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "grave",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "grego",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "grelhado",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "grávida",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "gás",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "imobiliária",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "imobiliário",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "impaciente",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "imperial",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "importante",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "importar",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "impresso",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "imprimir",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "incluído",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "incómodo",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "indeciso",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "indiano",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "individual",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "infeliz",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "infelizmente",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "informação",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "informático",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "inglês",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "ingrediente",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "inquilino",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "inserir",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "instrumento",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "instrutor",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "inteligente",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "interdito",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "interessante",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "interesse",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "internacional",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "inveja",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "inverno",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "início",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "inútil",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "iogurte",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "ir",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "irlandês",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "irmã",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "irmão",
+      "source_row_ids": [
+        120
+      ]
+    },
+    {
+      "portuguese": "isso",
+      "source_row_ids": [
+        121
+      ]
+    },
+    {
+      "portuguese": "isto",
+      "source_row_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "italiano",
+      "source_row_ids": [
+        123
+      ]
+    },
+    {
+      "portuguese": "já",
+      "source_row_ids": [
+        124
+      ]
+    },
+    {
+      "portuguese": "levar",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "leve",
+      "source_row_ids": [
+        126
+      ]
+    },
+    {
+      "portuguese": "licença",
+      "source_row_ids": [
+        127
+      ]
+    },
+    {
+      "portuguese": "ligar",
+      "source_row_ids": [
+        128,
+        129
+      ]
+    },
+    {
+      "portuguese": "limpar",
+      "source_row_ids": [
+        131
+      ]
+    },
+    {
+      "portuguese": "limpo",
+      "source_row_ids": [
+        132
+      ]
+    },
+    {
+      "portuguese": "limão",
+      "source_row_ids": [
+        130
+      ]
+    },
+    {
+      "portuguese": "lindo",
+      "source_row_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "linha",
+      "source_row_ids": [
+        135
+      ]
+    },
+    {
+      "portuguese": "lisboeta",
+      "source_row_ids": [
+        136
+      ]
+    },
+    {
+      "portuguese": "livraria",
+      "source_row_ids": [
+        137
+      ]
+    },
+    {
+      "portuguese": "livre",
+      "source_row_ids": [
+        138
+      ]
+    },
+    {
+      "portuguese": "livro",
+      "source_row_ids": [
+        139
+      ]
+    },
+    {
+      "portuguese": "lixo",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "local",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "localização",
+      "source_row_ids": [
+        142
+      ]
+    },
+    {
+      "portuguese": "logo",
+      "source_row_ids": [
+        143,
+        144
+      ]
+    },
+    {
+      "portuguese": "loiro",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "loiça",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "loja",
+      "source_row_ids": [
+        146
+      ]
+    },
+    {
+      "portuguese": "longe",
+      "source_row_ids": [
+        147
+      ]
+    },
+    {
+      "portuguese": "longo",
+      "source_row_ids": [
+        148,
+        149
+      ]
+    },
+    {
+      "portuguese": "louro",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "louça",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "lua",
+      "source_row_ids": [
+        151
+      ]
+    },
+    {
+      "portuguese": "lugar",
+      "source_row_ids": [
+        152
+      ]
+    },
+    {
+      "portuguese": "lume",
+      "source_row_ids": [
+        153
+      ]
+    },
+    {
+      "portuguese": "luz",
+      "source_row_ids": [
+        154
+      ]
+    },
+    {
+      "portuguese": "língua",
+      "source_row_ids": [
+        134
+      ]
+    },
+    {
+      "portuguese": "magro",
+      "source_row_ids": [
+        156
+      ]
+    },
+    {
+      "portuguese": "maio",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "mais",
+      "source_row_ids": [
+        158,
+        159,
+        160
+      ]
+    },
+    {
+      "portuguese": "mal",
+      "source_row_ids": [
+        26,
+        161
+      ]
+    },
+    {
+      "portuguese": "mal-educado",
+      "source_row_ids": [
+        165
+      ]
+    },
+    {
+      "portuguese": "mala",
+      "source_row_ids": [
+        162,
+        163,
+        164
+      ]
+    },
+    {
+      "portuguese": "maluco",
+      "source_row_ids": [
+        166
+      ]
+    },
+    {
+      "portuguese": "menos",
+      "source_row_ids": [
+        159
+      ]
+    },
+    {
+      "portuguese": "mergulhar",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "mergulho",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "mesa",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "mesmo",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "mesquita",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "source_row_ids": [
+        173,
+        174
+      ]
+    },
+    {
+      "portuguese": "meu",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "mexicano",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "mil",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "milhares",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "milhão",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "mina",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "minha",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "minuto",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "miradouro",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "misturar",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "miúdo",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "mobília",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "mochila",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "moderno",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "moeda",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "molhado",
+      "source_row_ids": [
+        189
+      ]
+    },
+    {
+      "portuguese": "molho",
+      "source_row_ids": [
+        190
+      ]
+    },
+    {
+      "portuguese": "momento",
+      "source_row_ids": [
+        191
+      ]
+    },
+    {
+      "portuguese": "montanha",
+      "source_row_ids": [
+        192
+      ]
+    },
+    {
+      "portuguese": "morada",
+      "source_row_ids": [
+        193
+      ]
+    },
+    {
+      "portuguese": "moradia",
+      "source_row_ids": [
+        194
+      ]
+    },
+    {
+      "portuguese": "morar",
+      "source_row_ids": [
+        195
+      ]
+    },
+    {
+      "portuguese": "moreno",
+      "source_row_ids": [
+        196
+      ]
+    },
+    {
+      "portuguese": "morrer",
+      "source_row_ids": [
+        197
+      ]
+    },
+    {
+      "portuguese": "morte",
+      "source_row_ids": [
+        198
+      ]
+    },
+    {
+      "portuguese": "mostrar",
+      "source_row_ids": [
+        199
+      ]
+    },
+    {
+      "portuguese": "motivo",
+      "source_row_ids": [
+        200
+      ]
+    },
+    {
+      "portuguese": "mudar",
+      "source_row_ids": [
+        202,
+        203
+      ]
+    },
+    {
+      "portuguese": "muito",
+      "source_row_ids": [
+        73,
+        204
+      ]
+    },
+    {
+      "portuguese": "mulher",
+      "source_row_ids": [
+        205,
+        206
+      ]
+    },
+    {
+      "portuguese": "multa",
+      "source_row_ids": [
+        207
+      ]
+    },
+    {
+      "portuguese": "multibanco",
+      "source_row_ids": [
+        208
+      ]
+    },
+    {
+      "portuguese": "mundial",
+      "source_row_ids": [
+        209
+      ]
+    },
+    {
+      "portuguese": "mãe",
+      "source_row_ids": [
+        155
+      ]
+    },
+    {
+      "portuguese": "mês",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "móvel",
+      "source_row_ids": [
+        201
+      ]
+    },
+    {
+      "portuguese": "não",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "ou",
+      "source_row_ids": [
+        159
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "por",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "prova",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "quarto",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "roupa",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        89,
+        203
+      ]
+    },
+    {
+      "portuguese": "senhores",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "sentir",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "ter",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "toda",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "trabalho",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "triste",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "tudo",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "água",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "êxito",
+      "source_row_ids": [
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3993 @@
+{
+  "source": "Five user photographs of the Passaporte para Português glossary: pages 126, 128, 130, 132 and 134, including readable following-page fragments",
+  "prepared_at": "2026-10-09",
+  "source_files": [
+    {
+      "image": 1,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/b6093f8a-1543-4462-bd0b-ff4023e74ee0/1-1000057513.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-06-sources/1-1000057513.jpg",
+      "sha256": "7c684fa75f37f851c23ed3f7269b5b5184090d7aff5d56502476a8925341c05b"
+    },
+    {
+      "image": 2,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/b6093f8a-1543-4462-bd0b-ff4023e74ee0/2-1000057514.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-06-sources/2-1000057514.jpg",
+      "sha256": "441cd129ea4f816c3cd2eafcd28de228182706c65029e15cfccc882a62254280"
+    },
+    {
+      "image": 3,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/b6093f8a-1543-4462-bd0b-ff4023e74ee0/3-1000057515.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-06-sources/3-1000057515.jpg",
+      "sha256": "da5795b8db3b4890539ed0f44b828bb012e339a8d6238b3e08f23aa52f807610"
+    },
+    {
+      "image": 4,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/b6093f8a-1543-4462-bd0b-ff4023e74ee0/4-1000057516.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-06-sources/4-1000057516.jpg",
+      "sha256": "bb18788707211224a3e7b03e30a5fee39626158faf8f9a2b1ac9eedaa34104c9"
+    },
+    {
+      "image": 5,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/b6093f8a-1543-4462-bd0b-ff4023e74ee0/5-1000057517.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-06-sources/5-1000057517.jpg",
+      "sha256": "6a2a0a9a6884581898dacb482638ec12482214f4a4da9bcfdafb8cad753ed3cd"
+    }
+  ],
+  "extracted_backup": "imports/2026-10-09-passaporte-glossary-photos-06-extracted.json",
+  "normalization_notes": [
+    "Manually transcribe main pages 126, 128, 130, 132 and 134 and fully readable rows from following-page fragments. Do not infer unphotographed rows.",
+    "Exclude running publisher text, headings and page numbers; printed references are source references, not CEFR levels.",
+    "Use lowercase NFC individual words; remove punctuation and trailing gender articles, retaining articles and prepositions occurring within expressions.",
+    "Separate attached pronouns: calar-se, chamar-se, despachar-se, despedir-se, despir-se, divertir-se, encontrar-se and ir-se become verb plus se. Preserve the pronominal constructions in source context.",
+    "Keep lexical hyphens in cor-de-rosa; cor de laranja remains three individual words.",
+    "Expand com/de certeza and estar/fazer calor into their components. The o/a annotations on chefe and cliente use one Portuguese spelling.",
+    "Preserve context words in parentheses, including médica, bancária, simples and musical/transport expressions; translate each word individually.",
+    "Split holiday names into individual words and preserve the original capitalized names in source JSON.",
+    "Several rows at page bottoms and main-page edges overlap earlier photo batches; retain source occurrences and deduplicate against SQLite."
+  ],
+  "excluded_fragments": [
+    {
+      "image": 1,
+      "location": "bottom edge after cara",
+      "reason": "Following row is clipped; already transcribed from the complete page 127 in batch 02."
+    },
+    {
+      "image": 2,
+      "location": "bottom edge after código postal",
+      "reason": "Following row is clipped; complete page 129 is retained in batch 02."
+    },
+    {
+      "image": 3,
+      "location": "bottom edge after Cuidado!",
+      "reason": "Following row is clipped; complete page 131 is retained in batch 02."
+    },
+    {
+      "image": 5,
+      "location": "bottom edge after espelho",
+      "reason": "Following row is clipped; complete page 135 is retained in batch 03."
+    }
+  ],
+  "enrichment": {
+    "translations": "English/Ukrainian translations for new words supplied by the assistant. Existing translations preserved exactly. Photographed German glosses retained in extracted JSON.",
+    "levels": "A1/A2 estimates by the assistant for new words, not source-provided or official CEFR labels. Existing CEFR labels preserved.",
+    "groups": "Only existing topic and grammatical categories; no provenance categories.",
+    "contextual_meaning_gaps": [
+      {
+        "portuguese": "café",
+        "existing_english": "coffee",
+        "existing_ukrainian": "кава",
+        "additional_english": "café; coffee shop",
+        "additional_ukrainian": "кав’ярня",
+        "source_context": "café (Café), distinct from café (Kaffee)",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "se",
+        "existing_english": "oneself; impersonal or reflexive pronoun",
+        "existing_ukrainian": "себе; зворотний або безособовий займенник",
+        "additional_english": "if (conjunction)",
+        "additional_ukrainian": "якщо (сполучник)",
+        "source_context": "se calhar; existing entry only covers the pronoun",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "claro",
+        "existing_english": "light",
+        "existing_ukrainian": "світлий",
+        "additional_english": "of course; naturally",
+        "additional_ukrainian": "звичайно; авжеж",
+        "source_context": "Claro!",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "médica",
+        "existing_english": "doctor (feminine)",
+        "existing_ukrainian": "лікарка",
+        "additional_english": "medical (feminine adjective)",
+        "additional_ukrainian": "медична",
+        "source_context": "consulta médica",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "despachar",
+        "existing_english": "to dispatch; to check in baggage",
+        "existing_ukrainian": "відправляти; здавати багаж",
+        "additional_english": "to hurry (with se)",
+        "additional_ukrainian": "поспішати (із se)",
+        "source_context": "despachar-se",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "chamar",
+        "existing_english": "to call",
+        "existing_ukrainian": "кликати; викликати",
+        "additional_english": "to be called (with se)",
+        "additional_ukrainian": "називатися (із se)",
+        "source_context": "chamar-se",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      },
+      {
+        "portuguese": "encontrar",
+        "existing_english": "to find",
+        "existing_ukrainian": "знаходити",
+        "additional_english": "to meet (with se com)",
+        "additional_ukrainian": "зустрічатися (із se com)",
+        "source_context": "encontrar-se com",
+        "action": "Preserve existing stored translations; retain additional contextual sense in JSON. Do not add a category solely for an unstored sense."
+      }
+    ],
+    "dictionary_checks": [
+      {
+        "word": "calhar",
+        "url": "https://dicionario.priberam.org/calhar",
+        "note": "Verified standalone happen sense and separate se calhar expression meaning maybe."
+      },
+      {
+        "word": "dezenas",
+        "url": "https://dicionario.priberam.org/dezena",
+        "note": "Verified groups of ten; translated as tens rather than literally copying the German Dutzende (dozens)."
+      },
+      {
+        "word": "caldeirada",
+        "url": "https://dicionario.priberam.org/caldeirada",
+        "note": "Verified fish stew sense."
+      }
+    ],
+    "translation_notes": [
+      "Dezenas means tens/groups of ten. The source German Dutzende is retained but not used as the precise numerical translation.",
+      "Constipado means having a cold in European Portuguese; it does not mean constipated.",
+      "Empurre is the command push. Puxe from the earlier batch means pull.",
+      "Calhar is translated as a verb; maybe belongs to the full expression se calhar, retained in source JSON.",
+      "Calçado is footwear, and calçar means to put on footwear. Cor-de-rosa remains a single lexical compound.",
+      "Patrício and Valentim are translated as personal names in the photographed saint-day expressions, not as the entire holiday names.",
+      "São is saint before male names in the source; the common are form of ser is also included and identified.",
+      "Direito combines the photographed direction and law senses in one new entry. Existing entrada already covers both entrance and starter.",
+      "Reflexive constructions retain se as a separate word. Additional construction-specific meanings for old verbs remain in JSON rather than replacing old translations.",
+      "Câmara municipal, chapéu de chuva, cinto de segurança and holiday names remain whole expressions in JSON while their individual words are imported.",
+      "Escreve is a form meaning writes/write; it is not assigned the whole question translation of Como se escreve?.",
+      "Clipped following-page rows are documented; those pages were already imported from complete photos in earlier batches.",
+      "New words start at mastery 0. Existing IDs, translations, levels and learning history are preserved."
+    ],
+    "unresolved_entries": []
+  },
+  "counts": {
+    "source_rows": 210,
+    "distinct_source_labels": 208,
+    "unique_words": 232,
+    "rows_by_image": {
+      "1": 43,
+      "2": 43,
+      "3": 41,
+      "4": 42,
+      "5": 41
+    },
+    "new_words": 67,
+    "existing_words": 165
+  },
+  "words": [
+    {
+      "portuguese": "ao",
+      "english": "to the; at the (a + o)",
+      "ukrainian": "до; у; на (a + o)",
+      "level": "A1",
+      "groups": [
+        "Directions",
+        "Getting Around"
+      ],
+      "source_row_ids": [
+        50
+      ],
+      "existing_word_id": 599,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "avião",
+      "english": "plane",
+      "ukrainian": "літак",
+      "level": "A1",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        58
+      ],
+      "existing_word_id": 230,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "bancária",
+      "english": "banking; bank-related (feminine)",
+      "ukrainian": "банківська",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        92
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "bom",
+      "english": "good – masculine",
+      "ukrainian": "добрий; хороший",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Common Phrases",
+        "Grammatical Words",
+        "Greetings and Introductions"
+      ],
+      "source_row_ids": [
+        148
+      ],
+      "existing_word_id": 362,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "bruxas",
+      "english": "witches",
+      "ukrainian": "відьми",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        150
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cabelo",
+      "english": "hair",
+      "ukrainian": "волосся",
+      "level": "A2",
+      "groups": [
+        "Body Parts",
+        "The Face",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        3
+      ],
+      "existing_word_id": 205,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "caber",
+      "english": "to fit; to have room",
+      "ukrainian": "вміщатися; поміщатися",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        4
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cabeça",
+      "english": "head",
+      "ukrainian": "голова",
+      "level": "A2",
+      "groups": [
+        "Body Parts",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        2
+      ],
+      "existing_word_id": 187,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cacau",
+      "english": "cocoa",
+      "ukrainian": "какао",
+      "level": "A1",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        5
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cadeira",
+      "english": "chair",
+      "ukrainian": "стілець",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        6
+      ],
+      "existing_word_id": 15,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "caderno",
+      "english": "notebook",
+      "ukrainian": "зошит",
+      "level": "A2",
+      "groups": [
+        "Common Objects",
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        7
+      ],
+      "existing_word_id": 272,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "café",
+      "english": "coffee",
+      "ukrainian": "кава",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        8,
+        9
+      ],
+      "existing_word_id": 170,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cair",
+      "english": "to fall",
+      "ukrainian": "падати",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        10
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "caixa",
+      "english": "box; checkout",
+      "ukrainian": "коробка; каса",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        11
+      ],
+      "existing_word_id": 881,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "calado",
+      "english": "quiet; silent",
+      "ukrainian": "мовчазний; тихий",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        12
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "calar",
+      "english": "to silence; to be quiet (with se)",
+      "ukrainian": "змушувати замовкнути; мовчати (із se)",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        13
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "caldeirada",
+      "english": "Portuguese fish stew",
+      "ukrainian": "португальське рибне рагу",
+      "level": "A2",
+      "groups": [
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        14
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "calhar",
+      "english": "to happen; to occur by chance",
+      "ukrainian": "траплятися; випадати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        19
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "calmo",
+      "english": "calm (masculine)",
+      "ukrainian": "спокійний",
+      "level": "A2",
+      "groups": [
+        "Emotions",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        20
+      ],
+      "existing_word_id": 802,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "calor",
+      "english": "heat; warmth",
+      "ukrainian": "спека; тепло",
+      "level": "A1",
+      "groups": [
+        "The Human Body",
+        "Weather"
+      ],
+      "source_row_ids": [
+        21,
+        22
+      ],
+      "existing_word_id": 882,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "calçado",
+      "english": "footwear",
+      "ukrainian": "взуття",
+      "level": "A1",
+      "groups": [
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        15
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "calçar",
+      "english": "to put on shoes or other footwear",
+      "ukrainian": "взувати; взуватися",
+      "level": "A2",
+      "groups": [
+        "Clothing and Accessories",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        16
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "calças",
+      "english": "pants, trousers",
+      "ukrainian": "штани",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        17
+      ],
+      "existing_word_id": 140,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "calções",
+      "english": "shorts",
+      "ukrainian": "шорти",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        18
+      ],
+      "existing_word_id": 1313,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cama",
+      "english": "bed",
+      "ukrainian": "ліжко",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        23
+      ],
+      "existing_word_id": 18,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "caminho",
+      "english": "way; path",
+      "ukrainian": "шлях; дорога",
+      "level": "A1",
+      "groups": [
+        "Directions",
+        "Getting Around",
+        "Locations and Means of Transport"
+      ],
+      "source_row_ids": [
+        25
+      ],
+      "existing_word_id": 603,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "camioneta",
+      "english": "coach; bus (especially for longer journeys)",
+      "ukrainian": "міжміський автобус",
+      "level": "A1",
+      "groups": [
+        "Getting Around",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        26
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "camisa",
+      "english": "shirt",
+      "ukrainian": "сорочка",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        27
+      ],
+      "existing_word_id": 139,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "camisola",
+      "english": "sweater; jumper; jersey",
+      "ukrainian": "светр; джемпер; спортивна футболка",
+      "level": "A1",
+      "groups": [
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        28
+      ],
+      "existing_word_id": 883,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "campismo",
+      "english": "camping",
+      "ukrainian": "кемпінг; відпочинок у наметах",
+      "level": "A2",
+      "groups": [
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        29
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "campo",
+      "english": "countryside; field",
+      "ukrainian": "сільська місцевість; поле",
+      "level": "A1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        30
+      ],
+      "existing_word_id": 884,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cancelado",
+      "english": "cancelled",
+      "ukrainian": "скасований",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        32
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cancelar",
+      "english": "to cancel",
+      "ukrainian": "скасовувати",
+      "level": "A2",
+      "groups": [
+        "Accommodation",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        33
+      ],
+      "existing_word_id": 885,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "candeeiro",
+      "english": "lamp; light fixture",
+      "ukrainian": "лампа; світильник",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        34
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "caneta",
+      "english": "pen",
+      "ukrainian": "ручка",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        35
+      ],
+      "existing_word_id": 20,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cansado",
+      "english": "tired (masculine)",
+      "ukrainian": "втомлений",
+      "level": "A2",
+      "groups": [
+        "Emotions",
+        "Relationships and Feelings",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        36
+      ],
+      "existing_word_id": 790,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cansativo",
+      "english": "tiring",
+      "ukrainian": "виснажливий; стомливий",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        37
+      ],
+      "existing_word_id": 886,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cantar",
+      "english": "to sing",
+      "ukrainian": "співати",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        38
+      ],
+      "existing_word_id": 887,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cantina",
+      "english": "cafeteria",
+      "ukrainian": "їдальня",
+      "level": "A2",
+      "groups": [
+        "Places",
+        "Restaurants and Cafés",
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        39
+      ],
+      "existing_word_id": 275,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cantor",
+      "english": "singer (masculine)",
+      "ukrainian": "співак",
+      "level": "A1",
+      "groups": [
+        "Occupations"
+      ],
+      "source_row_ids": [
+        40
+      ],
+      "existing_word_id": 888,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "canção",
+      "english": "song",
+      "ukrainian": "пісня",
+      "level": "A1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        31
+      ],
+      "existing_word_id": 890,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "capital",
+      "english": "capital city",
+      "ukrainian": "столиця",
+      "level": "A1",
+      "groups": [
+        "Places"
+      ],
+      "source_row_ids": [
+        42
+      ],
+      "existing_word_id": 1664,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cara",
+      "english": "face",
+      "ukrainian": "обличчя",
+      "level": "A1",
+      "groups": [
+        "The Face",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        43
+      ],
+      "existing_word_id": 1665,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cereja",
+      "english": "cherry",
+      "ukrainian": "вишня; черешня",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        44
+      ],
+      "existing_word_id": 1323,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "certeza",
+      "english": "certainty; confidence",
+      "ukrainian": "упевненість; певність",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        45
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "certo",
+      "english": "right; correct; certain",
+      "ukrainian": "правильний; певний",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Basic Vocabulary",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        46
+      ],
+      "existing_word_id": 1324,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cerveja",
+      "english": "beer",
+      "ukrainian": "пиво",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        47
+      ],
+      "existing_word_id": 161,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chamada",
+      "english": "call; telephone call",
+      "ukrainian": "дзвінок; телефонний виклик",
+      "level": "A1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        50
+      ],
+      "existing_word_id": 902,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chamar",
+      "english": "to call",
+      "ukrainian": "кликати; викликати",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Getting Around"
+      ],
+      "source_row_ids": [
+        51
+      ],
+      "existing_word_id": 612,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chapéu",
+      "english": "hat",
+      "ukrainian": "капелюх",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        53
+      ],
+      "existing_word_id": 146,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chato",
+      "english": "annoying; boring",
+      "ukrainian": "надокучливий; нудний",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        54
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chave",
+      "english": "key",
+      "ukrainian": "ключ",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        55
+      ],
+      "existing_word_id": 22,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chefe",
+      "english": "boss; manager",
+      "ukrainian": "керівник; начальник",
+      "level": "A1",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        57
+      ],
+      "existing_word_id": 903,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chegada",
+      "english": "arrival",
+      "ukrainian": "прибуття",
+      "level": "A1",
+      "groups": [
+        "Getting Around",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        58
+      ],
+      "existing_word_id": 904,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chegar",
+      "english": "to arrive",
+      "ukrainian": "прибувати",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Useful Sentences",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        59
+      ],
+      "existing_word_id": 353,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cheio",
+      "english": "full",
+      "ukrainian": "повний",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        60
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chinelos",
+      "english": "slippers; flip-flops",
+      "ukrainian": "капці; шльопанці",
+      "level": "A1",
+      "groups": [
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        61
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chinês",
+      "english": "Chinese; Chinese man",
+      "ukrainian": "китайська мова; китайський; китаєць",
+      "level": "A1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        62
+      ],
+      "existing_word_id": 1328,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chocolate",
+      "english": "chocolate",
+      "ukrainian": "шоколад",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        63
+      ],
+      "existing_word_id": 169,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chorar",
+      "english": "to cry",
+      "ukrainian": "плакати",
+      "level": "A1",
+      "groups": [
+        "Emotions",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        64
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chover",
+      "english": "to rain",
+      "ukrainian": "дощити; йти (про дощ)",
+      "level": "A1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        65
+      ],
+      "existing_word_id": 905,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chumbar",
+      "english": "to fail an exam; to fail a student",
+      "ukrainian": "провалити іспит; поставити незадовільну оцінку",
+      "level": "A2",
+      "groups": [
+        "School",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        66
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chuva",
+      "english": "rain",
+      "ukrainian": "дощ",
+      "level": "A1",
+      "groups": [
+        "Time and Dates",
+        "Weather"
+      ],
+      "source_row_ids": [
+        53,
+        67
+      ],
+      "existing_word_id": 432,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chuveiro",
+      "english": "shower; showerhead",
+      "ukrainian": "душ; душова лійка",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        68
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "chá",
+      "english": "tea",
+      "ukrainian": "чай",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        49
+      ],
+      "existing_word_id": 171,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chávena",
+      "english": "cup",
+      "ukrainian": "чашка",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        56
+      ],
+      "existing_word_id": 906,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "chão",
+      "english": "floor; ground",
+      "ukrainian": "підлога; земля",
+      "level": "A1",
+      "groups": [
+        "Accommodation"
+      ],
+      "source_row_ids": [
+        52
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cidade",
+      "english": "city",
+      "ukrainian": "місто",
+      "level": "A1",
+      "groups": [
+        "Getting Around",
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "source_row_ids": [
+        69
+      ],
+      "existing_word_id": 245,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cigarro",
+      "english": "cigarette",
+      "ukrainian": "сигарета",
+      "level": "A1",
+      "groups": [
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        70
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cima",
+      "english": "top; upper part; above (in expressions)",
+      "ukrainian": "верх; верхня частина; угорі (у виразах)",
+      "level": "A1",
+      "groups": [
+        "Directions"
+      ],
+      "source_row_ids": [
+        71
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cinco",
+      "english": "five",
+      "ukrainian": "п’ять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        72
+      ],
+      "existing_word_id": 36,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cinema",
+      "english": "cinema; movie theater",
+      "ukrainian": "кіно; кінотеатр",
+      "level": "A1",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "source_row_ids": [
+        73
+      ],
+      "existing_word_id": 907,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cinquenta",
+      "english": "fifty",
+      "ukrainian": "п’ятдесят",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        74
+      ],
+      "existing_word_id": 55,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cinto",
+      "english": "belt",
+      "ukrainian": "ремінь",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_row_ids": [
+        75
+      ],
+      "existing_word_id": 131,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cinzento",
+      "english": "gray",
+      "ukrainian": "сірий",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_row_ids": [
+        76
+      ],
+      "existing_word_id": 119,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "claro",
+      "english": "light",
+      "ukrainian": "світлий",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        77,
+        78
+      ],
+      "existing_word_id": 376,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "classe",
+      "english": "class; category",
+      "ukrainian": "клас; категорія",
+      "level": "A2",
+      "groups": [
+        "School",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        79
+      ],
+      "existing_word_id": 1679,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cliente",
+      "english": "customer; client",
+      "ukrainian": "клієнт; клієнтка",
+      "level": "A1",
+      "groups": [
+        "School and Work",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        81
+      ],
+      "existing_word_id": 1680,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "clima",
+      "english": "climate",
+      "ukrainian": "клімат",
+      "level": "A2",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        82
+      ],
+      "existing_word_id": 908,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "clube",
+      "english": "club",
+      "ukrainian": "клуб",
+      "level": "A1",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        83
+      ],
+      "existing_word_id": 1681,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "clássica",
+      "english": "classical; classic (feminine)",
+      "ukrainian": "класична",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        80
+      ],
+      "existing_word_id": 1682,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "coco",
+      "english": "coconut",
+      "ukrainian": "кокос",
+      "level": "A1",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        84
+      ],
+      "existing_word_id": 1683,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "com",
+      "english": "with",
+      "ukrainian": "з; разом із",
+      "level": "A1",
+      "groups": [
+        "Common Phrases",
+        "Grammatical Words",
+        "Polite Expressions",
+        "Prepositions",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        21,
+        45,
+        184
+      ],
+      "existing_word_id": 306,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "como",
+      "english": "how",
+      "ukrainian": "як",
+      "level": "A1",
+      "groups": [
+        "Common Phrases",
+        "Communication",
+        "Getting Around",
+        "Greetings and Introductions",
+        "Questions",
+        "Useful Sentences"
+      ],
+      "source_row_ids": [
+        204
+      ],
+      "existing_word_id": 497,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "conseguir",
+      "english": "to manage to; to succeed; to get",
+      "ukrainian": "зуміти; спромогтися; отримати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        87
+      ],
+      "existing_word_id": 919,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "conselho",
+      "english": "advice",
+      "ukrainian": "порада",
+      "level": "A2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        88
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "constipado",
+      "english": "having a cold",
+      "ukrainian": "застуджений",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        89
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "consulta",
+      "english": "medical appointment; consultation",
+      "ukrainian": "прийом у лікаря; консультація",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        90
+      ],
+      "existing_word_id": 1341,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "conta",
+      "english": "bill; account",
+      "ukrainian": "рахунок",
+      "level": "A1",
+      "groups": [
+        "Food and Drink",
+        "Restaurants and Cafés",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        91,
+        92,
+        93
+      ],
+      "existing_word_id": 653,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "contar",
+      "english": "to count; to tell",
+      "ukrainian": "рахувати; розповідати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        94
+      ],
+      "existing_word_id": 922,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "continuar",
+      "english": "to continue",
+      "ukrainian": "продовжувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        95
+      ],
+      "existing_word_id": 923,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "contornar",
+      "english": "to go around; to skirt",
+      "ukrainian": "обходити; об'їжджати",
+      "level": "A2",
+      "groups": [
+        "Directions",
+        "Getting Around",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        96
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "conversa",
+      "english": "conversation; chat",
+      "ukrainian": "розмова; бесіда",
+      "level": "A1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        97
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "conversar",
+      "english": "to talk; to chat",
+      "ukrainian": "розмовляти; спілкуватися",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Friendship",
+        "Grammatical Words",
+        "Relationships and Feelings",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        98
+      ],
+      "existing_word_id": 1345,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "convidado",
+      "english": "guest; invited person",
+      "ukrainian": "гість; запрошений",
+      "level": "A2",
+      "groups": [
+        "Friendship",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        99
+      ],
+      "existing_word_id": 924,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "convidar",
+      "english": "to invite",
+      "ukrainian": "запрошувати",
+      "level": "A2",
+      "groups": [
+        "Friendship",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        100
+      ],
+      "existing_word_id": 925,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "convite",
+      "english": "invitation",
+      "ukrainian": "запрошення",
+      "level": "A2",
+      "groups": [
+        "Friendship",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        101
+      ],
+      "existing_word_id": 926,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "copo",
+      "english": "glass; drinking glass",
+      "ukrainian": "склянка; келих",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        102
+      ],
+      "existing_word_id": 927,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cor",
+      "english": "color",
+      "ukrainian": "колір",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        103,
+        105
+      ],
+      "existing_word_id": 714,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cor-de-rosa",
+      "english": "pink",
+      "ukrainian": "рожевий",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Colors"
+      ],
+      "source_row_ids": [
+        106
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "coração",
+      "english": "heart",
+      "ukrainian": "серце",
+      "level": "A2",
+      "groups": [
+        "Anatomy",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        104
+      ],
+      "existing_word_id": 219,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "coreano",
+      "english": "Korean; Korean man",
+      "ukrainian": "корейський; корейська мова; кореєць",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Greetings and Introductions"
+      ],
+      "source_row_ids": [
+        107
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "corpo",
+      "english": "body",
+      "ukrainian": "тіло",
+      "level": "A1",
+      "groups": [
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        108
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "corredor",
+      "english": "corridor; hallway; aisle",
+      "ukrainian": "коридор; прохід",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        109
+      ],
+      "existing_word_id": 928,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "correio",
+      "english": "mail; postal service",
+      "ukrainian": "пошта",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Locations and Means of Transport",
+        "Places"
+      ],
+      "source_row_ids": [
+        110
+      ],
+      "existing_word_id": 929,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "correios",
+      "english": "post office; postal service",
+      "ukrainian": "пошта; поштове відділення",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Places"
+      ],
+      "source_row_ids": [
+        111
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "correr",
+      "english": "to run",
+      "ukrainian": "бігти; бігати",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        112
+      ],
+      "existing_word_id": 930,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "correto",
+      "english": "correct; right",
+      "ukrainian": "правильний; коректний",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        113
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "costa",
+      "english": "coast; coastline",
+      "ukrainian": "узбережжя",
+      "level": "A2",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        114
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "costas",
+      "english": "back",
+      "ukrainian": "спина",
+      "level": "A2",
+      "groups": [
+        "Body Parts",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        115
+      ],
+      "existing_word_id": 199,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "costumar",
+      "english": "to usually do; to be in the habit of",
+      "ukrainian": "мати звичку; зазвичай робити",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        116
+      ],
+      "existing_word_id": 932,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "costumes",
+      "english": "customs; habits; traditions",
+      "ukrainian": "звичаї; звички; традиції",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        117
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cozer",
+      "english": "to boil; to cook in water",
+      "ukrainian": "варити",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        118
+      ],
+      "existing_word_id": 934,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cozido",
+      "english": "boiled; cooked",
+      "ukrainian": "варений; зварений",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        119
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "cozinha",
+      "english": "kitchen; cuisine",
+      "ukrainian": "кухня",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        120
+      ],
+      "existing_word_id": 935,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cozinhar",
+      "english": "to cook",
+      "ukrainian": "готувати їжу",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        121
+      ],
+      "existing_word_id": 936,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cozinheiro",
+      "english": "cook (masculine)",
+      "ukrainian": "кухар",
+      "level": "A2",
+      "groups": [
+        "Food and Drink",
+        "Occupations",
+        "Restaurants and Cafés",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        122
+      ],
+      "existing_word_id": 736,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "criança",
+      "english": "child",
+      "ukrainian": "дитина",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Kinship",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        123
+      ],
+      "existing_word_id": 1349,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "croissant",
+      "english": "croissant",
+      "ukrainian": "круасан",
+      "level": "A1",
+      "groups": [
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        124
+      ],
+      "existing_word_id": 1705,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cruzamento",
+      "english": "crossroad",
+      "ukrainian": "перехрестя",
+      "level": "A2",
+      "groups": [
+        "Directions",
+        "Getting Around",
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        125
+      ],
+      "existing_word_id": 243,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cruzeiro",
+      "english": "cruise",
+      "ukrainian": "круїз",
+      "level": "A2",
+      "groups": [
+        "Sightseeing and Activities",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        126
+      ],
+      "existing_word_id": 1706,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cuidado",
+      "english": "care; caution",
+      "ukrainian": "турбота; обережність",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        127
+      ],
+      "existing_word_id": 1707,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cá",
+      "english": "here",
+      "ukrainian": "тут; сюди",
+      "level": "A1",
+      "groups": [
+        "Adverbs",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        1
+      ],
+      "existing_word_id": 942,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "câmara",
+      "english": "camera; chamber",
+      "ukrainian": "камера; фотокамера; палата",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary",
+        "Technology"
+      ],
+      "source_row_ids": [
+        24
+      ],
+      "existing_word_id": 1351,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "cão",
+      "english": "dog",
+      "ukrainian": "собака",
+      "level": "A1",
+      "groups": [
+        "Animals",
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        41
+      ],
+      "existing_word_id": 101,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "céu",
+      "english": "sky",
+      "ukrainian": "небо",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Nature"
+      ],
+      "source_row_ids": [
+        48
+      ],
+      "existing_word_id": 84,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "código",
+      "english": "code",
+      "ukrainian": "код",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Technology"
+      ],
+      "source_row_ids": [
+        85,
+        86
+      ],
+      "existing_word_id": 1712,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "da",
+      "english": "of the; from the (de + a)",
+      "ukrainian": "з; від; належність (de + a)",
+      "level": "A1",
+      "groups": [
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        149
+      ],
+      "existing_word_id": 601,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "das",
+      "english": "of the; from the (de + as, feminine plural)",
+      "ukrainian": "з; від; належність (de + as, жіночий рід множини)",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        150
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "de",
+      "english": "of, from",
+      "ukrainian": "з; від; належність",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories",
+        "Colors",
+        "Common Objects",
+        "Common Phrases",
+        "Communication",
+        "Getting Around",
+        "Grammatical Words",
+        "Polite Expressions",
+        "Prepositions",
+        "Questions",
+        "Restaurants and Cafés",
+        "Shopping and Payments",
+        "Time",
+        "Time and Dates",
+        "Useful Sentences"
+      ],
+      "source_row_ids": [
+        45,
+        53,
+        71,
+        75,
+        83,
+        84,
+        105,
+        151,
+        152,
+        175
+      ],
+      "existing_word_id": 301,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "deserto",
+      "english": "desert",
+      "ukrainian": "пустеля",
+      "level": "A2",
+      "groups": [
+        "Nature",
+        "Places"
+      ],
+      "source_row_ids": [
+        128
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "desligar",
+      "english": "to switch off; to hang up",
+      "ukrainian": "вимикати; завершувати дзвінок",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Technology",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        129
+      ],
+      "existing_word_id": 1357,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "despachar",
+      "english": "to dispatch; to check in baggage",
+      "ukrainian": "відправляти; здавати багаж",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        130
+      ],
+      "existing_word_id": 950,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "despedir",
+      "english": "to dismiss; to say goodbye (with se)",
+      "ukrainian": "звільняти; прощатися (із se)",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        131
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "despertador",
+      "english": "alarm clock",
+      "ukrainian": "будильник",
+      "level": "A1",
+      "groups": [
+        "Common Objects",
+        "Time and Dates"
+      ],
+      "source_row_ids": [
+        132
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "despir",
+      "english": "to undress; to take off clothing",
+      "ukrainian": "роздягати; знімати одяг",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        133,
+        134
+      ],
+      "existing_word_id": 952,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "desporto",
+      "english": "sport",
+      "ukrainian": "спорт",
+      "level": "A1",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        135
+      ],
+      "existing_word_id": 953,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "detestar",
+      "english": "to hate; to detest",
+      "ukrainian": "ненавидіти; терпіти не могти",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        136
+      ],
+      "existing_word_id": 955,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "devagar",
+      "english": "slowly",
+      "ukrainian": "повільно",
+      "level": "A1",
+      "groups": [
+        "Adverbs",
+        "Communication",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        137
+      ],
+      "existing_word_id": 665,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dever",
+      "english": "should; must; to owe",
+      "ukrainian": "мусити; бути зобов'язаним; заборгувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        138
+      ],
+      "existing_word_id": 956,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "devolver",
+      "english": "to return; to give back",
+      "ukrainian": "повертати; віддавати назад",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Shopping and Payments",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        139
+      ],
+      "existing_word_id": 957,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dez",
+      "english": "ten",
+      "ukrainian": "десять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        140
+      ],
+      "existing_word_id": 41,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dezanove",
+      "english": "nineteen",
+      "ukrainian": "дев’ятнадцять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        141
+      ],
+      "existing_word_id": 50,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dezasseis",
+      "english": "sixteen",
+      "ukrainian": "шістнадцять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        142
+      ],
+      "existing_word_id": 47,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dezassete",
+      "english": "seventeen",
+      "ukrainian": "сімнадцять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        143
+      ],
+      "existing_word_id": 48,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dezembro",
+      "english": "December",
+      "ukrainian": "грудень",
+      "level": "A1",
+      "groups": [
+        "Months",
+        "Time and Dates"
+      ],
+      "source_row_ids": [
+        144
+      ],
+      "existing_word_id": 404,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dezenas",
+      "english": "tens; groups of ten",
+      "ukrainian": "десятки",
+      "level": "A2",
+      "groups": [
+        "Numbers"
+      ],
+      "source_row_ids": [
+        145
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "dezoito",
+      "english": "eighteen",
+      "ukrainian": "вісімнадцять",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_row_ids": [
+        146
+      ],
+      "existing_word_id": 49,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dia",
+      "english": "day",
+      "ukrainian": "день",
+      "level": "A2",
+      "groups": [
+        "Common Phrases",
+        "Greetings and Introductions",
+        "Restaurants and Cafés",
+        "Time",
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_row_ids": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "existing_word_id": 420,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "diariamente",
+      "english": "daily; every day",
+      "ukrainian": "щодня",
+      "level": "A2",
+      "groups": [
+        "Adverbs",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        154
+      ],
+      "existing_word_id": 958,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dicionário",
+      "english": "dictionary",
+      "ukrainian": "словник",
+      "level": "A1",
+      "groups": [
+        "Common Objects",
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        155
+      ],
+      "existing_word_id": 959,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dieta",
+      "english": "diet",
+      "ukrainian": "дієта; раціон харчування",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        156
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "diferente",
+      "english": "different",
+      "ukrainian": "інший; відмінний",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Basic Vocabulary",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        158
+      ],
+      "existing_word_id": 1359,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "diferença",
+      "english": "difference",
+      "ukrainian": "різниця; відмінність",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        157
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "difícil",
+      "english": "difficult; hard",
+      "ukrainian": "складний; важкий",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        159
+      ],
+      "existing_word_id": 960,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "dinheiro",
+      "english": "money",
+      "ukrainian": "гроші",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        160
+      ],
+      "existing_word_id": 23,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "direita",
+      "english": "right",
+      "ukrainian": "праворуч; права сторона",
+      "level": "A1",
+      "groups": [
+        "Directions",
+        "Locations and Means of Transport"
+      ],
+      "source_row_ids": [
+        163
+      ],
+      "existing_word_id": 263,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "direito",
+      "english": "right (direction or entitlement); law",
+      "ukrainian": "правий; право; правознавство",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Basic Vocabulary",
+        "Directions"
+      ],
+      "source_row_ids": [
+        161,
+        162
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "disco",
+      "english": "record; disc",
+      "ukrainian": "платівка; диск",
+      "level": "A2",
+      "groups": [
+        "Common Objects",
+        "Sightseeing and Activities",
+        "Technology"
+      ],
+      "source_row_ids": [
+        164
+      ],
+      "existing_word_id": 1738,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "discoteca",
+      "english": "nightclub; disco",
+      "ukrainian": "нічний клуб; дискотека",
+      "level": "A2",
+      "groups": [
+        "Places",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        165
+      ],
+      "existing_word_id": 1739,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "discutir",
+      "english": "to discuss; to argue",
+      "ukrainian": "обговорювати; сперечатися",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        166
+      ],
+      "existing_word_id": 1740,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "distância",
+      "english": "distance",
+      "ukrainian": "відстань",
+      "level": "A2",
+      "groups": [
+        "Directions",
+        "Getting Around"
+      ],
+      "source_row_ids": [
+        167
+      ],
+      "existing_word_id": 1741,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "divertido",
+      "english": "fun; amusing",
+      "ukrainian": "веселий; кумедний",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Emotions",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        168
+      ],
+      "existing_word_id": 1742,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "divertir",
+      "english": "to amuse; to have fun (with se)",
+      "ukrainian": "розважати; розважатися (із se)",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Sightseeing and Activities",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        169
+      ],
+      "existing_word_id": 962,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "do",
+      "english": "of the; from the (de + o)",
+      "ukrainian": "з; від; належність (de + o)",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Restaurants and Cafés",
+        "Time and Dates",
+        "Times of the Day",
+        "Useful Sentences"
+      ],
+      "source_row_ids": [
+        58,
+        153
+      ],
+      "existing_word_id": 641,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "doméstica",
+      "english": "domestic; household (feminine)",
+      "ukrainian": "домашня; побутова",
+      "level": "A2",
+      "groups": [
+        "Accommodation",
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        174
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "em",
+      "english": "in, on",
+      "ukrainian": "у; в; на",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Directions",
+        "Grammatical Words",
+        "Greetings and Introductions",
+        "Prepositions",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        71
+      ],
+      "existing_word_id": 304,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "embora",
+      "english": "away (with verbs of leaving); although",
+      "ukrainian": "геть (із дієсловами відходу); хоча",
+      "level": "A2",
+      "groups": [
+        "Adverbs",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        170
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "embrulhar",
+      "english": "to wrap; to pack",
+      "ukrainian": "загортати; пакувати",
+      "level": "A2",
+      "groups": [
+        "Shopping and Payments",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        171
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "ementa",
+      "english": "menu",
+      "ukrainian": "меню",
+      "level": "A1",
+      "groups": [
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        172
+      ],
+      "existing_word_id": 972,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "empregada",
+      "english": "employee; waitress (feminine)",
+      "ukrainian": "працівниця; офіціантка",
+      "level": "A1",
+      "groups": [
+        "Occupations",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        174
+      ],
+      "existing_word_id": 973,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "empregado",
+      "english": "employee; waiter (masculine)",
+      "ukrainian": "працівник; офіціант",
+      "level": "A1",
+      "groups": [
+        "Occupations",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        175
+      ],
+      "existing_word_id": 974,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "emprego",
+      "english": "job; employment",
+      "ukrainian": "робота; зайнятість",
+      "level": "A1",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        173
+      ],
+      "existing_word_id": 975,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "empresa",
+      "english": "company; business",
+      "ukrainian": "компанія; підприємство",
+      "level": "A1",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        176
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "emprestar",
+      "english": "to lend",
+      "ukrainian": "позичати комусь; давати в борг",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        178
+      ],
+      "existing_word_id": 976,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "empresário",
+      "english": "businessman; entrepreneur",
+      "ukrainian": "підприємець; бізнесмен",
+      "level": "A2",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        177
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "empurre",
+      "english": "push (formal imperative of empurrar)",
+      "ukrainian": "штовхніть (наказова форма empurrar)",
+      "level": "A1",
+      "groups": [
+        "Directions",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        179
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "encerrar",
+      "english": "to close; to end",
+      "ukrainian": "закривати; завершувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        180
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "encomenda",
+      "english": "order; parcel",
+      "ukrainian": "замовлення; посилка",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Shopping and Payments"
+      ],
+      "source_row_ids": [
+        181
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "encomendar",
+      "english": "to order; to place an order",
+      "ukrainian": "замовляти",
+      "level": "A2",
+      "groups": [
+        "Shopping and Payments",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        182
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "encontrar",
+      "english": "to find",
+      "ukrainian": "знаходити",
+      "level": "A1",
+      "groups": [
+        "Getting Around",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        183,
+        184
+      ],
+      "existing_word_id": 614,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "encontro",
+      "english": "meeting; encounter; date",
+      "ukrainian": "зустріч; побачення",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        185
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "enfermeiro",
+      "english": "nurse (masculine)",
+      "ukrainian": "медбрат",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health",
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        186
+      ],
+      "existing_word_id": 724,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "engenheiro",
+      "english": "engineer (masculine)",
+      "ukrainian": "інженер",
+      "level": "A2",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        187
+      ],
+      "existing_word_id": 728,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "engordar",
+      "english": "to gain weight; to put on weight",
+      "ukrainian": "повніти; набирати вагу",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        188
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "enorme",
+      "english": "enormous; huge",
+      "ukrainian": "величезний",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        189
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "ensinar",
+      "english": "to teach",
+      "ukrainian": "навчати",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "School",
+        "School and Work",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        190
+      ],
+      "existing_word_id": 1373,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "entrada",
+      "english": "entrance; admission; starter",
+      "ukrainian": "вхід; плата за вхід; закуска",
+      "level": "A1",
+      "groups": [
+        "Food and Drink",
+        "Restaurants and Cafés",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        192,
+        193
+      ],
+      "existing_word_id": 978,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "entrar",
+      "english": "to enter; to go in",
+      "ukrainian": "входити; заходити",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        194
+      ],
+      "existing_word_id": 979,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "entre",
+      "english": "between",
+      "ukrainian": "між",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        195
+      ],
+      "existing_word_id": 340,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "entrevista",
+      "english": "interview",
+      "ukrainian": "інтерв'ю; співбесіда",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        196
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "então",
+      "english": "then; so",
+      "ukrainian": "тоді; отже",
+      "level": "A1",
+      "groups": [
+        "Adverbs"
+      ],
+      "source_row_ids": [
+        191
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "envelope",
+      "english": "envelope",
+      "ukrainian": "конверт",
+      "level": "A1",
+      "groups": [
+        "Common Objects",
+        "Communication"
+      ],
+      "source_row_ids": [
+        197
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "enviar",
+      "english": "to send",
+      "ukrainian": "надсилати",
+      "level": "A2",
+      "groups": [
+        "Communication",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        198
+      ],
+      "existing_word_id": 980,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "errado",
+      "english": "wrong; incorrect",
+      "ukrainian": "неправильний; помилковий",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Basic Vocabulary",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        199
+      ],
+      "existing_word_id": 1375,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escadas",
+      "english": "stairs; stairway",
+      "ukrainian": "сходи",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Directions"
+      ],
+      "source_row_ids": [
+        200
+      ],
+      "existing_word_id": 1728,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escola",
+      "english": "school",
+      "ukrainian": "школа",
+      "level": "A1",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places",
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        201
+      ],
+      "existing_word_id": 256,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escolher",
+      "english": "to choose",
+      "ukrainian": "вибирати; обирати",
+      "level": "A2",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        202
+      ],
+      "existing_word_id": 981,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escreve",
+      "english": "writes; write (escrever: present third-person singular or informal singular imperative)",
+      "ukrainian": "пише; пиши (форма escrever)",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        204
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "escrever",
+      "english": "to write",
+      "ukrainian": "писати",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Grammatical Words",
+        "School",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        203
+      ],
+      "existing_word_id": 982,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escritório",
+      "english": "office",
+      "ukrainian": "офіс; кабінет",
+      "level": "A1",
+      "groups": [
+        "Locations and Means of Transport",
+        "Places",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        205
+      ],
+      "existing_word_id": 983,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "escuro",
+      "english": "dark",
+      "ukrainian": "темний",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        206
+      ],
+      "existing_word_id": 377,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "espanhol",
+      "english": "Spanish; Spanish man",
+      "ukrainian": "іспанська мова; іспанський; іспанець",
+      "level": "A1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        208
+      ],
+      "existing_word_id": 985,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "espaço",
+      "english": "space; room (available space)",
+      "ukrainian": "простір; місце",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        207
+      ],
+      "existing_word_id": 1757,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "especial",
+      "english": "special",
+      "ukrainian": "особливий",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        209
+      ],
+      "existing_word_id": 987,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "espelho",
+      "english": "mirror",
+      "ukrainian": "дзеркало",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        210
+      ],
+      "existing_word_id": 1382,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "estar",
+      "english": "to be (states, feelings, or location)",
+      "ukrainian": "бути (стан або місцеперебування)",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        21,
+        22
+      ],
+      "existing_word_id": 343,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "exame",
+      "english": "exam; examination",
+      "ukrainian": "іспит; обстеження",
+      "level": "A2",
+      "groups": [
+        "School",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        66
+      ],
+      "existing_word_id": 1388,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "fazer",
+      "english": "to do, to make",
+      "ukrainian": "робити",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Questions",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        22,
+        29
+      ],
+      "existing_word_id": 345,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "futebol",
+      "english": "football; soccer",
+      "ukrainian": "футбол",
+      "level": "A1",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        83
+      ],
+      "existing_word_id": 1022,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "história",
+      "english": "story",
+      "ukrainian": "історія",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        94
+      ],
+      "existing_word_id": 180,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "ir",
+      "english": "to go",
+      "ukrainian": "йти; їхати",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        170
+      ],
+      "existing_word_id": 348,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "laranja",
+      "english": "orange (fruit); orange (color)",
+      "ukrainian": "апельсин; помаранчевий",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        105
+      ],
+      "existing_word_id": 716,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "mesa",
+      "english": "table",
+      "ukrainian": "стіл",
+      "level": "A1",
+      "groups": [
+        "Accommodation",
+        "Basic Vocabulary",
+        "Common Objects",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        175
+      ],
+      "existing_word_id": 14,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "municipal",
+      "english": "municipal; relating to a town or city",
+      "ukrainian": "муніципальний; міський",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        24
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "médica",
+      "english": "doctor (feminine)",
+      "ukrainian": "лікарка",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health",
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        90
+      ],
+      "existing_word_id": 723,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "música",
+      "english": "music",
+      "ukrainian": "музика",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        80
+      ],
+      "existing_word_id": 181,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "num",
+      "english": "in a; on a (em + um)",
+      "ukrainian": "у; в; на (em + um, з неозначеним артиклем чоловічого роду)",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        66
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "patrício",
+      "english": "Patrick (male given name)",
+      "ukrainian": "Патрик (чоловіче ім'я)",
+      "level": "A2",
+      "groups": [
+        "Greetings and Introductions"
+      ],
+      "source_row_ids": [
+        151
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "postal",
+      "english": "postcard; postal",
+      "ukrainian": "поштівка; поштовий",
+      "level": "A1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        86
+      ],
+      "existing_word_id": 1152,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "se",
+      "english": "oneself; impersonal or reflexive pronoun",
+      "ukrainian": "себе; зворотний або безособовий займенник",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Getting Around",
+        "Grammatical Words",
+        "Greetings and Introductions",
+        "Pronouns",
+        "Useful Sentences"
+      ],
+      "source_row_ids": [
+        13,
+        19,
+        51,
+        130,
+        131,
+        134,
+        169,
+        170,
+        184,
+        204
+      ],
+      "existing_word_id": 587,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "segurança",
+      "english": "safety; security",
+      "ukrainian": "безпека; охорона",
+      "level": "A2",
+      "groups": [
+        "Basic Vocabulary"
+      ],
+      "source_row_ids": [
+        75
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "semana",
+      "english": "week",
+      "ukrainian": "тиждень",
+      "level": "A1",
+      "groups": [
+        "Time",
+        "Time and Dates"
+      ],
+      "source_row_ids": [
+        149
+      ],
+      "existing_word_id": 421,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "simples",
+      "english": "simple; plain",
+      "ukrainian": "простий; без добавок",
+      "level": "A1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        124
+      ],
+      "existing_word_id": 1732,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "são",
+      "english": "Saint (before male names); are (form of ser)",
+      "ukrainian": "святий (перед чоловічими іменами); є (форма ser)",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        151,
+        152
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "telefone",
+      "english": "phone",
+      "ukrainian": "телефон",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Communication",
+        "Technology"
+      ],
+      "source_row_ids": [
+        50
+      ],
+      "existing_word_id": 152,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "tomar",
+      "english": "to take; to have (food or drink)",
+      "ukrainian": "брати; приймати; пити; їсти",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        93
+      ],
+      "existing_word_id": 1222,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "trabalhador",
+      "english": "worker; hardworking (adjective)",
+      "ukrainian": "працівник; працьовитий (прикметник)",
+      "level": "A1",
+      "groups": [
+        "Adjectives",
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        153
+      ],
+      "existing_word_id": 1958,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "uma",
+      "english": "a; an (feminine); one",
+      "ukrainian": "неозначений артикль жіночого роду; одна",
+      "level": "A1",
+      "groups": [
+        "Communication",
+        "Emergencies and Health",
+        "Grammatical Words",
+        "Restaurants and Cafés",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        94
+      ],
+      "existing_word_id": 634,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "valentim",
+      "english": "Valentine (male given name)",
+      "ukrainian": "Валентин (чоловіче ім'я)",
+      "level": "A2",
+      "groups": [
+        "Greetings and Introductions"
+      ],
+      "source_row_ids": [
+        152
+      ],
+      "existing_word_id": null,
+      "translation_provenance": "assistant_translation",
+      "level_provenance": "assistant_CEFR_estimate"
+    },
+    {
+      "portuguese": "à",
+      "english": "to the; at the (a + a)",
+      "ukrainian": "до; у; на (із означеним артиклем жіночого роду)",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        163
+      ],
+      "existing_word_id": 1733,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    },
+    {
+      "portuguese": "água",
+      "english": "water",
+      "ukrainian": "вода",
+      "level": "A1",
+      "groups": [
+        "Basic Vocabulary",
+        "Food and Drink",
+        "Restaurants and Cafés"
+      ],
+      "source_row_ids": [
+        84
+      ],
+      "existing_word_id": 5,
+      "translation_provenance": "existing_database_preserved",
+      "level_provenance": "existing_database_preserved"
+    }
+  ]
+}

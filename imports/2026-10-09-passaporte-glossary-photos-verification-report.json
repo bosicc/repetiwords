@@ -1,0 +1,214 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 90,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1595,
+      "portuguese": "abraço"
+    },
+    {
+      "id": 1596,
+      "portuguese": "acaso"
+    },
+    {
+      "id": 1597,
+      "portuguese": "acender"
+    },
+    {
+      "id": 1598,
+      "portuguese": "acesso"
+    },
+    {
+      "id": 1599,
+      "portuguese": "achar"
+    },
+    {
+      "id": 1600,
+      "portuguese": "admirar"
+    },
+    {
+      "id": 1601,
+      "portuguese": "adormecer"
+    },
+    {
+      "id": 1602,
+      "portuguese": "adotar"
+    },
+    {
+      "id": 1603,
+      "portuguese": "agradável"
+    },
+    {
+      "id": 1604,
+      "portuguese": "ajuda"
+    },
+    {
+      "id": 1605,
+      "portuguese": "alegre"
+    },
+    {
+      "id": 1606,
+      "portuguese": "alimentação"
+    },
+    {
+      "id": 1607,
+      "portuguese": "alojamento"
+    },
+    {
+      "id": 1608,
+      "portuguese": "alterar"
+    },
+    {
+      "id": 1609,
+      "portuguese": "altura"
+    },
+    {
+      "id": 1610,
+      "portuguese": "além"
+    },
+    {
+      "id": 1611,
+      "portuguese": "ambiente"
+    },
+    {
+      "id": 1612,
+      "portuguese": "ambos"
+    },
+    {
+      "id": 1613,
+      "portuguese": "angolano"
+    },
+    {
+      "id": 1614,
+      "portuguese": "anos"
+    },
+    {
+      "id": 1615,
+      "portuguese": "antipático"
+    },
+    {
+      "id": 1616,
+      "portuguese": "anualmente"
+    },
+    {
+      "id": 1617,
+      "portuguese": "anúncio"
+    },
+    {
+      "id": 1618,
+      "portuguese": "apagar"
+    },
+    {
+      "id": 1619,
+      "portuguese": "apaixonar"
+    },
+    {
+      "id": 1620,
+      "portuguese": "aparecer"
+    },
+    {
+      "id": 1621,
+      "portuguese": "aparência"
+    },
+    {
+      "id": 1622,
+      "portuguese": "apetecer"
+    },
+    {
+      "id": 1623,
+      "portuguese": "apetite"
+    },
+    {
+      "id": 1624,
+      "portuguese": "ação"
+    },
+    {
+      "id": 1625,
+      "portuguese": "disso"
+    },
+    {
+      "id": 1626,
+      "portuguese": "física"
+    },
+    {
+      "id": 1627,
+      "portuguese": "média"
+    },
+    {
+      "id": 1628,
+      "portuguese": "na"
+    },
+    {
+      "id": 1629,
+      "portuguese": "naquela"
+    },
+    {
+      "id": 1630,
+      "portuguese": "viagens"
+    },
+    {
+      "id": 1631,
+      "portuguese": "álcool"
+    }
+  ],
+  "counts_after": {
+    "words": 1470,
+    "groups": 50,
+    "word_groups": 3235,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T14:42:05.079151+00:00"
+}

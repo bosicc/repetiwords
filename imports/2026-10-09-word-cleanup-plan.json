@@ -1,0 +1,4959 @@
+{
+  "source": "local SQLite vocabulary cleanup",
+  "prepared_at": "2026-10-09",
+  "replacements": [
+    {
+      "id": 2,
+      "portuguese": "obrigado / obrigada",
+      "components": [
+        "obrigado",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 3,
+      "portuguese": "por favor",
+      "components": [
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 4,
+      "portuguese": "bom dia",
+      "components": [
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": 28,
+      "portuguese": "máquina de lavar",
+      "components": [
+        "máquina",
+        "de",
+        "lavar"
+      ]
+    },
+    {
+      "id": 52,
+      "portuguese": "vinte e um",
+      "components": [
+        "vinte",
+        "e",
+        "um"
+      ]
+    },
+    {
+      "id": 61,
+      "portuguese": "cento e um",
+      "components": [
+        "cento",
+        "e",
+        "um"
+      ]
+    },
+    {
+      "id": 71,
+      "portuguese": "um milhão",
+      "components": [
+        "um",
+        "milhão"
+      ]
+    },
+    {
+      "id": 72,
+      "portuguese": "dois milhões",
+      "components": [
+        "dois",
+        "milhões"
+      ]
+    },
+    {
+      "id": 73,
+      "portuguese": "mil milhões",
+      "components": [
+        "mil",
+        "milhões"
+      ]
+    },
+    {
+      "id": 74,
+      "portuguese": "dois mil milhões",
+      "components": [
+        "dois",
+        "mil",
+        "milhões"
+      ]
+    },
+    {
+      "id": 75,
+      "portuguese": "primeiro/a",
+      "components": [
+        "primeiro",
+        "primeira"
+      ]
+    },
+    {
+      "id": 76,
+      "portuguese": "segundo/a",
+      "components": [
+        "segundo",
+        "segunda"
+      ]
+    },
+    {
+      "id": 77,
+      "portuguese": "terceiro/a",
+      "components": [
+        "terceiro",
+        "terceira"
+      ]
+    },
+    {
+      "id": 78,
+      "portuguese": "quarto/a",
+      "components": [
+        "quarto",
+        "quarta"
+      ]
+    },
+    {
+      "id": 79,
+      "portuguese": "quinto/a",
+      "components": [
+        "quinto",
+        "quinta"
+      ]
+    },
+    {
+      "id": 120,
+      "portuguese": "cor de rosa",
+      "components": [
+        "cor",
+        "de",
+        "rosa"
+      ]
+    },
+    {
+      "id": 122,
+      "portuguese": "cor de laranja",
+      "components": [
+        "cor",
+        "de",
+        "laranja"
+      ]
+    },
+    {
+      "id": 133,
+      "portuguese": "óculos de sol",
+      "components": [
+        "óculos",
+        "de",
+        "sol"
+      ]
+    },
+    {
+      "id": 237,
+      "portuguese": "passageiro/a",
+      "components": [
+        "passageiro",
+        "passageira"
+      ]
+    },
+    {
+      "id": 271,
+      "portuguese": "aluno/a",
+      "components": [
+        "aluno",
+        "aluna"
+      ]
+    },
+    {
+      "id": 274,
+      "portuguese": "diretor/a",
+      "components": [
+        "diretor",
+        "diretora"
+      ]
+    },
+    {
+      "id": 282,
+      "portuguese": "médico/a",
+      "components": [
+        "médico",
+        "médica"
+      ]
+    },
+    {
+      "id": 283,
+      "portuguese": "enfermeiro/a",
+      "components": [
+        "enfermeiro",
+        "enfermeira"
+      ]
+    },
+    {
+      "id": 284,
+      "portuguese": "professor/a",
+      "components": [
+        "professor",
+        "professora"
+      ]
+    },
+    {
+      "id": 285,
+      "portuguese": "engenheiro/a",
+      "components": [
+        "engenheiro",
+        "engenheira"
+      ]
+    },
+    {
+      "id": 286,
+      "portuguese": "arquiteto/a",
+      "components": [
+        "arquiteto",
+        "arquiteta"
+      ]
+    },
+    {
+      "id": 287,
+      "portuguese": "advogado/a",
+      "components": [
+        "advogado",
+        "advogada"
+      ]
+    },
+    {
+      "id": 289,
+      "portuguese": "bombeiro/a",
+      "components": [
+        "bombeiro",
+        "bombeira"
+      ]
+    },
+    {
+      "id": 291,
+      "portuguese": "cozinheiro/a",
+      "components": [
+        "cozinheiro",
+        "cozinheira"
+      ]
+    },
+    {
+      "id": 292,
+      "portuguese": "vendedor/a",
+      "components": [
+        "vendedor",
+        "vendedora"
+      ]
+    },
+    {
+      "id": 293,
+      "portuguese": "agricultor/a",
+      "components": [
+        "agricultor",
+        "agricultora"
+      ]
+    },
+    {
+      "id": 296,
+      "portuguese": "pintor/a",
+      "components": [
+        "pintor",
+        "pintora"
+      ]
+    },
+    {
+      "id": 297,
+      "portuguese": "escritor/a",
+      "components": [
+        "escritor",
+        "escritora"
+      ]
+    },
+    {
+      "id": 299,
+      "portuguese": "fotógrafo/a",
+      "components": [
+        "fotógrafo",
+        "fotógrafa"
+      ]
+    },
+    {
+      "id": 300,
+      "portuguese": "a/o",
+      "components": [
+        "a",
+        "o"
+      ]
+    },
+    {
+      "id": 321,
+      "portuguese": "nosso/a",
+      "components": [
+        "nosso",
+        "nossa"
+      ]
+    },
+    {
+      "id": 322,
+      "portuguese": "vosso/a",
+      "components": [
+        "vosso",
+        "vossa"
+      ]
+    },
+    {
+      "id": 331,
+      "portuguese": "às vezes",
+      "components": [
+        "às",
+        "vezes"
+      ]
+    },
+    {
+      "id": 367,
+      "portuguese": "pequeno/a",
+      "components": [
+        "pequeno",
+        "pequena"
+      ]
+    },
+    {
+      "id": 368,
+      "portuguese": "velho/a",
+      "components": [
+        "velho",
+        "velha"
+      ]
+    },
+    {
+      "id": 369,
+      "portuguese": "novo/a",
+      "components": [
+        "novo",
+        "nova"
+      ]
+    },
+    {
+      "id": 370,
+      "portuguese": "alto/a",
+      "components": [
+        "alto",
+        "alta"
+      ]
+    },
+    {
+      "id": 371,
+      "portuguese": "baixo/a",
+      "components": [
+        "baixo",
+        "baixa"
+      ]
+    },
+    {
+      "id": 372,
+      "portuguese": "largo/a",
+      "components": [
+        "largo",
+        "larga"
+      ]
+    },
+    {
+      "id": 373,
+      "portuguese": "estreito/a",
+      "components": [
+        "estreito",
+        "estreita"
+      ]
+    },
+    {
+      "id": 375,
+      "portuguese": "fraco/a",
+      "components": [
+        "fraco",
+        "fraca"
+      ]
+    },
+    {
+      "id": 382,
+      "portuguese": "curto/a",
+      "components": [
+        "curto",
+        "curta"
+      ]
+    },
+    {
+      "id": 383,
+      "portuguese": "longo/a",
+      "components": [
+        "longo",
+        "longa"
+      ]
+    },
+    {
+      "id": 384,
+      "portuguese": "bonito/a",
+      "components": [
+        "bonito",
+        "bonita"
+      ]
+    },
+    {
+      "id": 385,
+      "portuguese": "giro/a",
+      "components": [
+        "giro",
+        "gira"
+      ]
+    },
+    {
+      "id": 409,
+      "portuguese": "nascer do sol",
+      "components": [
+        "nascer",
+        "do",
+        "sol"
+      ]
+    },
+    {
+      "id": 413,
+      "portuguese": "pôr do sol",
+      "components": [
+        "pôr",
+        "do",
+        "sol"
+      ]
+    },
+    {
+      "id": 424,
+      "portuguese": "fim de semana",
+      "components": [
+        "fim",
+        "de",
+        "semana"
+      ]
+    },
+    {
+      "id": 426,
+      "portuguese": "dia útil",
+      "components": [
+        "dia",
+        "útil"
+      ]
+    },
+    {
+      "id": 429,
+      "portuguese": "ano novo",
+      "components": [
+        "ano",
+        "novo"
+      ]
+    },
+    {
+      "id": 449,
+      "portuguese": "primo/a",
+      "components": [
+        "primo",
+        "prima"
+      ]
+    },
+    {
+      "id": 454,
+      "portuguese": "bisneto/a",
+      "components": [
+        "bisneto",
+        "bisneta"
+      ]
+    },
+    {
+      "id": 455,
+      "portuguese": "amigo/a",
+      "components": [
+        "amigo",
+        "amiga"
+      ]
+    },
+    {
+      "id": 456,
+      "portuguese": "melhor amigo",
+      "components": [
+        "melhor",
+        "amigo"
+      ]
+    },
+    {
+      "id": 459,
+      "portuguese": "zangado/a",
+      "components": [
+        "zangado",
+        "zangada"
+      ]
+    },
+    {
+      "id": 460,
+      "portuguese": "cansado/a",
+      "components": [
+        "cansado",
+        "cansada"
+      ]
+    },
+    {
+      "id": 461,
+      "portuguese": "assustado/a",
+      "components": [
+        "assustado",
+        "assustada"
+      ]
+    },
+    {
+      "id": 462,
+      "portuguese": "animado/a",
+      "components": [
+        "animado",
+        "animada"
+      ]
+    },
+    {
+      "id": 464,
+      "portuguese": "aborrecido/a",
+      "components": [
+        "aborrecido",
+        "aborrecida"
+      ]
+    },
+    {
+      "id": 465,
+      "portuguese": "apaixonado/a",
+      "components": [
+        "apaixonado",
+        "apaixonada"
+      ]
+    },
+    {
+      "id": 466,
+      "portuguese": "ansioso/a",
+      "components": [
+        "ansioso",
+        "ansiosa"
+      ]
+    },
+    {
+      "id": 467,
+      "portuguese": "calmo/a",
+      "components": [
+        "calmo",
+        "calma"
+      ]
+    },
+    {
+      "id": 468,
+      "portuguese": "deprimido/a",
+      "components": [
+        "deprimido",
+        "deprimida"
+      ]
+    },
+    {
+      "id": 469,
+      "portuguese": "esperançoso/a",
+      "components": [
+        "esperançoso",
+        "esperançosa"
+      ]
+    },
+    {
+      "id": 470,
+      "portuguese": "orgulhoso/a",
+      "components": [
+        "orgulhoso",
+        "orgulhosa"
+      ]
+    },
+    {
+      "id": 471,
+      "portuguese": "nervoso/a",
+      "components": [
+        "nervoso",
+        "nervosa"
+      ]
+    },
+    {
+      "id": 472,
+      "portuguese": "boa tarde",
+      "components": [
+        "boa",
+        "tarde"
+      ]
+    },
+    {
+      "id": 473,
+      "portuguese": "boa noite",
+      "components": [
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": 478,
+      "portuguese": "com licença",
+      "components": [
+        "com",
+        "licença"
+      ]
+    },
+    {
+      "id": 482,
+      "portuguese": "tudo bem?",
+      "components": [
+        "tudo",
+        "bem"
+      ]
+    },
+    {
+      "id": 483,
+      "portuguese": "como está?",
+      "components": [
+        "como",
+        "está"
+      ]
+    },
+    {
+      "id": 484,
+      "portuguese": "estou bem",
+      "components": [
+        "estou",
+        "bem"
+      ]
+    },
+    {
+      "id": 485,
+      "portuguese": "muito obrigado",
+      "components": [
+        "muito",
+        "obrigado"
+      ]
+    },
+    {
+      "id": 486,
+      "portuguese": "de nada",
+      "components": [
+        "de",
+        "nada"
+      ]
+    },
+    {
+      "id": 487,
+      "portuguese": "até logo",
+      "components": [
+        "até",
+        "logo"
+      ]
+    },
+    {
+      "id": 488,
+      "portuguese": "até amanhã",
+      "components": [
+        "até",
+        "amanhã"
+      ]
+    },
+    {
+      "id": 489,
+      "portuguese": "bom trabalho",
+      "components": [
+        "bom",
+        "trabalho"
+      ]
+    },
+    {
+      "id": 490,
+      "portuguese": "tudo de bom!",
+      "components": [
+        "tudo",
+        "de",
+        "bom"
+      ]
+    },
+    {
+      "id": 491,
+      "portuguese": "o quê",
+      "components": [
+        "o",
+        "quê"
+      ]
+    },
+    {
+      "id": 499,
+      "portuguese": "quantos/as",
+      "components": [
+        "quantos",
+        "quantas"
+      ]
+    },
+    {
+      "id": 501,
+      "portuguese": "de quem",
+      "components": [
+        "de",
+        "quem"
+      ]
+    },
+    {
+      "id": 502,
+      "portuguese": "como vai?",
+      "components": [
+        "como",
+        "vai"
+      ]
+    },
+    {
+      "id": 503,
+      "portuguese": "eu estou bem",
+      "components": [
+        "eu",
+        "estou",
+        "bem"
+      ]
+    },
+    {
+      "id": 504,
+      "portuguese": "o meu nome é [name]",
+      "components": [
+        "o",
+        "meu",
+        "nome",
+        "é"
+      ]
+    },
+    {
+      "id": 505,
+      "portuguese": "como se chama?",
+      "components": [
+        "como",
+        "se",
+        "chama"
+      ]
+    },
+    {
+      "id": 506,
+      "portuguese": "muito prazer em conhecê-lo",
+      "components": [
+        "muito",
+        "prazer",
+        "em",
+        "conhecer",
+        "lo"
+      ]
+    },
+    {
+      "id": 507,
+      "portuguese": "muito prazer em conhecê-la",
+      "components": [
+        "muito",
+        "prazer",
+        "em",
+        "conhecer",
+        "la"
+      ]
+    },
+    {
+      "id": 508,
+      "portuguese": "muito obrigada",
+      "components": [
+        "muito",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 509,
+      "portuguese": "onde fica a casa de banho?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "casa",
+        "de",
+        "banho"
+      ]
+    },
+    {
+      "id": 510,
+      "portuguese": "como chego ao centro da cidade?",
+      "components": [
+        "como",
+        "chego",
+        "ao",
+        "centro",
+        "da",
+        "cidade"
+      ]
+    },
+    {
+      "id": 511,
+      "portuguese": "qual é o melhor caminho para o aeroporto?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "melhor",
+        "caminho",
+        "para",
+        "aeroporto"
+      ]
+    },
+    {
+      "id": 512,
+      "portuguese": "onde fica a estação de comboios?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "estação",
+        "de",
+        "comboios"
+      ]
+    },
+    {
+      "id": 513,
+      "portuguese": "quando é o próximo comboio?",
+      "components": [
+        "quando",
+        "é",
+        "o",
+        "próximo",
+        "comboio"
+      ]
+    },
+    {
+      "id": 514,
+      "portuguese": "onde é a saída?",
+      "components": [
+        "onde",
+        "é",
+        "a",
+        "saída"
+      ]
+    },
+    {
+      "id": 515,
+      "portuguese": "onde fica a paragem de autocarro mais próxima?",
+      "components": [
+        "onde",
+        "fica",
+        "a",
+        "paragem",
+        "de",
+        "autocarro",
+        "mais",
+        "próxima"
+      ]
+    },
+    {
+      "id": 516,
+      "portuguese": "a que horas é o próximo autocarro?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "é",
+        "o",
+        "próximo",
+        "autocarro"
+      ]
+    },
+    {
+      "id": 517,
+      "portuguese": "este autocarro vai para…?",
+      "components": [
+        "este",
+        "autocarro",
+        "vai",
+        "para"
+      ]
+    },
+    {
+      "id": 518,
+      "portuguese": "este autocarro vai para onde?",
+      "components": [
+        "este",
+        "autocarro",
+        "vai",
+        "para",
+        "onde"
+      ]
+    },
+    {
+      "id": 519,
+      "portuguese": "pode chamar um táxi, por favor?",
+      "components": [
+        "pode",
+        "chamar",
+        "um",
+        "táxi",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 520,
+      "portuguese": "onde posso encontrar um táxi?",
+      "components": [
+        "onde",
+        "posso",
+        "encontrar",
+        "um",
+        "táxi"
+      ]
+    },
+    {
+      "id": 521,
+      "portuguese": "onde se apanha o metro?",
+      "components": [
+        "onde",
+        "se",
+        "apanha",
+        "o",
+        "metro"
+      ]
+    },
+    {
+      "id": 522,
+      "portuguese": "há algum supermercado por perto?",
+      "components": [
+        "há",
+        "algum",
+        "supermercado",
+        "por",
+        "perto"
+      ]
+    },
+    {
+      "id": 523,
+      "portuguese": "é longe daqui?",
+      "components": [
+        "é",
+        "longe",
+        "daqui"
+      ]
+    },
+    {
+      "id": 524,
+      "portuguese": "onde posso alugar um carro?",
+      "components": [
+        "onde",
+        "posso",
+        "alugar",
+        "um",
+        "carro"
+      ]
+    },
+    {
+      "id": 525,
+      "portuguese": "ao lado",
+      "components": [
+        "ao",
+        "lado"
+      ]
+    },
+    {
+      "id": 528,
+      "portuguese": "em frente",
+      "components": [
+        "em",
+        "frente"
+      ]
+    },
+    {
+      "id": 529,
+      "portuguese": "quanto custa isto?",
+      "components": [
+        "quanto",
+        "custa",
+        "isto"
+      ]
+    },
+    {
+      "id": 530,
+      "portuguese": "posso pagar com cartão?",
+      "components": [
+        "posso",
+        "pagar",
+        "com",
+        "cartão"
+      ]
+    },
+    {
+      "id": 531,
+      "portuguese": "aceita cartão de crédito ou débito?",
+      "components": [
+        "aceita",
+        "cartão",
+        "de",
+        "crédito",
+        "ou",
+        "débito"
+      ]
+    },
+    {
+      "id": 532,
+      "portuguese": "há algum desconto?",
+      "components": [
+        "há",
+        "algum",
+        "desconto"
+      ]
+    },
+    {
+      "id": 533,
+      "portuguese": "onde é que eu posso trocar dinheiro perto daqui?",
+      "components": [
+        "onde",
+        "é",
+        "que",
+        "eu",
+        "posso",
+        "trocar",
+        "dinheiro",
+        "perto",
+        "daqui"
+      ]
+    },
+    {
+      "id": 534,
+      "portuguese": "estou só a ver, obrigado.",
+      "components": [
+        "estou",
+        "só",
+        "a",
+        "ver",
+        "obrigado"
+      ]
+    },
+    {
+      "id": 535,
+      "portuguese": "estou só a ver, obrigada.",
+      "components": [
+        "estou",
+        "só",
+        "a",
+        "ver",
+        "obrigada"
+      ]
+    },
+    {
+      "id": 536,
+      "portuguese": "posso reservar uma mesa?",
+      "components": [
+        "posso",
+        "reservar",
+        "uma",
+        "mesa"
+      ]
+    },
+    {
+      "id": 537,
+      "portuguese": "eu tenho uma reserva",
+      "components": [
+        "eu",
+        "tenho",
+        "uma",
+        "reserva"
+      ]
+    },
+    {
+      "id": 538,
+      "portuguese": "tem um menu em inglês?",
+      "components": [
+        "tem",
+        "um",
+        "menu",
+        "em",
+        "inglês"
+      ]
+    },
+    {
+      "id": 539,
+      "portuguese": "qual é o prato do dia?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "prato",
+        "do",
+        "dia"
+      ]
+    },
+    {
+      "id": 540,
+      "portuguese": "posso experimentar?",
+      "components": [
+        "posso",
+        "experimentar"
+      ]
+    },
+    {
+      "id": 541,
+      "portuguese": "tem algo sem glúten?",
+      "components": [
+        "tem",
+        "algo",
+        "sem",
+        "glúten"
+      ]
+    },
+    {
+      "id": 542,
+      "portuguese": "pode recomendar um restaurante?",
+      "components": [
+        "pode",
+        "recomendar",
+        "um",
+        "restaurante"
+      ]
+    },
+    {
+      "id": 543,
+      "portuguese": "tem algo para vegetarianos?",
+      "components": [
+        "tem",
+        "algo",
+        "para",
+        "vegetarianos"
+      ]
+    },
+    {
+      "id": 544,
+      "portuguese": "qual é a especialidade da casa?",
+      "components": [
+        "qual",
+        "é",
+        "a",
+        "especialidade",
+        "da",
+        "casa"
+      ]
+    },
+    {
+      "id": 545,
+      "portuguese": "o que recomenda?",
+      "components": [
+        "o",
+        "que",
+        "recomenda"
+      ]
+    },
+    {
+      "id": 546,
+      "portuguese": "queria uma garrafa de água fresca, por favor.",
+      "components": [
+        "queria",
+        "uma",
+        "garrafa",
+        "de",
+        "água",
+        "fresca",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 547,
+      "portuguese": "queria pedir a conta, por favor.",
+      "components": [
+        "queria",
+        "pedir",
+        "a",
+        "conta",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 548,
+      "portuguese": "tem quartos disponíveis?",
+      "components": [
+        "tem",
+        "quartos",
+        "disponíveis"
+      ]
+    },
+    {
+      "id": 549,
+      "portuguese": "qual é o preço por noite?",
+      "components": [
+        "qual",
+        "é",
+        "o",
+        "preço",
+        "por",
+        "noite"
+      ]
+    },
+    {
+      "id": 550,
+      "portuguese": "posso ver o quarto antes?",
+      "components": [
+        "posso",
+        "ver",
+        "o",
+        "quarto",
+        "antes"
+      ]
+    },
+    {
+      "id": 551,
+      "portuguese": "a que horas servem o pequeno-almoço?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "servem",
+        "o",
+        "pequeno-almoço"
+      ]
+    },
+    {
+      "id": 552,
+      "portuguese": "pode recomendar-me um hotel?",
+      "components": [
+        "pode",
+        "recomendar",
+        "me",
+        "um",
+        "hotel"
+      ]
+    },
+    {
+      "id": 553,
+      "portuguese": "pode ajudar-me, por favor?",
+      "components": [
+        "pode",
+        "ajudar",
+        "me",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 554,
+      "portuguese": "preciso de uma informação, por favor.",
+      "components": [
+        "preciso",
+        "de",
+        "uma",
+        "informação",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 555,
+      "portuguese": "pode falar mais devagar, por favor?",
+      "components": [
+        "pode",
+        "falar",
+        "mais",
+        "devagar",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 556,
+      "portuguese": "como se diz isto em português?",
+      "components": [
+        "como",
+        "se",
+        "diz",
+        "isto",
+        "em",
+        "português"
+      ]
+    },
+    {
+      "id": 557,
+      "portuguese": "a senha do wi-fi, por favor.",
+      "components": [
+        "a",
+        "senha",
+        "do",
+        "wi-fi",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 558,
+      "portuguese": "fala inglês?",
+      "components": [
+        "fala",
+        "inglês"
+      ]
+    },
+    {
+      "id": 559,
+      "portuguese": "desculpe, não falo português.",
+      "components": [
+        "desculpe",
+        "não",
+        "falo",
+        "português"
+      ]
+    },
+    {
+      "id": 560,
+      "portuguese": "não percebo.",
+      "components": [
+        "não",
+        "percebo"
+      ]
+    },
+    {
+      "id": 561,
+      "portuguese": "pode repetir outra vez?",
+      "components": [
+        "pode",
+        "repetir",
+        "outra",
+        "vez"
+      ]
+    },
+    {
+      "id": 562,
+      "portuguese": "pode dizer outra vez?",
+      "components": [
+        "pode",
+        "dizer",
+        "outra",
+        "vez"
+      ]
+    },
+    {
+      "id": 563,
+      "portuguese": "pode mostrar-me no mapa?",
+      "components": [
+        "pode",
+        "mostrar",
+        "me",
+        "no",
+        "mapa"
+      ]
+    },
+    {
+      "id": 564,
+      "portuguese": "onde posso comprar bilhetes?",
+      "components": [
+        "onde",
+        "posso",
+        "comprar",
+        "bilhetes"
+      ]
+    },
+    {
+      "id": 565,
+      "portuguese": "há visitas guiadas disponíveis?",
+      "components": [
+        "há",
+        "visitas",
+        "guiadas",
+        "disponíveis"
+      ]
+    },
+    {
+      "id": 566,
+      "portuguese": "há algum evento local hoje?",
+      "components": [
+        "há",
+        "algum",
+        "evento",
+        "local",
+        "hoje"
+      ]
+    },
+    {
+      "id": 567,
+      "portuguese": "pode tirar-me uma foto, por favor?",
+      "components": [
+        "pode",
+        "tirar",
+        "me",
+        "uma",
+        "foto",
+        "por",
+        "favor"
+      ]
+    },
+    {
+      "id": 568,
+      "portuguese": "onde posso encontrar informações turísticas?",
+      "components": [
+        "onde",
+        "posso",
+        "encontrar",
+        "informações",
+        "turísticas"
+      ]
+    },
+    {
+      "id": 569,
+      "portuguese": "há um médico por perto?",
+      "components": [
+        "há",
+        "um",
+        "médico",
+        "por",
+        "perto"
+      ]
+    },
+    {
+      "id": 570,
+      "portuguese": "este lugar é seguro?",
+      "components": [
+        "este",
+        "lugar",
+        "é",
+        "seguro"
+      ]
+    },
+    {
+      "id": 571,
+      "portuguese": "pode ligar para o cento e doze (112)?",
+      "components": [
+        "pode",
+        "ligar",
+        "para",
+        "o",
+        "cento",
+        "e",
+        "doze"
+      ]
+    },
+    {
+      "id": 572,
+      "portuguese": "há uma farmácia nesta zona?",
+      "components": [
+        "há",
+        "uma",
+        "farmácia",
+        "nesta",
+        "zona"
+      ]
+    },
+    {
+      "id": 573,
+      "portuguese": "quanto tempo demora a chegar lá?",
+      "components": [
+        "quanto",
+        "tempo",
+        "demora",
+        "a",
+        "chegar",
+        "lá"
+      ]
+    },
+    {
+      "id": 574,
+      "portuguese": "como se chama esta rua?",
+      "components": [
+        "como",
+        "se",
+        "chama",
+        "esta",
+        "rua"
+      ]
+    },
+    {
+      "id": 575,
+      "portuguese": "preciso de um adaptador de tomada.",
+      "components": [
+        "preciso",
+        "de",
+        "um",
+        "adaptador",
+        "tomada"
+      ]
+    },
+    {
+      "id": 576,
+      "portuguese": "qual é a previsão do tempo para hoje?",
+      "components": [
+        "qual",
+        "é",
+        "a",
+        "previsão",
+        "do",
+        "tempo",
+        "para",
+        "hoje"
+      ]
+    },
+    {
+      "id": 577,
+      "portuguese": "a que horas abre?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "abre"
+      ]
+    },
+    {
+      "id": 578,
+      "portuguese": "a que horas fecha?",
+      "components": [
+        "a",
+        "que",
+        "horas",
+        "fecha"
+      ]
+    }
+  ],
+  "components": [
+    {
+      "portuguese": "obrigado",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        2,
+        485,
+        534
+      ]
+    },
+    {
+      "portuguese": "obrigada",
+      "groups": [
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        2,
+        508,
+        535
+      ]
+    },
+    {
+      "portuguese": "por",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        3,
+        519,
+        522,
+        546,
+        547,
+        549,
+        553,
+        554,
+        555,
+        557,
+        567,
+        569
+      ]
+    },
+    {
+      "portuguese": "favor",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        3,
+        519,
+        546,
+        547,
+        553,
+        554,
+        555,
+        557,
+        567
+      ]
+    },
+    {
+      "portuguese": "bom",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        4,
+        489,
+        490
+      ]
+    },
+    {
+      "portuguese": "dia",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Time and Dates",
+        "Time",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        4,
+        426,
+        539
+      ]
+    },
+    {
+      "portuguese": "máquina",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_word_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "de",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects",
+        "Colors",
+        "Clothing and Accessories",
+        "Time and Dates",
+        "Time",
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Questions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        28,
+        120,
+        122,
+        133,
+        424,
+        486,
+        490,
+        501,
+        509,
+        512,
+        515,
+        531,
+        546,
+        554,
+        575
+      ]
+    },
+    {
+      "portuguese": "lavar",
+      "groups": [
+        "Basic Vocabulary",
+        "Common Objects"
+      ],
+      "source_word_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "vinte",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "e",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        52,
+        61,
+        571
+      ]
+    },
+    {
+      "portuguese": "um",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        52,
+        61,
+        71,
+        519,
+        520,
+        524,
+        538,
+        542,
+        552,
+        569,
+        575
+      ]
+    },
+    {
+      "portuguese": "cento",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        61,
+        571
+      ]
+    },
+    {
+      "portuguese": "milhão",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "dois",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        72,
+        74
+      ]
+    },
+    {
+      "portuguese": "milhões",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "portuguese": "mil",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        73,
+        74
+      ]
+    },
+    {
+      "portuguese": "primeiro",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "primeira",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "segunda",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "terceiro",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "terceira",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "quarto",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers",
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        78,
+        550
+      ]
+    },
+    {
+      "portuguese": "quarta",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "quinto",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "quinta",
+      "groups": [
+        "Basic Vocabulary",
+        "Numbers"
+      ],
+      "source_word_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "cor",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        120,
+        122
+      ]
+    },
+    {
+      "portuguese": "rosa",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        120
+      ]
+    },
+    {
+      "portuguese": "laranja",
+      "groups": [
+        "Basic Vocabulary",
+        "Colors"
+      ],
+      "source_word_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "óculos",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories"
+      ],
+      "source_word_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "sol",
+      "groups": [
+        "Basic Vocabulary",
+        "Clothing and Accessories",
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        133,
+        409,
+        413
+      ]
+    },
+    {
+      "portuguese": "passageiro",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_word_ids": [
+        237
+      ]
+    },
+    {
+      "portuguese": "passageira",
+      "groups": [
+        "Locations and Means of Transport",
+        "Transportation"
+      ],
+      "source_word_ids": [
+        237
+      ]
+    },
+    {
+      "portuguese": "aluno",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        271
+      ]
+    },
+    {
+      "portuguese": "aluna",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        271
+      ]
+    },
+    {
+      "portuguese": "diretor",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        274
+      ]
+    },
+    {
+      "portuguese": "diretora",
+      "groups": [
+        "School and Work",
+        "School"
+      ],
+      "source_word_ids": [
+        274
+      ]
+    },
+    {
+      "portuguese": "médico",
+      "groups": [
+        "School and Work",
+        "Occupations",
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        282,
+        569
+      ]
+    },
+    {
+      "portuguese": "médica",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        282
+      ]
+    },
+    {
+      "portuguese": "enfermeiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        283
+      ]
+    },
+    {
+      "portuguese": "enfermeira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        283
+      ]
+    },
+    {
+      "portuguese": "professor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        284
+      ]
+    },
+    {
+      "portuguese": "professora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        284
+      ]
+    },
+    {
+      "portuguese": "engenheiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        285
+      ]
+    },
+    {
+      "portuguese": "engenheira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        285
+      ]
+    },
+    {
+      "portuguese": "arquiteto",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        286
+      ]
+    },
+    {
+      "portuguese": "arquiteta",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        286
+      ]
+    },
+    {
+      "portuguese": "advogado",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        287
+      ]
+    },
+    {
+      "portuguese": "advogada",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        287
+      ]
+    },
+    {
+      "portuguese": "bombeiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        289
+      ]
+    },
+    {
+      "portuguese": "bombeira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        289
+      ]
+    },
+    {
+      "portuguese": "cozinheiro",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        291
+      ]
+    },
+    {
+      "portuguese": "cozinheira",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        291
+      ]
+    },
+    {
+      "portuguese": "vendedor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        292
+      ]
+    },
+    {
+      "portuguese": "vendedora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        292
+      ]
+    },
+    {
+      "portuguese": "agricultor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        293
+      ]
+    },
+    {
+      "portuguese": "agricultora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        293
+      ]
+    },
+    {
+      "portuguese": "pintor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        296
+      ]
+    },
+    {
+      "portuguese": "pintora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        296
+      ]
+    },
+    {
+      "portuguese": "escritor",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        297
+      ]
+    },
+    {
+      "portuguese": "escritora",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        297
+      ]
+    },
+    {
+      "portuguese": "fotógrafo",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        299
+      ]
+    },
+    {
+      "portuguese": "fotógrafa",
+      "groups": [
+        "School and Work",
+        "Occupations"
+      ],
+      "source_word_ids": [
+        299
+      ]
+    },
+    {
+      "portuguese": "a",
+      "groups": [
+        "Grammatical Words",
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        300,
+        509,
+        512,
+        514,
+        515,
+        516,
+        534,
+        535,
+        544,
+        547,
+        551,
+        557,
+        573,
+        576,
+        577,
+        578
+      ]
+    },
+    {
+      "portuguese": "o",
+      "groups": [
+        "Grammatical Words",
+        "Common Phrases",
+        "Questions",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        300,
+        491,
+        504,
+        511,
+        513,
+        516,
+        521,
+        539,
+        545,
+        549,
+        550,
+        551,
+        571
+      ]
+    },
+    {
+      "portuguese": "nosso",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        321
+      ]
+    },
+    {
+      "portuguese": "nossa",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        321
+      ]
+    },
+    {
+      "portuguese": "vosso",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        322
+      ]
+    },
+    {
+      "portuguese": "vossa",
+      "groups": [
+        "Grammatical Words",
+        "Pronouns"
+      ],
+      "source_word_ids": [
+        322
+      ]
+    },
+    {
+      "portuguese": "às",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "source_word_ids": [
+        331
+      ]
+    },
+    {
+      "portuguese": "vezes",
+      "groups": [
+        "Grammatical Words",
+        "Adverbs"
+      ],
+      "source_word_ids": [
+        331
+      ]
+    },
+    {
+      "portuguese": "pequeno",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        367
+      ]
+    },
+    {
+      "portuguese": "pequena",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        367
+      ]
+    },
+    {
+      "portuguese": "velho",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        368
+      ]
+    },
+    {
+      "portuguese": "velha",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        368
+      ]
+    },
+    {
+      "portuguese": "novo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives",
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        369,
+        429
+      ]
+    },
+    {
+      "portuguese": "nova",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        369
+      ]
+    },
+    {
+      "portuguese": "alto",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        370
+      ]
+    },
+    {
+      "portuguese": "alta",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        370
+      ]
+    },
+    {
+      "portuguese": "baixo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        371
+      ]
+    },
+    {
+      "portuguese": "baixa",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        371
+      ]
+    },
+    {
+      "portuguese": "largo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        372
+      ]
+    },
+    {
+      "portuguese": "larga",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        372
+      ]
+    },
+    {
+      "portuguese": "estreito",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        373
+      ]
+    },
+    {
+      "portuguese": "estreita",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        373
+      ]
+    },
+    {
+      "portuguese": "fraco",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        375
+      ]
+    },
+    {
+      "portuguese": "fraca",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        375
+      ]
+    },
+    {
+      "portuguese": "curto",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        382
+      ]
+    },
+    {
+      "portuguese": "curta",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        382
+      ]
+    },
+    {
+      "portuguese": "longo",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        383
+      ]
+    },
+    {
+      "portuguese": "longa",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        383
+      ]
+    },
+    {
+      "portuguese": "bonito",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        384
+      ]
+    },
+    {
+      "portuguese": "bonita",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        384
+      ]
+    },
+    {
+      "portuguese": "giro",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        385
+      ]
+    },
+    {
+      "portuguese": "gira",
+      "groups": [
+        "Grammatical Words",
+        "Adjectives"
+      ],
+      "source_word_ids": [
+        385
+      ]
+    },
+    {
+      "portuguese": "nascer",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        409
+      ]
+    },
+    {
+      "portuguese": "do",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day",
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        409,
+        413,
+        539,
+        557,
+        576
+      ]
+    },
+    {
+      "portuguese": "pôr",
+      "groups": [
+        "Time and Dates",
+        "Times of the Day"
+      ],
+      "source_word_ids": [
+        413
+      ]
+    },
+    {
+      "portuguese": "fim",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        424
+      ]
+    },
+    {
+      "portuguese": "semana",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        424
+      ]
+    },
+    {
+      "portuguese": "útil",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        426
+      ]
+    },
+    {
+      "portuguese": "ano",
+      "groups": [
+        "Time and Dates",
+        "Time"
+      ],
+      "source_word_ids": [
+        429
+      ]
+    },
+    {
+      "portuguese": "primo",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        449
+      ]
+    },
+    {
+      "portuguese": "prima",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        449
+      ]
+    },
+    {
+      "portuguese": "bisneto",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        454
+      ]
+    },
+    {
+      "portuguese": "bisneta",
+      "groups": [
+        "Relationships and Feelings",
+        "Kinship"
+      ],
+      "source_word_ids": [
+        454
+      ]
+    },
+    {
+      "portuguese": "amigo",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "source_word_ids": [
+        455,
+        456
+      ]
+    },
+    {
+      "portuguese": "amiga",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship"
+      ],
+      "source_word_ids": [
+        455
+      ]
+    },
+    {
+      "portuguese": "melhor",
+      "groups": [
+        "Relationships and Feelings",
+        "Friendship",
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        456,
+        511
+      ]
+    },
+    {
+      "portuguese": "zangado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        459
+      ]
+    },
+    {
+      "portuguese": "zangada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        459
+      ]
+    },
+    {
+      "portuguese": "cansado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        460
+      ]
+    },
+    {
+      "portuguese": "cansada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        460
+      ]
+    },
+    {
+      "portuguese": "assustado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        461
+      ]
+    },
+    {
+      "portuguese": "assustada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        461
+      ]
+    },
+    {
+      "portuguese": "animado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        462
+      ]
+    },
+    {
+      "portuguese": "animada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        462
+      ]
+    },
+    {
+      "portuguese": "aborrecido",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        464
+      ]
+    },
+    {
+      "portuguese": "aborrecida",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        464
+      ]
+    },
+    {
+      "portuguese": "apaixonado",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        465
+      ]
+    },
+    {
+      "portuguese": "apaixonada",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        465
+      ]
+    },
+    {
+      "portuguese": "ansioso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        466
+      ]
+    },
+    {
+      "portuguese": "ansiosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        466
+      ]
+    },
+    {
+      "portuguese": "calmo",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        467
+      ]
+    },
+    {
+      "portuguese": "calma",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        467
+      ]
+    },
+    {
+      "portuguese": "deprimido",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        468
+      ]
+    },
+    {
+      "portuguese": "deprimida",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        468
+      ]
+    },
+    {
+      "portuguese": "esperançoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        469
+      ]
+    },
+    {
+      "portuguese": "esperançosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        469
+      ]
+    },
+    {
+      "portuguese": "orgulhoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        470
+      ]
+    },
+    {
+      "portuguese": "orgulhosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        470
+      ]
+    },
+    {
+      "portuguese": "nervoso",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        471
+      ]
+    },
+    {
+      "portuguese": "nervosa",
+      "groups": [
+        "Relationships and Feelings",
+        "Emotions"
+      ],
+      "source_word_ids": [
+        471
+      ]
+    },
+    {
+      "portuguese": "boa",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        472,
+        473
+      ]
+    },
+    {
+      "portuguese": "tarde",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        472
+      ]
+    },
+    {
+      "portuguese": "noite",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        473,
+        549
+      ]
+    },
+    {
+      "portuguese": "com",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        478,
+        530
+      ]
+    },
+    {
+      "portuguese": "licença",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_word_ids": [
+        478
+      ]
+    },
+    {
+      "portuguese": "tudo",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        482,
+        490
+      ]
+    },
+    {
+      "portuguese": "bem",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        482,
+        484,
+        503
+      ]
+    },
+    {
+      "portuguese": "como",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        483,
+        502,
+        505,
+        510,
+        556,
+        574
+      ]
+    },
+    {
+      "portuguese": "está",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        483
+      ]
+    },
+    {
+      "portuguese": "estou",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        484,
+        503,
+        534,
+        535
+      ]
+    },
+    {
+      "portuguese": "muito",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        485,
+        506,
+        507,
+        508
+      ]
+    },
+    {
+      "portuguese": "nada",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Polite Expressions"
+      ],
+      "source_word_ids": [
+        486
+      ]
+    },
+    {
+      "portuguese": "até",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        487,
+        488
+      ]
+    },
+    {
+      "portuguese": "logo",
+      "groups": [
+        "Common Phrases",
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        487
+      ]
+    },
+    {
+      "portuguese": "amanhã",
+      "groups": [
+        "Common Phrases"
+      ],
+      "source_word_ids": [
+        488
+      ]
+    },
+    {
+      "portuguese": "trabalho",
+      "groups": [
+        "Common Phrases"
+      ],
+      "source_word_ids": [
+        489
+      ]
+    },
+    {
+      "portuguese": "quê",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        491
+      ]
+    },
+    {
+      "portuguese": "quantos",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        499
+      ]
+    },
+    {
+      "portuguese": "quantas",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        499
+      ]
+    },
+    {
+      "portuguese": "quem",
+      "groups": [
+        "Common Phrases",
+        "Questions"
+      ],
+      "source_word_ids": [
+        501
+      ]
+    },
+    {
+      "portuguese": "vai",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        502,
+        517,
+        518
+      ]
+    },
+    {
+      "portuguese": "eu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Shopping and Payments",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        503,
+        533,
+        537
+      ]
+    },
+    {
+      "portuguese": "meu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        504
+      ]
+    },
+    {
+      "portuguese": "nome",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        504
+      ]
+    },
+    {
+      "portuguese": "é",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        504,
+        511,
+        513,
+        514,
+        516,
+        523,
+        533,
+        539,
+        544,
+        549,
+        570,
+        576
+      ]
+    },
+    {
+      "portuguese": "se",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Getting Around",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        505,
+        521,
+        556,
+        574
+      ]
+    },
+    {
+      "portuguese": "chama",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        505,
+        574
+      ]
+    },
+    {
+      "portuguese": "prazer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506,
+        507
+      ]
+    },
+    {
+      "portuguese": "em",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions",
+        "Directions",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "source_word_ids": [
+        506,
+        507,
+        528,
+        538,
+        556
+      ]
+    },
+    {
+      "portuguese": "conhecer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506,
+        507
+      ]
+    },
+    {
+      "portuguese": "lo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        506
+      ]
+    },
+    {
+      "portuguese": "la",
+      "groups": [
+        "Essential Travel Phrases",
+        "Greetings and Introductions"
+      ],
+      "source_word_ids": [
+        507
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        509,
+        512,
+        514,
+        515,
+        518,
+        520,
+        521,
+        524,
+        533,
+        564,
+        568
+      ]
+    },
+    {
+      "portuguese": "fica",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        509,
+        512,
+        515
+      ]
+    },
+    {
+      "portuguese": "casa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        509,
+        544
+      ]
+    },
+    {
+      "portuguese": "banho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        509
+      ]
+    },
+    {
+      "portuguese": "chego",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ]
+    },
+    {
+      "portuguese": "ao",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Directions"
+      ],
+      "source_word_ids": [
+        510,
+        525
+      ]
+    },
+    {
+      "portuguese": "centro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ]
+    },
+    {
+      "portuguese": "da",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        510,
+        544
+      ]
+    },
+    {
+      "portuguese": "cidade",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        510
+      ]
+    },
+    {
+      "portuguese": "qual",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        511,
+        539,
+        544,
+        549,
+        576
+      ]
+    },
+    {
+      "portuguese": "caminho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        511
+      ]
+    },
+    {
+      "portuguese": "para",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Emergencies and Health",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        511,
+        517,
+        518,
+        543,
+        571,
+        576
+      ]
+    },
+    {
+      "portuguese": "aeroporto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        511
+      ]
+    },
+    {
+      "portuguese": "estação",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        512
+      ]
+    },
+    {
+      "portuguese": "comboios",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        512
+      ]
+    },
+    {
+      "portuguese": "quando",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513
+      ]
+    },
+    {
+      "portuguese": "próximo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513,
+        516
+      ]
+    },
+    {
+      "portuguese": "comboio",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        513
+      ]
+    },
+    {
+      "portuguese": "saída",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        514
+      ]
+    },
+    {
+      "portuguese": "paragem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515
+      ]
+    },
+    {
+      "portuguese": "autocarro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515,
+        516,
+        517,
+        518
+      ]
+    },
+    {
+      "portuguese": "mais",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Communication"
+      ],
+      "source_word_ids": [
+        515,
+        555
+      ]
+    },
+    {
+      "portuguese": "próxima",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        515
+      ]
+    },
+    {
+      "portuguese": "que",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        516,
+        533,
+        545,
+        551,
+        577,
+        578
+      ]
+    },
+    {
+      "portuguese": "horas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Accommodation",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        516,
+        551,
+        577,
+        578
+      ]
+    },
+    {
+      "portuguese": "este",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        517,
+        518,
+        570
+      ]
+    },
+    {
+      "portuguese": "pode",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        519,
+        542,
+        552,
+        553,
+        555,
+        561,
+        562,
+        563,
+        567,
+        571
+      ]
+    },
+    {
+      "portuguese": "chamar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        519
+      ]
+    },
+    {
+      "portuguese": "táxi",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        519,
+        520
+      ]
+    },
+    {
+      "portuguese": "posso",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Restaurants and Cafés",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        520,
+        524,
+        530,
+        533,
+        536,
+        540,
+        550,
+        564,
+        568
+      ]
+    },
+    {
+      "portuguese": "encontrar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        520,
+        568
+      ]
+    },
+    {
+      "portuguese": "apanha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        521
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        521
+      ]
+    },
+    {
+      "portuguese": "há",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        522,
+        532,
+        565,
+        566,
+        569,
+        572
+      ]
+    },
+    {
+      "portuguese": "algum",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        522,
+        532,
+        566
+      ]
+    },
+    {
+      "portuguese": "supermercado",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        522
+      ]
+    },
+    {
+      "portuguese": "perto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        522,
+        533,
+        569
+      ]
+    },
+    {
+      "portuguese": "longe",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        523
+      ]
+    },
+    {
+      "portuguese": "daqui",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        523,
+        533
+      ]
+    },
+    {
+      "portuguese": "alugar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        524
+      ]
+    },
+    {
+      "portuguese": "carro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Getting Around"
+      ],
+      "source_word_ids": [
+        524
+      ]
+    },
+    {
+      "portuguese": "lado",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_word_ids": [
+        525
+      ]
+    },
+    {
+      "portuguese": "frente",
+      "groups": [
+        "Essential Travel Phrases",
+        "Directions"
+      ],
+      "source_word_ids": [
+        528
+      ]
+    },
+    {
+      "portuguese": "quanto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        529,
+        573
+      ]
+    },
+    {
+      "portuguese": "custa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        529
+      ]
+    },
+    {
+      "portuguese": "isto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Communication"
+      ],
+      "source_word_ids": [
+        529,
+        556
+      ]
+    },
+    {
+      "portuguese": "pagar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        530
+      ]
+    },
+    {
+      "portuguese": "cartão",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        530,
+        531
+      ]
+    },
+    {
+      "portuguese": "aceita",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ]
+    },
+    {
+      "portuguese": "crédito",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ]
+    },
+    {
+      "portuguese": "ou",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ]
+    },
+    {
+      "portuguese": "débito",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        531
+      ]
+    },
+    {
+      "portuguese": "desconto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        532
+      ]
+    },
+    {
+      "portuguese": "trocar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        533
+      ]
+    },
+    {
+      "portuguese": "dinheiro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        533
+      ]
+    },
+    {
+      "portuguese": "só",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments"
+      ],
+      "source_word_ids": [
+        534,
+        535
+      ]
+    },
+    {
+      "portuguese": "ver",
+      "groups": [
+        "Essential Travel Phrases",
+        "Shopping and Payments",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        534,
+        535,
+        550
+      ]
+    },
+    {
+      "portuguese": "reservar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        536
+      ]
+    },
+    {
+      "portuguese": "uma",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication",
+        "Sightseeing and Activities",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        536,
+        537,
+        546,
+        554,
+        567,
+        572
+      ]
+    },
+    {
+      "portuguese": "mesa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        536
+      ]
+    },
+    {
+      "portuguese": "tenho",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        537
+      ]
+    },
+    {
+      "portuguese": "reserva",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        537
+      ]
+    },
+    {
+      "portuguese": "tem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        538,
+        541,
+        543,
+        548
+      ]
+    },
+    {
+      "portuguese": "menu",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        538
+      ]
+    },
+    {
+      "portuguese": "inglês",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Communication"
+      ],
+      "source_word_ids": [
+        538,
+        558
+      ]
+    },
+    {
+      "portuguese": "prato",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        539
+      ]
+    },
+    {
+      "portuguese": "experimentar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        540
+      ]
+    },
+    {
+      "portuguese": "algo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541,
+        543
+      ]
+    },
+    {
+      "portuguese": "sem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541
+      ]
+    },
+    {
+      "portuguese": "glúten",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        541
+      ]
+    },
+    {
+      "portuguese": "recomendar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        542,
+        552
+      ]
+    },
+    {
+      "portuguese": "restaurante",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        542
+      ]
+    },
+    {
+      "portuguese": "vegetarianos",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        543
+      ]
+    },
+    {
+      "portuguese": "especialidade",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        544
+      ]
+    },
+    {
+      "portuguese": "recomenda",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        545
+      ]
+    },
+    {
+      "portuguese": "queria",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546,
+        547
+      ]
+    },
+    {
+      "portuguese": "garrafa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ]
+    },
+    {
+      "portuguese": "água",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ]
+    },
+    {
+      "portuguese": "fresca",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        546
+      ]
+    },
+    {
+      "portuguese": "pedir",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        547
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Restaurants and Cafés"
+      ],
+      "source_word_ids": [
+        547
+      ]
+    },
+    {
+      "portuguese": "quartos",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        548
+      ]
+    },
+    {
+      "portuguese": "disponíveis",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        548,
+        565
+      ]
+    },
+    {
+      "portuguese": "preço",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        549
+      ]
+    },
+    {
+      "portuguese": "antes",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        550
+      ]
+    },
+    {
+      "portuguese": "servem",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        551
+      ]
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        551
+      ]
+    },
+    {
+      "portuguese": "me",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation",
+        "Communication",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        552,
+        553,
+        563,
+        567
+      ]
+    },
+    {
+      "portuguese": "hotel",
+      "groups": [
+        "Essential Travel Phrases",
+        "Accommodation"
+      ],
+      "source_word_ids": [
+        552
+      ]
+    },
+    {
+      "portuguese": "ajudar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        553
+      ]
+    },
+    {
+      "portuguese": "preciso",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        554,
+        575
+      ]
+    },
+    {
+      "portuguese": "informação",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        554
+      ]
+    },
+    {
+      "portuguese": "falar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        555
+      ]
+    },
+    {
+      "portuguese": "devagar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        555
+      ]
+    },
+    {
+      "portuguese": "diz",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        556
+      ]
+    },
+    {
+      "portuguese": "português",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        556,
+        559
+      ]
+    },
+    {
+      "portuguese": "senha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        557
+      ]
+    },
+    {
+      "portuguese": "wi-fi",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        557
+      ]
+    },
+    {
+      "portuguese": "fala",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        558
+      ]
+    },
+    {
+      "portuguese": "desculpe",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559
+      ]
+    },
+    {
+      "portuguese": "não",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559,
+        560
+      ]
+    },
+    {
+      "portuguese": "falo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        559
+      ]
+    },
+    {
+      "portuguese": "percebo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        560
+      ]
+    },
+    {
+      "portuguese": "repetir",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561
+      ]
+    },
+    {
+      "portuguese": "outra",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561,
+        562
+      ]
+    },
+    {
+      "portuguese": "vez",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        561,
+        562
+      ]
+    },
+    {
+      "portuguese": "dizer",
+      "groups": [
+        "Essential Travel Phrases",
+        "Communication"
+      ],
+      "source_word_ids": [
+        562
+      ]
+    },
+    {
+      "portuguese": "mostrar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ]
+    },
+    {
+      "portuguese": "no",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ]
+    },
+    {
+      "portuguese": "mapa",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        563
+      ]
+    },
+    {
+      "portuguese": "comprar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        564
+      ]
+    },
+    {
+      "portuguese": "bilhetes",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        564
+      ]
+    },
+    {
+      "portuguese": "visitas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        565
+      ]
+    },
+    {
+      "portuguese": "guiadas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        565
+      ]
+    },
+    {
+      "portuguese": "evento",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        566
+      ]
+    },
+    {
+      "portuguese": "local",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        566
+      ]
+    },
+    {
+      "portuguese": "hoje",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        566,
+        576
+      ]
+    },
+    {
+      "portuguese": "tirar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        567
+      ]
+    },
+    {
+      "portuguese": "foto",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        567
+      ]
+    },
+    {
+      "portuguese": "informações",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        568
+      ]
+    },
+    {
+      "portuguese": "turísticas",
+      "groups": [
+        "Essential Travel Phrases",
+        "Sightseeing and Activities"
+      ],
+      "source_word_ids": [
+        568
+      ]
+    },
+    {
+      "portuguese": "lugar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        570
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        570
+      ]
+    },
+    {
+      "portuguese": "ligar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        571
+      ]
+    },
+    {
+      "portuguese": "doze",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        571
+      ]
+    },
+    {
+      "portuguese": "farmácia",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ]
+    },
+    {
+      "portuguese": "nesta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ]
+    },
+    {
+      "portuguese": "zona",
+      "groups": [
+        "Essential Travel Phrases",
+        "Emergencies and Health"
+      ],
+      "source_word_ids": [
+        572
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573,
+        576
+      ]
+    },
+    {
+      "portuguese": "demora",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ]
+    },
+    {
+      "portuguese": "chegar",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ]
+    },
+    {
+      "portuguese": "lá",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        573
+      ]
+    },
+    {
+      "portuguese": "esta",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        574
+      ]
+    },
+    {
+      "portuguese": "rua",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        574
+      ]
+    },
+    {
+      "portuguese": "adaptador",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        575
+      ]
+    },
+    {
+      "portuguese": "tomada",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        575
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        576
+      ]
+    },
+    {
+      "portuguese": "abre",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        577
+      ]
+    },
+    {
+      "portuguese": "fecha",
+      "groups": [
+        "Essential Travel Phrases",
+        "Useful Sentences"
+      ],
+      "source_word_ids": [
+        578
+      ]
+    }
+  ]
+}

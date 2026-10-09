@@ -1,0 +1,1722 @@
+{
+  "source": "Three user-supplied photographs of the Passaporte para Português glossary, entries abaixo–aprender",
+  "prepared_at": "2026-10-09",
+  "source_files": [
+    {
+      "image": 1,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/1-1000057490.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/1-1000057490.jpg",
+      "sha256": "1cc23eed33f73fcaaed07a84e876b36117f0c3f0a29c43fb7958fda4702f5427"
+    },
+    {
+      "image": 2,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/2-1000057491.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/2-1000057491.jpg",
+      "sha256": "c70c41dde5cc5c2d78e5da10132d6a07c0c8608bb82560b68fe409ee9cbf53d3"
+    },
+    {
+      "image": 3,
+      "original_path": "/tmp/codex-remote-attachments/01a12055-4561-7b10-a20b-5c741d1b6a1b/72133497-2075-4cdb-ae0e-9732742ca094/3-1000057492.jpg",
+      "backup_path": "imports/2026-10-09-passaporte-glossary-photos-sources/3-1000057492.jpg",
+      "sha256": "5dff6d7d8fd2eb595fb7221f209def8eb718100c339258c61be05bbcebe64eb1"
+    }
+  ],
+  "extraction_method": "Assistant visual transcription from user-provided photos",
+  "normalization_notes": [
+    "Manually transcribed all readable glossary entries, including unhighlighted entries; no running prose or headings imported.",
+    "The main columns contain 99 row occurrences. Sugar and goodbye overlap between photos 1 and 2. Repeated acontecer/acordar fragments at the very top of photo 2 are not counted again.",
+    "Printed numeric/P references are source metadata, not CEFR levels or SQLite categories.",
+    "Lowercase and NFC normalize; remove punctuation and trailing noun-gender articles; split expressions into individual words.",
+    "Retain actual component words in illustrative phrases (escola, carro, fato); remove generic fazer algo/etwas placeholders from acabar de and algo from andar a fazer algo. Fazer and algo independently occur elsewhere.",
+    "Split apaixonar-se into verb apaixonar and reflexive pronoun se. Preserve the complete expression and its reflexive meaning in source/context metadata.",
+    "Keep inflected words such as anos, viagens, média, física and naquela distinct rather than generating additional lemmas.",
+    "Preserve German translations exactly as readable source data; translate individual Portuguese words independently. Idiom glosses are not word-for-word meanings.",
+    "The last photographed row, aprender (reference 20, lernen), is readable; the next page header has no readable word entries."
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "portuguese_original": "abaixo (de)",
+      "printed_reference": "28",
+      "german_original": "unter",
+      "normalized_words": [
+        "abaixo",
+        "de"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "portuguese_original": "Um abraço!",
+      "printed_reference": "12",
+      "german_original": "Liebe Grüße",
+      "normalized_words": [
+        "um",
+        "abraço"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "portuguese_original": "aberto",
+      "printed_reference": "16",
+      "german_original": "offen",
+      "normalized_words": [
+        "aberto"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "portuguese_original": "abril",
+      "printed_reference": "13",
+      "german_original": "April",
+      "normalized_words": [
+        "abril"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "portuguese_original": "abrir",
+      "printed_reference": "24",
+      "german_original": "öffnen",
+      "normalized_words": [
+        "abrir"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "portuguese_original": "acabar",
+      "printed_reference": "13",
+      "german_original": "(be)enden",
+      "normalized_words": [
+        "acabar"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "portuguese_original": "acabar de (fazer algo)",
+      "printed_reference": "29",
+      "german_original": "(etwas) fertig machen",
+      "normalized_words": [
+        "acabar",
+        "de"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "portuguese_original": "por acaso",
+      "printed_reference": "35",
+      "german_original": "übrigens",
+      "normalized_words": [
+        "por",
+        "acaso"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "portuguese_original": "ação, a",
+      "printed_reference": "32",
+      "german_original": "Aktion",
+      "normalized_words": [
+        "ação"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "portuguese_original": "acender",
+      "printed_reference": "19",
+      "german_original": "anmachen",
+      "normalized_words": [
+        "acender"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "portuguese_original": "acesso, o",
+      "printed_reference": "24",
+      "german_original": "Zugang",
+      "normalized_words": [
+        "acesso"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "portuguese_original": "achar",
+      "printed_reference": "8",
+      "german_original": "finden",
+      "normalized_words": [
+        "achar"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "portuguese_original": "acidente, o",
+      "printed_reference": "34",
+      "german_original": "Unfall",
+      "normalized_words": [
+        "acidente"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "portuguese_original": "acima (de)",
+      "printed_reference": "28",
+      "german_original": "über",
+      "normalized_words": [
+        "acima",
+        "de"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "portuguese_original": "acontecer",
+      "printed_reference": "34",
+      "german_original": "geschehen",
+      "normalized_words": [
+        "acontecer"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "portuguese_original": "acordar",
+      "printed_reference": "14",
+      "german_original": "aufwecken, aufwachen",
+      "normalized_words": [
+        "acordar"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "portuguese_original": "açúcar, o",
+      "printed_reference": "P1",
+      "german_original": "Zucker",
+      "normalized_words": [
+        "açúcar"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "portuguese_original": "Adeus!",
+      "printed_reference": "1",
+      "german_original": "Auf Wiedersehen",
+      "normalized_words": [
+        "adeus"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 2,
+      "portuguese_original": "açúcar, o",
+      "printed_reference": "P1",
+      "german_original": "Zucker",
+      "normalized_words": [
+        "açúcar"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 2,
+      "portuguese_original": "Adeus!",
+      "printed_reference": "1",
+      "german_original": "Auf Wiedersehen",
+      "normalized_words": [
+        "adeus"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 2,
+      "portuguese_original": "admirar",
+      "printed_reference": "28",
+      "german_original": "bewundern",
+      "normalized_words": [
+        "admirar"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 2,
+      "portuguese_original": "adorar",
+      "printed_reference": "11",
+      "german_original": "toll finden",
+      "normalized_words": [
+        "adorar"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 2,
+      "portuguese_original": "adormecer",
+      "printed_reference": "31",
+      "german_original": "einschlafen",
+      "normalized_words": [
+        "adormecer"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 2,
+      "portuguese_original": "adotar",
+      "printed_reference": "32",
+      "german_original": "übernehmen, adoptieren",
+      "normalized_words": [
+        "adotar"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 2,
+      "portuguese_original": "adulto, o",
+      "printed_reference": "24",
+      "german_original": "Erwachsener",
+      "normalized_words": [
+        "adulto"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 2,
+      "portuguese_original": "advogado, o",
+      "printed_reference": "6",
+      "german_original": "Rechtsanwalt",
+      "normalized_words": [
+        "advogado"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 2,
+      "portuguese_original": "aeroporto, o",
+      "printed_reference": "P2",
+      "german_original": "Flughafen",
+      "normalized_words": [
+        "aeroporto"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 2,
+      "portuguese_original": "agência de viagens, a",
+      "printed_reference": "18",
+      "german_original": "Reisebüro",
+      "normalized_words": [
+        "agência",
+        "de",
+        "viagens"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 2,
+      "portuguese_original": "agora",
+      "printed_reference": "3",
+      "german_original": "jetzt",
+      "normalized_words": [
+        "agora"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 2,
+      "portuguese_original": "agosto",
+      "printed_reference": "13",
+      "german_original": "August",
+      "normalized_words": [
+        "agosto"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 2,
+      "portuguese_original": "agradável",
+      "printed_reference": "18",
+      "german_original": "angenehm",
+      "normalized_words": [
+        "agradável"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 2,
+      "portuguese_original": "água, a",
+      "printed_reference": "P1",
+      "german_original": "Wasser",
+      "normalized_words": [
+        "água"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 2,
+      "portuguese_original": "aí",
+      "printed_reference": "5",
+      "german_original": "dort",
+      "normalized_words": [
+        "aí"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 2,
+      "portuguese_original": "ainda",
+      "printed_reference": "9",
+      "german_original": "noch",
+      "normalized_words": [
+        "ainda"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 2,
+      "portuguese_original": "Ainda bem!",
+      "printed_reference": "13",
+      "german_original": "Zum Glück!",
+      "normalized_words": [
+        "ainda",
+        "bem"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 2,
+      "portuguese_original": "ajuda, a",
+      "printed_reference": "23",
+      "german_original": "Hilfe",
+      "normalized_words": [
+        "ajuda"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 2,
+      "portuguese_original": "ajudar",
+      "printed_reference": "23",
+      "german_original": "helfen",
+      "normalized_words": [
+        "ajudar"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 2,
+      "portuguese_original": "álcool, o",
+      "printed_reference": "15",
+      "german_original": "Alkohol",
+      "normalized_words": [
+        "álcool"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 2,
+      "portuguese_original": "aldeia, a",
+      "printed_reference": "37",
+      "german_original": "Dorf",
+      "normalized_words": [
+        "aldeia"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 2,
+      "portuguese_original": "alegre",
+      "printed_reference": "38",
+      "german_original": "gut gelaunt",
+      "normalized_words": [
+        "alegre"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 2,
+      "portuguese_original": "além disso",
+      "printed_reference": "18",
+      "german_original": "außerdem",
+      "normalized_words": [
+        "além",
+        "disso"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "portuguese_original": "alemão",
+      "printed_reference": "3",
+      "german_original": "Deutsch",
+      "normalized_words": [
+        "alemão"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "portuguese_original": "alérgico",
+      "printed_reference": "32",
+      "german_original": "allergisch",
+      "normalized_words": [
+        "alérgico"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "portuguese_original": "alfabeto, o",
+      "printed_reference": "19",
+      "german_original": "Alphabet",
+      "normalized_words": [
+        "alfabeto"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "portuguese_original": "algo",
+      "printed_reference": "19",
+      "german_original": "etwas",
+      "normalized_words": [
+        "algo"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "portuguese_original": "alguém",
+      "printed_reference": "19",
+      "german_original": "jemand",
+      "normalized_words": [
+        "alguém"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "portuguese_original": "algum",
+      "printed_reference": "15",
+      "german_original": "irgendein, etwas",
+      "normalized_words": [
+        "algum"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "portuguese_original": "ali",
+      "printed_reference": "5",
+      "german_original": "dort",
+      "normalized_words": [
+        "ali"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "portuguese_original": "alimentação, a",
+      "printed_reference": "32",
+      "german_original": "Ernährung",
+      "normalized_words": [
+        "alimentação"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "portuguese_original": "almoçar",
+      "printed_reference": "12",
+      "german_original": "zu Mittag essen",
+      "normalized_words": [
+        "almoçar"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "portuguese_original": "almoço, o",
+      "printed_reference": "14",
+      "german_original": "Mittagessen",
+      "normalized_words": [
+        "almoço"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "portuguese_original": "alojamento, o",
+      "printed_reference": "18",
+      "german_original": "Unterkunft",
+      "normalized_words": [
+        "alojamento"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "portuguese_original": "alterar",
+      "printed_reference": "36",
+      "german_original": "ändern",
+      "normalized_words": [
+        "alterar"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "portuguese_original": "de altura média",
+      "printed_reference": "10",
+      "german_original": "mittelgroß",
+      "normalized_words": [
+        "de",
+        "altura",
+        "média"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "portuguese_original": "naquela altura",
+      "printed_reference": "37",
+      "german_original": "damals",
+      "normalized_words": [
+        "naquela",
+        "altura"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "portuguese_original": "alto",
+      "printed_reference": "10",
+      "german_original": "hoch, groß",
+      "normalized_words": [
+        "alto"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "portuguese_original": "alugar",
+      "printed_reference": "22",
+      "german_original": "mieten, vermieten",
+      "normalized_words": [
+        "alugar"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "portuguese_original": "aluno, o",
+      "printed_reference": "6",
+      "german_original": "Schüler",
+      "normalized_words": [
+        "aluno"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "portuguese_original": "amanhã",
+      "printed_reference": "13",
+      "german_original": "morgen",
+      "normalized_words": [
+        "amanhã"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 3,
+      "portuguese_original": "Até amanhã!",
+      "printed_reference": "1",
+      "german_original": "bis morgen, gute Nacht",
+      "normalized_words": [
+        "até",
+        "amanhã"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 3,
+      "portuguese_original": "amar",
+      "printed_reference": "32",
+      "german_original": "lieben",
+      "normalized_words": [
+        "amar"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 3,
+      "portuguese_original": "amarelo",
+      "printed_reference": "4",
+      "german_original": "gelb",
+      "normalized_words": [
+        "amarelo"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 3,
+      "portuguese_original": "amargo",
+      "printed_reference": "P4",
+      "german_original": "bitter",
+      "normalized_words": [
+        "amargo"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 3,
+      "portuguese_original": "ambiente, o",
+      "printed_reference": "30",
+      "german_original": "Stimmung",
+      "normalized_words": [
+        "ambiente"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 3,
+      "portuguese_original": "ambos",
+      "printed_reference": "33",
+      "german_original": "beide",
+      "normalized_words": [
+        "ambos"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 3,
+      "portuguese_original": "ambulância, a",
+      "printed_reference": "34",
+      "german_original": "Krankenwagen",
+      "normalized_words": [
+        "ambulância"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 3,
+      "portuguese_original": "amigo, o",
+      "printed_reference": "9",
+      "german_original": "Freund",
+      "normalized_words": [
+        "amigo"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 3,
+      "portuguese_original": "amor, o",
+      "printed_reference": "32",
+      "german_original": "Liebe",
+      "normalized_words": [
+        "amor"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 3,
+      "portuguese_original": "andar",
+      "printed_reference": "9",
+      "german_original": "gehen",
+      "normalized_words": [
+        "andar"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 3,
+      "portuguese_original": "andar (na escola)",
+      "printed_reference": "9",
+      "german_original": "(in die Schule) gehen",
+      "normalized_words": [
+        "andar",
+        "na",
+        "escola"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 3,
+      "portuguese_original": "andar (a fazer algo)",
+      "printed_reference": "30",
+      "german_original": "(etwas gerade) tun",
+      "normalized_words": [
+        "andar",
+        "a",
+        "fazer"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 3,
+      "portuguese_original": "andar (de carro)",
+      "printed_reference": "12",
+      "german_original": "fahren",
+      "normalized_words": [
+        "andar",
+        "de",
+        "carro"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 3,
+      "portuguese_original": "andar (de fato)",
+      "printed_reference": "33",
+      "german_original": "(einen Anzug) tragen",
+      "normalized_words": [
+        "andar",
+        "de",
+        "fato"
+      ]
+    },
+    {
+      "id": 74,
+      "image": 3,
+      "portuguese_original": "andar, o",
+      "printed_reference": "6",
+      "german_original": "Etage",
+      "normalized_words": [
+        "andar"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 3,
+      "portuguese_original": "angolano",
+      "printed_reference": "3",
+      "german_original": "Angolaner, angolanisch",
+      "normalized_words": [
+        "angolano"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 3,
+      "portuguese_original": "animal, o",
+      "printed_reference": "11",
+      "german_original": "Tier",
+      "normalized_words": [
+        "animal"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 3,
+      "portuguese_original": "ano, o",
+      "printed_reference": "6",
+      "german_original": "Jahr",
+      "normalized_words": [
+        "ano"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 3,
+      "portuguese_original": "ano novo, o",
+      "printed_reference": "13",
+      "german_original": "Neujahr",
+      "normalized_words": [
+        "ano",
+        "novo"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 3,
+      "portuguese_original": "fazer anos",
+      "printed_reference": "13",
+      "german_original": "Geburtstag haben",
+      "normalized_words": [
+        "fazer",
+        "anos"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 3,
+      "portuguese_original": "anteontem",
+      "printed_reference": "31",
+      "german_original": "vorgestern",
+      "normalized_words": [
+        "anteontem"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "portuguese_original": "antes (de)",
+      "printed_reference": "14",
+      "german_original": "vor",
+      "normalized_words": [
+        "antes",
+        "de"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "portuguese_original": "antigamente",
+      "printed_reference": "37",
+      "german_original": "früher",
+      "normalized_words": [
+        "antigamente"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "portuguese_original": "antigo",
+      "printed_reference": "7",
+      "german_original": "alt",
+      "normalized_words": [
+        "antigo"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "portuguese_original": "antipático",
+      "printed_reference": "7",
+      "german_original": "unfreundlich",
+      "normalized_words": [
+        "antipático"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "portuguese_original": "anualmente",
+      "printed_reference": "24",
+      "german_original": "jährlich",
+      "normalized_words": [
+        "anualmente"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "portuguese_original": "anúncio, o",
+      "printed_reference": "22",
+      "german_original": "Anzeige",
+      "normalized_words": [
+        "anúncio"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "portuguese_original": "apagar",
+      "printed_reference": "19",
+      "german_original": "löschen",
+      "normalized_words": [
+        "apagar"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "portuguese_original": "apaixonar-se (por)",
+      "printed_reference": "35",
+      "german_original": "sich verlieben (in)",
+      "normalized_words": [
+        "apaixonar",
+        "se",
+        "por"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "portuguese_original": "apanhar",
+      "printed_reference": "16",
+      "german_original": "nehmen",
+      "normalized_words": [
+        "apanhar"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "portuguese_original": "apanhar sol",
+      "printed_reference": "12",
+      "german_original": "sich sonnen",
+      "normalized_words": [
+        "apanhar",
+        "sol"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "portuguese_original": "aparecer",
+      "printed_reference": "38",
+      "german_original": "(er)scheinen",
+      "normalized_words": [
+        "aparecer"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "portuguese_original": "aparência física, a",
+      "printed_reference": "10",
+      "german_original": "Aussehen",
+      "normalized_words": [
+        "aparência",
+        "física"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "portuguese_original": "apartamento, o",
+      "printed_reference": "6",
+      "german_original": "Wohnung",
+      "normalized_words": [
+        "apartamento"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "portuguese_original": "apelido, o",
+      "printed_reference": "6",
+      "german_original": "Nachname",
+      "normalized_words": [
+        "apelido"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "portuguese_original": "apenas",
+      "printed_reference": "30",
+      "german_original": "nur",
+      "normalized_words": [
+        "apenas"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "portuguese_original": "apertado",
+      "printed_reference": "P8",
+      "german_original": "eng",
+      "normalized_words": [
+        "apertado"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "portuguese_original": "apetecer",
+      "printed_reference": "33",
+      "german_original": "Lust haben auf",
+      "normalized_words": [
+        "apetecer"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "portuguese_original": "Bom apetite!",
+      "printed_reference": "26",
+      "german_original": "Guten Appetit!",
+      "normalized_words": [
+        "bom",
+        "apetite"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "portuguese_original": "aprender",
+      "printed_reference": "20",
+      "german_original": "lernen",
+      "normalized_words": [
+        "aprender"
+      ]
+    }
+  ],
+  "counts": {
+    "visible_row_occurrences": 99,
+    "unique_source_entries": 97,
+    "unique_words": 106
+  },
+  "words": [
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "abaixo",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "aberto",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "abraço",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "abril",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "abrir",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "acabar",
+      "source_row_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "portuguese": "acaso",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "acender",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "acesso",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "achar",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "acidente",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "acima",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "acontecer",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "acordar",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "adeus",
+      "source_row_ids": [
+        18,
+        20
+      ]
+    },
+    {
+      "portuguese": "admirar",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "adorar",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "adormecer",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "adotar",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "adulto",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "advogado",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "aeroporto",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "agora",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "agosto",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "agradável",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "agência",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "ainda",
+      "source_row_ids": [
+        34,
+        35
+      ]
+    },
+    {
+      "portuguese": "ajuda",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "ajudar",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "aldeia",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "alegre",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "alemão",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "alfabeto",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "algo",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "algum",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "alguém",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "ali",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "alimentação",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "almoçar",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "almoço",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "alojamento",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "alterar",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "alto",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "altura",
+      "source_row_ids": [
+        54,
+        55
+      ]
+    },
+    {
+      "portuguese": "alugar",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "aluno",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "além",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "alérgico",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "amanhã",
+      "source_row_ids": [
+        59,
+        60
+      ]
+    },
+    {
+      "portuguese": "amar",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "amarelo",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "amargo",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "ambiente",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "ambos",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "ambulância",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "amigo",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "amor",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "andar",
+      "source_row_ids": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "portuguese": "angolano",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "animal",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "ano",
+      "source_row_ids": [
+        77,
+        78
+      ]
+    },
+    {
+      "portuguese": "anos",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "anteontem",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "antes",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "antigamente",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "antigo",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "antipático",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "anualmente",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "anúncio",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "apagar",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "apaixonar",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "apanhar",
+      "source_row_ids": [
+        89,
+        90
+      ]
+    },
+    {
+      "portuguese": "aparecer",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "apartamento",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "aparência",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "apelido",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "apenas",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "apertado",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "apetecer",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "apetite",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "aprender",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "até",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "açúcar",
+      "source_row_ids": [
+        17,
+        19
+      ]
+    },
+    {
+      "portuguese": "aí",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "bem",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "bom",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "carro",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        1,
+        7,
+        14,
+        28,
+        54,
+        72,
+        73,
+        81
+      ]
+    },
+    {
+      "portuguese": "disso",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "escola",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "fato",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "fazer",
+      "source_row_ids": [
+        71,
+        79
+      ]
+    },
+    {
+      "portuguese": "física",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "média",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "na",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "naquela",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "novo",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "por",
+      "source_row_ids": [
+        8,
+        88
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "sol",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "um",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "viagens",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "água",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "álcool",
+      "source_row_ids": [
+        38
+      ]
+    }
+  ]
+}

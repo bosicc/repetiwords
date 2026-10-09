@@ -1,0 +1,2855 @@
+{
+  "source": "https://portuguesewithcarla.com/99-essential-european-portuguese-phrases/",
+  "prepared_at": "2026-10-09",
+  "stage": "extracted",
+  "phrases": [
+    {
+      "portuguese": "Olá",
+      "english": "Hello",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Olá (Hello)"
+    },
+    {
+      "portuguese": "Tudo bem?",
+      "english": "Everything good?",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Tudo bem? (Everything good?)"
+    },
+    {
+      "portuguese": "Como está? or Como vai?",
+      "english": "How are you doing?",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Como está? or Como vai? (How are you doing?)"
+    },
+    {
+      "portuguese": "Eu estou bem",
+      "english": "I am okay",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Eu estou bem (I am okay)"
+    },
+    {
+      "portuguese": "Bom dia",
+      "english": "Good morning",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Bom dia (Good morning)"
+    },
+    {
+      "portuguese": "Boa tarde",
+      "english": "Good afternoon",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Boa tarde (Good afternoon)"
+    },
+    {
+      "portuguese": "Boa noite",
+      "english": "Good night",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Boa noite (Good night)"
+    },
+    {
+      "portuguese": "Até logo",
+      "english": "See you later",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Até logo (See you later"
+    },
+    {
+      "portuguese": "O meu nome é [name]",
+      "english": "My name is [name]",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "O meu nome é [name] (My name is [name])"
+    },
+    {
+      "portuguese": "Como se chama?",
+      "english": "What is your name?",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Como se chama? (What is your name?)"
+    },
+    {
+      "portuguese": "Muito prazer em conhecê-lo/a",
+      "english": "I’m pleased to meet you",
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ],
+      "source_text": "Muito prazer em conhecê-lo/a (I’m pleased to meet you)"
+    },
+    {
+      "portuguese": "Desculpe",
+      "english": "Pardon me, Sorry",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "Desculpe (Pardon me, Sorry)"
+    },
+    {
+      "portuguese": "Com licença",
+      "english": "Excuse me",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "Com licença (Excuse me)"
+    },
+    {
+      "portuguese": "Por favor",
+      "english": "Please",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "Por favor (Please)"
+    },
+    {
+      "portuguese": "De nada",
+      "english": "You’re welcome",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "De nada (You’re welcome)"
+    },
+    {
+      "portuguese": "Obrigado /Obrigada",
+      "english": "Thank You (male/female speaker)",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "Obrigado /Obrigada (Thank You (male/female speaker))"
+    },
+    {
+      "portuguese": "Muito obrigado /Muito obrigada",
+      "english": "Thank you very much",
+      "groups": [
+        "Polite Portuguese Phrases"
+      ],
+      "source_text": "Muito obrigado /Muito obrigada (Thank you very much)"
+    },
+    {
+      "portuguese": "Onde fica a casa de banho?",
+      "english": "Where is the bathroom?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde fica a casa de banho? (Where is the bathroom?)"
+    },
+    {
+      "portuguese": "Como chego ao centro da cidade?",
+      "english": "How do I get to the city center?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Como chego ao centro da cidade? (How do I get to the city center?)"
+    },
+    {
+      "portuguese": "Qual é o melhor caminho para o aeroporto?",
+      "english": "What is the best way to the airport?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Qual é o melhor caminho para o aeroporto? (What is the best way to the airport?)"
+    },
+    {
+      "portuguese": "Onde fica a estação de comboios?",
+      "english": "Where is the train station?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde fica a estação de comboios? (Where is the train station?)"
+    },
+    {
+      "portuguese": "Quando é o próximo comboio?",
+      "english": "When is the next train?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Quando é o próximo comboio? (When is the next train?)"
+    },
+    {
+      "portuguese": "Onde é a saída?",
+      "english": "Where is the exit?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde é a saída? (Where is the exit?)"
+    },
+    {
+      "portuguese": "Onde fica a paragem de autocarro mais próxima?",
+      "english": "Where is the nearest bus stop?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde fica a paragem de autocarro mais próxima? (Where is the nearest bus stop?)"
+    },
+    {
+      "portuguese": "A que horas é o próximo autocarro?",
+      "english": "What time is the next bus?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "A que horas é o próximo autocarro? (What time is the next bus?)"
+    },
+    {
+      "portuguese": "Este autocarro vai para…?",
+      "english": "Does this bus go to…?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Este autocarro vai para…? (Does this bus go to…?)"
+    },
+    {
+      "portuguese": "Este autocarro vai para onde?",
+      "english": "Where does this bus go?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Este autocarro vai para onde? (Where does this bus go?)"
+    },
+    {
+      "portuguese": "Pode chamar um táxi, por favor?",
+      "english": "Can you call a taxi, please?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Pode chamar um táxi, por favor? (Can you call a taxi, please?)"
+    },
+    {
+      "portuguese": "Onde posso encontrar um táxi?",
+      "english": "Where can I find a taxi?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde posso encontrar um táxi? (Where can I find a taxi?)"
+    },
+    {
+      "portuguese": "Onde se apanha o metro?",
+      "english": "Where do you catch the subway/metro?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde se apanha o metro? (Where do you catch the subway/metro?)"
+    },
+    {
+      "portuguese": "Há algum supermercado por perto?",
+      "english": "Is there a supermarket nearby?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Há algum supermercado por perto? (Is there a supermarket nearby?)"
+    },
+    {
+      "portuguese": "É longe daqui?",
+      "english": "Is it far from here?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "É longe daqui? (Is it far from here?)"
+    },
+    {
+      "portuguese": "Onde posso alugar um carro?",
+      "english": "Where can I rent a car?",
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ],
+      "source_text": "Onde posso alugar um carro? (Where can I rent a car?)"
+    },
+    {
+      "portuguese": "Ao lado",
+      "english": "Next to",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Ao lado (Next to)"
+    },
+    {
+      "portuguese": "Perto",
+      "english": "Close, near",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Perto (Close, near)"
+    },
+    {
+      "portuguese": "Longe",
+      "english": "Far",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Longe (Far)"
+    },
+    {
+      "portuguese": "Lá",
+      "english": "There",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Lá (There)"
+    },
+    {
+      "portuguese": "Aqui",
+      "english": "Here",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Aqui (Here)"
+    },
+    {
+      "portuguese": "Esquerda",
+      "english": "Left",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Esquerda (Left)"
+    },
+    {
+      "portuguese": "Direita",
+      "english": "Right",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Direita (Right)"
+    },
+    {
+      "portuguese": "Saída",
+      "english": "Exit",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Saída (Exit)"
+    },
+    {
+      "portuguese": "Em frente",
+      "english": "Straight ahead",
+      "groups": [
+        "Directions"
+      ],
+      "source_text": "Em frente (Straight ahead)"
+    },
+    {
+      "portuguese": "Quanto custa isto?",
+      "english": "How much does this cost?",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Quanto custa isto? (How much does this cost?)"
+    },
+    {
+      "portuguese": "Posso pagar com cartão?",
+      "english": "Can I pay with a card?",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Posso pagar com cartão? (Can I pay with a card?)"
+    },
+    {
+      "portuguese": "Aceita cartão de crédito ou débito?",
+      "english": "Do you accept credit or debit card?",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Aceita cartão de crédito ou débito? (Do you accept credit or debit card?)"
+    },
+    {
+      "portuguese": "Há algum desconto?",
+      "english": "Is there any discount?",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Há algum desconto? (Is there any discount?)"
+    },
+    {
+      "portuguese": "Onde é que eu posso trocar dinheiro perto daqui?",
+      "english": "Where can I exchange money nearby?",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Onde é que eu posso trocar dinheiro perto daqui? (Where can I exchange money nearby?)"
+    },
+    {
+      "portuguese": "Estou só a ver, obrigado /a.",
+      "english": "I’m just looking, thank you.",
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ],
+      "source_text": "Estou só a ver, obrigado /a. (I’m just looking, thank you.)"
+    },
+    {
+      "portuguese": "Posso reservar uma mesa?",
+      "english": "Can I book a table?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Posso reservar uma mesa? (Can I book a table?)"
+    },
+    {
+      "portuguese": "Eu tenho uma reserva",
+      "english": "I have a reservation.",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Eu tenho uma reserva (I have a reservation.)"
+    },
+    {
+      "portuguese": "Tem um menu em inglês?",
+      "english": "Do you have a menu in English?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Tem um menu em inglês? (Do you have a menu in English?)"
+    },
+    {
+      "portuguese": "Qual é o prato do dia?",
+      "english": "What is the dish of the day?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Qual é o prato do dia? (What is the dish of the day?)"
+    },
+    {
+      "portuguese": "Posso experimentar?",
+      "english": "Can I try it?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Posso experimentar? (Can I try it?)"
+    },
+    {
+      "portuguese": "Tem algo sem glúten?",
+      "english": "Do you have anything gluten-free?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Tem algo sem glúten? (Do you have anything gluten-free?)"
+    },
+    {
+      "portuguese": "Pode recomendar um restaurante?",
+      "english": "Can you recommend a restaurant?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Pode recomendar um restaurante? (Can you recommend a restaurant?)"
+    },
+    {
+      "portuguese": "Tem algo para vegetarianos?",
+      "english": "Do you have anything for vegetarians?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Tem algo para vegetarianos? (Do you have anything for vegetarians?)"
+    },
+    {
+      "portuguese": "Qual é a especialidade da casa?",
+      "english": "What is the house specialty?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Qual é a especialidade da casa? (What is the house specialty?)"
+    },
+    {
+      "portuguese": "O que recomenda?",
+      "english": "What do you recommend?",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "O que recomenda? (What do you recommend?)"
+    },
+    {
+      "portuguese": "Queria uma garrafa de água fresca, por favor.",
+      "english": "I would like a cold water bottle, please.",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Queria uma garrafa de água fresca, por favor. (I would like a cold water bottle, please.)"
+    },
+    {
+      "portuguese": "Queria pedir a conta, por favor.",
+      "english": "I would like to ask for the bill, please.",
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ],
+      "source_text": "Queria pedir a conta, por favor. (I would like to ask for the bill, please.)"
+    },
+    {
+      "portuguese": "Água",
+      "english": "Water",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Água (Water)"
+    },
+    {
+      "portuguese": "Carne",
+      "english": "Meat",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Carne (Meat)"
+    },
+    {
+      "portuguese": "Peixe",
+      "english": "Fish",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Peixe (Fish)"
+    },
+    {
+      "portuguese": "Vinho",
+      "english": "Wine",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Vinho (Wine)"
+    },
+    {
+      "portuguese": "Pão",
+      "english": "Bread",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Pão (Bread)"
+    },
+    {
+      "portuguese": "Chá",
+      "english": "Tea",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Chá (Tea)"
+    },
+    {
+      "portuguese": "Café",
+      "english": "Coffee",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Café (Coffee)"
+    },
+    {
+      "portuguese": "Pequeno-almoço",
+      "english": "Breakfast",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Pequeno-almoço (Breakfast)"
+    },
+    {
+      "portuguese": "Almoço",
+      "english": "Lunch",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Almoço (Lunch)"
+    },
+    {
+      "portuguese": "Jantar",
+      "english": "Dinner",
+      "groups": [
+        "Food and Drink Vocabulary"
+      ],
+      "source_text": "Jantar (Dinner)"
+    },
+    {
+      "portuguese": "Tem quartos disponíveis?",
+      "english": "Do you have rooms available?",
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ],
+      "source_text": "Tem quartos disponíveis? (Do you have rooms available?)"
+    },
+    {
+      "portuguese": "Qual é o preço por noite?",
+      "english": "What is the price per night?",
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ],
+      "source_text": "Qual é o preço por noite? (What is the price per night?)"
+    },
+    {
+      "portuguese": "Posso ver o quarto antes?",
+      "english": "Can I see the room first?",
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ],
+      "source_text": "Posso ver o quarto antes? (Can I see the room first?)"
+    },
+    {
+      "portuguese": "A que horas servem o pequeno-almoço?",
+      "english": "What time do you serve breakfast?",
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ],
+      "source_text": "A que horas servem o pequeno-almoço? (What time do you serve breakfast?)"
+    },
+    {
+      "portuguese": "Pode recomendar-me um hotel?",
+      "english": "Can you recommend a hotel?",
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ],
+      "source_text": "Pode recomendar-me um hotel? (Can you recommend a hotel?)"
+    },
+    {
+      "portuguese": "Pode ajudar-me, por favor?",
+      "english": "Can you help me, please?",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Pode ajudar-me, por favor? (Can you help me, please?)"
+    },
+    {
+      "portuguese": "Preciso de uma informação, por favor.",
+      "english": "I need some information, please.",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Preciso de uma informação, por favor. (I need some information, please.)"
+    },
+    {
+      "portuguese": "Pode falar mais devagar, por favor?",
+      "english": "Can you speak more slowly, please?",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Pode falar mais devagar, por favor? (Can you speak more slowly, please?)"
+    },
+    {
+      "portuguese": "Como se diz isto em português?",
+      "english": "How do you say this in Portuguese?",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Como se diz isto em português? (How do you say this in Portuguese?)"
+    },
+    {
+      "portuguese": "A senha do Wi-Fi, por favor.",
+      "english": "The Wi-Fi password, please.",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "A senha do Wi-Fi, por favor. (The Wi-Fi password, please.)"
+    },
+    {
+      "portuguese": "Fala inglês?",
+      "english": "Do you speak English?",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Fala inglês? (Do you speak English?)"
+    },
+    {
+      "portuguese": "Desculpe , não falo português.",
+      "english": "Sorry, I don’t speak Portuguese.",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Desculpe , não falo português. (Sorry, I don’t speak Portuguese.)"
+    },
+    {
+      "portuguese": "Não percebo.",
+      "english": "I do not understand.",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Não percebo. (I do not understand.)"
+    },
+    {
+      "portuguese": "Pode repetir/dizer outra vez?",
+      "english": "Can you repeat/say (that) again?",
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ],
+      "source_text": "Pode repetir/dizer outra vez? (Can you repeat/say (that) again?)"
+    },
+    {
+      "portuguese": "Pode mostrar-me no mapa?",
+      "english": "Can you show me on the map?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Pode mostrar-me no mapa? (Can you show me on the map?)"
+    },
+    {
+      "portuguese": "Onde posso comprar bilhetes?",
+      "english": "Where can I buy tickets?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Onde posso comprar bilhetes? (Where can I buy tickets?)"
+    },
+    {
+      "portuguese": "Há visitas guiadas disponíveis?",
+      "english": "Are there guided tours available?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Há visitas guiadas disponíveis? (Are there guided tours available?)"
+    },
+    {
+      "portuguese": "Há algum evento local hoje?",
+      "english": "Is there any local event today?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Há algum evento local hoje? (Is there any local event today?)"
+    },
+    {
+      "portuguese": "Pode tirar-me uma foto, por favor?",
+      "english": "Can you take a picture of me, please?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Pode tirar-me uma foto, por favor? (Can you take a picture of me, please?)"
+    },
+    {
+      "portuguese": "Onde posso encontrar informações turísticas?",
+      "english": "Where can I find tourist information?",
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ],
+      "source_text": "Onde posso encontrar informações turísticas? (Where can I find tourist information?)"
+    },
+    {
+      "portuguese": "Há um médico por perto?",
+      "english": "Is there a doctor nearby?",
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ],
+      "source_text": "Há um médico por perto? (Is there a doctor nearby?)"
+    },
+    {
+      "portuguese": "Este lugar é seguro?",
+      "english": "Is this place safe?",
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ],
+      "source_text": "Este lugar é seguro? (Is this place safe?)"
+    },
+    {
+      "portuguese": "Pode ligar para o cento e doze (112)?",
+      "english": "Can you call 911?",
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ],
+      "source_text": "Pode ligar para o cento e doze (112)? (Can you call 911?)"
+    },
+    {
+      "portuguese": "Há uma farmácia nesta zona?",
+      "english": "Is there a pharmacy in this area?",
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ],
+      "source_text": "Há uma farmácia nesta zona? (Is there a pharmacy in this area?)"
+    },
+    {
+      "portuguese": "Quanto tempo demora a chegar lá?",
+      "english": "How long does it take to get there?",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "Quanto tempo demora a chegar lá? (How long does it take to get there?)"
+    },
+    {
+      "portuguese": "Como se chama esta rua?",
+      "english": "What is the name of this street?",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "Como se chama esta rua? (What is the name of this street?)"
+    },
+    {
+      "portuguese": "Preciso de um adaptador de tomada.",
+      "english": "I need a power adapter.",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "Preciso de um adaptador de tomada. (I need a power adapter.)"
+    },
+    {
+      "portuguese": "Qual é a previsão do tempo para hoje?",
+      "english": "What is the weather forecast for today?",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "Qual é a previsão do tempo para hoje? (What is the weather forecast for today?)"
+    },
+    {
+      "portuguese": "A que horas abre?",
+      "english": "What time does it open?",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "A que horas abre? (What time does it open?)"
+    },
+    {
+      "portuguese": "A que horas fecha?",
+      "english": "What time does it close?",
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ],
+      "source_text": "A que horas fecha? (What time does it close?)"
+    }
+  ],
+  "unique_words": [
+    {
+      "portuguese": "olá",
+      "phrase_indices": [
+        0
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "tudo",
+      "phrase_indices": [
+        1
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "bem",
+      "phrase_indices": [
+        1,
+        3
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "como",
+      "phrase_indices": [
+        2,
+        9,
+        18,
+        78,
+        95
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "está",
+      "phrase_indices": [
+        2
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "vai",
+      "phrase_indices": [
+        2,
+        25,
+        26
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "eu",
+      "phrase_indices": [
+        3,
+        46,
+        49
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "estou",
+      "phrase_indices": [
+        3,
+        47
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "bom",
+      "phrase_indices": [
+        4
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "dia",
+      "phrase_indices": [
+        4,
+        51
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "boa",
+      "phrase_indices": [
+        5,
+        6
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "tarde",
+      "phrase_indices": [
+        5
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "noite",
+      "phrase_indices": [
+        6,
+        71
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "até",
+      "phrase_indices": [
+        7
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "logo",
+      "phrase_indices": [
+        7
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "o",
+      "phrase_indices": [
+        8,
+        19,
+        21,
+        24,
+        29,
+        51,
+        57,
+        71,
+        72,
+        73,
+        92
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "meu",
+      "phrase_indices": [
+        8
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "nome",
+      "phrase_indices": [
+        8
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "é",
+      "phrase_indices": [
+        8,
+        19,
+        21,
+        22,
+        24,
+        31,
+        46,
+        51,
+        56,
+        71,
+        91,
+        97
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Emergencies and Health",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "se",
+      "phrase_indices": [
+        9,
+        29,
+        78,
+        95
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "chama",
+      "phrase_indices": [
+        9,
+        95
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "muito",
+      "phrase_indices": [
+        10,
+        16
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Polite Portuguese Phrases"
+      ]
+    },
+    {
+      "portuguese": "prazer",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "em",
+      "phrase_indices": [
+        10,
+        41,
+        50,
+        78
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions",
+        "Directions",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "conhecer",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "lo",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "la",
+      "phrase_indices": [
+        10
+      ],
+      "groups": [
+        "Phrases for Greetings & Introductions"
+      ]
+    },
+    {
+      "portuguese": "desculpe",
+      "phrase_indices": [
+        11,
+        81
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "com",
+      "phrase_indices": [
+        12,
+        43
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "licença",
+      "phrase_indices": [
+        12
+      ],
+      "groups": [
+        "Polite Portuguese Phrases"
+      ]
+    },
+    {
+      "portuguese": "por",
+      "phrase_indices": [
+        13,
+        27,
+        30,
+        58,
+        59,
+        71,
+        75,
+        76,
+        77,
+        79,
+        88,
+        90
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Communication",
+        "Portuguese Phrases for Sightseeing and Activities",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "favor",
+      "phrase_indices": [
+        13,
+        27,
+        58,
+        59,
+        75,
+        76,
+        77,
+        79,
+        88
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "de",
+      "phrase_indices": [
+        14,
+        17,
+        20,
+        23,
+        44,
+        58,
+        76,
+        96
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "nada",
+      "phrase_indices": [
+        14
+      ],
+      "groups": [
+        "Polite Portuguese Phrases"
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "phrase_indices": [
+        15,
+        16,
+        47
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "obrigada",
+      "phrase_indices": [
+        15,
+        16,
+        47
+      ],
+      "groups": [
+        "Polite Portuguese Phrases",
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "phrase_indices": [
+        17,
+        20,
+        22,
+        23,
+        26,
+        28,
+        29,
+        32,
+        46,
+        85,
+        89
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "fica",
+      "phrase_indices": [
+        17,
+        20,
+        23
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "a",
+      "phrase_indices": [
+        17,
+        20,
+        22,
+        23,
+        24,
+        47,
+        56,
+        59,
+        73,
+        79,
+        94,
+        97,
+        98,
+        99
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "casa",
+      "phrase_indices": [
+        17,
+        56
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "banho",
+      "phrase_indices": [
+        17
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "chego",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "ao",
+      "phrase_indices": [
+        18,
+        33
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "centro",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "da",
+      "phrase_indices": [
+        18,
+        56
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "cidade",
+      "phrase_indices": [
+        18
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "qual",
+      "phrase_indices": [
+        19,
+        51,
+        56,
+        71,
+        97
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "melhor",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "caminho",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "para",
+      "phrase_indices": [
+        19,
+        25,
+        26,
+        55,
+        92,
+        97
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Emergencies and Health",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "aeroporto",
+      "phrase_indices": [
+        19
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "estação",
+      "phrase_indices": [
+        20
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "comboios",
+      "phrase_indices": [
+        20
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "quando",
+      "phrase_indices": [
+        21
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "próximo",
+      "phrase_indices": [
+        21,
+        24
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "comboio",
+      "phrase_indices": [
+        21
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "saída",
+      "phrase_indices": [
+        22,
+        40
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "paragem",
+      "phrase_indices": [
+        23
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "autocarro",
+      "phrase_indices": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "mais",
+      "phrase_indices": [
+        23,
+        77
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "próxima",
+      "phrase_indices": [
+        23
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "que",
+      "phrase_indices": [
+        24,
+        46,
+        57,
+        73,
+        98,
+        99
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "horas",
+      "phrase_indices": [
+        24,
+        73,
+        98,
+        99
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Booking Accommodation",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "este",
+      "phrase_indices": [
+        25,
+        26,
+        91
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "pode",
+      "phrase_indices": [
+        27,
+        54,
+        74,
+        75,
+        77,
+        83,
+        84,
+        88,
+        92
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Communication",
+        "Portuguese Phrases for Sightseeing and Activities",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "chamar",
+      "phrase_indices": [
+        27
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "um",
+      "phrase_indices": [
+        27,
+        28,
+        32,
+        50,
+        54,
+        74,
+        90,
+        96
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Emergencies and Health",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "táxi",
+      "phrase_indices": [
+        27,
+        28
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "posso",
+      "phrase_indices": [
+        28,
+        32,
+        43,
+        46,
+        48,
+        52,
+        72,
+        85,
+        89
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "encontrar",
+      "phrase_indices": [
+        28,
+        89
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "apanha",
+      "phrase_indices": [
+        29
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "phrase_indices": [
+        29
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "há",
+      "phrase_indices": [
+        30,
+        45,
+        86,
+        87,
+        90,
+        93
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Sightseeing and Activities",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "algum",
+      "phrase_indices": [
+        30,
+        45,
+        87
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "supermercado",
+      "phrase_indices": [
+        30
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "perto",
+      "phrase_indices": [
+        30,
+        34,
+        46,
+        90
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Directions",
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "longe",
+      "phrase_indices": [
+        31,
+        35
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "daqui",
+      "phrase_indices": [
+        31,
+        46
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around",
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "alugar",
+      "phrase_indices": [
+        32
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "carro",
+      "phrase_indices": [
+        32
+      ],
+      "groups": [
+        "Portuguese Phrases for Getting Around"
+      ]
+    },
+    {
+      "portuguese": "lado",
+      "phrase_indices": [
+        33
+      ],
+      "groups": [
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "lá",
+      "phrase_indices": [
+        36,
+        94
+      ],
+      "groups": [
+        "Directions",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "aqui",
+      "phrase_indices": [
+        37
+      ],
+      "groups": [
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "esquerda",
+      "phrase_indices": [
+        38
+      ],
+      "groups": [
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "direita",
+      "phrase_indices": [
+        39
+      ],
+      "groups": [
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "frente",
+      "phrase_indices": [
+        41
+      ],
+      "groups": [
+        "Directions"
+      ]
+    },
+    {
+      "portuguese": "quanto",
+      "phrase_indices": [
+        42,
+        94
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "custa",
+      "phrase_indices": [
+        42
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "isto",
+      "phrase_indices": [
+        42,
+        78
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "pagar",
+      "phrase_indices": [
+        43
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "cartão",
+      "phrase_indices": [
+        43,
+        44
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "aceita",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "crédito",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "ou",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "débito",
+      "phrase_indices": [
+        44
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "desconto",
+      "phrase_indices": [
+        45
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "trocar",
+      "phrase_indices": [
+        46
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "dinheiro",
+      "phrase_indices": [
+        46
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "só",
+      "phrase_indices": [
+        47
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "ver",
+      "phrase_indices": [
+        47,
+        72
+      ],
+      "groups": [
+        "Portuguese Phrases for Shopping and Payments",
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "reservar",
+      "phrase_indices": [
+        48
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "uma",
+      "phrase_indices": [
+        48,
+        49,
+        58,
+        76,
+        88,
+        93
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication",
+        "Portuguese Phrases for Sightseeing and Activities",
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "mesa",
+      "phrase_indices": [
+        48
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "tenho",
+      "phrase_indices": [
+        49
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "reserva",
+      "phrase_indices": [
+        49
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "tem",
+      "phrase_indices": [
+        50,
+        53,
+        55,
+        70
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "menu",
+      "phrase_indices": [
+        50
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "inglês",
+      "phrase_indices": [
+        50,
+        80
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "prato",
+      "phrase_indices": [
+        51
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "do",
+      "phrase_indices": [
+        51,
+        79,
+        97
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "experimentar",
+      "phrase_indices": [
+        52
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "algo",
+      "phrase_indices": [
+        53,
+        55
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "sem",
+      "phrase_indices": [
+        53
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "glúten",
+      "phrase_indices": [
+        53
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "recomendar",
+      "phrase_indices": [
+        54,
+        74
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "restaurante",
+      "phrase_indices": [
+        54
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "vegetarianos",
+      "phrase_indices": [
+        55
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "especialidade",
+      "phrase_indices": [
+        56
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "recomenda",
+      "phrase_indices": [
+        57
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "queria",
+      "phrase_indices": [
+        58,
+        59
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "garrafa",
+      "phrase_indices": [
+        58
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "água",
+      "phrase_indices": [
+        58,
+        60
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés",
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "fresca",
+      "phrase_indices": [
+        58
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "pedir",
+      "phrase_indices": [
+        59
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "phrase_indices": [
+        59
+      ],
+      "groups": [
+        "Portuguese Phrases for Restaurants and Cafés"
+      ]
+    },
+    {
+      "portuguese": "carne",
+      "phrase_indices": [
+        61
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "peixe",
+      "phrase_indices": [
+        62
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "vinho",
+      "phrase_indices": [
+        63
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "pão",
+      "phrase_indices": [
+        64
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "chá",
+      "phrase_indices": [
+        65
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "café",
+      "phrase_indices": [
+        66
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "pequeno-almoço",
+      "phrase_indices": [
+        67,
+        73
+      ],
+      "groups": [
+        "Food and Drink Vocabulary",
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "almoço",
+      "phrase_indices": [
+        68
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "jantar",
+      "phrase_indices": [
+        69
+      ],
+      "groups": [
+        "Food and Drink Vocabulary"
+      ]
+    },
+    {
+      "portuguese": "quartos",
+      "phrase_indices": [
+        70
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "disponíveis",
+      "phrase_indices": [
+        70,
+        86
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "preço",
+      "phrase_indices": [
+        71
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "quarto",
+      "phrase_indices": [
+        72
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "antes",
+      "phrase_indices": [
+        72
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "servem",
+      "phrase_indices": [
+        73
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "me",
+      "phrase_indices": [
+        74,
+        75,
+        84,
+        88
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation",
+        "Portuguese Phrases for Communication",
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "hotel",
+      "phrase_indices": [
+        74
+      ],
+      "groups": [
+        "Portuguese Phrases for Booking Accommodation"
+      ]
+    },
+    {
+      "portuguese": "ajudar",
+      "phrase_indices": [
+        75
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "preciso",
+      "phrase_indices": [
+        76,
+        96
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "informação",
+      "phrase_indices": [
+        76
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "falar",
+      "phrase_indices": [
+        77
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "devagar",
+      "phrase_indices": [
+        77
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "diz",
+      "phrase_indices": [
+        78
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "português",
+      "phrase_indices": [
+        78,
+        81
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "senha",
+      "phrase_indices": [
+        79
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "wi-fi",
+      "phrase_indices": [
+        79
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "fala",
+      "phrase_indices": [
+        80
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "não",
+      "phrase_indices": [
+        81,
+        82
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "falo",
+      "phrase_indices": [
+        81
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "percebo",
+      "phrase_indices": [
+        82
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "repetir",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "outra",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "vez",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "dizer",
+      "phrase_indices": [
+        83
+      ],
+      "groups": [
+        "Portuguese Phrases for Communication"
+      ]
+    },
+    {
+      "portuguese": "mostrar",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "no",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "mapa",
+      "phrase_indices": [
+        84
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "comprar",
+      "phrase_indices": [
+        85
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "bilhetes",
+      "phrase_indices": [
+        85
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "visitas",
+      "phrase_indices": [
+        86
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "guiadas",
+      "phrase_indices": [
+        86
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "evento",
+      "phrase_indices": [
+        87
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "local",
+      "phrase_indices": [
+        87
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "hoje",
+      "phrase_indices": [
+        87,
+        97
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities",
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "tirar",
+      "phrase_indices": [
+        88
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "foto",
+      "phrase_indices": [
+        88
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "informações",
+      "phrase_indices": [
+        89
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "turísticas",
+      "phrase_indices": [
+        89
+      ],
+      "groups": [
+        "Portuguese Phrases for Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "médico",
+      "phrase_indices": [
+        90
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "lugar",
+      "phrase_indices": [
+        91
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "phrase_indices": [
+        91
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "ligar",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "cento",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "e",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "doze",
+      "phrase_indices": [
+        92
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "farmácia",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "nesta",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "zona",
+      "phrase_indices": [
+        93
+      ],
+      "groups": [
+        "Portuguese Phrases for Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "phrase_indices": [
+        94,
+        97
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "demora",
+      "phrase_indices": [
+        94
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "chegar",
+      "phrase_indices": [
+        94
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "esta",
+      "phrase_indices": [
+        95
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "rua",
+      "phrase_indices": [
+        95
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "adaptador",
+      "phrase_indices": [
+        96
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "tomada",
+      "phrase_indices": [
+        96
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "phrase_indices": [
+        97
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "abre",
+      "phrase_indices": [
+        98
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    },
+    {
+      "portuguese": "fecha",
+      "phrase_indices": [
+        99
+      ],
+      "groups": [
+        "Other Useful Portuguese Sentences"
+      ]
+    }
+  ],
+  "tokenization": "Lowercase NFC, punctuation and placeholders removed; compounds retained; clitics separated; conhecer restored from conhecê-lo/la; other inflected forms kept, not lemmatized."
+}

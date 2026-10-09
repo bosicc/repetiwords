@@ -1,0 +1,50 @@
+{
+  "prepared_at": "2026-10-09",
+  "passed": true,
+  "words_added": 341,
+  "existing_words_linked": 343,
+  "categories_reviewed": 104,
+  "categories_expanded": 96,
+  "new_memberships": 2068,
+  "database_total_words": 1433,
+  "all_original_rows_preserved": {
+    "words": true,
+    "groups": true,
+    "word_groups": true,
+    "users": true,
+    "sessions": true,
+    "answers": true,
+    "archived_words": true,
+    "archived_answers": true
+  },
+  "counts_before": {
+    "words": 1092,
+    "groups": 104,
+    "word_groups": 4438,
+    "users": 0,
+    "sessions": 4,
+    "answers": 58,
+    "archived_words": 161,
+    "archived_answers": 3
+  },
+  "counts_after": {
+    "words": 1433,
+    "groups": 104,
+    "word_groups": 6506,
+    "users": 0,
+    "sessions": 4,
+    "answers": 58,
+    "archived_words": 161,
+    "archived_answers": 3
+  },
+  "checks": [
+    "Every proposed word and membership is present",
+    "All new words have English/Ukrainian translations and estimated A1/A2 labels",
+    "Original word IDs, translations, levels, mastery and history are unchanged",
+    "All new words start at mastery 0",
+    "Every category count matches the saved audit",
+    "No phrases or case-normalized duplicate words",
+    "SQLite integrity and foreign keys verified"
+  ],
+  "sqlite_backup": "/Users/borys.pratsiuk/proj/vocpt/data/backups/before-category-supplement-2026-10-09T13-31-37-624694Z.sqlite"
+}

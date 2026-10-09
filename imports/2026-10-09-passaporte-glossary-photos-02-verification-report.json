@@ -1,0 +1,479 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 182,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1632,
+      "portuguese": "aquecimento"
+    },
+    {
+      "id": 1633,
+      "portuguese": "ar"
+    },
+    {
+      "id": 1634,
+      "portuguese": "arranjar"
+    },
+    {
+      "id": 1635,
+      "portuguese": "arte"
+    },
+    {
+      "id": 1636,
+      "portuguese": "artista"
+    },
+    {
+      "id": 1637,
+      "portuguese": "aspirina"
+    },
+    {
+      "id": 1638,
+      "portuguese": "assado"
+    },
+    {
+      "id": 1639,
+      "portuguese": "assim"
+    },
+    {
+      "id": 1640,
+      "portuguese": "assistir"
+    },
+    {
+      "id": 1641,
+      "portuguese": "assistência"
+    },
+    {
+      "id": 1642,
+      "portuguese": "assoalhada"
+    },
+    {
+      "id": 1643,
+      "portuguese": "ateliê"
+    },
+    {
+      "id": 1644,
+      "portuguese": "ativo"
+    },
+    {
+      "id": 1645,
+      "portuguese": "ator"
+    },
+    {
+      "id": 1646,
+      "portuguese": "atrasado"
+    },
+    {
+      "id": 1647,
+      "portuguese": "atriz"
+    },
+    {
+      "id": 1648,
+      "portuguese": "aérea"
+    },
+    {
+      "id": 1649,
+      "portuguese": "batalha"
+    },
+    {
+      "id": 1650,
+      "portuguese": "batatas"
+    },
+    {
+      "id": 1651,
+      "portuguese": "bater"
+    },
+    {
+      "id": 1652,
+      "portuguese": "beijinho"
+    },
+    {
+      "id": 1653,
+      "portuguese": "beijo"
+    },
+    {
+      "id": 1654,
+      "portuguese": "beleza"
+    },
+    {
+      "id": 1655,
+      "portuguese": "belga"
+    },
+    {
+      "id": 1656,
+      "portuguese": "bem-disposto"
+    },
+    {
+      "id": 1657,
+      "portuguese": "benfiquista"
+    },
+    {
+      "id": 1658,
+      "portuguese": "bocado"
+    },
+    {
+      "id": 1659,
+      "portuguese": "bomba"
+    },
+    {
+      "id": 1660,
+      "portuguese": "borrego"
+    },
+    {
+      "id": 1661,
+      "portuguese": "brindar"
+    },
+    {
+      "id": 1662,
+      "portuguese": "bronzeado"
+    },
+    {
+      "id": 1663,
+      "portuguese": "buscar"
+    },
+    {
+      "id": 1664,
+      "portuguese": "capital"
+    },
+    {
+      "id": 1665,
+      "portuguese": "cara"
+    },
+    {
+      "id": 1666,
+      "portuguese": "careca"
+    },
+    {
+      "id": 1667,
+      "portuguese": "caril"
+    },
+    {
+      "id": 1668,
+      "portuguese": "carioca"
+    },
+    {
+      "id": 1669,
+      "portuguese": "carácter"
+    },
+    {
+      "id": 1670,
+      "portuguese": "casal"
+    },
+    {
+      "id": 1671,
+      "portuguese": "causa"
+    },
+    {
+      "id": 1672,
+      "portuguese": "caves"
+    },
+    {
+      "id": 1673,
+      "portuguese": "centenas"
+    },
+    {
+      "id": 1674,
+      "portuguese": "central"
+    },
+    {
+      "id": 1675,
+      "portuguese": "cerca"
+    },
+    {
+      "id": 1676,
+      "portuguese": "cereais"
+    },
+    {
+      "id": 1677,
+      "portuguese": "cheia"
+    },
+    {
+      "id": 1678,
+      "portuguese": "cidadão"
+    },
+    {
+      "id": 1679,
+      "portuguese": "classe"
+    },
+    {
+      "id": 1680,
+      "portuguese": "cliente"
+    },
+    {
+      "id": 1681,
+      "portuguese": "clube"
+    },
+    {
+      "id": 1682,
+      "portuguese": "clássica"
+    },
+    {
+      "id": 1683,
+      "portuguese": "coco"
+    },
+    {
+      "id": 1684,
+      "portuguese": "coitado"
+    },
+    {
+      "id": 1685,
+      "portuguese": "colina"
+    },
+    {
+      "id": 1686,
+      "portuguese": "colocar"
+    },
+    {
+      "id": 1687,
+      "portuguese": "combinado"
+    },
+    {
+      "id": 1688,
+      "portuguese": "comercial"
+    },
+    {
+      "id": 1689,
+      "portuguese": "comida"
+    },
+    {
+      "id": 1690,
+      "portuguese": "comissário"
+    },
+    {
+      "id": 1691,
+      "portuguese": "completamente"
+    },
+    {
+      "id": 1692,
+      "portuguese": "completo"
+    },
+    {
+      "id": 1693,
+      "portuguese": "compositor"
+    },
+    {
+      "id": 1694,
+      "portuguese": "compras"
+    },
+    {
+      "id": 1695,
+      "portuguese": "compreendo"
+    },
+    {
+      "id": 1696,
+      "portuguese": "comprido"
+    },
+    {
+      "id": 1697,
+      "portuguese": "comércio"
+    },
+    {
+      "id": 1698,
+      "portuguese": "concorrente"
+    },
+    {
+      "id": 1699,
+      "portuguese": "concurso"
+    },
+    {
+      "id": 1700,
+      "portuguese": "condicionado"
+    },
+    {
+      "id": 1701,
+      "portuguese": "conduzir"
+    },
+    {
+      "id": 1702,
+      "portuguese": "congelado"
+    },
+    {
+      "id": 1703,
+      "portuguese": "conhecimento"
+    },
+    {
+      "id": 1704,
+      "portuguese": "conjunto"
+    },
+    {
+      "id": 1705,
+      "portuguese": "croissant"
+    },
+    {
+      "id": 1706,
+      "portuguese": "cruzeiro"
+    },
+    {
+      "id": 1707,
+      "portuguese": "cuidado"
+    },
+    {
+      "id": 1708,
+      "portuguese": "culinária"
+    },
+    {
+      "id": 1709,
+      "portuguese": "cumprimentos"
+    },
+    {
+      "id": 1710,
+      "portuguese": "custar"
+    },
+    {
+      "id": 1711,
+      "portuguese": "custo"
+    },
+    {
+      "id": 1712,
+      "portuguese": "código"
+    },
+    {
+      "id": 1713,
+      "portuguese": "decidir"
+    },
+    {
+      "id": 1714,
+      "portuguese": "decorar"
+    },
+    {
+      "id": 1715,
+      "portuguese": "decoração"
+    },
+    {
+      "id": 1716,
+      "portuguese": "dela"
+    },
+    {
+      "id": 1717,
+      "portuguese": "delas"
+    },
+    {
+      "id": 1718,
+      "portuguese": "dele"
+    },
+    {
+      "id": 1719,
+      "portuguese": "deles"
+    },
+    {
+      "id": 1720,
+      "portuguese": "demorar"
+    },
+    {
+      "id": 1721,
+      "portuguese": "depender"
+    },
+    {
+      "id": 1722,
+      "portuguese": "depositar"
+    },
+    {
+      "id": 1723,
+      "portuguese": "desagradável"
+    },
+    {
+      "id": 1724,
+      "portuguese": "desarrumado"
+    },
+    {
+      "id": 1725,
+      "portuguese": "descalçar"
+    },
+    {
+      "id": 1726,
+      "portuguese": "descer"
+    },
+    {
+      "id": 1727,
+      "portuguese": "desconfortável"
+    },
+    {
+      "id": 1728,
+      "portuguese": "escadas"
+    },
+    {
+      "id": 1729,
+      "portuguese": "estás"
+    },
+    {
+      "id": 1730,
+      "portuguese": "fritas"
+    },
+    {
+      "id": 1731,
+      "portuguese": "programa"
+    },
+    {
+      "id": 1732,
+      "portuguese": "simples"
+    },
+    {
+      "id": 1733,
+      "portuguese": "à"
+    },
+    {
+      "id": 1734,
+      "portuguese": "área"
+    }
+  ],
+  "counts_after": {
+    "words": 1573,
+    "groups": 50,
+    "word_groups": 3417,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:00:11.545198+00:00"
+}

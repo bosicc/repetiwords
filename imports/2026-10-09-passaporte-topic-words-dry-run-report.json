@@ -1,0 +1,12 @@
+{
+  "file": "imports/2026-10-09-passaporte-topic-words-enriched.json",
+  "source": "/Volumes/BosiccDrive/proj/vocpt/9789897528927_Passaporte para Português 1 - Livro do Aluno_Issuu.pdf",
+  "dry_run": true,
+  "words": 789,
+  "added": 439,
+  "existing": 350,
+  "enriched": 0,
+  "groups_added": 52,
+  "memberships_added": 2661,
+  "conflicts": []
+}

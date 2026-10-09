@@ -1,0 +1,375 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 121,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 2037,
+      "portuguese": "agente"
+    },
+    {
+      "id": 2038,
+      "portuguese": "alguma"
+    },
+    {
+      "id": 2039,
+      "portuguese": "excelentíssimos"
+    },
+    {
+      "id": 2040,
+      "portuguese": "existir"
+    },
+    {
+      "id": 2041,
+      "portuguese": "explorar"
+    },
+    {
+      "id": 2042,
+      "portuguese": "facto"
+    },
+    {
+      "id": 2043,
+      "portuguese": "fadista"
+    },
+    {
+      "id": 2044,
+      "portuguese": "falador"
+    },
+    {
+      "id": 2045,
+      "portuguese": "falta"
+    },
+    {
+      "id": 2046,
+      "portuguese": "faltar"
+    },
+    {
+      "id": 2047,
+      "portuguese": "famoso"
+    },
+    {
+      "id": 2048,
+      "portuguese": "fatia"
+    },
+    {
+      "id": 2049,
+      "portuguese": "feio"
+    },
+    {
+      "id": 2050,
+      "portuguese": "felizmente"
+    },
+    {
+      "id": 2051,
+      "portuguese": "fugir"
+    },
+    {
+      "id": 2052,
+      "portuguese": "fumado"
+    },
+    {
+      "id": 2053,
+      "portuguese": "fumar"
+    },
+    {
+      "id": 2054,
+      "portuguese": "funcional"
+    },
+    {
+      "id": 2055,
+      "portuguese": "funcionar"
+    },
+    {
+      "id": 2056,
+      "portuguese": "funcionário"
+    },
+    {
+      "id": 2057,
+      "portuguese": "fundo"
+    },
+    {
+      "id": 2058,
+      "portuguese": "furioso"
+    },
+    {
+      "id": 2059,
+      "portuguese": "fã"
+    },
+    {
+      "id": 2060,
+      "portuguese": "gabinete"
+    },
+    {
+      "id": 2061,
+      "portuguese": "galeria"
+    },
+    {
+      "id": 2062,
+      "portuguese": "ganhar"
+    },
+    {
+      "id": 2063,
+      "portuguese": "gente"
+    },
+    {
+      "id": 2064,
+      "portuguese": "gestão"
+    },
+    {
+      "id": 2065,
+      "portuguese": "gosto"
+    },
+    {
+      "id": 2066,
+      "portuguese": "gostos"
+    },
+    {
+      "id": 2067,
+      "portuguese": "imobiliária"
+    },
+    {
+      "id": 2068,
+      "portuguese": "imobiliário"
+    },
+    {
+      "id": 2069,
+      "portuguese": "impaciente"
+    },
+    {
+      "id": 2070,
+      "portuguese": "imperial"
+    },
+    {
+      "id": 2071,
+      "portuguese": "importar"
+    },
+    {
+      "id": 2072,
+      "portuguese": "impresso"
+    },
+    {
+      "id": 2073,
+      "portuguese": "incómodo"
+    },
+    {
+      "id": 2074,
+      "portuguese": "indeciso"
+    },
+    {
+      "id": 2075,
+      "portuguese": "indiano"
+    },
+    {
+      "id": 2076,
+      "portuguese": "individual"
+    },
+    {
+      "id": 2077,
+      "portuguese": "infeliz"
+    },
+    {
+      "id": 2078,
+      "portuguese": "infelizmente"
+    },
+    {
+      "id": 2079,
+      "portuguese": "informático"
+    },
+    {
+      "id": 2080,
+      "portuguese": "inquilino"
+    },
+    {
+      "id": 2081,
+      "portuguese": "inserir"
+    },
+    {
+      "id": 2082,
+      "portuguese": "instrutor"
+    },
+    {
+      "id": 2083,
+      "portuguese": "inteligente"
+    },
+    {
+      "id": 2084,
+      "portuguese": "interdito"
+    },
+    {
+      "id": 2085,
+      "portuguese": "interesse"
+    },
+    {
+      "id": 2086,
+      "portuguese": "internacional"
+    },
+    {
+      "id": 2087,
+      "portuguese": "inveja"
+    },
+    {
+      "id": 2088,
+      "portuguese": "início"
+    },
+    {
+      "id": 2089,
+      "portuguese": "inútil"
+    },
+    {
+      "id": 2090,
+      "portuguese": "leve"
+    },
+    {
+      "id": 2091,
+      "portuguese": "lindo"
+    },
+    {
+      "id": 2092,
+      "portuguese": "lisboeta"
+    },
+    {
+      "id": 2093,
+      "portuguese": "livre"
+    },
+    {
+      "id": 2094,
+      "portuguese": "localização"
+    },
+    {
+      "id": 2095,
+      "portuguese": "loiro"
+    },
+    {
+      "id": 2096,
+      "portuguese": "louça"
+    },
+    {
+      "id": 2097,
+      "portuguese": "lume"
+    },
+    {
+      "id": 2098,
+      "portuguese": "luz"
+    },
+    {
+      "id": 2099,
+      "portuguese": "mergulhar"
+    },
+    {
+      "id": 2100,
+      "portuguese": "mergulho"
+    },
+    {
+      "id": 2101,
+      "portuguese": "mesquita"
+    },
+    {
+      "id": 2102,
+      "portuguese": "mexicano"
+    },
+    {
+      "id": 2103,
+      "portuguese": "milhares"
+    },
+    {
+      "id": 2104,
+      "portuguese": "mina"
+    },
+    {
+      "id": 2105,
+      "portuguese": "miradouro"
+    },
+    {
+      "id": 2106,
+      "portuguese": "miúdo"
+    },
+    {
+      "id": 2107,
+      "portuguese": "mobília"
+    },
+    {
+      "id": 2108,
+      "portuguese": "moreno"
+    },
+    {
+      "id": 2109,
+      "portuguese": "morrer"
+    },
+    {
+      "id": 2110,
+      "portuguese": "morte"
+    },
+    {
+      "id": 2111,
+      "portuguese": "prova"
+    },
+    {
+      "id": 2112,
+      "portuguese": "senhores"
+    },
+    {
+      "id": 2113,
+      "portuguese": "êxito"
+    }
+  ],
+  "counts_after": {
+    "words": 1952,
+    "groups": 50,
+    "word_groups": 4066,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:22:49.170991+00:00"
+}

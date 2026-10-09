@@ -1,0 +1,20 @@
+{
+  "prepared_at": "2026-10-09",
+  "extracted": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-extracted.json",
+  "enriched": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-enriched.json",
+  "audit": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-audit.json",
+  "dry-run-report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-dry-run-report.json",
+  "import-report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-import-report.json",
+  "verification-report": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-verification-report.json",
+  "replay-check": "/Users/borys.pratsiuk/proj/vocpt/imports/2026-10-09-category-supplement-replay-check.json",
+  "sqlite_backup": "/Users/borys.pratsiuk/proj/vocpt/data/backups/before-category-supplement-2026-10-09T13-31-37-624694Z.sqlite",
+  "summary": {
+    "categories_reviewed": 104,
+    "categories_expanded": 96,
+    "new_words": 341,
+    "existing_words_to_link": 343,
+    "batch_words": 684,
+    "new_memberships": 2068,
+    "expected_database_words_after": 1433
+  }
+}

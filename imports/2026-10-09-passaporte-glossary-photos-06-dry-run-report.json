@@ -1,0 +1,12 @@
+{
+  "file": "imports/2026-10-09-passaporte-glossary-photos-06-enriched.json",
+  "source": "Five user photographs of the Passaporte para Português glossary: pages 126, 128, 130, 132 and 134, including readable following-page fragments",
+  "dry_run": true,
+  "words": 232,
+  "added": 67,
+  "existing": 165,
+  "enriched": 0,
+  "groups_added": 0,
+  "memberships_added": 115,
+  "conflicts": []
+}

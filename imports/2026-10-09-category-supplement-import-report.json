@@ -1,0 +1,12 @@
+{
+  "file": "imports/2026-10-09-category-supplement-enriched.json",
+  "source": "Assistant-generated European Portuguese category supplement based on a local SQLite vocabulary audit",
+  "dry_run": false,
+  "words": 684,
+  "added": 341,
+  "existing": 343,
+  "enriched": 0,
+  "groups_added": 0,
+  "memberships_added": 2068,
+  "conflicts": []
+}

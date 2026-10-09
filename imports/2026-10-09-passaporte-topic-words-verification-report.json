@@ -1,0 +1,59 @@
+{
+  "prepared_at": "2026-10-09",
+  "passed": true,
+  "database_total_words": 1092,
+  "all_imported_words_found": 789,
+  "new_words": 439,
+  "existing_words_reused": 350,
+  "new_groups": 52,
+  "new_memberships": 2661,
+  "all_original_rows_preserved": {
+    "words": 653,
+    "sessions": 1,
+    "answers": 9,
+    "users": 0,
+    "groups": 52,
+    "word_groups": 1777,
+    "archived_words": 161,
+    "archived_answers": 3
+  },
+  "counts_before": {
+    "words": 653,
+    "sessions": 1,
+    "answers": 9,
+    "users": 0,
+    "groups": 52,
+    "word_groups": 1777,
+    "archived_words": 161,
+    "archived_answers": 3
+  },
+  "counts_after": {
+    "words": 1092,
+    "sessions": 1,
+    "answers": 9,
+    "users": 0,
+    "groups": 104,
+    "word_groups": 4438,
+    "archived_words": 161,
+    "archived_answers": 3
+  },
+  "checks": [
+    "All 789 batch words have both translations, a valid CEFR level and all requested memberships",
+    "All new words start at mastery 0",
+    "Existing word IDs, translations, levels and mastery unchanged",
+    "All learner, session, answer, archived and group rows preserved",
+    "All active vocabulary entries are individual words with no case-normalized duplicates",
+    "SQLite integrity and foreign-key checks passed"
+  ],
+  "sqlite_backup": "/Users/borys.pratsiuk/proj/vocpt/data/backups/before-passaporte-import-2026-10-09T12-39-10-370508Z.sqlite",
+  "contextual_meaning_notes": [
+    "língua",
+    "quarto",
+    "segundo",
+    "quinta",
+    "este",
+    "doce",
+    "jantar",
+    "tarde"
+  ]
+}

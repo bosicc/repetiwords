@@ -1,0 +1,315 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 83,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 2114,
+      "portuguese": "fotos"
+    },
+    {
+      "id": 2115,
+      "portuguese": "iorque"
+    },
+    {
+      "id": 2116,
+      "portuguese": "marrocos"
+    },
+    {
+      "id": 2117,
+      "portuguese": "milão"
+    },
+    {
+      "id": 2118,
+      "portuguese": "mista"
+    },
+    {
+      "id": 2119,
+      "portuguese": "mongólia"
+    },
+    {
+      "id": 2120,
+      "portuguese": "moscovo"
+    },
+    {
+      "id": 2121,
+      "portuguese": "méxico"
+    },
+    {
+      "id": 2122,
+      "portuguese": "noruega"
+    },
+    {
+      "id": 2123,
+      "portuguese": "olhar"
+    },
+    {
+      "id": 2124,
+      "portuguese": "pequim"
+    },
+    {
+      "id": 2125,
+      "portuguese": "polónia"
+    },
+    {
+      "id": 2126,
+      "portuguese": "refeição"
+    },
+    {
+      "id": 2127,
+      "portuguese": "reformado"
+    },
+    {
+      "id": 2128,
+      "portuguese": "reformar"
+    },
+    {
+      "id": 2129,
+      "portuguese": "regar"
+    },
+    {
+      "id": 2130,
+      "portuguese": "regressar"
+    },
+    {
+      "id": 2131,
+      "portuguese": "regularmente"
+    },
+    {
+      "id": 2132,
+      "portuguese": "relatório"
+    },
+    {
+      "id": 2133,
+      "portuguese": "repente"
+    },
+    {
+      "id": 2134,
+      "portuguese": "reservado"
+    },
+    {
+      "id": 2135,
+      "portuguese": "residentes"
+    },
+    {
+      "id": 2136,
+      "portuguese": "revista"
+    },
+    {
+      "id": 2137,
+      "portuguese": "rico"
+    },
+    {
+      "id": 2138,
+      "portuguese": "roma"
+    },
+    {
+      "id": 2139,
+      "portuguese": "romance"
+    },
+    {
+      "id": 2140,
+      "portuguese": "romântico"
+    },
+    {
+      "id": 2141,
+      "portuguese": "roubar"
+    },
+    {
+      "id": 2142,
+      "portuguese": "ruivo"
+    },
+    {
+      "id": 2143,
+      "portuguese": "rés-do-chão"
+    },
+    {
+      "id": 2144,
+      "portuguese": "rússia"
+    },
+    {
+      "id": 2145,
+      "portuguese": "semiequipado"
+    },
+    {
+      "id": 2146,
+      "portuguese": "sentado"
+    },
+    {
+      "id": 2147,
+      "portuguese": "sentar"
+    },
+    {
+      "id": 2148,
+      "portuguese": "separada"
+    },
+    {
+      "id": 2149,
+      "portuguese": "significa"
+    },
+    {
+      "id": 2150,
+      "portuguese": "simplesmente"
+    },
+    {
+      "id": 2151,
+      "portuguese": "situação"
+    },
+    {
+      "id": 2152,
+      "portuguese": "sobretudo"
+    },
+    {
+      "id": 2153,
+      "portuguese": "sociável"
+    },
+    {
+      "id": 2154,
+      "portuguese": "sogra"
+    },
+    {
+      "id": 2155,
+      "portuguese": "suécia"
+    },
+    {
+      "id": 2156,
+      "portuguese": "sério"
+    },
+    {
+      "id": 2157,
+      "portuguese": "televisão"
+    },
+    {
+      "id": 2158,
+      "portuguese": "tentar"
+    },
+    {
+      "id": 2159,
+      "portuguese": "terminal"
+    },
+    {
+      "id": 2160,
+      "portuguese": "terraço"
+    },
+    {
+      "id": 2161,
+      "portuguese": "tinto"
+    },
+    {
+      "id": 2162,
+      "portuguese": "tipo"
+    },
+    {
+      "id": 2163,
+      "portuguese": "torre"
+    },
+    {
+      "id": 2164,
+      "portuguese": "tosta"
+    },
+    {
+      "id": 2165,
+      "portuguese": "turquia"
+    },
+    {
+      "id": 2166,
+      "portuguese": "típico"
+    },
+    {
+      "id": 2167,
+      "portuguese": "título"
+    },
+    {
+      "id": 2168,
+      "portuguese": "tóquio"
+    },
+    {
+      "id": 2169,
+      "portuguese": "varsóvia"
+    },
+    {
+      "id": 2170,
+      "portuguese": "veneza"
+    },
+    {
+      "id": 2171,
+      "portuguese": "verdade"
+    },
+    {
+      "id": 2172,
+      "portuguese": "vista"
+    },
+    {
+      "id": 2173,
+      "portuguese": "vizinho"
+    },
+    {
+      "id": 2174,
+      "portuguese": "xadrez"
+    },
+    {
+      "id": 2175,
+      "portuguese": "xangai"
+    }
+  ],
+  "counts_after": {
+    "words": 2014,
+    "groups": 50,
+    "word_groups": 4149,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:26:37.283999+00:00"
+}

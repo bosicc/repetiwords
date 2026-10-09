@@ -1,0 +1,423 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_violations": [],
+  "existing_words_unchanged": true,
+  "preserved_tables": {
+    "groups": {
+      "before": 50,
+      "after": 50,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "users": {
+      "before": 0,
+      "after": 0,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "sessions": {
+      "before": 12,
+      "after": 12,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "answers": {
+      "before": 199,
+      "after": 199,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "session_words": {
+      "before": 210,
+      "after": 210,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_words": {
+      "before": 161,
+      "after": 161,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    },
+    "archived_answers": {
+      "before": 3,
+      "after": 3,
+      "all_original_rows_preserved": true,
+      "unchanged": true
+    }
+  },
+  "original_memberships_preserved": true,
+  "memberships_added": 139,
+  "all_batch_translations_levels_and_groups_verified": true,
+  "new_words_mastery_zero": true,
+  "new_words": [
+    {
+      "id": 1881,
+      "portuguese": "amesterdão"
+    },
+    {
+      "id": 1882,
+      "portuguese": "américa"
+    },
+    {
+      "id": 1883,
+      "portuguese": "angola"
+    },
+    {
+      "id": 1884,
+      "portuguese": "argentina"
+    },
+    {
+      "id": 1885,
+      "portuguese": "atenas"
+    },
+    {
+      "id": 1886,
+      "portuguese": "austrália"
+    },
+    {
+      "id": 1887,
+      "portuguese": "autor"
+    },
+    {
+      "id": 1888,
+      "portuguese": "avariado"
+    },
+    {
+      "id": 1889,
+      "portuguese": "avisar"
+    },
+    {
+      "id": 1890,
+      "portuguese": "azeitona"
+    },
+    {
+      "id": 1891,
+      "portuguese": "azulejo"
+    },
+    {
+      "id": 1892,
+      "portuguese": "bacon"
+    },
+    {
+      "id": 1893,
+      "portuguese": "baguete"
+    },
+    {
+      "id": 1894,
+      "portuguese": "balança"
+    },
+    {
+      "id": 1895,
+      "portuguese": "balcão"
+    },
+    {
+      "id": 1896,
+      "portuguese": "banal"
+    },
+    {
+      "id": 1897,
+      "portuguese": "bandeira"
+    },
+    {
+      "id": 1898,
+      "portuguese": "banheira"
+    },
+    {
+      "id": 1899,
+      "portuguese": "bar"
+    },
+    {
+      "id": 1900,
+      "portuguese": "barulho"
+    },
+    {
+      "id": 1901,
+      "portuguese": "bastante"
+    },
+    {
+      "id": 1902,
+      "portuguese": "budapeste"
+    },
+    {
+      "id": 1903,
+      "portuguese": "cairo"
+    },
+    {
+      "id": 1904,
+      "portuguese": "cantão"
+    },
+    {
+      "id": 1905,
+      "portuguese": "check-in"
+    },
+    {
+      "id": 1906,
+      "portuguese": "china"
+    },
+    {
+      "id": 1907,
+      "portuguese": "colónia"
+    },
+    {
+      "id": 1908,
+      "portuguese": "conferência"
+    },
+    {
+      "id": 1909,
+      "portuguese": "coreia"
+    },
+    {
+      "id": 1910,
+      "portuguese": "domésticas"
+    },
+    {
+      "id": 1911,
+      "portuguese": "emergência"
+    },
+    {
+      "id": 1912,
+      "portuguese": "espera"
+    },
+    {
+      "id": 1913,
+      "portuguese": "estados"
+    },
+    {
+      "id": 1914,
+      "portuguese": "estocolmo"
+    },
+    {
+      "id": 1915,
+      "portuguese": "europeia"
+    },
+    {
+      "id": 1916,
+      "portuguese": "faz"
+    },
+    {
+      "id": 1917,
+      "portuguese": "filipinas"
+    },
+    {
+      "id": 1918,
+      "portuguese": "finlândia"
+    },
+    {
+      "id": 1919,
+      "portuguese": "grã-bretanha"
+    },
+    {
+      "id": 1920,
+      "portuguese": "grécia"
+    },
+    {
+      "id": 1921,
+      "portuguese": "helsínquia"
+    },
+    {
+      "id": 1922,
+      "portuguese": "holanda"
+    },
+    {
+      "id": 1923,
+      "portuguese": "irlanda"
+    },
+    {
+      "id": 1924,
+      "portuguese": "japão"
+    },
+    {
+      "id": 1925,
+      "portuguese": "latina"
+    },
+    {
+      "id": 1926,
+      "portuguese": "londres"
+    },
+    {
+      "id": 1927,
+      "portuguese": "líbano"
+    },
+    {
+      "id": 1928,
+      "portuguese": "macau"
+    },
+    {
+      "id": 1929,
+      "portuguese": "maldivas"
+    },
+    {
+      "id": 1930,
+      "portuguese": "saboroso"
+    },
+    {
+      "id": 1931,
+      "portuguese": "saldos"
+    },
+    {
+      "id": 1932,
+      "portuguese": "salsicha"
+    },
+    {
+      "id": 1933,
+      "portuguese": "sandes"
+    },
+    {
+      "id": 1934,
+      "portuguese": "sapataria"
+    },
+    {
+      "id": 1935,
+      "portuguese": "sardinhada"
+    },
+    {
+      "id": 1936,
+      "portuguese": "satisfeito"
+    },
+    {
+      "id": 1937,
+      "portuguese": "saudades"
+    },
+    {
+      "id": 1938,
+      "portuguese": "secretária"
+    },
+    {
+      "id": 1939,
+      "portuguese": "secção"
+    },
+    {
+      "id": 1940,
+      "portuguese": "seguinte"
+    },
+    {
+      "id": 1941,
+      "portuguese": "sei"
+    },
+    {
+      "id": 1942,
+      "portuguese": "selo"
+    },
+    {
+      "id": 1943,
+      "portuguese": "solução"
+    },
+    {
+      "id": 1944,
+      "portuguese": "som"
+    },
+    {
+      "id": 1945,
+      "portuguese": "sorte"
+    },
+    {
+      "id": 1946,
+      "portuguese": "sportinguista"
+    },
+    {
+      "id": 1947,
+      "portuguese": "stresse"
+    },
+    {
+      "id": 1948,
+      "portuguese": "sudeste"
+    },
+    {
+      "id": 1949,
+      "portuguese": "sueco"
+    },
+    {
+      "id": 1950,
+      "portuguese": "t-shirt"
+    },
+    {
+      "id": 1951,
+      "portuguese": "tal"
+    },
+    {
+      "id": 1952,
+      "portuguese": "talento"
+    },
+    {
+      "id": 1953,
+      "portuguese": "talheres"
+    },
+    {
+      "id": 1954,
+      "portuguese": "tapar"
+    },
+    {
+      "id": 1955,
+      "portuguese": "tarefas"
+    },
+    {
+      "id": 1956,
+      "portuguese": "teimoso"
+    },
+    {
+      "id": 1957,
+      "portuguese": "teleférico"
+    },
+    {
+      "id": 1958,
+      "portuguese": "trabalhador"
+    },
+    {
+      "id": 1959,
+      "portuguese": "turco"
+    },
+    {
+      "id": 1960,
+      "portuguese": "turma"
+    },
+    {
+      "id": 1961,
+      "portuguese": "unidos"
+    },
+    {
+      "id": 1962,
+      "portuguese": "união"
+    },
+    {
+      "id": 1963,
+      "portuguese": "utilizador"
+    },
+    {
+      "id": 1964,
+      "portuguese": "vazio"
+    },
+    {
+      "id": 1965,
+      "portuguese": "vários"
+    },
+    {
+      "id": 1966,
+      "portuguese": "ásia"
+    },
+    {
+      "id": 1967,
+      "portuguese": "índia"
+    },
+    {
+      "id": 1968,
+      "portuguese": "último"
+    },
+    {
+      "id": 1969,
+      "portuguese": "único"
+    }
+  ],
+  "counts_after": {
+    "words": 1808,
+    "groups": 50,
+    "word_groups": 3830,
+    "sessions": 12,
+    "answers": 199,
+    "session_words": 210
+  },
+  "all_words_single_lowercase_nfc": true,
+  "source_image_backups_verified": true,
+  "replay_no_changes_or_conflicts": true,
+  "verified_at": "2026-10-09T15:14:13.885703+00:00"
+}
