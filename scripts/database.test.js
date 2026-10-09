@@ -7,12 +7,14 @@ import Database from 'better-sqlite3';
 import { execFileSync } from 'node:child_process';
 import { validateBatch } from '../lib/word-import.js';
 import { cleanVocabulary } from '../lib/word-cleanup.js';
+import { createSqliteDatabase } from '../lib/database-sqlite.js';
 
 test('sessions persist answers, update statistics, and reject invalid input', async () => {
   const directory = mkdtempSync(join(tmpdir(), 'vocpt-test-'));
   process.env.VOCPT_DATA_DIR = directory;
   try {
-    const { getWords, getStatistics, saveSession, createUser, getUsers, importWords } = await import('../lib/database.js');
+    const local = createSqliteDatabase();
+    const { getWords, getStatistics, saveSession, createUser, getUsers, importWords } = local;
     assert.deepEqual(getUsers(), []);
     const user = createUser(' Borys ', ' borys@example.com ');
     assert.equal(user.name, 'Borys');
@@ -98,7 +100,7 @@ test('sessions persist answers, update statistics, and reject invalid input', as
       assert.equal(cleanVocabulary(persisted, cleanup).archived_records, 0);
       assert.deepEqual(persisted.pragma('foreign_key_check'), []);
     } finally { persisted.close(); }
-    const { startPractice, getPractice, recordPracticeAnswer } = await import('../lib/database.js');
+    const { startPractice, getPractice, recordPracticeAnswer } = local;
     const practiceId = startPractice(3);
     const practice = getPractice(practiceId);
     assert.equal(practice.words.length, 3);
@@ -152,8 +154,8 @@ test('schema supports multiple groups, validates fields, and preserves legacy da
           INSERT INTO sessions (id) VALUES (1);
           INSERT INTO answers (session_id, word_id, known) VALUES (1, 42, 1);`);
       }
-      const initialize = () => execFileSync(process.execPath, ['scripts/init-db.js'], {
-        env: { ...process.env, VOCPT_DATA_DIR: directory },
+      const initialize = () => execFileSync(process.execPath, ['--input-type=module', '-e', "import { createSqliteDatabase } from './lib/database-sqlite.js'; createSqliteDatabase();"], {
+        env: { ...process.env, DATABASE_URL: '', POSTGRES_URL: '', VOCPT_DATA_DIR: directory },
       });
       initialize();
       initialize(); // Initialization can safely be repeated.
@@ -225,7 +227,7 @@ test('session history retains word outcomes, partial sessions, skips, and archiv
   let connection;
   try {
     const { getVocabulary, saveSession, startPractice, getPractice, recordPracticeAnswer, getSessionHistory } =
-      await import('../lib/database.js?session-history');
+      createSqliteDatabase();
     connection = new Database(join(directory, 'vocabulary.sqlite'));
     connection.pragma('foreign_keys = ON');
     assert.deepEqual(getSessionHistory(), []);

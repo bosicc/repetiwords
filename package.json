@@ -8,7 +8,8 @@
     "start": "next start",
     "db:init": "node scripts/init-db.js",
     "words:import": "node scripts/import-words.js",
-    "test": "node --test scripts/*.test.js"
+    "test": "node --test scripts/*.test.js",
+    "db:migrate:supabase": "node scripts/migrate-supabase.js"
   },
   "keywords": [],
   "author": "",
@@ -16,14 +17,15 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "better-sqlite3": "^13.0.3",
     "next": "^16.4.0",
     "pg": "^8.23.1",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
-    "server-only": "^0.0.1"
+    "server-only": "^0.0.1",
+    "@next/env": "16.4.0"
   },
   "devDependencies": {
-    "@electric-sql/pglite": "^0.5.8"
+    "@electric-sql/pglite": "^0.5.8",
+    "better-sqlite3": "^13.0.3"
   }
 }

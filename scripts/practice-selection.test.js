@@ -4,8 +4,7 @@ import { mkdtempSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import Database from 'better-sqlite3';
-
-let fixtureNumber = 0;
+import { createSqliteDatabase } from '../lib/database-sqlite.js';
 
 async function withFixture(run) {
   const directory = mkdtempSync(join(tmpdir(), 'vocpt-selection-'));
@@ -13,7 +12,7 @@ async function withFixture(run) {
   process.env.VOCPT_DATA_DIR = directory;
   let connection;
   try {
-    const app = await import(`../lib/database.js?practice-selection=${fixtureNumber++}`);
+    const app = createSqliteDatabase();
     connection = new Database(join(directory, 'vocabulary.sqlite'));
     connection.pragma('foreign_keys = ON');
     connection.exec('DELETE FROM words');

@@ -40,15 +40,15 @@ The app applies this selection rule whenever a new practice session is created.
 ## Technology
 
 - **Next.js** — the application framework.
-- **SQLite** — the database for words and learning session data.
+- **Supabase PostgreSQL** — the database for words and learning session data.
 
 ## Words parsing and importing
 
-The import workflow builds a vocabulary database from word sources such as URLs, websites, and files. A local agent skill prepares sources into JSON batches, and a command-line importer saves validated batches to SQLite.
+The import workflow builds a vocabulary database from word sources such as URLs, websites, and files. A local agent skill prepares sources into JSON batches, and a command-line importer saves validated batches to Supabase PostgreSQL.
 
 ### Word record structure
 
-Each word record in SQLite includes:
+Each word record in PostgreSQL includes:
 
 | Field | Description | Allowed values |
 | --- | --- | --- |
@@ -58,15 +58,15 @@ Each word record in SQLite includes:
 | Ukrainian translation | The word's meaning in Ukrainian. | Text |
 | Mastery level | The learner's progress with this word. New words start at 0. | Integer from 0 to 5: 0 = new word, 5 = expert |
 
-The database columns are `portuguese`, `level`, `english`, `ukrainian`, and `mastery_level`, plus the primary key `id`. Level and Ukrainian translation can be `NULL` until supplied. Initialization automatically adds missing fields to existing databases while preserving words and practice history.
+The database columns are `portuguese`, `level`, `english`, `ukrainian`, and `mastery_level`, plus the primary key `id`. Level and Ukrainian translation can be `NULL` until supplied. Schema changes use explicit PostgreSQL migrations, preserving words and practice history.
 
 ### Word groups
 
 Words can be organized into groups such as **Colors**, **Numbers**, **Animals**, and **Pets**. A word can belong to multiple groups, and each group can contain multiple words. For example, **gato** can belong to **Animals**, **Pets**, and **Common nouns**. Words can also remain ungrouped until categorized.
 
-Groups describe topics or word types. Source names, book titles, unit/practice numbers and import collections belong in source metadata, not in SQLite categories. Keep provenance in the local import JSON and curriculum files.
+Groups describe topics or word types. Source names, book titles, unit/practice numbers and import collections belong in source metadata, not in vocabulary categories. Keep provenance in the local import JSON and curriculum files.
 
-Store group membership in separate SQLite tables:
+Store group membership in separate PostgreSQL tables:
 
 | Table | Fields | Purpose |
 | --- | --- | --- |
@@ -85,11 +85,11 @@ The planned learning interface will support practicing all words or filtering pr
 3. **Label levels:** assign each word a CEFR level: A1, A2, B1, B2, C1, or C2.
 4. **Add translations:** provide both English and Ukrainian translations for each word, using existing translations when available.
 5. **Assign groups:** choose thematic or grammatical groups, reusing existing names where appropriate. Assign zero, one, or multiple groups to each word. Keep source and textbook-section labels in metadata.
-6. **Insert into SQLite:** save the words, levels, translations, and group memberships, with mastery level initialized to 0 for new words.
+6. **Insert into Supabase PostgreSQL:** save the words, levels, translations, and group memberships, with mastery level initialized to 0 for new words.
 
 ### Local JSON backups and importing
 
-Save every extracted and enriched batch in `imports/` before importing. Use dated filenames with the source name, and a new suffix for subsequent batches; preserve earlier files. The extracted file retains source meanings; the enriched file includes translations, estimated levels, groups, and preparation notes. These JSON files back up vocabulary imports; learner progress requires a separate SQLite backup.
+Save every extracted and enriched batch in `imports/` before importing. Use dated filenames with the source name, and a new suffix for subsequent batches; preserve earlier files. The extracted file retains source meanings; the enriched file includes translations, estimated levels, groups, and preparation notes. These JSON files back up vocabulary imports; learner progress requires a separate database backup.
 
 An enriched batch has this shape:
 
@@ -132,7 +132,7 @@ Only individual words belong in `words`. The importer rejects whitespace, punctu
 
 The 2026-10-09 cleanup archived 161 phrase, punctuation, and shorthand records and added 113 component words, leaving 653 words. The replacement batch is `imports/2026-10-09-word-cleanup-enriched.json`. A full pre-cleanup SQLite backup is in `data/backups/`, and a JSON report is alongside the batch. `archived_words` preserves original records, mastery, and group IDs; `archived_answers` preserves their answers and session links. Overall statistics include archived answers, while practice and vocabulary show only current words. Phrase progress is not assigned to component words.
 
-The SQLite fields, group tables, local JSON importer, and source preparation skill are implemented. Automatic in-app source ingestion remains planned.
+The vocabulary fields, group tables, JSON importer, and source preparation skill are implemented. Automatic in-app source ingestion remains planned.
 
 ### Textbook curriculum map
 
@@ -173,7 +173,7 @@ User selection, authentication, and linking sessions and mastery to individual u
 
 ## Run locally
 
-Requires Node.js 20.9 or later (Node.js 24 LTS recommended).
+Requires Node.js 20.9 or later (Node.js 24 LTS recommended). Configure `DATABASE_URL` or `POSTGRES_URL` in `.env.local` before starting.
 
 ```sh
 npm install
@@ -181,7 +181,7 @@ npm run db:init
 npm run dev
 ```
 
-Open http://localhost:3000. The database is also initialized automatically when the app starts.
+Open http://localhost:3000. `db:init` verifies access to the existing Supabase database; schema migrations run explicitly.
 
 ```sh
 npm run build
@@ -195,6 +195,6 @@ npm start
 - Create a session from Home, save answers automatically, and view session and cumulative statistics.
 - Build practice sessions with the 10/40/50 selection mix described above and shuffle their word order.
 
-SQLite data is stored in `data/vocabulary.sqlite` and excluded from Git. The app currently supports one local learner. Each answer and skip is saved immediately, so refreshing the practice page resumes the session at the next unprocessed word.
+The app stores vocabulary and learning progress in Supabase PostgreSQL, both locally and on Vercel. Configure `DATABASE_URL` or `POSTGRES_URL`; see the [Supabase migration and deployment guide](docs/supabase-migration.md) for backing up and transferring existing vocabulary and progress. The app currently supports one learner. Each answer and skip is saved immediately, so refreshing the practice page resumes the session at the next unprocessed word.
 
-Use a persistent local filesystem when hosting this app so the SQLite database survives restarts.
+Deploy on Vercel with the Supabase connection variable configured. SQLite files in `data/` are legacy migration sources and backups, excluded from Git.
