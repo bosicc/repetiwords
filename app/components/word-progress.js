@@ -24,7 +24,7 @@ export default function WordProgress({ progress }) {
         {[0, max / 2, max].map((value) => <g key={value}><line x1="40" x2="480" y1={y(value)} y2={y(value)} stroke="#e4e7ef" strokeDasharray="4 4" /><text x="30" y={y(value) + 4} textAnchor="end">{value}</text></g>)}
         <path d={`${line} L 480 150 L 40 150 Z`} fill="url(#mastery-fill)" />
         <path d={line} fill="none" stroke="#28c995" strokeWidth="2.5" strokeLinejoin="round" />
-        {progress.history.map((day, index) => <circle key={day.date} cx={x(index)} cy={y(day.mastered)} r="3" fill="#28c995"><title>{formatDate(day.date)}: {day.mastered}</title></circle>)}
+        {progress.history.map((day, index) => <circle key={day.date} cx={x(index)} cy={y(day.mastered)} r="3" fill="#28c995"><title>{`${formatDate(day.date)}: ${day.mastered}`}</title></circle>)}
         {[0, 4, 8, 13].map((index) => <text key={index} x={x(index)} y="178" textAnchor={index === 0 ? 'start' : index === 13 ? 'end' : 'middle'}>{formatDate(progress.history[index].date)}</text>)}
       </svg>
     </div>

@@ -5,8 +5,8 @@ import { getCurrentUser } from '../lib/auth';
 import { getPracticeWordCount, getPracticeMode } from '../lib/practice-settings';
 
 export const metadata = {
-  title: 'Repeti · Learn words every day',
-  description: 'Daily European Portuguese vocabulary practice.',
+  title: 'Repeti · Learn new words. Repeat daily.',
+  description: 'Build your European Portuguese vocabulary with recall cards, translation choices and matching pairs. Practise with English or Ukrainian translations and save your progress.',
 };
 
 export default async function RootLayout({ children }) {
