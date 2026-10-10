@@ -149,6 +149,30 @@ If the variable is unset, existing sessions remain safely unassigned.
 
 ## 4. Test locally and deploy
 
+### Apply practice types
+
+Before running this version, apply the additive practice-type migration:
+
+```sh
+npm run db:practice:init
+```
+
+This command backs up session metadata and adds `sessions.practice_mode` with
+the three supported exercise types. Existing sessions stay in their original
+YES / NO mode. It verifies that their metadata is preserved before committing
+and is safe to rerun. Apply it separately to each Preview database as well.
+The Practice button opens `/practice`, where the account chooses an exercise
+and word count before starting. The last exercise choice is remembered per
+account in this browser. Multiple-choice answers are checked on the server;
+matching rounds are checked and saved atomically after all pairs are completed.
+
+The repository's `vercel.json` selects Next.js, runs `npm run build`, and uses
+the framework's default output directory. Keep the Vercel Root Directory at the
+repository root and use Node.js 24.x. The `Other` framework preset serves only
+the `public` assets and leaves the app's pages returning `404 NOT_FOUND`.
+Configuration changes take effect on the next deployment; push the configuration
+file to the production branch or redeploy after saving dashboard changes.
+
 ```sh
 npm test
 npm run build

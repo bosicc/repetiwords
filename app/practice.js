@@ -37,7 +37,7 @@ export default function Practice({ words, sessionId, initialAnswers = [], initia
     if (!word) return;
 
     function handleKeyDown(event) {
-      if (event.altKey || event.ctrlKey || event.metaKey || event.isComposing ||
+      if (document.querySelector('dialog[open]') || event.altKey || event.ctrlKey || event.metaKey || event.isComposing ||
           event.target instanceof HTMLElement &&
           (event.target.isContentEditable || event.target.closest('input, textarea, select, [role="textbox"], .language-bar'))) return;
 

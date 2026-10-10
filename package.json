@@ -10,7 +10,8 @@
     "words:import": "node scripts/import-words.js",
     "test": "node --test scripts/*.test.js",
     "db:migrate:supabase": "node scripts/migrate-supabase.js",
-    "db:auth:init": "node scripts/setup-auth.js"
+    "db:auth:init": "node scripts/setup-auth.js",
+    "db:practice:init": "node scripts/setup-practice-modes.js"
   },
   "keywords": [],
   "author": "",

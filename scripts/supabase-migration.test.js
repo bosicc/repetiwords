@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { existsSync, mkdtempSync, rmSync } from 'node:fs';
+import { existsSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -10,6 +10,8 @@ import { createSqliteDatabase } from '../lib/database-sqlite.js';
 import { createPostgresDatabase } from '../lib/database-postgres.js';
 import { cleanVocabulary } from '../lib/word-cleanup.js';
 import { migrationTables, readSqliteSnapshot, migrateSnapshot, verifySnapshot, snapshotManifest } from '../lib/sqlite-migration.js';
+
+const practiceMigration = readFileSync(new URL('../supabase/migrations/202610100001_practice_modes.sql', import.meta.url), 'utf8');
 
 function testPool(engine) {
   async function query(sql, values = []) {
@@ -68,6 +70,7 @@ test('SQLite migration preserves rows, archives, partial sessions and PostgreSQL
     const manifest = snapshotManifest(snapshot);
     const pool = testPool(engine);
     assert.deepEqual(await migrateSnapshot(pool, snapshot), manifest);
+    await engine.exec(practiceMigration);
     assert.deepEqual(await verifySnapshot(pool, snapshot), manifest);
     const remote = createPostgresDatabase(pool);
     assert.deepEqual(await remote.getUsers(), local.getUsers());
@@ -162,6 +165,7 @@ test('PostgreSQL preserves the practiced/new/review allocation at each supported
   try {
     const pool = testPool(engine);
     await migrateSnapshot(pool, Object.fromEntries(migrationTables.map(({ name }) => [name, []])));
+    await engine.exec(practiceMigration);
     await pool.query("INSERT INTO vocpt.words (id, portuguese, english) SELECT n, 'word-' || n, 'meaning-' || n FROM generate_series(1, 120) n");
     await pool.query('INSERT INTO vocpt.sessions (id) VALUES (1), (2), (3)');
     await pool.query('SELECT setval(pg_get_serial_sequence(\'vocpt.sessions\', \'id\'), 3)');

@@ -8,6 +8,7 @@ const firstUser = 'aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa';
 const secondUser = 'bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb';
 const freshUser = 'cccccccc-cccc-4ccc-8ccc-cccccccccccc';
 const progressMigration = readFileSync(new URL('../supabase/migrations/202610090002_account_progress.sql', import.meta.url), 'utf8');
+const practiceMigration = readFileSync(new URL('../supabase/migrations/202610100001_practice_modes.sql', import.meta.url), 'utf8');
 
 function testPool(engine) {
   async function query(sql, values = []) {
@@ -23,6 +24,7 @@ async function setup(engine) {
     INSERT INTO auth.users VALUES ('${firstUser}'), ('${secondUser}'), ('${freshUser}');`);
   await engine.exec(readFileSync(new URL('../supabase/migrations/202610090001_vocabulary.sql', import.meta.url), 'utf8'));
   await engine.exec(progressMigration);
+  await engine.exec(practiceMigration);
   await engine.exec(`INSERT INTO vocpt.words (id, portuguese, english) VALUES
       (1, 'gato', 'cat'), (2, 'cão', 'dog'), (3, 'casa', 'house'), (4, 'livro', 'book');
     INSERT INTO vocpt.sessions (id, user_id, created_at) VALUES
@@ -88,6 +90,7 @@ test('account progress isolates statistics, mastery, word attempts, and archived
     assert.equal((await fresh.getVocabulary()).length, 4);
     // Reapplying the migration neither assigns nor erases legacy sessions.
     await engine.exec(progressMigration);
+    await engine.exec(practiceMigration);
     assert.deepEqual((await pool.query('SELECT user_id FROM vocpt.sessions WHERE id = 5')).rows, [{ user_id: null }]);
     assert.equal((await pool.query('SELECT count(*) FROM vocpt.legacy_progress_claims')).rows[0].count, 0);
   } finally { await engine.close(); }
@@ -166,6 +169,7 @@ test('practice selection uses only its account history, including completed skip
       INSERT INTO auth.users VALUES ('${firstUser}'), ('${secondUser}');`);
     await engine.exec(readFileSync(new URL('../supabase/migrations/202610090001_vocabulary.sql', import.meta.url), 'utf8'));
     await engine.exec(progressMigration);
+    await engine.exec(practiceMigration);
     await engine.exec(`INSERT INTO vocpt.words (id, portuguese, english)
         SELECT n, 'word-' || n, 'meaning-' || n FROM generate_series(1, 120) n;
       INSERT INTO vocpt.sessions (id, user_id) VALUES
