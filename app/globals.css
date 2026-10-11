@@ -249,8 +249,6 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
 .landing-navigation a:hover { color: #405fd8; }
 .landing-hero { display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; padding: 52px 0 64px; }
 .landing-eyebrow { display: inline-flex; align-items: center; gap: 9px; font-size: 11px; font-weight: 600; letter-spacing: 1.3px; text-transform: uppercase; color: #536078; }
-.landing-intro .landing-eyebrow { letter-spacing: .4px; background: #eef1ff; color: #405fd8; padding: 9px 13px; border-radius: 999px; }
-.landing-focus-dot { width: 6px; height: 6px; flex-shrink: 0; border-radius: 50%; background: currentColor; }
 .landing-intro { min-width: 0; }
 .landing-intro h1 { font-size: clamp(42px, 4.8vw, 62px); font-weight: 600; line-height: 1.1; letter-spacing: -2.5px; margin: 24px 0 22px; }
 .landing-intro h1 > span { display: block; }
@@ -265,8 +263,6 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
 .landing-page a:focus-visible { outline: 3px solid #405fd8; outline-offset: 5px; border-radius: 5px; }
 .landing-intro > .landing-note { display: flex; align-items: flex-start; gap: 8px; margin-top: 17px; color: #68738a; font-size: 12px; line-height: 1.6; }
 .landing-note > span { color: #15803d; }
-.landing-facts { display: flex; flex-wrap: wrap; list-style: none; gap: 8px; padding: 0; margin: 26px 0 0; }
-.landing-facts li { font-size: 10px; font-weight: 500; color: #536078; border: 1px solid #e0e4ed; border-radius: 999px; padding: 7px 11px; }
 .landing-preview { position: relative; min-width: 0; isolation: isolate; scroll-margin-top: 32px; border-radius: 28px; }
 .landing-preview::before { content: ""; position: absolute; inset: -36px -22px; background: radial-gradient(ellipse, #e2e7ff, #eef1fc 50%, transparent 72%); z-index: -1; pointer-events: none; }
 .landing-preview:focus-visible { outline: 3px solid #405fd8; outline-offset: 7px; }
@@ -308,9 +304,10 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
 .landing-faq-list details { border-bottom: 1px solid #e4e7ef; }
 .landing-faq-list summary { display: flex; justify-content: space-between; align-items: center; gap: 20px; min-height: 64px; padding: 18px 0; list-style: none; color: #24304a; font-size: 15px; font-weight: 500; line-height: 1.5; cursor: pointer; }
 .landing-faq-list summary::-webkit-details-marker { display: none; }
-.landing-faq-list summary > span { display: grid; place-items: center; flex-shrink: 0; width: 26px; height: 26px; border-radius: 50%; background: #eef1ff; color: #405fd8; font-size: 19px; font-weight: 400; transition: transform 150ms ease; }
+.landing-faq-icon { display: grid; place-items: center; flex-shrink: 0; width: 26px; height: 26px; border-radius: 50%; background: #eef1ff; color: #405fd8; }
+.landing-faq-icon svg { display: block; transform-origin: center; transition: transform 150ms ease; }
 .landing-faq-list summary:focus-visible { outline: 3px solid #405fd8; outline-offset: 4px; border-radius: 4px; }
-.landing-faq-list details[open] summary > span { transform: rotate(45deg); }
+.landing-faq-list details[open] .landing-faq-icon svg { transform: rotate(45deg); }
 .landing-faq-list details p { font-size: 13px; line-height: 1.8; max-width: 650px; padding: 0 40px 20px 0; margin: 0; }
 .landing-closing { padding: 36px 40px; background: #eef1ff; border: 1px solid #e0e5fc; border-radius: 22px; display: flex; justify-content: space-between; align-items: center; gap: 28px; }
 .landing-closing h2 { font-size: 28px; font-weight: 600; line-height: 1.2; letter-spacing: -.8px; margin: 0 0 10px; }
@@ -354,7 +351,6 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
   .landing-page:lang(uk) .landing-intro h1 { font-size: clamp(30px, 8.5vw, 42px); letter-spacing: -1.2px; }
   .landing-intro > p { font-size: 15px; }
   .landing-actions { gap: 10px 20px; margin-top: 22px; }
-  .landing-facts { margin-top: 20px; }
   .landing-exercises, .landing-how, .landing-progress, .landing-faq { padding: 40px 0 44px; }
   .landing-section-heading { text-align: left; }
   .landing-section-heading h2 { font-size: 28px; }
@@ -371,7 +367,7 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
   .landing-closing { padding: 26px; }
   .landing-closing h2 { font-size: 26px; }
 }
-@media (prefers-reduced-motion: reduce) { .landing-faq-list summary > span { transition: none; } }
+@media (prefers-reduced-motion: reduce) { .landing-faq-icon svg { transition: none; } }
 
 .header-practice .start-practice { border: 1px solid #405fd8; border-radius: 999px; text-decoration: none; }
 .header-practice .start-practice:focus-visible { outline: 3px solid #405fd8; outline-offset: 4px; }

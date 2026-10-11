@@ -45,7 +45,6 @@ export default function LandingPage() {
     </nav>
     <section className="landing-hero" aria-labelledby="landing-title">
       <div className="landing-intro">
-        <span className="landing-eyebrow"><span className="landing-focus-dot" aria-hidden="true" />{copy.hero.eyebrow}</span>
         <h1 id="landing-title">{copy.hero.headline.map((line, index) => <span key={line}>{line}{index < copy.hero.headline.length - 1 ? ' ' : ''}</span>)}</h1>
         <p>{copy.hero.description}</p>
         <div className="landing-actions">
@@ -53,7 +52,6 @@ export default function LandingPage() {
           <Link className="landing-secondary" href="/register">{copy.hero.createAccount}<Arrow /></Link>
         </div>
         <p className="landing-note"><span aria-hidden="true">✓</span>{copy.hero.note}</p>
-        <ul className="landing-facts">{copy.hero.facts.map((fact) => <li key={fact}>{fact}</li>)}</ul>
       </div>
       <div className="landing-preview" id="practice-demo" ref={demoRef} tabIndex={-1} aria-label={copy.hero.tryDemo}>
         <LandingDemo mode={mode} onModeChange={setMode} />
@@ -110,7 +108,7 @@ export default function LandingPage() {
         <h2 id="landing-faq-title">{copy.faq.title}</h2>
       </div>
       <div className="landing-faq-list">{copy.faq.items.map((item) => <details key={item.question}>
-        <summary>{item.question}<span aria-hidden="true">+</span></summary><p>{item.answer}</p>
+        <summary>{item.question}<span className="landing-faq-icon" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" focusable="false"><path d="M8 3v10M3 8h10" /></svg></span></summary><p>{item.answer}</p>
       </details>)}</div>
     </section>
 
