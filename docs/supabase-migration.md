@@ -121,15 +121,22 @@ In **Authentication → URL Configuration**, add these **Redirect URLs**:
 
 - `http://localhost:3000/auth/callback`
 - `http://localhost:3001/auth/callback`
-- `https://your-app.vercel.app/auth/callback` (replace with the actual production domain)
+- `https://words.repeti.me/auth/callback`
 
-Set Supabase's **Site URL** to your production origin, such as
-`https://your-app.vercel.app`, and set Vercel's `SITE_URL` environment variable to
-the same origin. Locally, leave `SITE_URL` unset so the app uses the request
+Set Supabase's **Site URL** to `https://words.repeti.me`, and set Vercel's
+Production `SITE_URL` environment variable to the same origin. Locally, leave
+`SITE_URL` unset so the app uses the request
 origin, or set it to `http://localhost:3000` or `http://localhost:3001` to match
 the running server. Add a callback URL for a custom domain if you use one.
 These URLs must be allowed for signup confirmation redirects.
 [Supabase redirect configuration](https://supabase.com/docs/guides/auth/redirect-urls)
+
+If a confirmation link lands on `http://localhost:3000/?code=...`, check both
+Supabase's Site URL and the redirect allowlist. The app explicitly requests
+`/auth/callback`; an unallowed callback can fall back to Supabase's Site URL.
+After correcting the settings, use a newly sent confirmation email. Register
+and open the email link on the same app domain so the PKCE verifier cookie is
+available; otherwise, confirm the email and then log in with email and password.
 
 Open the confirmation link in the browser used to register, so its PKCE verifier
 cookie is available. If the email was confirmed in another browser, return to

@@ -1,8 +1,8 @@
 import './globals.css';
-import { Analytics } from '@vercel/analytics/next';
+import SiteAnalytics from './components/site-analytics';
 import { LanguageProvider } from './components/language';
 import Header from './components/header';
-import { getCurrentUser } from '../lib/auth';
+import { getCurrentUser, getCurrentSuperAdmin } from '../lib/auth';
 import { getPracticeWordCount, getPracticeMode } from '../lib/practice-settings';
 
 export const metadata = {
@@ -12,8 +12,9 @@ export const metadata = {
 
 export default async function RootLayout({ children }) {
   const user = await getCurrentUser();
+  const superAdmin = Boolean(await getCurrentSuperAdmin());
   const [practiceCount, practiceMode] = user
     ? await Promise.all([getPracticeWordCount(), getPracticeMode(user.id)])
     : [30, 'self-assessment'];
-  return <html lang="en"><body><LanguageProvider><Header signedIn={Boolean(user)} practiceCount={practiceCount} practiceMode={practiceMode} />{children}</LanguageProvider><Analytics /></body></html>;
+  return <html lang="en"><body><LanguageProvider><Header signedIn={Boolean(user)} superAdmin={superAdmin} practiceCount={practiceCount} practiceMode={practiceMode} />{children}</LanguageProvider><SiteAnalytics /></body></html>;
 }

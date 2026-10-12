@@ -167,6 +167,19 @@ Set `LEGACY_PROGRESS_EMAIL=b.pratsiuk@gmail.com` to reserve the pre-login sessio
 
 See the [Supabase setup guide](docs/supabase-migration.md#3-configure-authentication-and-account-progress) for the account migration, Auth keys, and confirmation callback URLs.
 
+### Super admin
+
+The `/admin` user management page is available only to the signed-in, email-confirmed
+`b.pratsiuk@gmail.com` account. Supabase email confirmation must remain enabled;
+admin access fails closed if its confirmation settings cannot be verified.
+The header shows an Admin link only for that account. The page and its data loader
+check access on the server before querying aggregate account, vocabulary,
+translation, and session counts. Other accounts cannot access it by typing the
+URL directly. Search accounts by email and view confirmation status, registration
+and last-sign-in dates, and session counts, with 20 accounts per page. Only those
+fields are loaded; credential hashes and private authentication metadata are
+never exposed. This page is read-only and requires no database migration.
+
 ## Run locally
 
 Requires Node.js 20.9 or later (Node.js 24 LTS recommended). Copy `.env.example` to `.env.local` and configure `DATABASE_URL` or `POSTGRES_URL`, plus `SUPABASE_URL` and `SUPABASE_PUBLISHABLE_KEY`, before starting. Supabase's `NEXT_PUBLIC_SUPABASE_URL` and publishable/anon key alternatives are also supported; see the setup guide for their precedence.

@@ -201,6 +201,10 @@ button, .navigation a { transition: background 150ms ease, border-color 150ms ea
 @media (prefers-reduced-motion: reduce) { button, .navigation a { transition: none; } }
 
 .header-actions, .header-actions nav { display: flex; align-items: center; gap: 14px; }
+.header-admin { display: inline-flex; align-items: center; min-height: 44px; padding: 10px 12px; color: #405fd8; text-decoration: none; font-size: 14px; font-weight: 500; border-radius: 12px; }
+.header-admin:hover { background: #eef1ff; }
+.header-admin:focus-visible { outline: 3px solid #405fd8; outline-offset: 3px; }
+.app-header:not(.public-header) .header-actions { flex-wrap: wrap; max-width: 100%; }
 .header-actions nav a { color: #68738a; text-decoration: none; font-size: 14px; padding: 10px 4px; }
 .header-actions nav a:last-child { color: #405fd8; font-weight: 600; }
 .header-logout button { padding: 10px 14px; font-size: 13px; }
