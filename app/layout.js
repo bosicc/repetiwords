@@ -1,4 +1,5 @@
 import './globals.css';
+import { Analytics } from '@vercel/analytics/next';
 import { LanguageProvider } from './components/language';
 import Header from './components/header';
 import { getCurrentUser } from '../lib/auth';
@@ -14,5 +15,5 @@ export default async function RootLayout({ children }) {
   const [practiceCount, practiceMode] = user
     ? await Promise.all([getPracticeWordCount(), getPracticeMode(user.id)])
     : [30, 'self-assessment'];
-  return <html lang="en"><body><LanguageProvider><Header signedIn={Boolean(user)} practiceCount={practiceCount} practiceMode={practiceMode} />{children}</LanguageProvider></body></html>;
+  return <html lang="en"><body><LanguageProvider><Header signedIn={Boolean(user)} practiceCount={practiceCount} practiceMode={practiceMode} />{children}</LanguageProvider><Analytics /></body></html>;
 }
