@@ -3,6 +3,21 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'My word lists': 'Мої списки слів',
+  'Collect the words you want to learn and practice them together.': 'Збирайте слова, які хочете вивчити, і практикуйте їх разом.',
+  'Create a word list': 'Створити список слів', 'List name': 'Назва списку',
+  'For example: At the café': 'Наприклад: У кафе', 'Create list': 'Створити список', 'Creating…': 'Створюємо…',
+  'Could not create list. Enter a name and try again.': 'Не вдалося створити список. Введіть назву й спробуйте ще раз.',
+  'Create your first list to get started.': 'Створіть свій перший список.',
+  'Words in this list': 'Слова в цьому списку', 'Find a word to add': 'Знайдіть слово, щоб додати',
+  'Type a Portuguese word or translation': 'Введіть португальське слово або переклад',
+  'Searching…': 'Шукаємо…', 'No matching words to add.': 'Немає відповідних слів для додавання.',
+  'Matching words': 'Знайдені слова', 'Add': 'Додати', 'Remove': 'Видалити',
+  'Could not update or search this list. Please try again.': 'Не вдалося оновити список або виконати пошук. Спробуйте ще раз.',
+  'Your list is empty. Search above to add words.': 'Список порожній. Скористайтеся пошуком, щоб додати слова.',
+  'Practice this list': 'Практикувати цей список',
+  'Only words from this list will be practiced. Short lists use all available words.': 'Практика міститиме лише слова з цього списку. Короткі списки використовують усі доступні слова.',
+  'Add words to this list before starting practice.': 'Додайте слова до списку перед початком практики.',
   'Admin': 'Адмін',
   'Super admin': 'Суперадміністратор',
   'User management': 'Керування користувачами',

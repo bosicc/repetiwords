@@ -15,7 +15,7 @@ function StartButton() {
   </button>;
 }
 
-export default function PracticeLaunchForm({ count, mode, onCancel, onPendingChange }) {
+export default function PracticeLaunchForm({ count, mode, listId, onCancel, onPendingChange }) {
   const { t } = useLanguage();
   const countId = useId();
   const [selectedMode, setSelectedMode] = useState(isPracticeMode(mode) ? mode : 'self-assessment');
@@ -24,6 +24,7 @@ export default function PracticeLaunchForm({ count, mode, onCancel, onPendingCha
   useEffect(() => { onPendingChange?.(pending); }, [pending, onPendingChange]);
 
   return <form action={action} className="practice-picker-form" aria-busy={pending}>
+    {listId && <input type="hidden" name="listId" value={listId} />}
     <fieldset className="practice-mode-fieldset" disabled={pending}>
       <legend>{t('Practice type')}</legend>
       <div className="practice-mode-grid">

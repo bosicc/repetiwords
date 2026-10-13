@@ -10,7 +10,7 @@ export default async function SettingsPage() {
   return <main>
     <nav className="navigation" aria-label="Main navigation">
       <Link href="/"><Text>Home</Text></Link><Link href="/vocabulary"><Text>Vocabulary</Text></Link>
-      <Link href="/settings" aria-current="page"><Text>Settings</Text></Link>
+      <Link href="/word-lists"><Text>My word lists</Text></Link><Link href="/settings" aria-current="page"><Text>Settings</Text></Link>
     </nav>
     <h1><Text>Settings</Text></h1>
     <section className="card settings-section" aria-labelledby="account-heading">

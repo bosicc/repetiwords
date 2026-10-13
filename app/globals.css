@@ -475,3 +475,28 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
   .matching-tile { font-size: 16px; min-height: 68px; padding: 10px 8px; }
 }
 @media (prefers-reduced-motion: reduce) { .practice-mode-content { transition: none; } }
+
+/* Personal word lists */
+.navigation { flex-wrap: wrap; }
+.word-list-create label, .settings-section > label { display:block; font-size:14px; margin-bottom:10px; }
+.word-list-create-fields { display:flex; gap:12px; }
+.word-list-create-fields input, .word-search-input { min-width:0; width:100%; border:1px solid #e0e4ed; border-radius:14px; padding:14px 16px; font:inherit; font-size:16px; color:#24304a; background:#fbfcff; }
+.word-list-create-fields input:focus-visible, .word-search-input:focus-visible { outline:3px solid #405fd830; border-color:#405fd8; }
+.word-list-create-fields button { flex-shrink:0; }
+.word-lists-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+.word-list-link { display:flex; flex-direction:column; gap:18px; padding:24px; border:1px solid #e4e7ef; border-radius:20px; background:white; text-decoration:none; color:#24304a; overflow-wrap:anywhere; }
+.word-list-link:hover { border-color:#405fd8; }
+.word-list-link > span { font-size:13px; color:#68738a; }
+.word-list-link > span > span { float:right; }
+.word-list-title { overflow-wrap:anywhere; }
+.word-list-count { color:#8992a4; font-size:16px; margin-left:8px; }
+.word-search-results, .saved-list-words { list-style:none; padding:0; margin:20px 0 0; }
+.word-search-results { border:1px solid #e4e7ef; border-radius:14px; overflow:hidden; }
+.word-search-results button { width:100%; border:0; border-radius:0; display:flex; align-items:center; justify-content:space-between; gap:16px; text-align:left; }
+.word-search-results li + li, .saved-list-words li + li { border-top:1px solid #e4e7ef; }
+.word-search-results strong, .saved-list-words strong { display:block; font-size:15px; overflow-wrap:anywhere; }
+.word-search-results small, .saved-list-words small { display:block; font-size:13px; color:#68738a; margin-top:5px; }
+.saved-list-words li { display:flex; justify-content:space-between; align-items:center; gap:16px; padding:16px 0; }
+.saved-list-words button { font-size:12px; padding:8px 12px; }
+.word-list-practice h2 { font-size:26px; letter-spacing:-.7px; }
+@media(max-width:540px) { .word-list-create-fields { flex-direction:column; } .word-lists-grid { grid-template-columns:1fr; } .navigation a { padding:10px 12px; } }

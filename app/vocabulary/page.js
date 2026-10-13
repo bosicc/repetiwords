@@ -10,7 +10,7 @@ export const runtime = 'nodejs';
 export default async function VocabularyPage() {
   const words = await getVocabulary();
   return <main>
-    <nav className="navigation" aria-label="Main navigation"><Link href="/"><Text>Home</Text></Link><Link href="/vocabulary" aria-current="page"><Text>Vocabulary</Text></Link><Link href="/settings"><Text>Settings</Text></Link></nav>
+    <nav className="navigation" aria-label="Main navigation"><Link href="/"><Text>Home</Text></Link><Link href="/vocabulary" aria-current="page"><Text>Vocabulary</Text></Link><Link href="/word-lists"><Text>My word lists</Text></Link><Link href="/settings"><Text>Settings</Text></Link></nav>
     <header><h1><Text>Total vocabulary</Text></h1>
       <p><Text>Explore all your Portuguese words by level and category.</Text></p></header>
     <VocabularyList words={words} />
