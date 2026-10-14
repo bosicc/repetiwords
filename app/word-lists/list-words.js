@@ -41,7 +41,7 @@ export default function ListWords({ listId, words }) {
     });
   }
   const meaning = (word) => language === 'uk' ? word.ukrainian || word.english : word.english;
-  return <section className="card settings-section" aria-labelledby="list-words-heading">
+  return <section className="card settings-section word-list-editor" aria-labelledby="list-words-heading">
     <h2 id="list-words-heading">{t('Words in this list')} <span className="word-list-count">{words.length}</span></h2>
     <label htmlFor={inputId}>{t('Find a word to add')}</label>
     <input className="word-search-input" id={inputId} type="search" value={query} maxLength={80} onChange={(event) => setQuery(event.target.value)} placeholder={t('Type a Portuguese word or translation')} disabled={pending} autoComplete="off" />

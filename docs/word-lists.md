@@ -6,7 +6,8 @@ existing vocabulary, and add or remove words. Search returns up to 12 matching
 words and excludes words already in the list. Removing a word removes only list
 membership, preserving the vocabulary and learning history.
 
-Practice this list uses the same exercise picker and answer-saving flow as
+The header's Practice button, when opened from an individual list, uses the
+same exercise picker and answer-saving flow as
 general practice. Its candidate pool is restricted to list members, with the
 existing practice mix applied within that pool. Sessions snapshot their words,
 so changing list membership does not change sessions already started. Smaller
