@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { useLanguage } from './language';
 
-export default function SessionSummary({ answers, words, skipped }) {
+export default function SessionSummary({ answers, words, skipped, listId }) {
   const { t, language } = useLanguage();
   const answersByWord = new Map(answers.map((answer) => [answer.wordId, answer]));
   const independent = answers.filter((answer) => answer.known && !answer.revealed).length;
@@ -44,6 +44,6 @@ export default function SessionSummary({ answers, words, skipped }) {
         })}</tbody>
       </table></div>
     </section>
-    <Link href="/" className="summary-home">{t('Home')} <span aria-hidden="true">→</span></Link>
+    <Link href={listId ? '/word-lists' : '/'} className="summary-home">{t(listId ? 'My words list' : 'Home')} <span aria-hidden="true">→</span></Link>
   </div>;
 }

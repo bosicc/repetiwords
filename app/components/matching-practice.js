@@ -155,7 +155,7 @@ function MatchingRound({ sessionId, words, index, capacity, language, focusOnMou
   </>;
 }
 
-export default function MatchingPractice({ sessionId, words, initialAnswers = [], initialIndex = 0 }) {
+export default function MatchingPractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0 }) {
   const { language, t } = useLanguage();
   const [answers, setAnswers] = useState(initialAnswers);
   const [index, setIndex] = useState(initialIndex);
@@ -190,7 +190,7 @@ export default function MatchingPractice({ sessionId, words, initialAnswers = []
   }
 
   return <section className="card practice-card matching-practice" aria-label={t('Matching practice')}>
-    {index >= words.length ? <><div className="session-progress-label"><span>{t('SESSION COMPLETE')}</span><strong>100%</strong></div><div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary answers={answers} words={words} skipped={index - answers.length} /></div></> :
+    {index >= words.length ? <><div className="session-progress-label"><span>{t('SESSION COMPLETE')}</span><strong>100%</strong></div><div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div></> :
       capacity === null ? <p role="status">{t('Loading practice…')}</p> :
         <MatchingRound key={`${index}:${roundLanguage}`} sessionId={sessionId} words={words} index={index} capacity={capacity} language={roundLanguage} focusOnMount={continued.current} onLock={setLocked} onContinue={continueRound} />}
   </section>;

@@ -5,7 +5,7 @@ import { useLanguage, Text } from './components/language';
 import { submitPracticeAnswer } from './actions';
 import SessionSummary from './components/session-summary';
 
-export default function Practice({ words, sessionId, initialAnswers = [], initialIndex = 0 }) {
+export default function Practice({ words, sessionId, listId, initialAnswers = [], initialIndex = 0 }) {
   const { language, t } = useLanguage();
   const sessionWords = words;
   const busy = useRef(false);
@@ -96,7 +96,7 @@ export default function Practice({ words, sessionId, initialAnswers = [], initia
         <button disabled={saving} className="answer-skip" aria-keyshortcuts="ArrowRight" onClick={nextWord}><Text>Skip</Text> <kbd aria-hidden="true">→</kbd></button>
         <button disabled={saving} className="answer-yes" aria-keyshortcuts="Space" onClick={() => answer(true)}>
           <span className="answer-label-desktop"><Text>YES · I know it</Text></span><span className="answer-label-mobile"><Text>YES</Text></span><kbd aria-hidden="true"><Text>Space</Text></kbd></button></div>
-    </> : <SessionSummary answers={answers} words={sessionWords} skipped={index - answers.length} />}
+    </> : <SessionSummary listId={listId} answers={answers} words={sessionWords} skipped={index - answers.length} />}
     {error && <p role="alert">{t('Could not save your session. Please try again.')}</p>}
   </section>;
 }

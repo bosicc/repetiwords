@@ -25,7 +25,7 @@ export default async function PracticeLaunchPage({ searchParams }) {
     <nav className="navigation" aria-label="Main navigation">
       <Link href="/"><Text>Home</Text></Link>
       <Link href="/vocabulary"><Text>Vocabulary</Text></Link>
-      <Link href="/word-lists"><Text>My word lists</Text></Link><Link href="/settings"><Text>Settings</Text></Link>
+      <Link href="/word-lists"><Text>My words lists</Text></Link><Link href="/settings"><Text>Settings</Text></Link>
     </nav>
     <div className="practice-picker-heading">
       <h1>{list ? list.name : <Text>Choose your practice</Text>}</h1>

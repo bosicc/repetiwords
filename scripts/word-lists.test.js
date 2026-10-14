@@ -12,7 +12,7 @@ test('personal lists isolate owners, search existing words, prevent duplicates, 
   try {
     await engine.exec(`CREATE SCHEMA auth; CREATE TABLE auth.users (id UUID PRIMARY KEY);
       INSERT INTO auth.users VALUES ('${owner}'),('${other}');`);
-    for (const name of ['202610090001_vocabulary','202610090002_account_progress','202610100001_practice_modes','202610130001_word_lists']) {
+    for (const name of ['202610090001_vocabulary','202610090002_account_progress','202610100001_practice_modes','202610130001_word_lists','202610140001_list_practice_source']) {
       await engine.exec(readFileSync(new URL(`../supabase/migrations/${name}.sql`, import.meta.url),'utf8'));
     }
     await engine.exec(`INSERT INTO vocpt.words (portuguese,english,ukrainian) VALUES
@@ -38,6 +38,7 @@ test('personal lists isolate owners, search existing words, prevent duplicates, 
     assert.deepEqual(await first.searchWords(id,'%'),[]);
     await first.addWord(id,1); await first.addWord(id,1); await first.addWord(id,2);
     assert.equal((await first.getLists())[0].total,2);
+    assert.equal((await first.getLists())[0].progress.new,2);
     assert.deepEqual(await first.searchWords(id,'coffee'),[]);
     await assert.rejects(second.removeWord(id,1));
     const database = createPostgresDatabase(pool,{userId:owner});
@@ -46,11 +47,22 @@ test('personal lists isolate owners, search existing words, prevent duplicates, 
       const sessionId = await database.startPractice(10,mode,id);
       const session = await database.getPractice(sessionId);
       assert.equal(session.mode,mode);
+      assert.equal(session.listId,id);
       assert.deepEqual(session.words.map(w=>w.id).sort(),[1,2]);
       assert.equal(await outsider.getPractice(sessionId),null);
+      for (const word of session.words) await database.recordPracticeAnswer(sessionId,word.id,word.id === 1,false);
     }
+    const progress = (await first.getLists())[0].progress;
+    assert.equal(progress.mastered,1);
+    assert.equal(progress.learning,1);
+    assert.equal(progress.new,0);
+    const otherList = await second.createList('Other account');
+    await second.addWord(otherList,1);
+    assert.equal((await second.getLists())[0].progress.new,1);
     await assert.rejects(outsider.startPractice(10,'matching',id));
     await first.removeWord(id,1); await first.removeWord(id,2);
+    assert.equal((await first.getLists())[0].progress.total,0);
+    assert.equal((await first.getLists())[0].progress.mastered,0);
     await assert.rejects(database.startPractice(10,'self-assessment',id));
     assert.equal((await database.getPractice(await database.startPractice(10))).words.length,3);
   } finally { await engine.close(); }

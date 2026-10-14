@@ -3,10 +3,12 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'My words list': 'Мій список слів',
+  'Practice my list': 'Практикувати мій список',
   'Untitled list': 'Новий список', 'Give your list a name': 'Введіть назву списку',
   'Enter a list name.': 'Введіть назву списку.',
   'Could not save the list name. Please try again.': 'Не вдалося зберегти назву. Спробуйте ще раз.',
-  'My word lists': 'Мої списки слів',
+  'My words lists': 'Мої списки слів',
   'Collect the words you want to learn and practice them together.': 'Збирайте слова, які хочете вивчити, і практикуйте їх разом.',
   'Create a word list': 'Створити список слів', 'List name': 'Назва списку',
   'For example: At the café': 'Наприклад: У кафе', 'Create list': 'Створити список', 'Creating…': 'Створюємо…',

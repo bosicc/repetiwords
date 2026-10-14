@@ -12,7 +12,7 @@ export default async function PracticePage({ params }) {
   const sessionId = Number(id);
   const session = await getPractice(sessionId);
   if (!session) notFound();
-  const props = { sessionId, words: session.words, initialAnswers: session.answers, initialIndex: session.index };
+  const props = { sessionId, listId: session.listId, words: session.words, initialAnswers: session.answers, initialIndex: session.index };
   const questions = session.mode === 'multiple-choice' ? createChoiceQuestions(session.words, await getVocabulary()) : null;
   return <main className="practice-page">
     {session.mode === 'multiple-choice' ? <ChoicePractice key={sessionId} {...props} questions={questions} /> :

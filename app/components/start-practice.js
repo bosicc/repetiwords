@@ -42,7 +42,7 @@ export default function StartPractice({ count = 30, mode = 'self-assessment' }) 
 
   return <div className="header-practice">
     <Link href={listId ? `/practice?listId=${listId}` : '/practice'} prefetch={false} className="primary start-practice" aria-haspopup="dialog" aria-expanded={open} aria-controls={dialogId} onClick={showDialog}>
-      {t('Practice')} <span aria-hidden="true">→</span>
+      <span className="header-practice-label">{t(listId ? 'Practice my list' : 'Practice')}</span> <span aria-hidden="true">→</span>
     </Link>
     <dialog ref={dialogRef} id={dialogId} className="practice-dialog" aria-labelledby={`${dialogId}-title`}
       onCancel={(event) => { event.preventDefault(); dismiss(); }}
@@ -52,7 +52,7 @@ export default function StartPractice({ count = 30, mode = 'self-assessment' }) 
       <div className="practice-dialog-content">
         <div className="practice-dialog-heading">
           <div>
-            <h2 id={`${dialogId}-title`}>{t(listId ? 'Practice this list' : 'Choose your practice')}</h2>
+            <h2 id={`${dialogId}-title`}>{t(listId ? 'Practice my list' : 'Choose your practice')}</h2>
           </div>
           <button type="button" className="practice-dialog-close" aria-label={t('Close')} disabled={pending} onClick={dismiss}>
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" /></svg>

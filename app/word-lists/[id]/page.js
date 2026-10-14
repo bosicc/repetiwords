@@ -11,7 +11,7 @@ export default async function WordListPage({ params, searchParams }) {
   const list = await (await accountWordLists()).getList(id);
   if (!list) notFound();
   return <main>
-    <nav className="navigation"><Link href="/word-lists">← <Text>My word lists</Text></Link></nav>
+    <nav className="navigation"><Link href="/word-lists">← <Text>My words lists</Text></Link></nav>
     <ListName key={id} listId={id} initialName={list.name} isNew={(await searchParams).new === '1'} />
     <ListWords listId={id} words={list.words} />
   </main>;

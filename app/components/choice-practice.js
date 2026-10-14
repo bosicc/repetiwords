@@ -7,7 +7,7 @@ import { useLanguage } from './language';
 import SessionSummary from './session-summary';
 import ExerciseIcon from './exercise-icon';
 
-export default function ChoicePractice({ sessionId, words, initialAnswers = [], initialIndex = 0, questions }) {
+export default function ChoicePractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0, questions }) {
   const { language, t } = useLanguage();
   const [answers, setAnswers] = useState(initialAnswers);
   const [index, setIndex] = useState(initialIndex);
@@ -121,6 +121,6 @@ export default function ChoicePractice({ sessionId, words, initialAnswers = [], 
         <button type="button" className="exercise-skip" disabled={saving || error} onClick={() => skip()}>{t(saving ? 'Saving…' : 'Skip')}</button>}
       {error && <><p role="alert">{t('Could not save your session. Please try again.')}</p>
         <button ref={retryButton} type="button" className="primary exercise-next" disabled={saving} onClick={() => selectedId === null ? skip(true) : choose(selectedId, true)}>{t('Retry save')}</button></>}
-    </> : <div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary answers={answers} words={words} skipped={index - answers.length} /></div>}
+    </> : <div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div>}
   </section>;
 }

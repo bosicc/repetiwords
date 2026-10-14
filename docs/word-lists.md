@@ -1,6 +1,6 @@
 # Personal word lists
 
-Signed-in accounts can open My word lists from the main navigation. Create list
+Signed-in accounts can open My words lists from the main navigation. Create list
 opens a new list editor with its name focused at the top and word search below.
 Names save on blur or Enter; new unnamed lists are stored as Untitled list.
 Accounts can rename lists, search Portuguese words or English/Ukrainian translations in the
