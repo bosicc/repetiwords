@@ -24,6 +24,11 @@ test('personal lists isolate owners, search existing words, prevent duplicates, 
     await assert.rejects(first.createList('x'.repeat(81)));
     const id = await first.createList(' My café words ');
     assert.equal((await first.getList(id)).name,'My café words');
+    await first.renameList(id,'  Everyday words  ');
+    assert.equal((await first.getList(id)).name,'Everyday words');
+    await assert.rejects(second.renameList(id,'Not mine'));
+    await assert.rejects(first.renameList(id,'  '));
+    await assert.rejects(first.renameList(id,'x'.repeat(81)));
     assert.equal(await second.getList(id),null);
     assert.deepEqual(await second.getLists(),[]);
     await assert.rejects(second.addWord(id,1));

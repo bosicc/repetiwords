@@ -503,3 +503,17 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
 .saved-list-words li { display:flex; justify-content:space-between; align-items:center; gap:16px; padding:16px 0; }
 .saved-list-words button { font-size:12px; padding:8px 12px; }
 @media(max-width:540px) { .word-list-create-fields { flex-direction:column; } .word-lists-grid { grid-template-columns:1fr; } .navigation a { padding:10px 12px; } }
+
+.word-lists-heading { display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:wrap; }
+.word-lists-heading h1 { margin-bottom:12px; }
+.word-list-create-button { flex-shrink:0; }
+.word-list-create-button p { font-size:13px; color:#b91c1c; max-width:250px; }
+.list-name-editor { margin:20px 0 28px; }
+.list-name-editor label { display:block; font-size:12px; font-weight:600; color:#68738a; margin-bottom:10px; }
+.list-name-input { display:block; width:100%; min-width:0; padding:12px 0; border:0; border-bottom:2px solid #dce1ee; border-radius:0; background:transparent; color:#24304a; font:inherit; font-weight:600; font-size:clamp(28px,5vw,42px); letter-spacing:-1px; }
+.list-name-input::placeholder { color:#8992a4; }
+.list-name-input:focus { outline:none; border-color:#405fd8; }
+.list-name-input[aria-invalid=true] { border-color:#b91c1c; }
+.list-name-status, .list-name-error { min-height:20px; margin:8px 0 0; font-size:12px; }
+.list-name-error { color:#b91c1c; }
+@media(max-width:540px) { .word-lists-heading h1 { font-size:36px; } .word-list-create-button .landing-primary { padding:12px 18px; gap:16px; } }

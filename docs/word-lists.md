@@ -1,7 +1,9 @@
 # Personal word lists
 
-Signed-in accounts can open My word lists from the main navigation, create a
-named list, search Portuguese words or English/Ukrainian translations in the
+Signed-in accounts can open My word lists from the main navigation. Create list
+opens a new list editor with its name focused at the top and word search below.
+Names save on blur or Enter; new unnamed lists are stored as Untitled list.
+Accounts can rename lists, search Portuguese words or English/Ukrainian translations in the
 existing vocabulary, and add or remove words. Search returns up to 12 matching
 words and excludes words already in the list. Removing a word removes only list
 membership, preserving the vocabulary and learning history.

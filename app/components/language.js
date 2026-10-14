@@ -3,6 +3,9 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'Untitled list': 'Новий список', 'Give your list a name': 'Введіть назву списку',
+  'Enter a list name.': 'Введіть назву списку.',
+  'Could not save the list name. Please try again.': 'Не вдалося зберегти назву. Спробуйте ще раз.',
   'My word lists': 'Мої списки слів',
   'Collect the words you want to learn and practice them together.': 'Збирайте слова, які хочете вивчити, і практикуйте їх разом.',
   'Create a word list': 'Створити список слів', 'List name': 'Назва списку',
