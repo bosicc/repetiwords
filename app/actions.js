@@ -32,7 +32,7 @@ export async function beginPractice(previousState, formData) {
   try {
     const listValue = formData.get('listId');
     const listId = listValue === null ? null : Number(listValue);
-    id = await startPractice(count, mode, listId);
+    id = await startPractice(count, mode, listId, { topic: formData.get('topic'), level: formData.get('level') });
     const cookieStore = await cookies();
     const options = { httpOnly: true, sameSite: 'lax', path: '/', maxAge: 60 * 60 * 24 * 365,
       secure: process.env.NODE_ENV === 'production' && process.env.VOCPT_SECURE_COOKIES === 'true' };

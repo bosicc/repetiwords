@@ -198,6 +198,10 @@ footer { text-align: center; margin-top: 28px; font-size: 12px; }
 button, .navigation a { transition: background 150ms ease, border-color 150ms ease, box-shadow 150ms ease; }
 .primary { box-shadow: 0 8px 22px #405fd820; }
 .filters select { border-radius: 14px; }
+.practice-topic-link { display: inline-block; color: #405fd8; font-size: 14px; line-height: 1.5; margin-bottom: 24px; text-underline-offset: 3px; }
+.practice-topic-note { display: flex; flex-direction: column; gap: 8px; padding: 20px; margin: 0 0 24px; border-radius: 16px; background: #eef1ff; font-size: 13px; }
+.practice-topic-note strong { color: #24304a; font-size: 16px; }
+.practice-topic-note a { align-self: flex-start; color: #405fd8; text-underline-offset: 3px; }
 .vocabulary-table th { color: #68738a; font-weight: 500; }
 .vocabulary-table tbody tr:hover { background: #f8faff; }
 @media (prefers-reduced-motion: reduce) { button, .navigation a { transition: none; } }

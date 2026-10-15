@@ -37,6 +37,12 @@ Pools do not overlap: words with at least 3 unassisted correct answers belong to
 
 The app applies this selection rule whenever a new practice session is created.
 
+### Practice by topic
+
+Open **Vocabulary** to browse topic cards, search categories, and preview their words. Each card has a **Practice** link; choosing a category from the filter also offers **Practice this topic**. Food and Drink, Animals, Colors, The Human Body, Shopping and Payments, and Restaurants and Cafés appear first when available. The practice picker also links to the topic browser.
+
+Topic practice supports all three exercise modes and respects the selected vocabulary level. The selection rule above runs only on words in that topic and level: small topics produce shorter sessions without adding unrelated words or repeating words. Multiple-choice distractors continue to come from the full vocabulary. Topic membership can overlap, so topic counts should not be added together as a total vocabulary count. The session's selected words are saved normally, preserving progress and account isolation without a schema migration.
+
 ## Technology
 
 - **Next.js** — the application framework.

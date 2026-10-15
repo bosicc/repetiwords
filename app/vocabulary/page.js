@@ -12,7 +12,7 @@ export default async function VocabularyPage() {
   return <main>
     <nav className="navigation" aria-label="Main navigation"><Link href="/"><Text>Home</Text></Link><Link href="/vocabulary" aria-current="page"><Text>Vocabulary</Text></Link><Link href="/word-lists"><Text>My words lists</Text></Link><Link href="/settings"><Text>Settings</Text></Link></nav>
     <header><h1><Text>Total vocabulary</Text></h1>
-      <p><Text>Explore all your Portuguese words by level and category.</Text></p></header>
+      <p><Text>Explore your Portuguese words and practise one topic at a time.</Text></p></header>
     <VocabularyList words={words} />
   </main>;
 }

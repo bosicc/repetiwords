@@ -6,6 +6,8 @@ import { beginPractice } from '../actions';
 import { PRACTICE_MODES, isPracticeMode } from '../../lib/practice-modes';
 import { useLanguage } from './language';
 import ExerciseIcon from './exercise-icon';
+import Link from 'next/link';
+import { formatWordCount } from '../../lib/vocabulary-topics';
 
 function StartButton() {
   const { pending } = useFormStatus();
@@ -15,8 +17,8 @@ function StartButton() {
   </button>;
 }
 
-export default function PracticeLaunchForm({ count, mode, listId, onCancel, onPendingChange }) {
-  const { t } = useLanguage();
+export default function PracticeLaunchForm({ count, mode, listId, topic, level, availableCount, onCancel, onPendingChange }) {
+  const { t, language } = useLanguage();
   const countId = useId();
   const [selectedMode, setSelectedMode] = useState(isPracticeMode(mode) ? mode : 'self-assessment');
   const [wordCount, setWordCount] = useState(String([10, 30, 100].includes(count) ? count : 30));
@@ -25,6 +27,14 @@ export default function PracticeLaunchForm({ count, mode, listId, onCancel, onPe
 
   return <form action={action} className="practice-picker-form" aria-busy={pending}>
     {listId && <input type="hidden" name="listId" value={listId} />}
+    {topic && <input type="hidden" name="topic" value={topic} />}
+    {level && <input type="hidden" name="level" value={level} />}
+    {topic ? <p className="practice-topic-note">
+      <strong>{t('Topic')}: {t(topic === 'uncategorized' ? 'Uncategorized' : topic)}</strong>
+      <span>{formatWordCount(availableCount, language)}{level && ` · ${t(level === 'unassigned' ? 'Unassigned' : level)}`}. {t('This session uses only words from this topic.')}</span>
+      <span>{t('If fewer words are available, you will practise each one once.')}</span>
+      <Link href="/vocabulary#word-topics">{t('Change topic')}</Link>
+    </p> : !listId && <Link className="practice-topic-link" href="/vocabulary#word-topics" onClick={onCancel}>{t('Want to focus on one topic? Browse topics')} <span aria-hidden="true">→</span></Link>}
     <fieldset className="practice-mode-fieldset" disabled={pending}>
       <legend>{t('Practice type')}</legend>
       <div className="practice-mode-grid">
