@@ -1,0 +1,871 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-5",
+  "source_files": [
+    {
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/cadb43ed-9380-4c2a-9b84-06da13a12bc0/1000058771.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/5-1000058771.jpg",
+      "sha256": "283291db561e7ec2da29d309d4ca78f397407b37253533019e8b22010fae463f"
+    }
+  ],
+  "counts": {
+    "source_rows": 41,
+    "unique_words": 51
+  },
+  "rows": [
+    {
+      "id": 160,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 1,
+      "portuguese_original": "distraído",
+      "english_original": "distracted",
+      "normalized_words": [
+        "distraído"
+      ]
+    },
+    {
+      "id": 161,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 2,
+      "portuguese_original": "divulgar",
+      "english_original": "to publish",
+      "normalized_words": [
+        "divulgar"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 3,
+      "portuguese_original": "dois terços",
+      "english_original": "two thirds",
+      "normalized_words": [
+        "dois",
+        "terços"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 4,
+      "portuguese_original": "(o) domínio",
+      "english_original": "mastery",
+      "normalized_words": [
+        "domínio"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 5,
+      "portuguese_original": "drasticamente",
+      "english_original": "drastically",
+      "normalized_words": [
+        "drasticamente"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 6,
+      "portuguese_original": "drástico",
+      "english_original": "drastic",
+      "normalized_words": [
+        "drástico"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 7,
+      "portuguese_original": "(o) ecoturismo",
+      "english_original": "ecotourism",
+      "normalized_words": [
+        "ecoturismo"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 8,
+      "portuguese_original": "(o) efeito de estufa",
+      "english_original": "greenhouse effect",
+      "normalized_words": [
+        "efeito",
+        "de",
+        "estufa"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 9,
+      "portuguese_original": "efetuar",
+      "english_original": "to request",
+      "normalized_words": [
+        "efetuar"
+      ],
+      "enrichment_note": "Printed to request is incorrect for the standalone verb efetuar; preserve it verbatim in source rows."
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 10,
+      "portuguese_original": "(a) eficiência",
+      "english_original": "efficiency",
+      "normalized_words": [
+        "eficiência"
+      ]
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 11,
+      "portuguese_original": "(o) eixo",
+      "english_original": "main point",
+      "normalized_words": [
+        "eixo"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 12,
+      "portuguese_original": "elaborado",
+      "english_original": "elaborate",
+      "normalized_words": [
+        "elaborado"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 13,
+      "portuguese_original": "(a) elite",
+      "english_original": "elite",
+      "normalized_words": [
+        "elite"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 14,
+      "portuguese_original": "em anexo",
+      "english_original": "in attachment",
+      "normalized_words": [
+        "em",
+        "anexo"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 15,
+      "portuguese_original": "em busca de",
+      "english_original": "seeking",
+      "normalized_words": [
+        "em",
+        "busca",
+        "de"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 16,
+      "portuguese_original": "em dívida",
+      "english_original": "in debt",
+      "normalized_words": [
+        "em",
+        "dívida"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 17,
+      "portuguese_original": "em grande",
+      "english_original": "in a big way",
+      "normalized_words": [
+        "em",
+        "grande"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 18,
+      "portuguese_original": "em proporção",
+      "english_original": "in proportion",
+      "normalized_words": [
+        "em",
+        "proporção"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 19,
+      "portuguese_original": "em vigor",
+      "english_original": "in effect",
+      "normalized_words": [
+        "em",
+        "vigor"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 20,
+      "portuguese_original": "(a) embalagem",
+      "english_original": "package",
+      "normalized_words": [
+        "embalagem"
+      ]
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 21,
+      "portuguese_original": "embalar",
+      "english_original": "to pack",
+      "normalized_words": [
+        "embalar"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 22,
+      "portuguese_original": "embora",
+      "english_original": "although",
+      "normalized_words": [
+        "embora"
+      ]
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 23,
+      "portuguese_original": "emergente",
+      "english_original": "emerging",
+      "normalized_words": [
+        "emergente"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 24,
+      "portuguese_original": "(a/o) emigrante",
+      "english_original": "emigrant",
+      "normalized_words": [
+        "emigrante"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 25,
+      "portuguese_original": "(a) emissão de gases",
+      "english_original": "gas emissions",
+      "normalized_words": [
+        "emissão",
+        "de",
+        "gases"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 26,
+      "portuguese_original": "emitir",
+      "english_original": "to issue",
+      "normalized_words": [
+        "emitir"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 27,
+      "portuguese_original": "(o) empreendedor",
+      "english_original": "entrepreneur",
+      "normalized_words": [
+        "empreendedor"
+      ]
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 28,
+      "portuguese_original": "empregar",
+      "english_original": "to employ",
+      "normalized_words": [
+        "empregar"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 29,
+      "portuguese_original": "empurrar com a barriga",
+      "english_original": "to procrastinate",
+      "normalized_words": [
+        "empurrar",
+        "com",
+        "a",
+        "barriga"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 30,
+      "portuguese_original": "encantar",
+      "english_original": "to delight",
+      "normalized_words": [
+        "encantar"
+      ]
+    },
+    {
+      "id": 190,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 31,
+      "portuguese_original": "(o) encanto",
+      "english_original": "charm",
+      "normalized_words": [
+        "encanto"
+      ]
+    },
+    {
+      "id": 191,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 32,
+      "portuguese_original": "encarar",
+      "english_original": "to face up to",
+      "normalized_words": [
+        "encarar"
+      ]
+    },
+    {
+      "id": 192,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 33,
+      "portuguese_original": "encerrar",
+      "english_original": "to close",
+      "normalized_words": [
+        "encerrar"
+      ]
+    },
+    {
+      "id": 193,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 34,
+      "portuguese_original": "(os) enchidos",
+      "english_original": "processed meats",
+      "normalized_words": [
+        "enchidos"
+      ]
+    },
+    {
+      "id": 194,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 35,
+      "portuguese_original": "(a) encomenda",
+      "english_original": "order",
+      "normalized_words": [
+        "encomenda"
+      ]
+    },
+    {
+      "id": 195,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 36,
+      "portuguese_original": "(a) energia renovável",
+      "english_original": "renewable energy",
+      "normalized_words": [
+        "energia",
+        "renovável"
+      ]
+    },
+    {
+      "id": 196,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 37,
+      "portuguese_original": "enervar-se",
+      "english_original": "to get angry",
+      "normalized_words": [
+        "enervar",
+        "se"
+      ]
+    },
+    {
+      "id": 197,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 38,
+      "portuguese_original": "(o) engano",
+      "english_original": "mistake",
+      "normalized_words": [
+        "engano"
+      ]
+    },
+    {
+      "id": 198,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 39,
+      "portuguese_original": "(os) enlatados",
+      "english_original": "tinned foods",
+      "normalized_words": [
+        "enlatados"
+      ]
+    },
+    {
+      "id": 199,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 40,
+      "portuguese_original": "(a) enormidade",
+      "english_original": "enormity",
+      "normalized_words": [
+        "enormidade"
+      ]
+    },
+    {
+      "id": 200,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 41,
+      "portuguese_original": "(o) enoturismo",
+      "english_original": "wine tourism",
+      "normalized_words": [
+        "enoturismo"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        15,
+        24,
+        64,
+        79,
+        106,
+        167,
+        174,
+        184
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        31,
+        153,
+        188
+      ]
+    },
+    {
+      "portuguese": "com",
+      "source_row_ids": [
+        42,
+        188
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        125,
+        196
+      ]
+    },
+    {
+      "portuguese": "distraído",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "divulgar",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "dois",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "terços",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "domínio",
+      "source_row_ids": [
+        163
+      ]
+    },
+    {
+      "portuguese": "drasticamente",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "drástico",
+      "source_row_ids": [
+        165
+      ]
+    },
+    {
+      "portuguese": "ecoturismo",
+      "source_row_ids": [
+        166
+      ]
+    },
+    {
+      "portuguese": "efeito",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "estufa",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "efetuar",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "eficiência",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "eixo",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "elaborado",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "elite",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    {
+      "portuguese": "anexo",
+      "source_row_ids": [
+        173
+      ]
+    },
+    {
+      "portuguese": "busca",
+      "source_row_ids": [
+        174
+      ]
+    },
+    {
+      "portuguese": "dívida",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "grande",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "proporção",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "vigor",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "embalagem",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "embalar",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "embora",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "emergente",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "emigrante",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "emissão",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "gases",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "emitir",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "empreendedor",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "empregar",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "empurrar",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "barriga",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "encantar",
+      "source_row_ids": [
+        189
+      ]
+    },
+    {
+      "portuguese": "encanto",
+      "source_row_ids": [
+        190
+      ]
+    },
+    {
+      "portuguese": "encarar",
+      "source_row_ids": [
+        191
+      ]
+    },
+    {
+      "portuguese": "encerrar",
+      "source_row_ids": [
+        192
+      ]
+    },
+    {
+      "portuguese": "enchidos",
+      "source_row_ids": [
+        193
+      ]
+    },
+    {
+      "portuguese": "encomenda",
+      "source_row_ids": [
+        194
+      ]
+    },
+    {
+      "portuguese": "energia",
+      "source_row_ids": [
+        195
+      ]
+    },
+    {
+      "portuguese": "renovável",
+      "source_row_ids": [
+        195
+      ]
+    },
+    {
+      "portuguese": "enervar",
+      "source_row_ids": [
+        196
+      ]
+    },
+    {
+      "portuguese": "engano",
+      "source_row_ids": [
+        197
+      ]
+    },
+    {
+      "portuguese": "enlatados",
+      "source_row_ids": [
+        198
+      ]
+    },
+    {
+      "portuguese": "enormidade",
+      "source_row_ids": [
+        199
+      ]
+    },
+    {
+      "portuguese": "enoturismo",
+      "source_row_ids": [
+        200
+      ]
+    }
+  ]
+}

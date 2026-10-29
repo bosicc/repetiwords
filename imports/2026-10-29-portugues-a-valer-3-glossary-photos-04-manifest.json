@@ -1,0 +1,120 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/2a0129fc-8352-485a-905b-4309af93a0da/1000058775.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/1-1000058775.jpg",
+      "sha256": "11e7bc32d9da3d77c9c02cd799de73375d2803365e6f584d78ae3825f7af9c18"
+    },
+    {
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/66ea1fe0-8e45-4f93-9393-10ba7e09ac4b/1000058774.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/2-1000058774.jpg",
+      "sha256": "6f94c48ec6583fcee1eb09e51ac0a873ea98b4b86f26459c3c412c4682728f5b"
+    },
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/8652a21f-764b-4c75-bc91-5107793223ca/1000058773.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/3-1000058773.jpg",
+      "sha256": "32ece8c7f5606ec69c796268217dfc597292dc2bbe68c73b0c9752f3455e89ec"
+    },
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/b5f89c95-b899-482f-8b8a-27f764033f80/1000058772.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/4-1000058772.jpg",
+      "sha256": "0f9aa8036909863b1852f24a4e72f2785f2f5111e8a37978899d87fb432297f4"
+    },
+    {
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/cadb43ed-9380-4c2a-9b84-06da13a12bc0/1000058771.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/5-1000058771.jpg",
+      "sha256": "283291db561e7ec2da29d309d4ca78f397407b37253533019e8b22010fae463f"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 200,
+    "distinct_source_labels": 200,
+    "unique_words": 225,
+    "rows_by_page_identifier": {
+      "image-1": 41,
+      "image-2": 40,
+      "image-3": 39,
+      "image-4": 39,
+      "image-5": 41
+    },
+    "rows_by_image": {
+      "1": 41,
+      "2": 40,
+      "3": 39,
+      "4": 39,
+      "5": 41
+    }
+  },
+  "files": [
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-extracted.json",
+      "sha256": "ff5a1b9a365bf09c649768a19bff230a2eab514518dc0a806ed9fb522c88b4c9"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-enriched.json",
+      "sha256": "ce765c123f25f4fb2279e269c2559dfef64d9524bc09dc49ad312f61d77ff591"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-image-1-extracted.json",
+      "sha256": "90e943bb854067793095f648f975afdf9df590acc696e2d1e4a2d73e4ea32a9a"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-image-2-extracted.json",
+      "sha256": "ae00a1b09bc88b35fe0b8ea3845ee8bb908d76b0fb596db9a831c9f53da79407"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-image-3-extracted.json",
+      "sha256": "b8a5c25e1e4273af7214ade3acb30ac4db631188d7551d53f390d957d6a34a23"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-image-4-extracted.json",
+      "sha256": "11aa1329f26abc4711255fc01e5df7a930b12c6863bb5b7def6ea4b76d27f064"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-image-5-extracted.json",
+      "sha256": "f19392bc7f1107b37783f4b709128166e00dc164e214d60f361949f1f5d74571"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-verification-report.json",
+      "sha256": "147e854294539a80f0a222fbaaa46206a5f53065e65391aefcd65f4768785b8d"
+    }
+  ],
+  "database_writes": false,
+  "verification_report": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-verification-report.json"
+}

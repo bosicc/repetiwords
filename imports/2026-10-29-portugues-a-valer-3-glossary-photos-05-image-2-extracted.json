@@ -1,0 +1,808 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-2",
+  "source_files": [
+    {
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/710fbe85-b999-4765-8d5d-3bdb96226e1e/1000058769.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/2-1000058769.jpg",
+      "sha256": "e9ccccdda04979f210906ca9c5a9277015d01ed0ea26dbf5bc65641622754ad1"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 46
+  },
+  "rows": [
+    {
+      "id": 40,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 1,
+      "portuguese_original": "(o) ciclone",
+      "english_original": "cyclone",
+      "normalized_words": [
+        "ciclone"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 2,
+      "portuguese_original": "(a) ciclovia",
+      "english_original": "cycle path",
+      "normalized_words": [
+        "ciclovia"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 3,
+      "portuguese_original": "(a) cidadania",
+      "english_original": "citizenship",
+      "normalized_words": [
+        "cidadania"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 4,
+      "portuguese_original": "cínico",
+      "english_original": "cynical",
+      "normalized_words": [
+        "cínico"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 5,
+      "portuguese_original": "(a) circulação",
+      "english_original": "(train) services",
+      "normalized_words": [
+        "circulação"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 6,
+      "portuguese_original": "climático",
+      "english_original": "climate-related",
+      "normalized_words": [
+        "climático"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 7,
+      "portuguese_original": "(o) cobre",
+      "english_original": "copper",
+      "normalized_words": [
+        "cobre"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 8,
+      "portuguese_original": "coçar",
+      "english_original": "to scratch",
+      "normalized_words": [
+        "coçar"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 9,
+      "portuguese_original": "(as) cócegas",
+      "english_original": "tickles",
+      "normalized_words": [
+        "cócegas"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 10,
+      "portuguese_original": "cochilar",
+      "english_original": "to nap",
+      "normalized_words": [
+        "cochilar"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 11,
+      "portuguese_original": "coincidir",
+      "english_original": "to coincide",
+      "normalized_words": [
+        "coincidir"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 12,
+      "portuguese_original": "(a) coluna vertebral",
+      "english_original": "spine",
+      "normalized_words": [
+        "coluna",
+        "vertebral"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 13,
+      "portuguese_original": "(o) comando",
+      "english_original": "command",
+      "normalized_words": [
+        "comando"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 14,
+      "portuguese_original": "combater",
+      "english_original": "to deal with",
+      "normalized_words": [
+        "combater"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 15,
+      "portuguese_original": "combinar",
+      "english_original": "to arrange",
+      "normalized_words": [
+        "combinar"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 16,
+      "portuguese_original": "como quer que",
+      "english_original": "however",
+      "normalized_words": [
+        "como",
+        "quer",
+        "que"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 17,
+      "portuguese_original": "complexo",
+      "english_original": "complex",
+      "normalized_words": [
+        "complexo"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 18,
+      "portuguese_original": "compor",
+      "english_original": "to compose",
+      "normalized_words": [
+        "compor"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 19,
+      "portuguese_original": "(o) compromisso",
+      "english_original": "commitment",
+      "normalized_words": [
+        "compromisso"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 20,
+      "portuguese_original": "(a) computação",
+      "english_original": "computation",
+      "normalized_words": [
+        "computação"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 21,
+      "portuguese_original": "(o) computador portátil",
+      "english_original": "laptop",
+      "normalized_words": [
+        "computador",
+        "portátil"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 22,
+      "portuguese_original": "comummente",
+      "english_original": "commonly",
+      "normalized_words": [
+        "comummente"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 23,
+      "portuguese_original": "(o) concelho",
+      "english_original": "municipality",
+      "normalized_words": [
+        "concelho"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 24,
+      "portuguese_original": "concretizar",
+      "english_original": "to fulfil",
+      "normalized_words": [
+        "concretizar"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 25,
+      "portuguese_original": "condicionar",
+      "english_original": "to affect",
+      "normalized_words": [
+        "condicionar"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 26,
+      "portuguese_original": "conferir (a)",
+      "english_original": "to make",
+      "normalized_words": [
+        "conferir",
+        "a"
+      ],
+      "enrichment_note": "Printed to make is contextual; conferir a normally means to confer/grant to. Translate the verb and preposition separately."
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 27,
+      "portuguese_original": "(a) confirmação",
+      "english_original": "confirmation",
+      "normalized_words": [
+        "confirmação"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 28,
+      "portuguese_original": "(a) conjuntura",
+      "english_original": "circumstances",
+      "normalized_words": [
+        "conjuntura"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 29,
+      "portuguese_original": "consecutivo",
+      "english_original": "consecutive",
+      "normalized_words": [
+        "consecutivo"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 30,
+      "portuguese_original": "(o) conserto",
+      "english_original": "repair",
+      "normalized_words": [
+        "conserto"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 31,
+      "portuguese_original": "(a) conservação",
+      "english_original": "conservation",
+      "normalized_words": [
+        "conservação"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 32,
+      "portuguese_original": "(as) conservas",
+      "english_original": "preserved foods",
+      "normalized_words": [
+        "conservas"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 33,
+      "portuguese_original": "(a) consideração",
+      "english_original": "regard",
+      "normalized_words": [
+        "consideração"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 34,
+      "portuguese_original": "constar (de)",
+      "english_original": "to come (from)",
+      "normalized_words": [
+        "constar",
+        "de"
+      ],
+      "enrichment_note": "Printed to come (from) is misleading for constar de; preserve source and clarify meaning."
+    },
+    {
+      "id": 74,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 35,
+      "portuguese_original": "constipado",
+      "english_original": "to have a cold",
+      "normalized_words": [
+        "constipado"
+      ],
+      "enrichment_note": "Portuguese is an adjective, not an infinitive; not the English false friend constipated."
+    },
+    {
+      "id": 75,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 36,
+      "portuguese_original": "(a) construção modular",
+      "english_original": "modular construction",
+      "normalized_words": [
+        "construção",
+        "modular"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 37,
+      "portuguese_original": "(a) consulta",
+      "english_original": "consultation",
+      "normalized_words": [
+        "consulta"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 38,
+      "portuguese_original": "(a) consultora",
+      "english_original": "consultant",
+      "normalized_words": [
+        "consultora"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 39,
+      "portuguese_original": "(o) consultório",
+      "english_original": "doctor's surgery",
+      "normalized_words": [
+        "consultório"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        73,
+        119
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        4,
+        65,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        33,
+        55,
+        117,
+        118,
+        151
+      ]
+    },
+    {
+      "portuguese": "ciclone",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "ciclovia",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "cidadania",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "cínico",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "circulação",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "climático",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "cobre",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "coçar",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "cócegas",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "cochilar",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "coincidir",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "coluna",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "vertebral",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "comando",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "combater",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "combinar",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "como",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "complexo",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "compor",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "compromisso",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "computação",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "computador",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "portátil",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "comummente",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "concelho",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "concretizar",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "condicionar",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "conferir",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "confirmação",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "conjuntura",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "consecutivo",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "conserto",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "conservação",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "conservas",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "consideração",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "constar",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "constipado",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "construção",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "modular",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "consulta",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "consultora",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "consultório",
+      "source_row_ids": [
+        78
+      ]
+    }
+  ]
+}

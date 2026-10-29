@@ -1,0 +1,733 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visually transcribed the Portuguese and English columns. Other language columns and internal lesson-page numbers were not transcribed.",
+    "Original expressions, articles and capitalization are preserved in source rows. Vocabulary uses lowercase NFC word forms; article annotations are removed.",
+    "Expressions and reflexive clitics are split into individually translated components. Lexical compounds pré-fabricar are retained. Other inflected forms (e.g. raízes, fritos, recursos, humanos, inúmeros) remain distinct.",
+    "English source glosses are retained verbatim in extracted rows/source_senses; assistant corrections and component translations are distinguished from printed meanings.",
+    "Individual CEFR levels, Ukrainian translations, thematic groups and corrected/component English are assistant supplied, not independently reviewed. B1 is the user-supplied book level, not a level assigned mechanically to every entry.",
+    "Only thematic/grammatical groups are used. Provenance, pages and batch numbers remain metadata.",
+    "No database connection, conflict check or import is performed during preparation.",
+    "Fixed-expression components such as obstante and entanto have limited standalone use; preserve their source phrase context in source_senses."
+  ],
+  "page": 204,
+  "source_files": [
+    {
+      "image": 2,
+      "page": 204,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/980d8ff2-176a-4fbb-97a8-41abb6aa25d1/1000058784.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/2-1000058784.jpg",
+      "sha256": "ebc24eeb33f3fdc4c6e81811cc1373ca256fa83ac0670fa2d2d4e4890002900a"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 42
+  },
+  "rows": [
+    {
+      "id": 40,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 1,
+      "portuguese_original": "(o) incentivo",
+      "english_original": "incentive",
+      "normalized_words": [
+        "incentivo"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 2,
+      "portuguese_original": "indescritível",
+      "english_original": "indescribable",
+      "normalized_words": [
+        "indescritível"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 3,
+      "portuguese_original": "(o) índice",
+      "english_original": "index",
+      "normalized_words": [
+        "índice"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 4,
+      "portuguese_original": "inflamatório",
+      "english_original": "inflammatory",
+      "normalized_words": [
+        "inflamatório"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 5,
+      "portuguese_original": "(a) informática",
+      "english_original": "IT",
+      "normalized_words": [
+        "informática"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 6,
+      "portuguese_original": "(a) ingestão",
+      "english_original": "ingestion",
+      "normalized_words": [
+        "ingestão"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 7,
+      "portuguese_original": "inovador",
+      "english_original": "innovative",
+      "normalized_words": [
+        "inovador"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 8,
+      "portuguese_original": "(o) inquirido",
+      "english_original": "respondent",
+      "normalized_words": [
+        "inquirido"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 9,
+      "portuguese_original": "(a) insónia",
+      "english_original": "insomnia",
+      "normalized_words": [
+        "insónia"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 10,
+      "portuguese_original": "inspirador",
+      "english_original": "inspiring",
+      "normalized_words": [
+        "inspirador"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 11,
+      "portuguese_original": "integral",
+      "english_original": "wholemeal",
+      "normalized_words": [
+        "integral"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 12,
+      "portuguese_original": "(a) intempérie",
+      "english_original": "bad weather",
+      "normalized_words": [
+        "intempérie"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 13,
+      "portuguese_original": "(o) intercâmbio",
+      "english_original": "exchange",
+      "normalized_words": [
+        "intercâmbio"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 14,
+      "portuguese_original": "interferir",
+      "english_original": "to interfere",
+      "normalized_words": [
+        "interferir"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 15,
+      "portuguese_original": "(a) interrupção",
+      "english_original": "interruption",
+      "normalized_words": [
+        "interrupção"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 16,
+      "portuguese_original": "intervir",
+      "english_original": "to intervene",
+      "normalized_words": [
+        "intervir"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 17,
+      "portuguese_original": "(a) intuição",
+      "english_original": "intuition",
+      "normalized_words": [
+        "intuição"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 18,
+      "portuguese_original": "intuitivo",
+      "english_original": "intuitive",
+      "normalized_words": [
+        "intuitivo"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 19,
+      "portuguese_original": "inúmeros",
+      "english_original": "countless",
+      "normalized_words": [
+        "inúmeros"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 20,
+      "portuguese_original": "(a) inundação",
+      "english_original": "flood",
+      "normalized_words": [
+        "inundação"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 21,
+      "portuguese_original": "inverter",
+      "english_original": "to switch",
+      "normalized_words": [
+        "inverter"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 22,
+      "portuguese_original": "(a) irritabilidade",
+      "english_original": "irritability",
+      "normalized_words": [
+        "irritabilidade"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 23,
+      "portuguese_original": "irromper",
+      "english_original": "to break out",
+      "normalized_words": [
+        "irromper"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 24,
+      "portuguese_original": "isentar",
+      "english_original": "to exempt",
+      "normalized_words": [
+        "isentar"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 25,
+      "portuguese_original": "(a) janelinha",
+      "english_original": "little window",
+      "normalized_words": [
+        "janelinha"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 26,
+      "portuguese_original": "(o) jejum",
+      "english_original": "fast",
+      "normalized_words": [
+        "jejum"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 27,
+      "portuguese_original": "jurídico",
+      "english_original": "legal",
+      "normalized_words": [
+        "jurídico"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 28,
+      "portuguese_original": "laboral",
+      "english_original": "working",
+      "normalized_words": [
+        "laboral"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 29,
+      "portuguese_original": "lácteo",
+      "english_original": "dairy",
+      "normalized_words": [
+        "lácteo"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 30,
+      "portuguese_original": "(os) laticínios",
+      "english_original": "dairy products",
+      "normalized_words": [
+        "laticínios"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 31,
+      "portuguese_original": "(a) lava",
+      "english_original": "lava",
+      "normalized_words": [
+        "lava"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 32,
+      "portuguese_original": "(a) lavagem",
+      "english_original": "washing",
+      "normalized_words": [
+        "lavagem"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 33,
+      "portuguese_original": "(o) lazer",
+      "english_original": "leisure",
+      "normalized_words": [
+        "lazer"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 34,
+      "portuguese_original": "legislar",
+      "english_original": "to legislate",
+      "normalized_words": [
+        "legislar"
+      ]
+    },
+    {
+      "id": 74,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 35,
+      "portuguese_original": "(as) leguminosas",
+      "english_original": "pulses",
+      "normalized_words": [
+        "leguminosas"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 36,
+      "portuguese_original": "ler na diagonal",
+      "english_original": "to skim read",
+      "normalized_words": [
+        "ler",
+        "na",
+        "diagonal"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 37,
+      "portuguese_original": "(a) lesão",
+      "english_original": "injury",
+      "normalized_words": [
+        "lesão"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 38,
+      "portuguese_original": "(a) leveza",
+      "english_original": "lightness",
+      "normalized_words": [
+        "leveza"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 39,
+      "portuguese_original": "libertar",
+      "english_original": "to release",
+      "normalized_words": [
+        "libertar"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 2,
+      "page": 204,
+      "row_on_page": 40,
+      "portuguese_original": "(o) licenciamento",
+      "english_original": "licensing",
+      "normalized_words": [
+        "licenciamento"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "incentivo",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "indescritível",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "índice",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "inflamatório",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "informática",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "ingestão",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "inovador",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "inquirido",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "insónia",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "inspirador",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "integral",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "intempérie",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "intercâmbio",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "interferir",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "interrupção",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "intervir",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "intuição",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "intuitivo",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "inúmeros",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "inundação",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "inverter",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "irritabilidade",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "irromper",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "isentar",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "janelinha",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "jejum",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "jurídico",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "laboral",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "lácteo",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "laticínios",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "lava",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "lavagem",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "lazer",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "legislar",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "leguminosas",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "ler",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "na",
+      "source_row_ids": [
+        75,
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "portuguese": "diagonal",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "lesão",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "leveza",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "libertar",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "licenciamento",
+      "source_row_ids": [
+        79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "prepared_at": "2026-10-29",
+  "status": "imported_and_verified",
+  "batch_file": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-climate-reading-words-enriched.json",
+  "batch_sha256": "fead74f7e5caf471a7e2da950085da141795aec6fb945352324c1fbca8009e1d",
+  "backup_before": {
+    "path": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-climate-before-import-212865d6-5d25-4c1c-85e1-4960c7ca74e1.json",
+    "sha256": "aa509ca780afbbc3d0a16911daf95f57fbe71d8e46e45929fa73cdc58def73df"
+  },
+  "snapshot_after": {
+    "path": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-climate-after-import-15ad8d59-79b7-48be-b961-04d64b6554cf.json",
+    "sha256": "748e9471b612e7832155ba705d21da0ee26e4e4f0081778d32546ead898b7ffc"
+  },
+  "reports": [
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-climate-reading-words-import-report.json",
+      "sha256": "219a50758897220df7d48e3f91f9fc3fd875f41b10a8572dae2596631641277f"
+    },
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-climate-reading-words-import-replay-check.json",
+      "sha256": "f813414de6f33f0205453d58e83e4fad0fac1e5545622a891aef078587c13b6e"
+    },
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-climate-reading-words-import-verification-report.json",
+      "sha256": "2d5d263d9fe304e4b4da5022fe3b3f892bd52fc3eef06b97d1b664b98de51122"
+    }
+  ],
+  "database_writes": "Vocabulary records, thematic groups and word-group memberships only; existing values and learner progress preserved."
+}

@@ -1,0 +1,162 @@
+{
+  "file": "imports/2026-10-29-climate-reading-words-enriched.json",
+  "source": "User-supplied Portuguese vocabulary from climate-related reading in this chat",
+  "dry_run": false,
+  "words": 56,
+  "added": 31,
+  "existing": 25,
+  "enriched": 0,
+  "groups_added": 0,
+  "memberships_added": 51,
+  "conflicts": [
+    {
+      "portuguese": "terreno",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "entre",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "de",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "frio",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "calor",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "avisar",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "ponto",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "viragem",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "sobrepor",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "prever",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "sobre",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "um",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "relatório",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "escalar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "entanto",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "assumir",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "mitigação",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    }
+  ]
+}

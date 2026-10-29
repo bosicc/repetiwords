@@ -1,0 +1,769 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-4",
+  "source_files": [
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/c9633ff9-8fff-4cc3-a002-1c75c1a09291/1000058767.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/4-1000058767.jpg",
+      "sha256": "6b9c88c13aaef69370494b00fb9bfe1e408f4bcba46ebe35d5874b59a1d1f517"
+    }
+  ],
+  "counts": {
+    "source_rows": 37,
+    "unique_words": 43
+  },
+  "rows": [
+    {
+      "id": 117,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 1,
+      "portuguese_original": "à medida que",
+      "english_original": "as",
+      "normalized_words": [
+        "à",
+        "medida",
+        "que"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 2,
+      "portuguese_original": "a não ser que",
+      "english_original": "unless",
+      "normalized_words": [
+        "a",
+        "não",
+        "ser",
+        "que"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 3,
+      "portuguese_original": "a partir de",
+      "english_original": "starting from",
+      "normalized_words": [
+        "a",
+        "partir",
+        "de"
+      ]
+    },
+    {
+      "id": 120,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 4,
+      "portuguese_original": "a propósito",
+      "english_original": "by the way",
+      "normalized_words": [
+        "a",
+        "propósito"
+      ]
+    },
+    {
+      "id": 121,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 5,
+      "portuguese_original": "à vista",
+      "english_original": "coming up",
+      "normalized_words": [
+        "à",
+        "vista"
+      ]
+    },
+    {
+      "id": 122,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 6,
+      "portuguese_original": "(o) abatanado",
+      "english_original": "long black coffee",
+      "normalized_words": [
+        "abatanado"
+      ]
+    },
+    {
+      "id": 123,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 7,
+      "portuguese_original": "abordar",
+      "english_original": "to address",
+      "normalized_words": [
+        "abordar"
+      ]
+    },
+    {
+      "id": 124,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 8,
+      "portuguese_original": "abrandar",
+      "english_original": "to slow down",
+      "normalized_words": [
+        "abrandar"
+      ]
+    },
+    {
+      "id": 125,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 9,
+      "portuguese_original": "(o) abrigo",
+      "english_original": "shelter",
+      "normalized_words": [
+        "abrigo"
+      ]
+    },
+    {
+      "id": 126,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 10,
+      "portuguese_original": "abrupto",
+      "english_original": "abrupt",
+      "normalized_words": [
+        "abrupto"
+      ]
+    },
+    {
+      "id": 127,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 11,
+      "portuguese_original": "(a) absorção",
+      "english_original": "uptake",
+      "normalized_words": [
+        "absorção"
+      ]
+    },
+    {
+      "id": 128,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 12,
+      "portuguese_original": "acabar por",
+      "english_original": "to end up",
+      "normalized_words": [
+        "acabar",
+        "por"
+      ]
+    },
+    {
+      "id": 129,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 13,
+      "portuguese_original": "acender",
+      "english_original": "to light",
+      "normalized_words": [
+        "acender"
+      ]
+    },
+    {
+      "id": 130,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 14,
+      "portuguese_original": "acentuar",
+      "english_original": "to heighten",
+      "normalized_words": [
+        "acentuar"
+      ]
+    },
+    {
+      "id": 131,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 15,
+      "portuguese_original": "ácido",
+      "english_original": "acidic/sour",
+      "normalized_words": [
+        "ácido"
+      ]
+    },
+    {
+      "id": 132,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 16,
+      "portuguese_original": "(o) aço",
+      "english_original": "steel",
+      "normalized_words": [
+        "aço"
+      ]
+    },
+    {
+      "id": 133,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 17,
+      "portuguese_original": "(o) acontecimento",
+      "english_original": "event",
+      "normalized_words": [
+        "acontecimento"
+      ]
+    },
+    {
+      "id": 134,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 18,
+      "portuguese_original": "açucarado",
+      "english_original": "sugary",
+      "normalized_words": [
+        "açucarado"
+      ]
+    },
+    {
+      "id": 135,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 19,
+      "portuguese_original": "acumulado",
+      "english_original": "accumulated",
+      "normalized_words": [
+        "acumulado"
+      ]
+    },
+    {
+      "id": 136,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 20,
+      "portuguese_original": "acumular",
+      "english_original": "to build up",
+      "normalized_words": [
+        "acumular"
+      ]
+    },
+    {
+      "id": 137,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 21,
+      "portuguese_original": "adequado",
+      "english_original": "appropriate",
+      "normalized_words": [
+        "adequado"
+      ]
+    },
+    {
+      "id": 138,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 22,
+      "portuguese_original": "(o) adiamento",
+      "english_original": "postponement",
+      "normalized_words": [
+        "adiamento"
+      ]
+    },
+    {
+      "id": 139,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 23,
+      "portuguese_original": "adiar",
+      "english_original": "to delay",
+      "normalized_words": [
+        "adiar"
+      ]
+    },
+    {
+      "id": 140,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 24,
+      "portuguese_original": "adicional",
+      "english_original": "additional",
+      "normalized_words": [
+        "adicional"
+      ]
+    },
+    {
+      "id": 141,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 25,
+      "portuguese_original": "adivinhar",
+      "english_original": "to guess",
+      "normalized_words": [
+        "adivinhar"
+      ]
+    },
+    {
+      "id": 142,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 26,
+      "portuguese_original": "adquirir",
+      "english_original": "to purchase",
+      "normalized_words": [
+        "adquirir"
+      ]
+    },
+    {
+      "id": 143,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 27,
+      "portuguese_original": "afetar",
+      "english_original": "to affect",
+      "normalized_words": [
+        "afetar"
+      ]
+    },
+    {
+      "id": 144,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 28,
+      "portuguese_original": "agendar",
+      "english_original": "to schedule",
+      "normalized_words": [
+        "agendar"
+      ]
+    },
+    {
+      "id": 145,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 29,
+      "portuguese_original": "(o) agente",
+      "english_original": "agent",
+      "normalized_words": [
+        "agente"
+      ]
+    },
+    {
+      "id": 146,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 30,
+      "portuguese_original": "ágil",
+      "english_original": "agile",
+      "normalized_words": [
+        "ágil"
+      ]
+    },
+    {
+      "id": 147,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 31,
+      "portuguese_original": "agravar",
+      "english_original": "to worsen",
+      "normalized_words": [
+        "agravar"
+      ]
+    },
+    {
+      "id": 148,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 32,
+      "portuguese_original": "(a) agressividade",
+      "english_original": "aggressiveness",
+      "normalized_words": [
+        "agressividade"
+      ]
+    },
+    {
+      "id": 149,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 33,
+      "portuguese_original": "(o) aguaceiro",
+      "english_original": "shower",
+      "normalized_words": [
+        "aguaceiro"
+      ]
+    },
+    {
+      "id": 150,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 34,
+      "portuguese_original": "aguardar",
+      "english_original": "to wait",
+      "normalized_words": [
+        "aguardar"
+      ]
+    },
+    {
+      "id": 151,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 35,
+      "portuguese_original": "ainda que",
+      "english_original": "even though",
+      "normalized_words": [
+        "ainda",
+        "que"
+      ]
+    },
+    {
+      "id": 152,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 36,
+      "portuguese_original": "(o) ajustamento",
+      "english_original": "adjustment",
+      "normalized_words": [
+        "ajustamento"
+      ]
+    },
+    {
+      "id": 153,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 37,
+      "portuguese_original": "ajustar",
+      "english_original": "to adjust",
+      "normalized_words": [
+        "ajustar"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        73,
+        119
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        4,
+        65,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        33,
+        55,
+        117,
+        118,
+        151
+      ]
+    },
+    {
+      "portuguese": "por",
+      "source_row_ids": [
+        114,
+        128
+      ]
+    },
+    {
+      "portuguese": "à",
+      "source_row_ids": [
+        117,
+        121
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "não",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "propósito",
+      "source_row_ids": [
+        120
+      ]
+    },
+    {
+      "portuguese": "vista",
+      "source_row_ids": [
+        121
+      ]
+    },
+    {
+      "portuguese": "abatanado",
+      "source_row_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "abordar",
+      "source_row_ids": [
+        123
+      ]
+    },
+    {
+      "portuguese": "abrandar",
+      "source_row_ids": [
+        124
+      ]
+    },
+    {
+      "portuguese": "abrigo",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "abrupto",
+      "source_row_ids": [
+        126
+      ]
+    },
+    {
+      "portuguese": "absorção",
+      "source_row_ids": [
+        127
+      ]
+    },
+    {
+      "portuguese": "acabar",
+      "source_row_ids": [
+        128
+      ]
+    },
+    {
+      "portuguese": "acender",
+      "source_row_ids": [
+        129
+      ]
+    },
+    {
+      "portuguese": "acentuar",
+      "source_row_ids": [
+        130
+      ]
+    },
+    {
+      "portuguese": "ácido",
+      "source_row_ids": [
+        131
+      ]
+    },
+    {
+      "portuguese": "aço",
+      "source_row_ids": [
+        132
+      ]
+    },
+    {
+      "portuguese": "acontecimento",
+      "source_row_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "açucarado",
+      "source_row_ids": [
+        134
+      ]
+    },
+    {
+      "portuguese": "acumulado",
+      "source_row_ids": [
+        135
+      ]
+    },
+    {
+      "portuguese": "acumular",
+      "source_row_ids": [
+        136
+      ]
+    },
+    {
+      "portuguese": "adequado",
+      "source_row_ids": [
+        137
+      ]
+    },
+    {
+      "portuguese": "adiamento",
+      "source_row_ids": [
+        138
+      ]
+    },
+    {
+      "portuguese": "adiar",
+      "source_row_ids": [
+        139
+      ]
+    },
+    {
+      "portuguese": "adicional",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "adivinhar",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "adquirir",
+      "source_row_ids": [
+        142
+      ]
+    },
+    {
+      "portuguese": "afetar",
+      "source_row_ids": [
+        143
+      ]
+    },
+    {
+      "portuguese": "agendar",
+      "source_row_ids": [
+        144
+      ]
+    },
+    {
+      "portuguese": "agente",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "ágil",
+      "source_row_ids": [
+        146
+      ]
+    },
+    {
+      "portuguese": "agravar",
+      "source_row_ids": [
+        147
+      ]
+    },
+    {
+      "portuguese": "agressividade",
+      "source_row_ids": [
+        148
+      ]
+    },
+    {
+      "portuguese": "aguaceiro",
+      "source_row_ids": [
+        149
+      ]
+    },
+    {
+      "portuguese": "aguardar",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "ainda",
+      "source_row_ids": [
+        151
+      ]
+    },
+    {
+      "portuguese": "ajustamento",
+      "source_row_ids": [
+        152
+      ]
+    },
+    {
+      "portuguese": "ajustar",
+      "source_row_ids": [
+        153
+      ]
+    }
+  ]
+}

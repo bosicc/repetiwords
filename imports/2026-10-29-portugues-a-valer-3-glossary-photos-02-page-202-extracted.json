@@ -1,0 +1,766 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visually transcribed the Portuguese and English columns. Other language columns and internal lesson-page numbers were not transcribed.",
+    "Original expressions, articles and capitalization are preserved in source rows. Vocabulary uses lowercase NFC word forms; article annotations are removed.",
+    "Expressions and reflexive clitics are split into individually translated components. Lexical compounds pré-fabricar are retained. Other inflected forms (e.g. raízes, fritos, recursos, humanos, inúmeros) remain distinct.",
+    "English source glosses are retained verbatim in extracted rows/source_senses; assistant corrections and component translations are distinguished from printed meanings.",
+    "Individual CEFR levels, Ukrainian translations, thematic groups and corrected/component English are assistant supplied, not independently reviewed. B1 is the user-supplied book level, not a level assigned mechanically to every entry.",
+    "Only thematic/grammatical groups are used. Provenance, pages and batch numbers remain metadata.",
+    "No database connection, conflict check or import is performed during preparation.",
+    "Fixed-expression components such as obstante and entanto have limited standalone use; preserve their source phrase context in source_senses."
+  ],
+  "page": 202,
+  "source_files": [
+    {
+      "image": 1,
+      "page": 202,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/db9f7a76-8425-4cda-9753-557ec8547901/1000058785.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/1-1000058785.jpg",
+      "sha256": "51a2f93b903c6392434f023af5325d07d54d40977531d834dad0cbe362a63bfb"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 45
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 1,
+      "portuguese_original": "ficar à guarda",
+      "english_original": "to be under one's care",
+      "normalized_words": [
+        "ficar",
+        "à",
+        "guarda"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 2,
+      "portuguese_original": "ficar com",
+      "english_original": "to stay with",
+      "normalized_words": [
+        "ficar",
+        "com"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 3,
+      "portuguese_original": "ficar de",
+      "english_original": "to arrange to",
+      "normalized_words": [
+        "ficar",
+        "de"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 4,
+      "portuguese_original": "ficar de pé atrás",
+      "english_original": "to be reticent",
+      "normalized_words": [
+        "ficar",
+        "de",
+        "pé",
+        "atrás"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 5,
+      "portuguese_original": "ficar em",
+      "english_original": "to be located in",
+      "normalized_words": [
+        "ficar",
+        "em"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 6,
+      "portuguese_original": "ficar para",
+      "english_original": "to postpone (to/until)",
+      "normalized_words": [
+        "ficar",
+        "para"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 7,
+      "portuguese_original": "(a) ficção",
+      "english_original": "fiction",
+      "normalized_words": [
+        "ficção"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 8,
+      "portuguese_original": "(a) finalidade",
+      "english_original": "purpose",
+      "normalized_words": [
+        "finalidade"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 9,
+      "portuguese_original": "fiscal",
+      "english_original": "tax",
+      "normalized_words": [
+        "fiscal"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 10,
+      "portuguese_original": "fixar",
+      "english_original": "to stare at",
+      "normalized_words": [
+        "fixar"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 11,
+      "portuguese_original": "fixar-se",
+      "english_original": "to be set (at)",
+      "normalized_words": [
+        "fixar",
+        "se"
+      ],
+      "enrichment_note": "Keep the pronominal construction as context and translate fixar and se separately."
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 12,
+      "portuguese_original": "fixe",
+      "english_original": "cool",
+      "normalized_words": [
+        "fixe"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 13,
+      "portuguese_original": "fixo",
+      "english_original": "fixed",
+      "normalized_words": [
+        "fixo"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 14,
+      "portuguese_original": "flagrante",
+      "english_original": "flagrant",
+      "normalized_words": [
+        "flagrante"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 15,
+      "portuguese_original": "(a) flexibilidade",
+      "english_original": "flexibility",
+      "normalized_words": [
+        "flexibilidade"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 16,
+      "portuguese_original": "flexitariano",
+      "english_original": "flexitarian",
+      "normalized_words": [
+        "flexitariano"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 17,
+      "portuguese_original": "florescer",
+      "english_original": "to prosper",
+      "normalized_words": [
+        "florescer"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 18,
+      "portuguese_original": "(a) fluência",
+      "english_original": "fluency",
+      "normalized_words": [
+        "fluência"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 19,
+      "portuguese_original": "fluido",
+      "english_original": "flowing",
+      "normalized_words": [
+        "fluido"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 20,
+      "portuguese_original": "(o) foco",
+      "english_original": "focus",
+      "normalized_words": [
+        "foco"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 21,
+      "portuguese_original": "(o) fôlego",
+      "english_original": "breath",
+      "normalized_words": [
+        "fôlego"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 22,
+      "portuguese_original": "(a) fonte",
+      "english_original": "source",
+      "normalized_words": [
+        "fonte"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 23,
+      "portuguese_original": "(a) formulação",
+      "english_original": "formulation",
+      "normalized_words": [
+        "formulação"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 24,
+      "portuguese_original": "(a) fraude",
+      "english_original": "scam",
+      "normalized_words": [
+        "fraude"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 25,
+      "portuguese_original": "(a) freguesia",
+      "english_original": "parish",
+      "normalized_words": [
+        "freguesia"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 26,
+      "portuguese_original": "frequentar",
+      "english_original": "to attend",
+      "normalized_words": [
+        "frequentar"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 27,
+      "portuguese_original": "(a) frigideira",
+      "english_original": "frying pan",
+      "normalized_words": [
+        "frigideira"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 28,
+      "portuguese_original": "(os) fritos",
+      "english_original": "fried food",
+      "normalized_words": [
+        "fritos"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 29,
+      "portuguese_original": "(a) fruição",
+      "english_original": "enjoyment",
+      "normalized_words": [
+        "fruição"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 30,
+      "portuguese_original": "(o) fruto do mar",
+      "english_original": "seafood",
+      "normalized_words": [
+        "fruto",
+        "do",
+        "mar"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 31,
+      "portuguese_original": "(o) funcionário",
+      "english_original": "employee",
+      "normalized_words": [
+        "funcionário"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 32,
+      "portuguese_original": "fundir",
+      "english_original": "to conjoin",
+      "normalized_words": [
+        "fundir"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 33,
+      "portuguese_original": "(o) furacão",
+      "english_original": "hurricane",
+      "normalized_words": [
+        "furacão"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 34,
+      "portuguese_original": "(o) gaiato",
+      "english_original": "rascal",
+      "normalized_words": [
+        "gaiato"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 35,
+      "portuguese_original": "(o) galão",
+      "english_original": "latte",
+      "normalized_words": [
+        "galão"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 36,
+      "portuguese_original": "(o) galeão",
+      "english_original": "galleon",
+      "normalized_words": [
+        "galeão"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 37,
+      "portuguese_original": "(o) ganho",
+      "english_original": "gain",
+      "normalized_words": [
+        "ganho"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 38,
+      "portuguese_original": "(o) garoto",
+      "english_original": "espresso with milk",
+      "normalized_words": [
+        "garoto"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": 202,
+      "row_on_page": 39,
+      "portuguese_original": "(o) gás butano",
+      "english_original": "butane gas",
+      "normalized_words": [
+        "gás",
+        "butano"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "ficar",
+      "source_row_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "portuguese": "à",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "guarda",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "com",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        3,
+        4,
+        91,
+        101,
+        147,
+        153,
+        163,
+        168
+      ]
+    },
+    {
+      "portuguese": "pé",
+      "source_row_ids": [
+        4,
+        139
+      ]
+    },
+    {
+      "portuguese": "atrás",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "ficção",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "finalidade",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "fiscal",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "fixar",
+      "source_row_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        11,
+        87,
+        163
+      ]
+    },
+    {
+      "portuguese": "fixe",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "fixo",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "flagrante",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "flexibilidade",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "flexitariano",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "florescer",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "fluência",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "fluido",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "foco",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "fôlego",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "fonte",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "formulação",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "fraude",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "freguesia",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "frequentar",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "frigideira",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "fritos",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "fruição",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "fruto",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "do",
+      "source_row_ids": [
+        30,
+        139
+      ]
+    },
+    {
+      "portuguese": "mar",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "funcionário",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "fundir",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "furacão",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "gaiato",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "galão",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "galeão",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "ganho",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "garoto",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "gás",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "butano",
+      "source_row_ids": [
+        39
+      ]
+    }
+  ]
+}

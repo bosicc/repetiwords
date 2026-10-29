@@ -1,0 +1,827 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visually transcribed the Portuguese and English columns. Other language columns and internal lesson-page numbers were not transcribed.",
+    "Original expressions, articles and capitalization are preserved in source rows. Vocabulary uses lowercase NFC word forms; article annotations are removed.",
+    "Expressions and reflexive clitics are split into individually translated components. Lexical compounds pré-fabricar are retained. Other inflected forms (e.g. raízes, fritos, recursos, humanos, inúmeros) remain distinct.",
+    "English source glosses are retained verbatim in extracted rows/source_senses; assistant corrections and component translations are distinguished from printed meanings.",
+    "Individual CEFR levels, Ukrainian translations, thematic groups and corrected/component English are assistant supplied, not independently reviewed. B1 is the user-supplied book level, not a level assigned mechanically to every entry.",
+    "Only thematic/grammatical groups are used. Provenance, pages and batch numbers remain metadata.",
+    "No database connection, conflict check or import is performed during preparation.",
+    "Fixed-expression components such as obstante and entanto have limited standalone use; preserve their source phrase context in source_senses."
+  ],
+  "page": 206,
+  "source_files": [
+    {
+      "image": 3,
+      "page": 206,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/8a0e7f55-a080-4d28-abe3-6a997463ce4f/1000058783.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/3-1000058783.jpg",
+      "sha256": "17da70084f34fefd947dd46a7cc1b1cecfbf796ae8e9fc940d493cf9d8c53935"
+    }
+  ],
+  "counts": {
+    "source_rows": 41,
+    "unique_words": 51
+  },
+  "rows": [
+    {
+      "id": 80,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 1,
+      "portuguese_original": "mesmo que",
+      "english_original": "even though",
+      "normalized_words": [
+        "mesmo",
+        "que"
+      ],
+      "enrichment_note": "Concessive expression; source English retained unchanged."
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 2,
+      "portuguese_original": "(o) metro quadrado",
+      "english_original": "square metre",
+      "normalized_words": [
+        "metro",
+        "quadrado"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 3,
+      "portuguese_original": "(a) mina",
+      "english_original": "mine",
+      "normalized_words": [
+        "mina"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 4,
+      "portuguese_original": "(a) miragem",
+      "english_original": "illusion",
+      "normalized_words": [
+        "miragem"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 5,
+      "portuguese_original": "(a) mitigação",
+      "english_original": "mitigation",
+      "normalized_words": [
+        "mitigação"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 6,
+      "portuguese_original": "modificar",
+      "english_original": "to change",
+      "normalized_words": [
+        "modificar"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 7,
+      "portuguese_original": "moer",
+      "english_original": "to grind",
+      "normalized_words": [
+        "moer"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 8,
+      "portuguese_original": "moldar-se (a)",
+      "english_original": "to adapt (to)",
+      "normalized_words": [
+        "moldar",
+        "se",
+        "a"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 9,
+      "portuguese_original": "mortal",
+      "english_original": "fatal",
+      "normalized_words": [
+        "mortal"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 10,
+      "portuguese_original": "(a) morte",
+      "english_original": "death",
+      "normalized_words": [
+        "morte"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 11,
+      "portuguese_original": "(o) motociclo",
+      "english_original": "motorcycle",
+      "normalized_words": [
+        "motociclo"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 12,
+      "portuguese_original": "mudar de rumo",
+      "english_original": "to change course",
+      "normalized_words": [
+        "mudar",
+        "de",
+        "rumo"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 13,
+      "portuguese_original": "(a) multa",
+      "english_original": "fine",
+      "normalized_words": [
+        "multa"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 14,
+      "portuguese_original": "multiplicar",
+      "english_original": "to multiply",
+      "normalized_words": [
+        "multiplicar"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 15,
+      "portuguese_original": "municipal",
+      "english_original": "municipal",
+      "normalized_words": [
+        "municipal"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 16,
+      "portuguese_original": "(o) município",
+      "english_original": "municipality",
+      "normalized_words": [
+        "município"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 17,
+      "portuguese_original": "murar",
+      "english_original": "to wall in",
+      "normalized_words": [
+        "murar"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 18,
+      "portuguese_original": "(o) muro",
+      "english_original": "wall",
+      "normalized_words": [
+        "muro"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 19,
+      "portuguese_original": "(o) murro",
+      "english_original": "punch",
+      "normalized_words": [
+        "murro"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 20,
+      "portuguese_original": "(a) musculação",
+      "english_original": "bodybuilding",
+      "normalized_words": [
+        "musculação"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 21,
+      "portuguese_original": "musculoesquelético",
+      "english_original": "musculoskeletal",
+      "normalized_words": [
+        "musculoesquelético"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 22,
+      "portuguese_original": "na faixa de",
+      "english_original": "around",
+      "normalized_words": [
+        "na",
+        "faixa",
+        "de"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 23,
+      "portuguese_original": "na íntegra",
+      "english_original": "in full",
+      "normalized_words": [
+        "na",
+        "íntegra"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 24,
+      "portuguese_original": "na sua maioria",
+      "english_original": "for the most part",
+      "normalized_words": [
+        "na",
+        "sua",
+        "maioria"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 25,
+      "portuguese_original": "não obstante",
+      "english_original": "notwithstanding",
+      "normalized_words": [
+        "não",
+        "obstante"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 26,
+      "portuguese_original": "(a) natalidade",
+      "english_original": "birth rate",
+      "normalized_words": [
+        "natalidade"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 27,
+      "portuguese_original": "(as) natas",
+      "english_original": "cream",
+      "normalized_words": [
+        "natas"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 28,
+      "portuguese_original": "nativo",
+      "english_original": "native",
+      "normalized_words": [
+        "nativo"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 29,
+      "portuguese_original": "nem que",
+      "english_original": "not even if",
+      "normalized_words": [
+        "nem",
+        "que"
+      ],
+      "enrichment_note": "Printed not even if is not a reliable universal gloss. Meaning depends on the sentence; retain source gloss separately."
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 30,
+      "portuguese_original": "nem sequer",
+      "english_original": "not even",
+      "normalized_words": [
+        "nem",
+        "sequer"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 31,
+      "portuguese_original": "neurológico",
+      "english_original": "neurological",
+      "normalized_words": [
+        "neurológico"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 32,
+      "portuguese_original": "neutro",
+      "english_original": "neutral",
+      "normalized_words": [
+        "neutro"
+      ]
+    },
+    {
+      "id": 112,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 33,
+      "portuguese_original": "(o) nevão",
+      "english_original": "snowstorm",
+      "normalized_words": [
+        "nevão"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 34,
+      "portuguese_original": "(o) nevoeiro",
+      "english_original": "fog",
+      "normalized_words": [
+        "nevoeiro"
+      ]
+    },
+    {
+      "id": 114,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 35,
+      "portuguese_original": "no âmbito",
+      "english_original": "as part of",
+      "normalized_words": [
+        "no",
+        "âmbito"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 36,
+      "portuguese_original": "no entanto",
+      "english_original": "however",
+      "normalized_words": [
+        "no",
+        "entanto"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 37,
+      "portuguese_original": "nomeadamente",
+      "english_original": "namely",
+      "normalized_words": [
+        "nomeadamente"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 38,
+      "portuguese_original": "(a) novidade",
+      "english_original": "news",
+      "normalized_words": [
+        "novidade"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 39,
+      "portuguese_original": "(a) noz",
+      "english_original": "walnut",
+      "normalized_words": [
+        "noz"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 40,
+      "portuguese_original": "nublado",
+      "english_original": "cloudy",
+      "normalized_words": [
+        "nublado"
+      ]
+    },
+    {
+      "id": 120,
+      "image": 3,
+      "page": 206,
+      "row_on_page": 41,
+      "portuguese_original": "(o) nutriente",
+      "english_original": "nutrient",
+      "normalized_words": [
+        "nutriente"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        3,
+        4,
+        91,
+        101,
+        147,
+        153,
+        163,
+        168
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        11,
+        87,
+        163
+      ]
+    },
+    {
+      "portuguese": "na",
+      "source_row_ids": [
+        75,
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "portuguese": "mesmo",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        80,
+        108,
+        165
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "quadrado",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "mina",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "miragem",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "mitigação",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "modificar",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "moer",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "moldar",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "mortal",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "morte",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "motociclo",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "mudar",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "rumo",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "multa",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "multiplicar",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "municipal",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "município",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "murar",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "muro",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "murro",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "musculação",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "musculoesquelético",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "faixa",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "íntegra",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "sua",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "maioria",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "não",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "obstante",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "natalidade",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "natas",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "nativo",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "nem",
+      "source_row_ids": [
+        108,
+        109
+      ]
+    },
+    {
+      "portuguese": "sequer",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "neurológico",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "neutro",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "nevão",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "nevoeiro",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "no",
+      "source_row_ids": [
+        114,
+        115
+      ]
+    },
+    {
+      "portuguese": "âmbito",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "entanto",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "nomeadamente",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "novidade",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "noz",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "nublado",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "nutriente",
+      "source_row_ids": [
+        120
+      ]
+    }
+  ]
+}

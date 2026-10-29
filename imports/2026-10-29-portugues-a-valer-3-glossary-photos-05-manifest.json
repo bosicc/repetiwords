@@ -1,0 +1,105 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/950ed42f-1a21-40bc-b795-9932ba81d0fc/1000058770.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/1-1000058770.jpg",
+      "sha256": "d29f2b41ff493e30375e017727b5371a2631eed7f59eef57bb51c59d900b9838"
+    },
+    {
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/710fbe85-b999-4765-8d5d-3bdb96226e1e/1000058769.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/2-1000058769.jpg",
+      "sha256": "e9ccccdda04979f210906ca9c5a9277015d01ed0ea26dbf5bc65641622754ad1"
+    },
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/cfe23311-ba30-48e1-9d77-18da92520d8d/1000058768.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/3-1000058768.jpg",
+      "sha256": "62f001cbd549537c1b0712289a99505115c144a2af4078a6e7838d7656277096"
+    },
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/c9633ff9-8fff-4cc3-a002-1c75c1a09291/1000058767.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/4-1000058767.jpg",
+      "sha256": "6b9c88c13aaef69370494b00fb9bfe1e408f4bcba46ebe35d5874b59a1d1f517"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 153,
+    "distinct_source_labels": 153,
+    "unique_words": 173,
+    "rows_by_page_identifier": {
+      "image-1": 39,
+      "image-2": 39,
+      "image-3": 38,
+      "image-4": 37
+    },
+    "rows_by_image": {
+      "1": 39,
+      "2": 39,
+      "3": 38,
+      "4": 37
+    }
+  },
+  "files": [
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-extracted.json",
+      "sha256": "1886d804557d78668f32fb5285090fe586c3f9a92260928bdf4d599b8ee425fd"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-enriched.json",
+      "sha256": "2279947cd048eedfb5f1b7e640963b823fd501c74d2ac6685ddfdfa5b670c1c2"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-image-1-extracted.json",
+      "sha256": "0bdb778c6a0c66b85d579460944aa7043099c31315e03804e67d11b600a97753"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-image-2-extracted.json",
+      "sha256": "9b9829bcdf03e91a449ffdf7756b3cec7bb5c31f6763f17ac1c4e95de6a849bd"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-image-3-extracted.json",
+      "sha256": "8f5b9961e6917c8d6d6bc08ff92acf6afb917b35b2523d194e217388e0459e23"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-image-4-extracted.json",
+      "sha256": "8ff2f1b85c7547fcf6299992c0a2a81ff2a1dc0d8e3c356058e59cd5420e0e00"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-verification-report.json",
+      "sha256": "ba592af1d8463c432b2677ffa8423c1cec5ac34c85ef9afdc4f5c3c262278e33"
+    }
+  ],
+  "database_writes": false,
+  "verification_report": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-verification-report.json"
+}

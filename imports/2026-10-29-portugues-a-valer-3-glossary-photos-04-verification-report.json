@@ -1,0 +1,64 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 200,
+    "distinct_source_labels": 200,
+    "unique_words": 225,
+    "rows_by_page_identifier": {
+      "image-1": 41,
+      "image-2": 40,
+      "image-3": 39,
+      "image-4": 39,
+      "image-5": 41
+    },
+    "rows_by_image": {
+      "1": 41,
+      "2": 40,
+      "3": 39,
+      "4": 39,
+      "5": 41
+    }
+  },
+  "checks": {
+    "batch_contract": "passed lib/word-import.js validateBatch without database initialization",
+    "source_photo_hashes": "passed 5/5",
+    "json_hashes": "passed",
+    "individual_page_image_backups": "passed 5/5",
+    "source_row_coverage": "passed 200/200",
+    "normalized_unique_words": 225,
+    "latin_script": "passed",
+    "groups": "existing thematic/grammatical labels only",
+    "original_vs_corrected_gloss": "efetuar original to request preserved; correction separately recorded",
+    "page_numbers": "null on all images; no guessed page numbers",
+    "database_connections": 0,
+    "database_writes": false
+  },
+  "comparison_with_previous_photo_batches": {
+    "overlapping_word_forms": 12,
+    "overlapping_words": [
+      "quer",
+      "que",
+      "ser",
+      "de",
+      "a",
+      "à",
+      "para",
+      "com",
+      "quem",
+      "se",
+      "conta",
+      "em"
+    ],
+    "combined_source_rows": 785,
+    "combined_unique_words": 843,
+    "note": "Comparison only against photo batches 01–03. Each batch remains independently replayable; live database duplicates/conflicts have not been checked."
+  },
+  "limitations": [
+    "Visual transcription covers Portuguese and English columns, excluding internal reference numbers and other language columns.",
+    "Ukrainian translations, per-word CEFR levels, English corrections, component translations and group assignments are assistant prepared and not independently reviewed.",
+    "No database import has run."
+  ],
+  "import_preview_command": "rtk npm run words:import -- imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-enriched.json --dry-run"
+}

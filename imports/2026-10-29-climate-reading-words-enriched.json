@@ -1,0 +1,714 @@
+{
+  "source": "User-supplied Portuguese vocabulary from climate-related reading in this chat",
+  "prepared_at": "2026-10-29",
+  "extracted_backup": "imports/2026-10-29-climate-reading-words-extracted.json",
+  "counts": {
+    "source_entries": 52,
+    "distinct_source_entries": 51,
+    "unique_word_forms": 56
+  },
+  "enrichment_provenance": {
+    "english": "Assistant translations; no source translations supplied.",
+    "ukrainian": "Assistant translations; no source translations supplied.",
+    "levels": "Assistant CEFR estimates for the supplied word forms, not official textbook classifications.",
+    "groups": "Assistant topical classification using existing categories; no source/book/batch groups."
+  },
+  "normalization_notes": [
+    "Preserve inflected forms exactly; do not replace entrou, andam, serão, assistimos, suscita or other inflections with infinitive lemmas.",
+    "Split multiword expressions into individual words with independent translations. Preserve original expressions in extracted rows.",
+    "Keep singular/plural and gender forms distinct; lowercase Entre to entre.",
+    "Deduplicate repeated inundações, incêndios, vagas and de while keeping references to each occurrence.",
+    "Entre and assistimos are context-sensitive; retain alternative grammatical readings in translations rather than guessing a sentence context.",
+    "Existing database translations, levels, IDs and progress are preserved by the importer."
+  ],
+  "words": [
+    {
+      "portuguese": "entrou",
+      "english": "entered; came in (third-person singular past of entrar)",
+      "ukrainian": "увійшов; увійшла (минулий час entrar)",
+      "level": "A2",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "terreno",
+      "english": "ground; terrain; land",
+      "ukrainian": "місцевість; земля; ділянка",
+      "level": "B1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "english": "unknown; unfamiliar",
+      "ukrainian": "невідомий; незнайомий",
+      "level": "B1",
+      "groups": [
+        "Thinking and Decision Making"
+      ],
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "entre",
+      "english": "between; among; enter (imperative/subjunctive of entrar)",
+      "ukrainian": "між; серед; увійдіть (форма entrar)",
+      "level": "A2",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "seca",
+      "english": "drought",
+      "ukrainian": "посуха",
+      "level": "B1",
+      "groups": [
+        "Weather",
+        "Nature"
+      ],
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "incêndios",
+      "english": "fires; wildfires",
+      "ukrainian": "пожежі; лісові пожежі",
+      "level": "B1",
+      "groups": [
+        "Emergencies and Health",
+        "Nature"
+      ],
+      "source_row_ids": [
+        5,
+        12
+      ]
+    },
+    {
+      "portuguese": "inundações",
+      "english": "floods; flooding",
+      "ukrainian": "повені; затоплення",
+      "level": "B1",
+      "groups": [
+        "Weather",
+        "Nature"
+      ],
+      "source_row_ids": [
+        6,
+        13
+      ]
+    },
+    {
+      "portuguese": "cada",
+      "english": "each; every",
+      "ukrainian": "кожний; кожна",
+      "level": "A1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "nevões",
+      "english": "heavy snowfalls; snowstorms",
+      "ukrainian": "сильні снігопади; снігові бурі",
+      "level": "B1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "vagas",
+      "english": "waves; vacancies (plural of vaga)",
+      "ukrainian": "хвилі; вакансії",
+      "level": "B1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        9,
+        11
+      ]
+    },
+    {
+      "portuguese": "de",
+      "english": "of; from",
+      "ukrainian": "з; від; належність",
+      "level": "A1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        9,
+        11,
+        18
+      ]
+    },
+    {
+      "portuguese": "frio",
+      "english": "cold; cold weather",
+      "ukrainian": "холод; холодний",
+      "level": "A1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "secas",
+      "english": "droughts (plural of seca)",
+      "ukrainian": "посухи",
+      "level": "B1",
+      "groups": [
+        "Weather",
+        "Nature"
+      ],
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "calor",
+      "english": "heat; hot weather",
+      "ukrainian": "спека; тепло",
+      "level": "A1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "florestais",
+      "english": "forest-related; forest (plural adjective)",
+      "ukrainian": "лісові",
+      "level": "B1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "cientistas",
+      "english": "scientists",
+      "ukrainian": "науковці; вчені",
+      "level": "B1",
+      "groups": [
+        "Science and Research",
+        "Occupations"
+      ],
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "andam",
+      "english": "walk; go; have been (third-person plural present of andar)",
+      "ukrainian": "ходять; перебувають; останнім часом роблять (форма andar)",
+      "level": "A2",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "avisar",
+      "english": "to warn; to notify",
+      "ukrainian": "попереджати; повідомляти",
+      "level": "A2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "english": "too; too much; excessive",
+      "ukrainian": "занадто; надмірний",
+      "level": "A2",
+      "groups": [
+        "Quantities and Measurement"
+      ],
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "ponto",
+      "english": "point; dot",
+      "ukrainian": "точка; пункт",
+      "level": "A2",
+      "groups": [
+        "Quantities and Measurement"
+      ],
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "viragem",
+      "english": "turn; turning point; change of direction",
+      "ukrainian": "поворот; зміна напрямку",
+      "level": "B1",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "english": "to leave; to break; to start from",
+      "ukrainian": "вирушати; ламати; починати від",
+      "level": "A2",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "crises",
+      "english": "crises (plural of crise)",
+      "ukrainian": "кризи",
+      "level": "B1",
+      "groups": [
+        "Society and Demographics"
+      ],
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "sobrepor",
+      "english": "to superimpose; to overlap; to place above",
+      "ukrainian": "накладати; ставити вище",
+      "level": "B2",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "descontrolar",
+      "english": "to cause to lose control; to disrupt",
+      "ukrainian": "позбавляти контролю; виводити з-під контролю",
+      "level": "B2",
+      "groups": [
+        "Emotions"
+      ],
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "prever",
+      "english": "to foresee; to predict",
+      "ukrainian": "передбачати; прогнозувати",
+      "level": "B1",
+      "groups": [
+        "Thinking and Decision Making"
+      ],
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "propósito",
+      "english": "purpose; intention",
+      "ukrainian": "мета; намір",
+      "level": "B1",
+      "groups": [
+        "Thinking and Decision Making"
+      ],
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "publicada",
+      "english": "published (feminine singular)",
+      "ukrainian": "опублікована",
+      "level": "B1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "notícia",
+      "english": "news item; piece of news",
+      "ukrainian": "новина; повідомлення",
+      "level": "A2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "sobre",
+      "english": "about; on; over",
+      "ukrainian": "про; на; над",
+      "level": "A1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "um",
+      "english": "a; an; one (masculine)",
+      "ukrainian": "неозначений артикль; один",
+      "level": "A1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "relatório",
+      "english": "report",
+      "ukrainian": "звіт; доповідь",
+      "level": "B1",
+      "groups": [
+        "Science and Research",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "conclui",
+      "english": "concludes; finishes (third-person singular present of concluir)",
+      "ukrainian": "робить висновок; завершує",
+      "level": "B1",
+      "groups": [
+        "Thinking and Decision Making"
+      ],
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "crise",
+      "english": "crisis",
+      "ukrainian": "криза",
+      "level": "B1",
+      "groups": [
+        "Society and Demographics"
+      ],
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "escalar",
+      "english": "to escalate; to climb",
+      "ukrainian": "загострюватися; підніматися",
+      "level": "B1",
+      "groups": [
+        "Space and Movement"
+      ],
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "serão",
+      "english": "will be (third-person plural future of ser)",
+      "ukrainian": "будуть",
+      "level": "B1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "castigadas",
+      "english": "punished; hard-hit (feminine plural)",
+      "ukrainian": "покарані; ті, що сильно постраждали (жіночий рід множини)",
+      "level": "B1",
+      "groups": [
+        "Law and Public Services"
+      ],
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "entanto",
+      "english": "however; meanwhile (in fixed expressions, especially no entanto)",
+      "ukrainian": "однак; тим часом (у сталих виразах)",
+      "level": "B1",
+      "groups": [
+        "Language and Grammar"
+      ],
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "assumir",
+      "english": "to assume; to take on; to acknowledge",
+      "ukrainian": "брати на себе; визнавати; припускати",
+      "level": "B1",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "combate",
+      "english": "fight; struggle; combat",
+      "ukrainian": "боротьба; бій",
+      "level": "B1",
+      "groups": [
+        "Society and Demographics"
+      ],
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "grito",
+      "english": "shout; cry",
+      "ukrainian": "крик; вигук",
+      "level": "A2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "assistimos",
+      "english": "we witness; we attend; we witnessed/attended (form of assistir)",
+      "ukrainian": "ми спостерігаємо; ми відвідуємо; ми спостерігали (форма assistir)",
+      "level": "B1",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "suscita",
+      "english": "raises; triggers (third-person singular present of suscitar)",
+      "ukrainian": "викликає; спричиняє",
+      "level": "B2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "english": "action",
+      "ukrainian": "дія",
+      "level": "B1",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "líder",
+      "english": "leader",
+      "ukrainian": "лідер; керівник",
+      "level": "B1",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "english": "measure; step; measurement",
+      "ukrainian": "захід; міра; вимір",
+      "level": "B1",
+      "groups": [
+        "Quantities and Measurement"
+      ],
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "mitigação",
+      "english": "mitigation; reduction of severity",
+      "ukrainian": "помʼякшення; зменшення негативного впливу",
+      "level": "B2",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "emissões",
+      "english": "emissions; broadcasts",
+      "ukrainian": "викиди; передачі",
+      "level": "B1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "estufa",
+      "english": "greenhouse; heater",
+      "ukrainian": "теплиця; обігрівач",
+      "level": "B1",
+      "groups": [
+        "Nature",
+        "Home and Daily Life"
+      ],
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "fechando",
+      "english": "closing; shutting (gerund of fechar)",
+      "ukrainian": "закриваючи; зачиняючи",
+      "level": "B1",
+      "groups": [
+        "Home and Daily Life"
+      ],
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "condenando",
+      "english": "condemning; sentencing (gerund of condenar)",
+      "ukrainian": "засуджуючи; прирікаючи",
+      "level": "B1",
+      "groups": [
+        "Law and Public Services"
+      ],
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "estabilidade",
+      "english": "stability",
+      "ukrainian": "стабільність; стійкість",
+      "level": "B1",
+      "groups": [
+        "Society and Demographics"
+      ],
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "climática",
+      "english": "climatic; climate-related (feminine singular)",
+      "ukrainian": "кліматична",
+      "level": "B1",
+      "groups": [
+        "Weather",
+        "Nature"
+      ],
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "preeminência",
+      "english": "preeminence; predominance; superiority",
+      "ukrainian": "переважання; першість; вищість",
+      "level": "C1",
+      "groups": [
+        "Society and Demographics"
+      ],
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "líderes",
+      "english": "leaders",
+      "ukrainian": "лідери; керівники",
+      "level": "B1",
+      "groups": [
+        "Occupations",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "economia",
+      "english": "economy; economics; saving",
+      "ukrainian": "економіка; економія",
+      "level": "B1",
+      "groups": [
+        "Shopping and Payments",
+        "School and Work"
+      ],
+      "source_row_ids": [
+        52
+      ]
+    }
+  ]
+}

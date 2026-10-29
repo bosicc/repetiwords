@@ -1,0 +1,20 @@
+{
+  "source": "The five locally backed-up Português a Valer 3 photo batches; thematic category review requested by the user",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "validation": "passed",
+  "checks": {
+    "import_batch_contract": "passed",
+    "unique_words": 1004,
+    "all_words_have_thematic_groups": true,
+    "thematic_groups": 34,
+    "source_based_group_names": 0,
+    "generic_or_part_of_speech_groups": 0,
+    "source_batches_unchanged": "SHA-256 passed for all 5",
+    "translations_and_levels": "unchanged from first source occurrence; variants preserved as metadata",
+    "original_source_rows": 938,
+    "source_references": "present for every word",
+    "database_connections": 0,
+    "database_writes": false
+  }
+}

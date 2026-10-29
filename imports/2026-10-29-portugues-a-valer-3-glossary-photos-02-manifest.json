@@ -1,0 +1,110 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": 202,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/db9f7a76-8425-4cda-9753-557ec8547901/1000058785.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/1-1000058785.jpg",
+      "sha256": "51a2f93b903c6392434f023af5325d07d54d40977531d834dad0cbe362a63bfb"
+    },
+    {
+      "image": 2,
+      "page": 204,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/980d8ff2-176a-4fbb-97a8-41abb6aa25d1/1000058784.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/2-1000058784.jpg",
+      "sha256": "ebc24eeb33f3fdc4c6e81811cc1373ca256fa83ac0670fa2d2d4e4890002900a"
+    },
+    {
+      "image": 3,
+      "page": 206,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/8a0e7f55-a080-4d28-abe3-6a997463ce4f/1000058783.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/3-1000058783.jpg",
+      "sha256": "17da70084f34fefd947dd46a7cc1b1cecfbf796ae8e9fc940d493cf9d8c53935"
+    },
+    {
+      "image": 4,
+      "page": 208,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/d2059c14-32e0-4a31-98d4-11cc304750e4/1000058782.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/4-1000058782.jpg",
+      "sha256": "101b2bc2081e5fc740bd4fe9f6f507152cbb2edc753ecb129e84a2ae4c992d05"
+    },
+    {
+      "image": 5,
+      "page": 210,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/b95e592e-de62-4b5c-b000-ad4569bcf3c8/1000058781.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/5-1000058781.jpg",
+      "sha256": "dc9b416359113b704dbcee930f33b4481281c17646465cc6418fbfe1f2687941"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visually transcribed the Portuguese and English columns. Other language columns and internal lesson-page numbers were not transcribed.",
+    "Original expressions, articles and capitalization are preserved in source rows. Vocabulary uses lowercase NFC word forms; article annotations are removed.",
+    "Expressions and reflexive clitics are split into individually translated components. Lexical compounds pré-fabricar are retained. Other inflected forms (e.g. raízes, fritos, recursos, humanos, inúmeros) remain distinct.",
+    "English source glosses are retained verbatim in extracted rows/source_senses; assistant corrections and component translations are distinguished from printed meanings.",
+    "Individual CEFR levels, Ukrainian translations, thematic groups and corrected/component English are assistant supplied, not independently reviewed. B1 is the user-supplied book level, not a level assigned mechanically to every entry.",
+    "Only thematic/grammatical groups are used. Provenance, pages and batch numbers remain metadata.",
+    "No database connection, conflict check or import is performed during preparation.",
+    "Fixed-expression components such as obstante and entanto have limited standalone use; preserve their source phrase context in source_senses."
+  ],
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 200,
+    "distinct_source_labels": 200,
+    "unique_words": 222,
+    "rows_by_page": {
+      "202": 39,
+      "204": 40,
+      "206": 41,
+      "208": 40,
+      "210": 40
+    },
+    "rows_by_image": {
+      "1": 39,
+      "2": 40,
+      "3": 41,
+      "4": 40,
+      "5": 40
+    }
+  },
+  "files": [
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-extracted.json",
+      "sha256": "a78736b7687eaf148de7f328f327e824969ef53366ffc4bd129faf3301ca1c73"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-enriched.json",
+      "sha256": "069c7aa65ef95887fdbc2ea502352eb2070a830210ac72f6c214cf8550555a68"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-page-202-extracted.json",
+      "sha256": "f93fbcda5d57b2f05740a5578e207ba8f12d4a8a0e22d0661f8d1980fd2789b9"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-page-204-extracted.json",
+      "sha256": "1059298d40588349b9b28d11eb3255929c05d3d48fe26a8705f7b168537a20ba"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-page-206-extracted.json",
+      "sha256": "a721903182b9f717c3fa5f4856480954d6384672791248da4b44437dd263477b"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-page-208-extracted.json",
+      "sha256": "42d61b646af6e5887e547a4c008ea59d7b428bac130fa2e3d9546dffd05c98bc"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-page-210-extracted.json",
+      "sha256": "d1efd3c16f6eec7ccc7d5ca82b1bf1050e47e293e463f6f3a055fc4acff44dc3"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-verification-report.json",
+      "sha256": "e9d1ab39ba41d9a6812d1535cd9d80be767d77cce65609d5efb86dea10ec14dd"
+    }
+  ],
+  "database_writes": false,
+  "verification_report": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-verification-report.json"
+}

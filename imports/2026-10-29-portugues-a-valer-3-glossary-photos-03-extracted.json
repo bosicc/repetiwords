@@ -1,0 +1,3685 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/8b3809ee-8bf3-40ec-97a0-72f14799d6d8/1000058780.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/1-1000058780.jpg",
+      "sha256": "7baae2f02f164bc6e09e2dedd5c627c1e1847befdc27c23569be9e85152761a6"
+    },
+    {
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/d6203546-1c7f-4bad-aec7-6d7d3c8048e6/1000058779.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/2-1000058779.jpg",
+      "sha256": "1b5cb693a6d0c434fd1ab2235ef5df23074c7059717b7abedc06996d3ed6b7a6"
+    },
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/801fe19a-e196-4809-ac40-95ccd9b45e17/1000058778.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/3-1000058778.jpg",
+      "sha256": "e40142f36a6392ec7a458bc4ea9fb5690e0faf00140de7c00f7f004191783304"
+    },
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/c09c4c9c-67d5-40a2-a3aa-3c78e246d474/1000058777.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/4-1000058777.jpg",
+      "sha256": "3cb550a8833d9ed4d49d5dc2d3445e40518cfdf857c04222e4860a13b3f8450f"
+    },
+    {
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/5b93a8df-0258-445a-930d-2ad41c7fe932/1000058776.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/5-1000058776.jpg",
+      "sha256": "9da46f5bf73f778841aaabfe8d387dfaed7f74436eb7b8e517ac1310923b331d"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "counts": {
+    "source_rows": 189,
+    "distinct_source_labels": 187,
+    "unique_words": 212,
+    "rows_by_page_identifier": {
+      "212": 41,
+      "214": 28,
+      "image-3": 40,
+      "image-4": 40,
+      "image-5": 40
+    },
+    "rows_by_image": {
+      "1": 41,
+      "2": 28,
+      "3": 40,
+      "4": 40,
+      "5": 40
+    }
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 1,
+      "portuguese_original": "são",
+      "english_original": "healthy",
+      "normalized_words": [
+        "são"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 2,
+      "portuguese_original": "satisfazer",
+      "english_original": "to satisfy",
+      "normalized_words": [
+        "satisfazer"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 3,
+      "portuguese_original": "se calhar",
+      "english_original": "maybe",
+      "normalized_words": [
+        "se",
+        "calhar"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 4,
+      "portuguese_original": "(a) seca",
+      "english_original": "drought",
+      "normalized_words": [
+        "seca"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 5,
+      "portuguese_original": "sectorial",
+      "english_original": "sectoral",
+      "normalized_words": [
+        "sectorial"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 6,
+      "portuguese_original": "sedentário",
+      "english_original": "sedentary",
+      "normalized_words": [
+        "sedentário"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 7,
+      "portuguese_original": "segundo",
+      "english_original": "according to",
+      "normalized_words": [
+        "segundo"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 8,
+      "portuguese_original": "(a) seguradora",
+      "english_original": "insurer",
+      "normalized_words": [
+        "seguradora"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 9,
+      "portuguese_original": "(a) segurança",
+      "english_original": "safety",
+      "normalized_words": [
+        "segurança"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 10,
+      "portuguese_original": "(a) Segurança Social",
+      "english_original": "Social Security",
+      "normalized_words": [
+        "segurança",
+        "social"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 11,
+      "portuguese_original": "(o) seguro de saúde",
+      "english_original": "health insurance",
+      "normalized_words": [
+        "seguro",
+        "de",
+        "saúde"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 12,
+      "portuguese_original": "(a) sela",
+      "english_original": "saddle",
+      "normalized_words": [
+        "sela"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 13,
+      "portuguese_original": "(o) selo",
+      "english_original": "stamp",
+      "normalized_words": [
+        "selo"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 14,
+      "portuguese_original": "(o) sem-número",
+      "english_original": "countless",
+      "normalized_words": [
+        "sem-número"
+      ],
+      "enrichment_note": "The article marks a noun, not the adjective countless."
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 15,
+      "portuguese_original": "sentenciar",
+      "english_original": "to pronounce",
+      "normalized_words": [
+        "sentenciar"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 16,
+      "portuguese_original": "ser obrigado a",
+      "english_original": "to be obliged to",
+      "normalized_words": [
+        "ser",
+        "obrigado",
+        "a"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 17,
+      "portuguese_original": "(a) série",
+      "english_original": "series",
+      "normalized_words": [
+        "série"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 18,
+      "portuguese_original": "(o) servo",
+      "english_original": "servant",
+      "normalized_words": [
+        "servo"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 19,
+      "portuguese_original": "siamês",
+      "english_original": "siamese",
+      "normalized_words": [
+        "siamês"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 20,
+      "portuguese_original": "simétrico",
+      "english_original": "symmetrical",
+      "normalized_words": [
+        "simétrico"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 21,
+      "portuguese_original": "simultâneo",
+      "english_original": "simultaneous",
+      "normalized_words": [
+        "simultâneo"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 22,
+      "portuguese_original": "(o) sindicato",
+      "english_original": "union",
+      "normalized_words": [
+        "sindicato"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 23,
+      "portuguese_original": "(a) síndrome",
+      "english_original": "syndrome",
+      "normalized_words": [
+        "síndrome"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 24,
+      "portuguese_original": "singular",
+      "english_original": "unique",
+      "normalized_words": [
+        "singular"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 25,
+      "portuguese_original": "(a) sinopse",
+      "english_original": "synopsis",
+      "normalized_words": [
+        "sinopse"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 26,
+      "portuguese_original": "sintetizar",
+      "english_original": "to summarise",
+      "normalized_words": [
+        "sintetizar"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 27,
+      "portuguese_original": "(o) sintoma",
+      "english_original": "symptom",
+      "normalized_words": [
+        "sintoma"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 28,
+      "portuguese_original": "(o) sismo",
+      "english_original": "earthquake",
+      "normalized_words": [
+        "sismo"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 29,
+      "portuguese_original": "(o) sistema digestivo",
+      "english_original": "digestive system",
+      "normalized_words": [
+        "sistema",
+        "digestivo"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 30,
+      "portuguese_original": "sobrecarregado",
+      "english_original": "overwhelmed",
+      "normalized_words": [
+        "sobrecarregado"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 31,
+      "portuguese_original": "sobrepor",
+      "english_original": "to overlap",
+      "normalized_words": [
+        "sobrepor"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 32,
+      "portuguese_original": "sobretudo",
+      "english_original": "above all",
+      "normalized_words": [
+        "sobretudo"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 33,
+      "portuguese_original": "(o) sódio",
+      "english_original": "sodium",
+      "normalized_words": [
+        "sódio"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 34,
+      "portuguese_original": "(a) soja",
+      "english_original": "soya",
+      "normalized_words": [
+        "soja"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 35,
+      "portuguese_original": "solicitar",
+      "english_original": "to request",
+      "normalized_words": [
+        "solicitar"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 36,
+      "portuguese_original": "(a) sonolência",
+      "english_original": "drowsiness",
+      "normalized_words": [
+        "sonolência"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 37,
+      "portuguese_original": "(a) subsistência",
+      "english_original": "subsistence",
+      "normalized_words": [
+        "subsistência"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 38,
+      "portuguese_original": "substituir",
+      "english_original": "to replace",
+      "normalized_words": [
+        "substituir"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 39,
+      "portuguese_original": "sufocar",
+      "english_original": "to smother",
+      "normalized_words": [
+        "sufocar"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 40,
+      "portuguese_original": "superar",
+      "english_original": "to overcome",
+      "normalized_words": [
+        "superar"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 41,
+      "portuguese_original": "supersticioso",
+      "english_original": "superstitious",
+      "normalized_words": [
+        "supersticioso"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 1,
+      "portuguese_original": "untar",
+      "english_original": "to coat",
+      "normalized_words": [
+        "untar"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 2,
+      "portuguese_original": "urbano",
+      "english_original": "urban",
+      "normalized_words": [
+        "urbano"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 3,
+      "portuguese_original": "usufruir",
+      "english_original": "to have the use of",
+      "normalized_words": [
+        "usufruir"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 4,
+      "portuguese_original": "(a/o) utente",
+      "english_original": "patient",
+      "normalized_words": [
+        "utente"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 5,
+      "portuguese_original": "(a) vaga",
+      "english_original": "front",
+      "normalized_words": [
+        "vaga"
+      ],
+      "enrichment_note": "Two printed rows distinguish wave (English printed as front) and job vacancy (position). Both meanings preserved separately in rows and merged for vocabulary."
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 6,
+      "portuguese_original": "(a) vaga",
+      "english_original": "position",
+      "normalized_words": [
+        "vaga"
+      ],
+      "enrichment_note": "Two printed rows distinguish wave (English printed as front) and job vacancy (position). Both meanings preserved separately in rows and merged for vocabulary."
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 7,
+      "portuguese_original": "vago",
+      "english_original": "vague",
+      "normalized_words": [
+        "vago"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 8,
+      "portuguese_original": "(a) valência",
+      "english_original": "skill",
+      "normalized_words": [
+        "valência"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 9,
+      "portuguese_original": "(a) valorização",
+      "english_original": "appreciation",
+      "normalized_words": [
+        "valorização"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 10,
+      "portuguese_original": "valorizado",
+      "english_original": "appreciated",
+      "normalized_words": [
+        "valorizado"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 11,
+      "portuguese_original": "valorizar",
+      "english_original": "to appreciate",
+      "normalized_words": [
+        "valorizar"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 12,
+      "portuguese_original": "(a) varinha mágica",
+      "english_original": "hand blender",
+      "normalized_words": [
+        "varinha",
+        "mágica"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 13,
+      "portuguese_original": "(o) veículo",
+      "english_original": "vehicle",
+      "normalized_words": [
+        "veículo"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 14,
+      "portuguese_original": "versátil",
+      "english_original": "versatile",
+      "normalized_words": [
+        "versátil"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 15,
+      "portuguese_original": "(a) vertente",
+      "english_original": "aspect",
+      "normalized_words": [
+        "vertente"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 16,
+      "portuguese_original": "(o) vício",
+      "english_original": "habit",
+      "normalized_words": [
+        "vício"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 17,
+      "portuguese_original": "vigorar",
+      "english_original": "to be in effect",
+      "normalized_words": [
+        "vigorar"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 18,
+      "portuguese_original": "(a) vinha",
+      "english_original": "vine",
+      "normalized_words": [
+        "vinha"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 19,
+      "portuguese_original": "(a) visibilidade",
+      "english_original": "visibility",
+      "normalized_words": [
+        "visibilidade"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 20,
+      "portuguese_original": "(a) vítima",
+      "english_original": "victim",
+      "normalized_words": [
+        "vítima"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 21,
+      "portuguese_original": "(a/o) vocalista",
+      "english_original": "singer",
+      "normalized_words": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 22,
+      "portuguese_original": "vulcânico",
+      "english_original": "volcanic",
+      "normalized_words": [
+        "vulcânico"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 23,
+      "portuguese_original": "(o) voluntariado",
+      "english_original": "volunteering",
+      "normalized_words": [
+        "voluntariado"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 24,
+      "portuguese_original": "(o) xeque",
+      "english_original": "sheik",
+      "normalized_words": [
+        "xeque"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 25,
+      "portuguese_original": "(o) xeque-mate",
+      "english_original": "checkmate",
+      "normalized_words": [
+        "xeque-mate"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 26,
+      "portuguese_original": "(o) zelo",
+      "english_original": "zeal",
+      "normalized_words": [
+        "zelo"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 27,
+      "portuguese_original": "(a) zona de conforto",
+      "english_original": "comfort zone",
+      "normalized_words": [
+        "zona",
+        "de",
+        "conforto"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 28,
+      "portuguese_original": "(a) zona metropolitana",
+      "english_original": "metropolitan area",
+      "normalized_words": [
+        "zona",
+        "metropolitana"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 1,
+      "portuguese_original": "supor",
+      "english_original": "to suppose",
+      "normalized_words": [
+        "supor"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 2,
+      "portuguese_original": "suscitar",
+      "english_original": "to trigger",
+      "normalized_words": [
+        "suscitar"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 3,
+      "portuguese_original": "suspender",
+      "english_original": "to suspend",
+      "normalized_words": [
+        "suspender"
+      ],
+      "printed_reference": "114"
+    },
+    {
+      "id": 73,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 4,
+      "portuguese_original": "suspender",
+      "english_original": "to suspend",
+      "normalized_words": [
+        "suspender"
+      ],
+      "printed_reference": "131"
+    },
+    {
+      "id": 74,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 5,
+      "portuguese_original": "sustentável",
+      "english_original": "sustainable",
+      "normalized_words": [
+        "sustentável"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 6,
+      "portuguese_original": "(a) tabela periódica",
+      "english_original": "periodic table",
+      "normalized_words": [
+        "tabela",
+        "periódica"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 7,
+      "portuguese_original": "(a) taquicardia",
+      "english_original": "tachycardia",
+      "normalized_words": [
+        "taquicardia"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 8,
+      "portuguese_original": "(a) tecnologia",
+      "english_original": "technology",
+      "normalized_words": [
+        "tecnologia"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 9,
+      "portuguese_original": "(a) telha",
+      "english_original": "roof tile",
+      "normalized_words": [
+        "telha"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 10,
+      "portuguese_original": "temperado",
+      "english_original": "mild",
+      "normalized_words": [
+        "temperado"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 11,
+      "portuguese_original": "temperar",
+      "english_original": "to season",
+      "normalized_words": [
+        "temperar"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 12,
+      "portuguese_original": "(o) tempo atmosférico",
+      "english_original": "weather",
+      "normalized_words": [
+        "tempo",
+        "atmosférico"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 13,
+      "portuguese_original": "(a) tendência",
+      "english_original": "trend",
+      "normalized_words": [
+        "tendência"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 14,
+      "portuguese_original": "(a) tentativa",
+      "english_original": "attempt",
+      "normalized_words": [
+        "tentativa"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 15,
+      "portuguese_original": "ter as baterias recarregadas",
+      "english_original": "to have one's batteries recharged",
+      "normalized_words": [
+        "ter",
+        "as",
+        "baterias",
+        "recarregadas"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 16,
+      "portuguese_original": "ter em conta",
+      "english_original": "to bear in mind",
+      "normalized_words": [
+        "ter",
+        "em",
+        "conta"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 17,
+      "portuguese_original": "ter os pés assentes na terra",
+      "english_original": "to have one's feet on the ground",
+      "normalized_words": [
+        "ter",
+        "os",
+        "pés",
+        "assentes",
+        "na",
+        "terra"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 18,
+      "portuguese_original": "terapêutico",
+      "english_original": "therapeutic",
+      "normalized_words": [
+        "terapêutico"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 19,
+      "portuguese_original": "(a) terapia",
+      "english_original": "treatment",
+      "normalized_words": [
+        "terapia"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 20,
+      "portuguese_original": "(a) terceira idade",
+      "english_original": "old age",
+      "normalized_words": [
+        "terceira",
+        "idade"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 21,
+      "portuguese_original": "termal",
+      "english_original": "hot-spring",
+      "normalized_words": [
+        "termal"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 22,
+      "portuguese_original": "(o) terreno",
+      "english_original": "territory",
+      "normalized_words": [
+        "terreno"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 23,
+      "portuguese_original": "(o) território",
+      "english_original": "country",
+      "normalized_words": [
+        "território"
+      ],
+      "enrichment_note": "Printed country is context-dependent; usual standalone meaning is territory."
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 24,
+      "portuguese_original": "(o) testemunho",
+      "english_original": "testament",
+      "normalized_words": [
+        "testemunho"
+      ],
+      "enrichment_note": "Printed testament may be misleading; testimony/evidence is the usual sense."
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 25,
+      "portuguese_original": "tocar",
+      "english_original": "to impact",
+      "normalized_words": [
+        "tocar"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 26,
+      "portuguese_original": "todo-o-terreno",
+      "english_original": "all-terrain",
+      "normalized_words": [
+        "todo-o-terreno"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 27,
+      "portuguese_original": "(a) tonelada",
+      "english_original": "tonne",
+      "normalized_words": [
+        "tonelada"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 28,
+      "portuguese_original": "(o) tornado",
+      "english_original": "tornado",
+      "normalized_words": [
+        "tornado"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 29,
+      "portuguese_original": "transferir",
+      "english_original": "to transfer",
+      "normalized_words": [
+        "transferir"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 30,
+      "portuguese_original": "transitório",
+      "english_original": "temporary",
+      "normalized_words": [
+        "transitório"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 31,
+      "portuguese_original": "(o) tremor",
+      "english_original": "tremor",
+      "normalized_words": [
+        "tremor"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 32,
+      "portuguese_original": "(o) trinado",
+      "english_original": "trilling",
+      "normalized_words": [
+        "trinado"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 33,
+      "portuguese_original": "(os) trisavós",
+      "english_original": "great-great-grandparents",
+      "normalized_words": [
+        "trisavós"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 34,
+      "portuguese_original": "(a) troca",
+      "english_original": "exchange",
+      "normalized_words": [
+        "troca"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 35,
+      "portuguese_original": "(o) tronco",
+      "english_original": "trunk",
+      "normalized_words": [
+        "tronco"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 36,
+      "portuguese_original": "(o) trovão",
+      "english_original": "thunder",
+      "normalized_words": [
+        "trovão"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 37,
+      "portuguese_original": "(a) trovoada",
+      "english_original": "thunderstorm",
+      "normalized_words": [
+        "trovoada"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 38,
+      "portuguese_original": "(a) truta",
+      "english_original": "trout",
+      "normalized_words": [
+        "truta"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 39,
+      "portuguese_original": "última hora",
+      "english_original": "breaking",
+      "normalized_words": [
+        "última",
+        "hora"
+      ]
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 40,
+      "portuguese_original": "ultimamente",
+      "english_original": "recently",
+      "normalized_words": [
+        "ultimamente"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 1,
+      "portuguese_original": "relevante",
+      "english_original": "important",
+      "normalized_words": [
+        "relevante"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 2,
+      "portuguese_original": "remediado",
+      "english_original": "to be of modest means",
+      "normalized_words": [
+        "remediado"
+      ],
+      "enrichment_note": "Portuguese entry is an adjective. Printed to be of modest means retained in source."
+    },
+    {
+      "id": 112,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 3,
+      "portuguese_original": "remunerar",
+      "english_original": "to pay (salary)",
+      "normalized_words": [
+        "remunerar"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 4,
+      "portuguese_original": "renal",
+      "english_original": "kidney",
+      "normalized_words": [
+        "renal"
+      ],
+      "enrichment_note": "Portuguese is an adjective; printed kidney is a noun."
+    },
+    {
+      "id": 114,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 5,
+      "portuguese_original": "(o) rendimento",
+      "english_original": "performance",
+      "normalized_words": [
+        "rendimento"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 6,
+      "portuguese_original": "(a) renovação",
+      "english_original": "renewal",
+      "normalized_words": [
+        "renovação"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 7,
+      "portuguese_original": "repartir",
+      "english_original": "to share",
+      "normalized_words": [
+        "repartir"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 8,
+      "portuguese_original": "repentino",
+      "english_original": "sudden",
+      "normalized_words": [
+        "repentino"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 9,
+      "portuguese_original": "repor",
+      "english_original": "to restock",
+      "normalized_words": [
+        "repor"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 10,
+      "portuguese_original": "reportar",
+      "english_original": "to report",
+      "normalized_words": [
+        "reportar"
+      ]
+    },
+    {
+      "id": 120,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 11,
+      "portuguese_original": "repousar",
+      "english_original": "to lie",
+      "normalized_words": [
+        "repousar"
+      ]
+    },
+    {
+      "id": 121,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 12,
+      "portuguese_original": "requerer",
+      "english_original": "to require",
+      "normalized_words": [
+        "requerer"
+      ]
+    },
+    {
+      "id": 122,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 13,
+      "portuguese_original": "(o) resíduo",
+      "english_original": "residue",
+      "normalized_words": [
+        "resíduo"
+      ]
+    },
+    {
+      "id": 123,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 14,
+      "portuguese_original": "resistir",
+      "english_original": "to survive",
+      "normalized_words": [
+        "resistir"
+      ],
+      "enrichment_note": "Printed to survive is contextual; preserve and clarify the base verb."
+    },
+    {
+      "id": 124,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 15,
+      "portuguese_original": "(a) resolução",
+      "english_original": "resolution",
+      "normalized_words": [
+        "resolução"
+      ]
+    },
+    {
+      "id": 125,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 16,
+      "portuguese_original": "(a) restauração",
+      "english_original": "restaurant business",
+      "normalized_words": [
+        "restauração"
+      ]
+    },
+    {
+      "id": 126,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 17,
+      "portuguese_original": "(a) restrição",
+      "english_original": "restriction",
+      "normalized_words": [
+        "restrição"
+      ]
+    },
+    {
+      "id": 127,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 18,
+      "portuguese_original": "restringir",
+      "english_original": "to restrict",
+      "normalized_words": [
+        "restringir"
+      ]
+    },
+    {
+      "id": 128,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 19,
+      "portuguese_original": "(o) resumo",
+      "english_original": "summary",
+      "normalized_words": [
+        "resumo"
+      ]
+    },
+    {
+      "id": 129,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 20,
+      "portuguese_original": "(o) retiro",
+      "english_original": "retreat",
+      "normalized_words": [
+        "retiro"
+      ]
+    },
+    {
+      "id": 130,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 21,
+      "portuguese_original": "revelar",
+      "english_original": "to reveal",
+      "normalized_words": [
+        "revelar"
+      ]
+    },
+    {
+      "id": 131,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 22,
+      "portuguese_original": "(o) rigor",
+      "english_original": "rigour",
+      "normalized_words": [
+        "rigor"
+      ]
+    },
+    {
+      "id": 132,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 23,
+      "portuguese_original": "(a) risca",
+      "english_original": "stripe",
+      "normalized_words": [
+        "risca"
+      ]
+    },
+    {
+      "id": 133,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 24,
+      "portuguese_original": "(o) risco",
+      "english_original": "risk",
+      "normalized_words": [
+        "risco"
+      ]
+    },
+    {
+      "id": 134,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 25,
+      "portuguese_original": "robótico",
+      "english_original": "robotic",
+      "normalized_words": [
+        "robótico"
+      ]
+    },
+    {
+      "id": 135,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 26,
+      "portuguese_original": "rodeado",
+      "english_original": "surrounded",
+      "normalized_words": [
+        "rodeado"
+      ]
+    },
+    {
+      "id": 136,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 27,
+      "portuguese_original": "(o) rodízio",
+      "english_original": "cycle",
+      "normalized_words": [
+        "rodízio"
+      ]
+    },
+    {
+      "id": 137,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 28,
+      "portuguese_original": "roer",
+      "english_original": "to gnaw",
+      "normalized_words": [
+        "roer"
+      ]
+    },
+    {
+      "id": 138,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 29,
+      "portuguese_original": "(a) rolha",
+      "english_original": "cork",
+      "normalized_words": [
+        "rolha"
+      ]
+    },
+    {
+      "id": 139,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 30,
+      "portuguese_original": "romper",
+      "english_original": "to rip",
+      "normalized_words": [
+        "romper"
+      ]
+    },
+    {
+      "id": 140,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 31,
+      "portuguese_original": "rondar",
+      "english_original": "to be approximately equivalent to",
+      "normalized_words": [
+        "rondar"
+      ]
+    },
+    {
+      "id": 141,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 32,
+      "portuguese_original": "roqueiro",
+      "english_original": "rocker",
+      "normalized_words": [
+        "roqueiro"
+      ]
+    },
+    {
+      "id": 142,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 33,
+      "portuguese_original": "(o) rótulo",
+      "english_original": "label",
+      "normalized_words": [
+        "rótulo"
+      ]
+    },
+    {
+      "id": 143,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 34,
+      "portuguese_original": "(a) roupagem",
+      "english_original": "clothing",
+      "normalized_words": [
+        "roupagem"
+      ]
+    },
+    {
+      "id": 144,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 35,
+      "portuguese_original": "(o) ruído",
+      "english_original": "noise",
+      "normalized_words": [
+        "ruído"
+      ]
+    },
+    {
+      "id": 145,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 36,
+      "portuguese_original": "(a) sabedoria",
+      "english_original": "wisdom",
+      "normalized_words": [
+        "sabedoria"
+      ]
+    },
+    {
+      "id": 146,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 37,
+      "portuguese_original": "saborear",
+      "english_original": "to savour",
+      "normalized_words": [
+        "saborear"
+      ]
+    },
+    {
+      "id": 147,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 38,
+      "portuguese_original": "saciar",
+      "english_original": "to fill",
+      "normalized_words": [
+        "saciar"
+      ]
+    },
+    {
+      "id": 148,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 39,
+      "portuguese_original": "sacrificar",
+      "english_original": "to sacrifice",
+      "normalized_words": [
+        "sacrificar"
+      ]
+    },
+    {
+      "id": 149,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 40,
+      "portuguese_original": "(a) salsicharia",
+      "english_original": "sausage products",
+      "normalized_words": [
+        "salsicharia"
+      ]
+    },
+    {
+      "id": 150,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 1,
+      "portuguese_original": "pregar",
+      "english_original": "to nail",
+      "normalized_words": [
+        "pregar"
+      ]
+    },
+    {
+      "id": 151,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 2,
+      "portuguese_original": "(o) prego",
+      "english_original": "nail",
+      "normalized_words": [
+        "prego"
+      ]
+    },
+    {
+      "id": 152,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 3,
+      "portuguese_original": "preguiçar",
+      "english_original": "to laze about",
+      "normalized_words": [
+        "preguiçar"
+      ]
+    },
+    {
+      "id": 153,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 4,
+      "portuguese_original": "prejudicial",
+      "english_original": "harmful",
+      "normalized_words": [
+        "prejudicial"
+      ]
+    },
+    {
+      "id": 154,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 5,
+      "portuguese_original": "preliminar",
+      "english_original": "preliminary",
+      "normalized_words": [
+        "preliminar"
+      ]
+    },
+    {
+      "id": 155,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 6,
+      "portuguese_original": "(a) premência",
+      "english_original": "urgent need",
+      "normalized_words": [
+        "premência"
+      ]
+    },
+    {
+      "id": 156,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 7,
+      "portuguese_original": "(o) prémio",
+      "english_original": "award",
+      "normalized_words": [
+        "prémio"
+      ]
+    },
+    {
+      "id": 157,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 8,
+      "portuguese_original": "prescrever",
+      "english_original": "to prescribe",
+      "normalized_words": [
+        "prescrever"
+      ]
+    },
+    {
+      "id": 158,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 9,
+      "portuguese_original": "(a) prestação de serviço",
+      "english_original": "service provision",
+      "normalized_words": [
+        "prestação",
+        "de",
+        "serviço"
+      ]
+    },
+    {
+      "id": 159,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 10,
+      "portuguese_original": "prever",
+      "english_original": "to expect",
+      "normalized_words": [
+        "prever"
+      ]
+    },
+    {
+      "id": 160,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 11,
+      "portuguese_original": "previamente",
+      "english_original": "previously",
+      "normalized_words": [
+        "previamente"
+      ]
+    },
+    {
+      "id": 161,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 12,
+      "portuguese_original": "(a) previsão meteorológica",
+      "english_original": "weather forecast",
+      "normalized_words": [
+        "previsão",
+        "meteorológica"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 13,
+      "portuguese_original": "previsível",
+      "english_original": "predictable",
+      "normalized_words": [
+        "previsível"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 14,
+      "portuguese_original": "previsivelmente",
+      "english_original": "predictably",
+      "normalized_words": [
+        "previsivelmente"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 15,
+      "portuguese_original": "primordial",
+      "english_original": "of prime importance",
+      "normalized_words": [
+        "primordial"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 16,
+      "portuguese_original": "(os) processados",
+      "english_original": "processed food",
+      "normalized_words": [
+        "processados"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 17,
+      "portuguese_original": "processar",
+      "english_original": "to process",
+      "normalized_words": [
+        "processar"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 18,
+      "portuguese_original": "(a) procrastinação",
+      "english_original": "procrastination",
+      "normalized_words": [
+        "procrastinação"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 19,
+      "portuguese_original": "procrastinador",
+      "english_original": "procrastinator",
+      "normalized_words": [
+        "procrastinador"
+      ]
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 20,
+      "portuguese_original": "procrastinar",
+      "english_original": "to procrastinate",
+      "normalized_words": [
+        "procrastinar"
+      ]
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 21,
+      "portuguese_original": "(o) professor catedrático",
+      "english_original": "full professor",
+      "normalized_words": [
+        "professor",
+        "catedrático"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 22,
+      "portuguese_original": "(a) profundeza",
+      "english_original": "depth",
+      "normalized_words": [
+        "profundeza"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 23,
+      "portuguese_original": "(a) programação",
+      "english_original": "programming",
+      "normalized_words": [
+        "programação"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 24,
+      "portuguese_original": "projetar",
+      "english_original": "to throw",
+      "normalized_words": [
+        "projetar"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 25,
+      "portuguese_original": "(o) projeto-piloto",
+      "english_original": "pilot project",
+      "normalized_words": [
+        "projeto-piloto"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 26,
+      "portuguese_original": "(o) projetor",
+      "english_original": "projector",
+      "normalized_words": [
+        "projetor"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 27,
+      "portuguese_original": "prolongar-se",
+      "english_original": "to extend",
+      "normalized_words": [
+        "prolongar",
+        "se"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 28,
+      "portuguese_original": "(o) promotor",
+      "english_original": "organiser",
+      "normalized_words": [
+        "promotor"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 29,
+      "portuguese_original": "propiciar",
+      "english_original": "to provide",
+      "normalized_words": [
+        "propiciar"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 30,
+      "portuguese_original": "propor",
+      "english_original": "to suggest",
+      "normalized_words": [
+        "propor"
+      ]
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 31,
+      "portuguese_original": "(a) proposta",
+      "english_original": "proposal",
+      "normalized_words": [
+        "proposta"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 32,
+      "portuguese_original": "proveniente (de)",
+      "english_original": "come (from)",
+      "normalized_words": [
+        "proveniente",
+        "de"
+      ],
+      "enrichment_note": "Portuguese is an adjective rather than a finite verb."
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 33,
+      "portuguese_original": "provocar",
+      "english_original": "to trigger",
+      "normalized_words": [
+        "provocar"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 34,
+      "portuguese_original": "(a) proximidade",
+      "english_original": "closeness",
+      "normalized_words": [
+        "proximidade"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 35,
+      "portuguese_original": "(o) público-alvo",
+      "english_original": "target group",
+      "normalized_words": [
+        "público-alvo"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 36,
+      "portuguese_original": "pulmonar",
+      "english_original": "lung-related",
+      "normalized_words": [
+        "pulmonar"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 37,
+      "portuguese_original": "(a) purificação",
+      "english_original": "cleansing",
+      "normalized_words": [
+        "purificação"
+      ]
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 38,
+      "portuguese_original": "purificar",
+      "english_original": "to cleanse",
+      "normalized_words": [
+        "purificar"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 39,
+      "portuguese_original": "quando quer que",
+      "english_original": "whenever",
+      "normalized_words": [
+        "quando",
+        "quer",
+        "que"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 40,
+      "portuguese_original": "Que vergonha!",
+      "english_original": "How embarrassing!",
+      "normalized_words": [
+        "que",
+        "vergonha"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "são",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "satisfazer",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        3,
+        176
+      ]
+    },
+    {
+      "portuguese": "calhar",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "seca",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "sectorial",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "sedentário",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "seguradora",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "segurança",
+      "source_row_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "portuguese": "social",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        11,
+        68,
+        158,
+        181
+      ]
+    },
+    {
+      "portuguese": "saúde",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "sela",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "selo",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "sem-número",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "sentenciar",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "série",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "servo",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "siamês",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "simétrico",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "simultâneo",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "sindicato",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "síndrome",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "singular",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "sinopse",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "sintetizar",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "sintoma",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "sismo",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "sistema",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "digestivo",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "sobrecarregado",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "sobrepor",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "sobretudo",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "sódio",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "soja",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "solicitar",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "sonolência",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "subsistência",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "substituir",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "sufocar",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "superar",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "supersticioso",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "untar",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "urbano",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "usufruir",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "utente",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "vaga",
+      "source_row_ids": [
+        46,
+        47
+      ]
+    },
+    {
+      "portuguese": "vago",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "valência",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "valorização",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "valorizado",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "valorizar",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "varinha",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "mágica",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "veículo",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "versátil",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "vertente",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "vício",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "vigorar",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "vinha",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "visibilidade",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "vítima",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "vocalista",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "vulcânico",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "voluntariado",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "xeque",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "xeque-mate",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "zelo",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "zona",
+      "source_row_ids": [
+        68,
+        69
+      ]
+    },
+    {
+      "portuguese": "conforto",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "metropolitana",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "supor",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "suscitar",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "suspender",
+      "source_row_ids": [
+        72,
+        73
+      ]
+    },
+    {
+      "portuguese": "sustentável",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "tabela",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "periódica",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "taquicardia",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "tecnologia",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "telha",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "temperado",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "temperar",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "atmosférico",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "tendência",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "tentativa",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "ter",
+      "source_row_ids": [
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "portuguese": "as",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "baterias",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "recarregadas",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "os",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "pés",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "assentes",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "na",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "terra",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "terapêutico",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "terapia",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "terceira",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "idade",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "termal",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "terreno",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "território",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "testemunho",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "tocar",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "todo-o-terreno",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "tonelada",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "tornado",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "transferir",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "transitório",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "tremor",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "trinado",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "trisavós",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "troca",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "tronco",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "trovão",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "trovoada",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "truta",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "última",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "hora",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "ultimamente",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "relevante",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "remediado",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "remunerar",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "renal",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "rendimento",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "renovação",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "repartir",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "repentino",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "repor",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "reportar",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "repousar",
+      "source_row_ids": [
+        120
+      ]
+    },
+    {
+      "portuguese": "requerer",
+      "source_row_ids": [
+        121
+      ]
+    },
+    {
+      "portuguese": "resíduo",
+      "source_row_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "resistir",
+      "source_row_ids": [
+        123
+      ]
+    },
+    {
+      "portuguese": "resolução",
+      "source_row_ids": [
+        124
+      ]
+    },
+    {
+      "portuguese": "restauração",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "restrição",
+      "source_row_ids": [
+        126
+      ]
+    },
+    {
+      "portuguese": "restringir",
+      "source_row_ids": [
+        127
+      ]
+    },
+    {
+      "portuguese": "resumo",
+      "source_row_ids": [
+        128
+      ]
+    },
+    {
+      "portuguese": "retiro",
+      "source_row_ids": [
+        129
+      ]
+    },
+    {
+      "portuguese": "revelar",
+      "source_row_ids": [
+        130
+      ]
+    },
+    {
+      "portuguese": "rigor",
+      "source_row_ids": [
+        131
+      ]
+    },
+    {
+      "portuguese": "risca",
+      "source_row_ids": [
+        132
+      ]
+    },
+    {
+      "portuguese": "risco",
+      "source_row_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "robótico",
+      "source_row_ids": [
+        134
+      ]
+    },
+    {
+      "portuguese": "rodeado",
+      "source_row_ids": [
+        135
+      ]
+    },
+    {
+      "portuguese": "rodízio",
+      "source_row_ids": [
+        136
+      ]
+    },
+    {
+      "portuguese": "roer",
+      "source_row_ids": [
+        137
+      ]
+    },
+    {
+      "portuguese": "rolha",
+      "source_row_ids": [
+        138
+      ]
+    },
+    {
+      "portuguese": "romper",
+      "source_row_ids": [
+        139
+      ]
+    },
+    {
+      "portuguese": "rondar",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "roqueiro",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "rótulo",
+      "source_row_ids": [
+        142
+      ]
+    },
+    {
+      "portuguese": "roupagem",
+      "source_row_ids": [
+        143
+      ]
+    },
+    {
+      "portuguese": "ruído",
+      "source_row_ids": [
+        144
+      ]
+    },
+    {
+      "portuguese": "sabedoria",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "saborear",
+      "source_row_ids": [
+        146
+      ]
+    },
+    {
+      "portuguese": "saciar",
+      "source_row_ids": [
+        147
+      ]
+    },
+    {
+      "portuguese": "sacrificar",
+      "source_row_ids": [
+        148
+      ]
+    },
+    {
+      "portuguese": "salsicharia",
+      "source_row_ids": [
+        149
+      ]
+    },
+    {
+      "portuguese": "pregar",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "prego",
+      "source_row_ids": [
+        151
+      ]
+    },
+    {
+      "portuguese": "preguiçar",
+      "source_row_ids": [
+        152
+      ]
+    },
+    {
+      "portuguese": "prejudicial",
+      "source_row_ids": [
+        153
+      ]
+    },
+    {
+      "portuguese": "preliminar",
+      "source_row_ids": [
+        154
+      ]
+    },
+    {
+      "portuguese": "premência",
+      "source_row_ids": [
+        155
+      ]
+    },
+    {
+      "portuguese": "prémio",
+      "source_row_ids": [
+        156
+      ]
+    },
+    {
+      "portuguese": "prescrever",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "prestação",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "serviço",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "prever",
+      "source_row_ids": [
+        159
+      ]
+    },
+    {
+      "portuguese": "previamente",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "meteorológica",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "previsível",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "previsivelmente",
+      "source_row_ids": [
+        163
+      ]
+    },
+    {
+      "portuguese": "primordial",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "processados",
+      "source_row_ids": [
+        165
+      ]
+    },
+    {
+      "portuguese": "processar",
+      "source_row_ids": [
+        166
+      ]
+    },
+    {
+      "portuguese": "procrastinação",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "procrastinador",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "procrastinar",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "professor",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "catedrático",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "profundeza",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "programação",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "projetar",
+      "source_row_ids": [
+        173
+      ]
+    },
+    {
+      "portuguese": "projeto-piloto",
+      "source_row_ids": [
+        174
+      ]
+    },
+    {
+      "portuguese": "projetor",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "prolongar",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "promotor",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "propiciar",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "propor",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "proposta",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "proveniente",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "provocar",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "proximidade",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "público-alvo",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "pulmonar",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "purificação",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "purificar",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "quando",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "vergonha",
+      "source_row_ids": [
+        189
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "prepared_at": "2026-10-29",
+  "status": "imported_and_verified",
+  "batch_file": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-climate-reading-words-enriched.json",
+  "import_result": {
+    "words": 56,
+    "added": 31,
+    "existing": 25,
+    "enriched": 0,
+    "groups_added": 0,
+    "memberships_added": 51,
+    "conflicting_words_preserved": 22
+  },
+  "database_before": {
+    "words": 2838,
+    "groups": 61,
+    "memberships": 5139
+  },
+  "database_after": {
+    "words": 2869,
+    "groups": 61,
+    "memberships": 5190
+  },
+  "levels": {
+    "new_words": {
+      "A2": 4,
+      "B1": 23,
+      "A1": 1,
+      "B2": 2,
+      "C1": 1
+    },
+    "all_batch_words_actual_database_levels": {
+      "A2": 11,
+      "B1": 34,
+      "A1": 6,
+      "B2": 4,
+      "C1": 1
+    },
+    "all_database_words": {
+      "A1": 1244,
+      "A2": 882,
+      "B1": 541,
+      "B2": 199,
+      "C1": 3
+    }
+  },
+  "checks": {
+    "all_original_word_records_preserved": 2838,
+    "existing_group_records_preserved": 61,
+    "all_previous_memberships_preserved": true,
+    "all_requested_words_and_topic_memberships_present": true,
+    "new_words_mastery_zero": true,
+    "all_batch_words_have_translations_and_levels": true,
+    "all_non_vocabulary_table_counts_and_fingerprints_unchanged": true,
+    "no_source_based_categories_created": true,
+    "replay_has_zero_additions_or_updates": true
+  },
+  "backups": {
+    "before": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-climate-before-import-212865d6-5d25-4c1c-85e1-4960c7ca74e1.json",
+    "after": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-climate-after-import-15ad8d59-79b7-48be-b961-04d64b6554cf.json"
+  },
+  "new_word_ids": [
+    {
+      "id": 3000,
+      "portuguese": "entrou"
+    },
+    {
+      "id": 3001,
+      "portuguese": "incêndios"
+    },
+    {
+      "id": 3002,
+      "portuguese": "inundações"
+    },
+    {
+      "id": 3003,
+      "portuguese": "cada"
+    },
+    {
+      "id": 3004,
+      "portuguese": "nevões"
+    },
+    {
+      "id": 3005,
+      "portuguese": "vagas"
+    },
+    {
+      "id": 3006,
+      "portuguese": "secas"
+    },
+    {
+      "id": 3007,
+      "portuguese": "florestais"
+    },
+    {
+      "id": 3008,
+      "portuguese": "cientistas"
+    },
+    {
+      "id": 3009,
+      "portuguese": "andam"
+    },
+    {
+      "id": 3010,
+      "portuguese": "crises"
+    },
+    {
+      "id": 3011,
+      "portuguese": "descontrolar"
+    },
+    {
+      "id": 3012,
+      "portuguese": "publicada"
+    },
+    {
+      "id": 3013,
+      "portuguese": "notícia"
+    },
+    {
+      "id": 3014,
+      "portuguese": "conclui"
+    },
+    {
+      "id": 3015,
+      "portuguese": "crise"
+    },
+    {
+      "id": 3016,
+      "portuguese": "serão"
+    },
+    {
+      "id": 3017,
+      "portuguese": "castigadas"
+    },
+    {
+      "id": 3018,
+      "portuguese": "combate"
+    },
+    {
+      "id": 3019,
+      "portuguese": "grito"
+    },
+    {
+      "id": 3020,
+      "portuguese": "assistimos"
+    },
+    {
+      "id": 3021,
+      "portuguese": "suscita"
+    },
+    {
+      "id": 3022,
+      "portuguese": "líder"
+    },
+    {
+      "id": 3023,
+      "portuguese": "emissões"
+    },
+    {
+      "id": 3024,
+      "portuguese": "fechando"
+    },
+    {
+      "id": 3025,
+      "portuguese": "condenando"
+    },
+    {
+      "id": 3026,
+      "portuguese": "estabilidade"
+    },
+    {
+      "id": 3027,
+      "portuguese": "climática"
+    },
+    {
+      "id": 3028,
+      "portuguese": "preeminência"
+    },
+    {
+      "id": 3029,
+      "portuguese": "líderes"
+    },
+    {
+      "id": 3030,
+      "portuguese": "economia"
+    }
+  ],
+  "new_groups": []
+}

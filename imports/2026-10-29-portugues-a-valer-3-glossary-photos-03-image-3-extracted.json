@@ -1,0 +1,847 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "page": null,
+  "page_identifier": "image-3",
+  "source_files": [
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/801fe19a-e196-4809-ac40-95ccd9b45e17/1000058778.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/3-1000058778.jpg",
+      "sha256": "e40142f36a6392ec7a458bc4ea9fb5690e0faf00140de7c00f7f004191783304"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 51
+  },
+  "rows": [
+    {
+      "id": 70,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 1,
+      "portuguese_original": "supor",
+      "english_original": "to suppose",
+      "normalized_words": [
+        "supor"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 2,
+      "portuguese_original": "suscitar",
+      "english_original": "to trigger",
+      "normalized_words": [
+        "suscitar"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 3,
+      "portuguese_original": "suspender",
+      "english_original": "to suspend",
+      "normalized_words": [
+        "suspender"
+      ],
+      "printed_reference": "114"
+    },
+    {
+      "id": 73,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 4,
+      "portuguese_original": "suspender",
+      "english_original": "to suspend",
+      "normalized_words": [
+        "suspender"
+      ],
+      "printed_reference": "131"
+    },
+    {
+      "id": 74,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 5,
+      "portuguese_original": "sustentável",
+      "english_original": "sustainable",
+      "normalized_words": [
+        "sustentável"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 6,
+      "portuguese_original": "(a) tabela periódica",
+      "english_original": "periodic table",
+      "normalized_words": [
+        "tabela",
+        "periódica"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 7,
+      "portuguese_original": "(a) taquicardia",
+      "english_original": "tachycardia",
+      "normalized_words": [
+        "taquicardia"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 8,
+      "portuguese_original": "(a) tecnologia",
+      "english_original": "technology",
+      "normalized_words": [
+        "tecnologia"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 9,
+      "portuguese_original": "(a) telha",
+      "english_original": "roof tile",
+      "normalized_words": [
+        "telha"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 10,
+      "portuguese_original": "temperado",
+      "english_original": "mild",
+      "normalized_words": [
+        "temperado"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 11,
+      "portuguese_original": "temperar",
+      "english_original": "to season",
+      "normalized_words": [
+        "temperar"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 12,
+      "portuguese_original": "(o) tempo atmosférico",
+      "english_original": "weather",
+      "normalized_words": [
+        "tempo",
+        "atmosférico"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 13,
+      "portuguese_original": "(a) tendência",
+      "english_original": "trend",
+      "normalized_words": [
+        "tendência"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 14,
+      "portuguese_original": "(a) tentativa",
+      "english_original": "attempt",
+      "normalized_words": [
+        "tentativa"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 15,
+      "portuguese_original": "ter as baterias recarregadas",
+      "english_original": "to have one's batteries recharged",
+      "normalized_words": [
+        "ter",
+        "as",
+        "baterias",
+        "recarregadas"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 16,
+      "portuguese_original": "ter em conta",
+      "english_original": "to bear in mind",
+      "normalized_words": [
+        "ter",
+        "em",
+        "conta"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 17,
+      "portuguese_original": "ter os pés assentes na terra",
+      "english_original": "to have one's feet on the ground",
+      "normalized_words": [
+        "ter",
+        "os",
+        "pés",
+        "assentes",
+        "na",
+        "terra"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 18,
+      "portuguese_original": "terapêutico",
+      "english_original": "therapeutic",
+      "normalized_words": [
+        "terapêutico"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 19,
+      "portuguese_original": "(a) terapia",
+      "english_original": "treatment",
+      "normalized_words": [
+        "terapia"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 20,
+      "portuguese_original": "(a) terceira idade",
+      "english_original": "old age",
+      "normalized_words": [
+        "terceira",
+        "idade"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 21,
+      "portuguese_original": "termal",
+      "english_original": "hot-spring",
+      "normalized_words": [
+        "termal"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 22,
+      "portuguese_original": "(o) terreno",
+      "english_original": "territory",
+      "normalized_words": [
+        "terreno"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 23,
+      "portuguese_original": "(o) território",
+      "english_original": "country",
+      "normalized_words": [
+        "território"
+      ],
+      "enrichment_note": "Printed country is context-dependent; usual standalone meaning is territory."
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 24,
+      "portuguese_original": "(o) testemunho",
+      "english_original": "testament",
+      "normalized_words": [
+        "testemunho"
+      ],
+      "enrichment_note": "Printed testament may be misleading; testimony/evidence is the usual sense."
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 25,
+      "portuguese_original": "tocar",
+      "english_original": "to impact",
+      "normalized_words": [
+        "tocar"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 26,
+      "portuguese_original": "todo-o-terreno",
+      "english_original": "all-terrain",
+      "normalized_words": [
+        "todo-o-terreno"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 27,
+      "portuguese_original": "(a) tonelada",
+      "english_original": "tonne",
+      "normalized_words": [
+        "tonelada"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 28,
+      "portuguese_original": "(o) tornado",
+      "english_original": "tornado",
+      "normalized_words": [
+        "tornado"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 29,
+      "portuguese_original": "transferir",
+      "english_original": "to transfer",
+      "normalized_words": [
+        "transferir"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 30,
+      "portuguese_original": "transitório",
+      "english_original": "temporary",
+      "normalized_words": [
+        "transitório"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 31,
+      "portuguese_original": "(o) tremor",
+      "english_original": "tremor",
+      "normalized_words": [
+        "tremor"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 32,
+      "portuguese_original": "(o) trinado",
+      "english_original": "trilling",
+      "normalized_words": [
+        "trinado"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 33,
+      "portuguese_original": "(os) trisavós",
+      "english_original": "great-great-grandparents",
+      "normalized_words": [
+        "trisavós"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 34,
+      "portuguese_original": "(a) troca",
+      "english_original": "exchange",
+      "normalized_words": [
+        "troca"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 35,
+      "portuguese_original": "(o) tronco",
+      "english_original": "trunk",
+      "normalized_words": [
+        "tronco"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 36,
+      "portuguese_original": "(o) trovão",
+      "english_original": "thunder",
+      "normalized_words": [
+        "trovão"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 37,
+      "portuguese_original": "(a) trovoada",
+      "english_original": "thunderstorm",
+      "normalized_words": [
+        "trovoada"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 38,
+      "portuguese_original": "(a) truta",
+      "english_original": "trout",
+      "normalized_words": [
+        "truta"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 39,
+      "portuguese_original": "última hora",
+      "english_original": "breaking",
+      "normalized_words": [
+        "última",
+        "hora"
+      ]
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 40,
+      "portuguese_original": "ultimamente",
+      "english_original": "recently",
+      "normalized_words": [
+        "ultimamente"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "supor",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "suscitar",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "suspender",
+      "source_row_ids": [
+        72,
+        73
+      ]
+    },
+    {
+      "portuguese": "sustentável",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "tabela",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "periódica",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "taquicardia",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "tecnologia",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "telha",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "temperado",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "temperar",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "atmosférico",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "tendência",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "tentativa",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "ter",
+      "source_row_ids": [
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "portuguese": "as",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "baterias",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "recarregadas",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "os",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "pés",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "assentes",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "na",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "terra",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "terapêutico",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "terapia",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "terceira",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "idade",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "termal",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "terreno",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "território",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "testemunho",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "tocar",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "todo-o-terreno",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "tonelada",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "tornado",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "transferir",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "transitório",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "tremor",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "trinado",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "trisavós",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "troca",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "tronco",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "trovão",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "trovoada",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "truta",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "última",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "hora",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "ultimamente",
+      "source_row_ids": [
+        109
+      ]
+    }
+  ]
+}

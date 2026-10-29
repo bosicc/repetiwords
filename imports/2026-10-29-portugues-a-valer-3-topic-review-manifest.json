@@ -1,0 +1,57 @@
+{
+  "source": "The five locally backed-up Português a Valer 3 photo batches; thematic category review requested by the user",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_batches": 5,
+    "source_photographs": 24,
+    "source_rows": 938,
+    "source_word_records": 1047,
+    "unique_words": 1004,
+    "words_without_any_group_before": 0,
+    "words_with_only_generic_or_grammatical_groups_before": 430,
+    "words_with_thematic_groups_after": 1004,
+    "words_without_thematic_groups_after": 0,
+    "thematic_groups": 34,
+    "new_thematic_group_names": [
+      "Home and Daily Life",
+      "Industry and Materials",
+      "Language and Grammar",
+      "Law and Public Services",
+      "Quantities and Measurement",
+      "Religion and Beliefs",
+      "Science and Research",
+      "Society and Demographics",
+      "Space and Movement",
+      "Sports and Exercise",
+      "Thinking and Decision Making"
+    ]
+  },
+  "original_batch_hashes": {
+    "imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-enriched.json": "90b4db8e10b4552560e7d092144b97bf014fdb5520b154859011783847b55c7c",
+    "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-enriched.json": "069c7aa65ef95887fdbc2ea502352eb2070a830210ac72f6c214cf8550555a68",
+    "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-enriched.json": "a66e394ef5173f80423510a38387ea3c94342dd69fc40eee1978b6003f24559b",
+    "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-enriched.json": "ce765c123f25f4fb2279e269c2559dfef64d9524bc09dc49ad312f61d77ff591",
+    "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-enriched.json": "2279947cd048eedfb5f1b7e640963b823fd501c74d2ac6685ddfdfa5b670c1c2"
+  },
+  "original_batches_unchanged": true,
+  "files": [
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-topic-review-enriched.json",
+      "sha256": "8fe495a815130c30af9f196a296c03fb5b6ae75ccae4418ea6aaf8b37f7cfa06"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-topic-review-audit.json",
+      "sha256": "13b7a5c789c92fc6b2ddf5c208eb2e00855d396c5840866456d434cb4252d2ce"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-topic-review-assignments.json",
+      "sha256": "3d64d2ffd9a7356920abab2cdf5153c0e34990ee83326a61791af4509633f77b"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-topic-review-verification-report.json",
+      "sha256": "c989fa8bd220ab295e39c547dc1cba13167d6959b120c60e33079bc050803d32"
+    }
+  ],
+  "database_writes": false
+}

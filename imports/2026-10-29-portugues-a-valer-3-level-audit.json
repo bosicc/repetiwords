@@ -1,0 +1,35 @@
+{
+  "source_batch": "imports/2026-10-29-portugues-a-valer-3-topic-review-enriched.json",
+  "prepared_at": "2026-10-29",
+  "total_unique_words": 1004,
+  "missing_levels": [],
+  "invalid_levels": [],
+  "counts_by_level": {
+    "A1": 74,
+    "A2": 187,
+    "B1": 545,
+    "B2": 196,
+    "C1": 2,
+    "C2": 0
+  },
+  "percentages_by_level": {
+    "A1": 7.4,
+    "A2": 18.6,
+    "B1": 54.3,
+    "B2": 19.5,
+    "C1": 0.2,
+    "C2": 0.0
+  },
+  "different_estimates_across_photo_batches": [
+    {
+      "portuguese": "segundo",
+      "selected_level": "A2",
+      "source_estimates": [
+        "A1",
+        "A2"
+      ]
+    }
+  ],
+  "level_provenance": "Assistant CEFR estimates, not official per-word textbook classifications; earliest source batch estimate retained in consolidated batch. B1 is user-supplied book level.",
+  "database_writes": false
+}

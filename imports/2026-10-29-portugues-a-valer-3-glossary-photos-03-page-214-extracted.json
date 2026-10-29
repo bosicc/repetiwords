@@ -1,0 +1,567 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "page": 214,
+  "page_identifier": "214",
+  "source_files": [
+    {
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/d6203546-1c7f-4bad-aec7-6d7d3c8048e6/1000058779.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/2-1000058779.jpg",
+      "sha256": "1b5cb693a6d0c434fd1ab2235ef5df23074c7059717b7abedc06996d3ed6b7a6"
+    }
+  ],
+  "counts": {
+    "source_rows": 28,
+    "unique_words": 30
+  },
+  "rows": [
+    {
+      "id": 42,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 1,
+      "portuguese_original": "untar",
+      "english_original": "to coat",
+      "normalized_words": [
+        "untar"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 2,
+      "portuguese_original": "urbano",
+      "english_original": "urban",
+      "normalized_words": [
+        "urbano"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 3,
+      "portuguese_original": "usufruir",
+      "english_original": "to have the use of",
+      "normalized_words": [
+        "usufruir"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 4,
+      "portuguese_original": "(a/o) utente",
+      "english_original": "patient",
+      "normalized_words": [
+        "utente"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 5,
+      "portuguese_original": "(a) vaga",
+      "english_original": "front",
+      "normalized_words": [
+        "vaga"
+      ],
+      "enrichment_note": "Two printed rows distinguish wave (English printed as front) and job vacancy (position). Both meanings preserved separately in rows and merged for vocabulary."
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 6,
+      "portuguese_original": "(a) vaga",
+      "english_original": "position",
+      "normalized_words": [
+        "vaga"
+      ],
+      "enrichment_note": "Two printed rows distinguish wave (English printed as front) and job vacancy (position). Both meanings preserved separately in rows and merged for vocabulary."
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 7,
+      "portuguese_original": "vago",
+      "english_original": "vague",
+      "normalized_words": [
+        "vago"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 8,
+      "portuguese_original": "(a) valência",
+      "english_original": "skill",
+      "normalized_words": [
+        "valência"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 9,
+      "portuguese_original": "(a) valorização",
+      "english_original": "appreciation",
+      "normalized_words": [
+        "valorização"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 10,
+      "portuguese_original": "valorizado",
+      "english_original": "appreciated",
+      "normalized_words": [
+        "valorizado"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 11,
+      "portuguese_original": "valorizar",
+      "english_original": "to appreciate",
+      "normalized_words": [
+        "valorizar"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 12,
+      "portuguese_original": "(a) varinha mágica",
+      "english_original": "hand blender",
+      "normalized_words": [
+        "varinha",
+        "mágica"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 13,
+      "portuguese_original": "(o) veículo",
+      "english_original": "vehicle",
+      "normalized_words": [
+        "veículo"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 14,
+      "portuguese_original": "versátil",
+      "english_original": "versatile",
+      "normalized_words": [
+        "versátil"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 15,
+      "portuguese_original": "(a) vertente",
+      "english_original": "aspect",
+      "normalized_words": [
+        "vertente"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 16,
+      "portuguese_original": "(o) vício",
+      "english_original": "habit",
+      "normalized_words": [
+        "vício"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 17,
+      "portuguese_original": "vigorar",
+      "english_original": "to be in effect",
+      "normalized_words": [
+        "vigorar"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 18,
+      "portuguese_original": "(a) vinha",
+      "english_original": "vine",
+      "normalized_words": [
+        "vinha"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 19,
+      "portuguese_original": "(a) visibilidade",
+      "english_original": "visibility",
+      "normalized_words": [
+        "visibilidade"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 20,
+      "portuguese_original": "(a) vítima",
+      "english_original": "victim",
+      "normalized_words": [
+        "vítima"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 21,
+      "portuguese_original": "(a/o) vocalista",
+      "english_original": "singer",
+      "normalized_words": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 22,
+      "portuguese_original": "vulcânico",
+      "english_original": "volcanic",
+      "normalized_words": [
+        "vulcânico"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 23,
+      "portuguese_original": "(o) voluntariado",
+      "english_original": "volunteering",
+      "normalized_words": [
+        "voluntariado"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 24,
+      "portuguese_original": "(o) xeque",
+      "english_original": "sheik",
+      "normalized_words": [
+        "xeque"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 25,
+      "portuguese_original": "(o) xeque-mate",
+      "english_original": "checkmate",
+      "normalized_words": [
+        "xeque-mate"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 26,
+      "portuguese_original": "(o) zelo",
+      "english_original": "zeal",
+      "normalized_words": [
+        "zelo"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 27,
+      "portuguese_original": "(a) zona de conforto",
+      "english_original": "comfort zone",
+      "normalized_words": [
+        "zona",
+        "de",
+        "conforto"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "row_on_page": 28,
+      "portuguese_original": "(a) zona metropolitana",
+      "english_original": "metropolitan area",
+      "normalized_words": [
+        "zona",
+        "metropolitana"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        11,
+        68,
+        158,
+        181
+      ]
+    },
+    {
+      "portuguese": "untar",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "urbano",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "usufruir",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "utente",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "vaga",
+      "source_row_ids": [
+        46,
+        47
+      ]
+    },
+    {
+      "portuguese": "vago",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "valência",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "valorização",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "valorizado",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "valorizar",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "varinha",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "mágica",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "veículo",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "versátil",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "vertente",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "vício",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "vigorar",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "vinha",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "visibilidade",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "vítima",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "vocalista",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "vulcânico",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "voluntariado",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "xeque",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "xeque-mate",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "zelo",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "zona",
+      "source_row_ids": [
+        68,
+        69
+      ]
+    },
+    {
+      "portuguese": "conforto",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "metropolitana",
+      "source_row_ids": [
+        69
+      ]
+    }
+  ]
+}

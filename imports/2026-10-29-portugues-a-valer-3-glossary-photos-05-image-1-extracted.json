@@ -1,0 +1,840 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-1",
+  "source_files": [
+    {
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/950ed42f-1a21-40bc-b795-9932ba81d0fc/1000058770.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/1-1000058770.jpg",
+      "sha256": "d29f2b41ff493e30375e017727b5371a2631eed7f59eef57bb51c59d900b9838"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 50
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 1,
+      "portuguese_original": "de tutela pública",
+      "english_original": "under state oversight",
+      "normalized_words": [
+        "de",
+        "tutela",
+        "pública"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 2,
+      "portuguese_original": "(o) declínio",
+      "english_original": "decline",
+      "normalized_words": [
+        "declínio"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 3,
+      "portuguese_original": "decorrer",
+      "english_original": "to take place",
+      "normalized_words": [
+        "decorrer"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 4,
+      "portuguese_original": "dedicar-se a",
+      "english_original": "to put a lot of effort into",
+      "normalized_words": [
+        "dedicar",
+        "se",
+        "a"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 5,
+      "portuguese_original": "(o) degelo",
+      "english_original": "thaw",
+      "normalized_words": [
+        "degelo"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 6,
+      "portuguese_original": "de imediato",
+      "english_original": "immediately",
+      "normalized_words": [
+        "de",
+        "imediato"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 7,
+      "portuguese_original": "de longa data",
+      "english_original": "long-standing",
+      "normalized_words": [
+        "de",
+        "longa",
+        "data"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 8,
+      "portuguese_original": "de longo curso",
+      "english_original": "long-distance",
+      "normalized_words": [
+        "de",
+        "longo",
+        "curso"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 9,
+      "portuguese_original": "de meia-idade",
+      "english_original": "middle-aged",
+      "normalized_words": [
+        "de",
+        "meia-idade"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 10,
+      "portuguese_original": "de qualquer modo",
+      "english_original": "anyway",
+      "normalized_words": [
+        "de",
+        "qualquer",
+        "modo"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 11,
+      "portuguese_original": "deixar para segundo plano",
+      "english_original": "to put on the back burner",
+      "normalized_words": [
+        "deixar",
+        "para",
+        "segundo",
+        "plano"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 12,
+      "portuguese_original": "demasiado",
+      "english_original": "too",
+      "normalized_words": [
+        "demasiado"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 13,
+      "portuguese_original": "(a) demência",
+      "english_original": "dementia",
+      "normalized_words": [
+        "demência"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 14,
+      "portuguese_original": "(a) demissão",
+      "english_original": "resignation",
+      "normalized_words": [
+        "demissão"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 15,
+      "portuguese_original": "demográfico",
+      "english_original": "demographic",
+      "normalized_words": [
+        "demográfico"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 16,
+      "portuguese_original": "(a) demonstração",
+      "english_original": "demonstration",
+      "normalized_words": [
+        "demonstração"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 17,
+      "portuguese_original": "(a) denominação",
+      "english_original": "appellation",
+      "normalized_words": [
+        "denominação"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 18,
+      "portuguese_original": "denunciar",
+      "english_original": "to report",
+      "normalized_words": [
+        "denunciar"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 19,
+      "portuguese_original": "(a) depressão",
+      "english_original": "depression",
+      "normalized_words": [
+        "depressão"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 20,
+      "portuguese_original": "desabafar",
+      "english_original": "to vent",
+      "normalized_words": [
+        "desabafar"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 21,
+      "portuguese_original": "desafiante",
+      "english_original": "challenging",
+      "normalized_words": [
+        "desafiante"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 22,
+      "portuguese_original": "(o) desafio",
+      "english_original": "challenge",
+      "normalized_words": [
+        "desafio"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 23,
+      "portuguese_original": "desanimar",
+      "english_original": "to lose heart",
+      "normalized_words": [
+        "desanimar"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 24,
+      "portuguese_original": "desarrumado",
+      "english_original": "untidy",
+      "normalized_words": [
+        "desarrumado"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 25,
+      "portuguese_original": "descalçar",
+      "english_original": "to take off one's shoes",
+      "normalized_words": [
+        "descalçar"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 26,
+      "portuguese_original": "descascar",
+      "english_original": "to peel",
+      "normalized_words": [
+        "descascar"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 27,
+      "portuguese_original": "(a) descendência",
+      "english_original": "descendants",
+      "normalized_words": [
+        "descendência"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 28,
+      "portuguese_original": "descendente",
+      "english_original": "descendent",
+      "normalized_words": [
+        "descendente"
+      ],
+      "enrichment_note": "Printed descendent retained; descendant is the usual English noun spelling."
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 29,
+      "portuguese_original": "descomplicar",
+      "english_original": "to simplify",
+      "normalized_words": [
+        "descomplicar"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 30,
+      "portuguese_original": "(o) desconhecido",
+      "english_original": "unknown",
+      "normalized_words": [
+        "desconhecido"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 31,
+      "portuguese_original": "(o) descontrolo",
+      "english_original": "lack of control",
+      "normalized_words": [
+        "descontrolo"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 32,
+      "portuguese_original": "(a) descrição",
+      "english_original": "description",
+      "normalized_words": [
+        "descrição"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 33,
+      "portuguese_original": "desde que",
+      "english_original": "provided that",
+      "normalized_words": [
+        "desde",
+        "que"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 34,
+      "portuguese_original": "desembalar",
+      "english_original": "to open",
+      "normalized_words": [
+        "desembalar"
+      ],
+      "enrichment_note": "Printed to open is broad; desem(b)alar specifically means to unpack/unwrap."
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 35,
+      "portuguese_original": "desempenhar",
+      "english_original": "to perform",
+      "normalized_words": [
+        "desempenhar"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 36,
+      "portuguese_original": "desenhar",
+      "english_original": "to draw up",
+      "normalized_words": [
+        "desenhar"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 37,
+      "portuguese_original": "(o) desenvolvimento",
+      "english_original": "development",
+      "normalized_words": [
+        "desenvolvimento"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 38,
+      "portuguese_original": "desfazer",
+      "english_original": "to unpack",
+      "normalized_words": [
+        "desfazer"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 39,
+      "portuguese_original": "desgastante",
+      "english_original": "wearing",
+      "normalized_words": [
+        "desgastante"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        73,
+        119
+      ]
+    },
+    {
+      "portuguese": "tutela",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "pública",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "declínio",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "decorrer",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "dedicar",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        4,
+        65,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "portuguese": "degelo",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "imediato",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "longa",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "data",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "longo",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "curso",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "meia-idade",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "qualquer",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "modo",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "deixar",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "plano",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "demência",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "demissão",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "demográfico",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "demonstração",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "denominação",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "denunciar",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "depressão",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "desabafar",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "desafiante",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "desafio",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "desanimar",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "desarrumado",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "descalçar",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "descascar",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "descendência",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "descendente",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "descomplicar",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "descontrolo",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "descrição",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "desde",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        33,
+        55,
+        117,
+        118,
+        151
+      ]
+    },
+    {
+      "portuguese": "desembalar",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "desempenhar",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "desenhar",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "desenvolvimento",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "desfazer",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "desgastante",
+      "source_row_ids": [
+        39
+      ]
+    }
+  ]
+}

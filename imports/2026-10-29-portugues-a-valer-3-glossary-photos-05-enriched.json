@@ -1,0 +1,3741 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/950ed42f-1a21-40bc-b795-9932ba81d0fc/1000058770.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/1-1000058770.jpg",
+      "sha256": "d29f2b41ff493e30375e017727b5371a2631eed7f59eef57bb51c59d900b9838"
+    },
+    {
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/710fbe85-b999-4765-8d5d-3bdb96226e1e/1000058769.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/2-1000058769.jpg",
+      "sha256": "e9ccccdda04979f210906ca9c5a9277015d01ed0ea26dbf5bc65641622754ad1"
+    },
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/cfe23311-ba30-48e1-9d77-18da92520d8d/1000058768.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/3-1000058768.jpg",
+      "sha256": "62f001cbd549537c1b0712289a99505115c144a2af4078a6e7838d7656277096"
+    },
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/c9633ff9-8fff-4cc3-a002-1c75c1a09291/1000058767.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/4-1000058767.jpg",
+      "sha256": "6b9c88c13aaef69370494b00fb9bfe1e408f4bcba46ebe35d5874b59a1d1f517"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "extracted_backup": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-extracted.json",
+  "enrichment_provenance": {
+    "english": "Printed English retained unchanged in rows/source_senses; reuse where appropriate. Component translations and corrections are assistant supplied.",
+    "ukrainian": "Assistant translations; not independently reviewed.",
+    "levels": "Assistant per-word CEFR estimates.",
+    "groups": "Assistant assignments to existing topic names.",
+    "corrections": [
+      {
+        "portuguese_original": "conferir (a)",
+        "corrected_english": "to confer; to grant; to check",
+        "note": "Printed to make is contextual; conferir a normally means to confer/grant to. Translate the verb and preposition separately."
+      },
+      {
+        "portuguese_original": "constar (de)",
+        "corrected_english": "to consist of; to be listed",
+        "note": "Printed to come (from) is misleading for constar de; preserve source and clarify meaning."
+      },
+      {
+        "portuguese_original": "constipado",
+        "corrected_english": "having a cold; suffering from a cold",
+        "note": "Portuguese is an adjective, not an infinitive; not the English false friend constipated."
+      },
+      {
+        "portuguese_original": "(a) autonomia",
+        "corrected_english": "autonomy; independence",
+        "note": "Printed initiative is contextual; autonomy/independence is the standalone meaning."
+      },
+      {
+        "portuguese_original": "(o) automatismo",
+        "corrected_english": "automatism; automatic action",
+        "note": "Printed automation is broader; the usual Portuguese term for automation is automatização."
+      },
+      {
+        "portuguese_original": "balnear",
+        "corrected_english": "bathing-related; seaside; beach-related",
+        "note": "Portuguese is an adjective; printed beach is a noun."
+      },
+      {
+        "portuguese_original": "(a) arrecadação",
+        "corrected_english": "storage room; collection of funds",
+        "note": "Printed storage is retained; clarify common European Portuguese noun senses."
+      },
+      {
+        "portuguese_original": "desembalar",
+        "corrected_english": "to unpack; to unwrap",
+        "note": "Printed to open is broad; desem(b)alar specifically means to unpack/unwrap."
+      },
+      {
+        "portuguese_original": "descendente",
+        "corrected_english": "descendant; descending",
+        "note": "Printed descendent retained; descendant is the usual English noun spelling."
+      }
+    ],
+    "uncertainties": [
+      "Printed page numbers are not visible on any of the four images; recorded as null, with stable image identifiers.",
+      "Expressions remain context-dependent; complete expressions and original glosses are retained in source rows.",
+      "Live database duplicate/conflict comparison has not run."
+    ]
+  },
+  "counts": {
+    "source_rows": 153,
+    "distinct_source_labels": 153,
+    "unique_words": 173,
+    "rows_by_page_identifier": {
+      "image-1": 39,
+      "image-2": 39,
+      "image-3": 38,
+      "image-4": 37
+    },
+    "rows_by_image": {
+      "1": 39,
+      "2": 39,
+      "3": 38,
+      "4": 37
+    }
+  },
+  "words": [
+    {
+      "portuguese": "de",
+      "english": "of; from",
+      "ukrainian": "з; від; належність",
+      "level": "A1",
+      "groups": [
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        73,
+        119
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 1,
+          "portuguese_original": "de tutela pública",
+          "english_original": "under state oversight",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 6,
+          "portuguese_original": "de imediato",
+          "english_original": "immediately",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 7,
+          "portuguese_original": "de longa data",
+          "english_original": "long-standing",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 8,
+          "portuguese_original": "de longo curso",
+          "english_original": "long-distance",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 9,
+          "portuguese_original": "de meia-idade",
+          "english_original": "middle-aged",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 10,
+          "portuguese_original": "de qualquer modo",
+          "english_original": "anyway",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 73,
+          "portuguese_original": "constar (de)",
+          "english_original": "to come (from)",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 119,
+          "portuguese_original": "a partir de",
+          "english_original": "starting from",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "tutela",
+      "english": "oversight; guardianship",
+      "ukrainian": "нагляд; опіка",
+      "level": "B2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        1
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 1,
+          "portuguese_original": "de tutela pública",
+          "english_original": "under state oversight",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "pública",
+      "english": "public (feminine)",
+      "ukrainian": "публічна; державна",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        1
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 1,
+          "portuguese_original": "de tutela pública",
+          "english_original": "under state oversight",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "declínio",
+      "english": "decline",
+      "ukrainian": "занепад; зниження",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        2
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 2,
+          "portuguese_original": "(o) declínio",
+          "english_original": "decline",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "decorrer",
+      "english": "to take place",
+      "ukrainian": "відбуватися; минати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        3
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 3,
+          "portuguese_original": "decorrer",
+          "english_original": "to take place",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "dedicar",
+      "english": "to dedicate; to devote",
+      "ukrainian": "присвячувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        4
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 4,
+          "portuguese_original": "dedicar-se a",
+          "english_original": "to put a lot of effort into",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "se",
+      "english": "oneself; reflexive pronoun",
+      "ukrainian": "себе; зворотний займенник",
+      "level": "A2",
+      "groups": [
+        "Pronouns"
+      ],
+      "source_row_ids": [
+        4
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 4,
+          "portuguese_original": "dedicar-se a",
+          "english_original": "to put a lot of effort into",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "a",
+      "english": "to; at; the (feminine singular)",
+      "ukrainian": "до; у; означений артикль жіночого роду",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        4,
+        65,
+        118,
+        119,
+        120
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 4,
+          "portuguese_original": "dedicar-se a",
+          "english_original": "to put a lot of effort into",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 65,
+          "portuguese_original": "conferir (a)",
+          "english_original": "to make",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 118,
+          "portuguese_original": "a não ser que",
+          "english_original": "unless",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 119,
+          "portuguese_original": "a partir de",
+          "english_original": "starting from",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 120,
+          "portuguese_original": "a propósito",
+          "english_original": "by the way",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "degelo",
+      "english": "thaw",
+      "ukrainian": "відлига; танення льоду",
+      "level": "B1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        5
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 5,
+          "portuguese_original": "(o) degelo",
+          "english_original": "thaw",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "imediato",
+      "english": "immediate",
+      "ukrainian": "негайний; безпосередній",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        6
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 6,
+          "portuguese_original": "de imediato",
+          "english_original": "immediately",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "longa",
+      "english": "long (feminine)",
+      "ukrainian": "довга; тривала",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        7
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 7,
+          "portuguese_original": "de longa data",
+          "english_original": "long-standing",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "data",
+      "english": "date",
+      "ukrainian": "дата",
+      "level": "A1",
+      "groups": [
+        "Time"
+      ],
+      "source_row_ids": [
+        7
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 7,
+          "portuguese_original": "de longa data",
+          "english_original": "long-standing",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "longo",
+      "english": "long",
+      "ukrainian": "довгий; тривалий",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        8
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 8,
+          "portuguese_original": "de longo curso",
+          "english_original": "long-distance",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "curso",
+      "english": "course; route",
+      "ukrainian": "курс; перебіг; маршрут",
+      "level": "A2",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        8
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 8,
+          "portuguese_original": "de longo curso",
+          "english_original": "long-distance",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "meia-idade",
+      "english": "middle age",
+      "ukrainian": "середній вік",
+      "level": "B1",
+      "groups": [
+        "Time"
+      ],
+      "source_row_ids": [
+        9
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 9,
+          "portuguese_original": "de meia-idade",
+          "english_original": "middle-aged",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "qualquer",
+      "english": "any; whichever",
+      "ukrainian": "будь-який",
+      "level": "A2",
+      "groups": [
+        "Pronouns"
+      ],
+      "source_row_ids": [
+        10
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 10,
+          "portuguese_original": "de qualquer modo",
+          "english_original": "anyway",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "modo",
+      "english": "way; manner; mode",
+      "ukrainian": "спосіб; манера; режим",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        10
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 10,
+          "portuguese_original": "de qualquer modo",
+          "english_original": "anyway",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "deixar",
+      "english": "to leave; to let",
+      "ukrainian": "залишати; дозволяти",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        11
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 11,
+          "portuguese_original": "deixar para segundo plano",
+          "english_original": "to put on the back burner",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "para",
+      "english": "for; to; towards",
+      "ukrainian": "для; до",
+      "level": "A1",
+      "groups": [
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        11
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 11,
+          "portuguese_original": "deixar para segundo plano",
+          "english_original": "to put on the back burner",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "english": "second; according to",
+      "ukrainian": "другий; згідно з",
+      "level": "A1",
+      "groups": [
+        "Numbers",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        11
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 11,
+          "portuguese_original": "deixar para segundo plano",
+          "english_original": "to put on the back burner",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "plano",
+      "english": "plan; plane; level",
+      "ukrainian": "план; площина; рівень",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        11
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 11,
+          "portuguese_original": "deixar para segundo plano",
+          "english_original": "to put on the back burner",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "english": "too",
+      "ukrainian": "занадто; надмірний",
+      "level": "A2",
+      "groups": [
+        "Adverbs"
+      ],
+      "source_row_ids": [
+        12
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 12,
+          "portuguese_original": "demasiado",
+          "english_original": "too",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "demência",
+      "english": "dementia",
+      "ukrainian": "деменція",
+      "level": "B2",
+      "groups": [
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        13
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 13,
+          "portuguese_original": "(a) demência",
+          "english_original": "dementia",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "demissão",
+      "english": "resignation",
+      "ukrainian": "відставка; звільнення",
+      "level": "B1",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        14
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 14,
+          "portuguese_original": "(a) demissão",
+          "english_original": "resignation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "demográfico",
+      "english": "demographic",
+      "ukrainian": "демографічний",
+      "level": "B2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        15
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 15,
+          "portuguese_original": "demográfico",
+          "english_original": "demographic",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "demonstração",
+      "english": "demonstration",
+      "ukrainian": "демонстрація; доказ",
+      "level": "B1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        16
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 16,
+          "portuguese_original": "(a) demonstração",
+          "english_original": "demonstration",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "denominação",
+      "english": "appellation",
+      "ukrainian": "назва; найменування",
+      "level": "B2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        17
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 17,
+          "portuguese_original": "(a) denominação",
+          "english_original": "appellation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "denunciar",
+      "english": "to report",
+      "ukrainian": "повідомляти про порушення; викривати",
+      "level": "B1",
+      "groups": [
+        "Communication",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        18
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 18,
+          "portuguese_original": "denunciar",
+          "english_original": "to report",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "depressão",
+      "english": "depression",
+      "ukrainian": "депресія; западина",
+      "level": "B1",
+      "groups": [
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        19
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 19,
+          "portuguese_original": "(a) depressão",
+          "english_original": "depression",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desabafar",
+      "english": "to vent",
+      "ukrainian": "виговорюватися; давати вихід почуттям",
+      "level": "B1",
+      "groups": [
+        "Emotions",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        20
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 20,
+          "portuguese_original": "desabafar",
+          "english_original": "to vent",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desafiante",
+      "english": "challenging",
+      "ukrainian": "складний; той, що кидає виклик",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        21
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 21,
+          "portuguese_original": "desafiante",
+          "english_original": "challenging",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desafio",
+      "english": "challenge",
+      "ukrainian": "виклик; складне завдання",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        22
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 22,
+          "portuguese_original": "(o) desafio",
+          "english_original": "challenge",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desanimar",
+      "english": "to lose heart",
+      "ukrainian": "занепадати духом; знеохочувати",
+      "level": "B1",
+      "groups": [
+        "Emotions",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        23
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 23,
+          "portuguese_original": "desanimar",
+          "english_original": "to lose heart",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desarrumado",
+      "english": "untidy",
+      "ukrainian": "неприбраний; неохайний",
+      "level": "A2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        24
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 24,
+          "portuguese_original": "desarrumado",
+          "english_original": "untidy",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descalçar",
+      "english": "to take off one's shoes",
+      "ukrainian": "знімати взуття",
+      "level": "A2",
+      "groups": [
+        "Clothing and Accessories",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        25
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 25,
+          "portuguese_original": "descalçar",
+          "english_original": "to take off one's shoes",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descascar",
+      "english": "to peel",
+      "ukrainian": "чистити шкірку",
+      "level": "A2",
+      "groups": [
+        "Food and Drink",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        26
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 26,
+          "portuguese_original": "descascar",
+          "english_original": "to peel",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descendência",
+      "english": "descendants",
+      "ukrainian": "нащадки; походження",
+      "level": "B1",
+      "groups": [
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        27
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 27,
+          "portuguese_original": "(a) descendência",
+          "english_original": "descendants",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descendente",
+      "english": "descendant; descending",
+      "ukrainian": "нащадок; низхідний",
+      "level": "B1",
+      "groups": [
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        28
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 28,
+          "portuguese_original": "descendente",
+          "english_original": "descendent",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descomplicar",
+      "english": "to simplify",
+      "ukrainian": "спрощувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        29
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 29,
+          "portuguese_original": "descomplicar",
+          "english_original": "to simplify",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "english": "unknown",
+      "ukrainian": "невідоме; незнайомець",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        30
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 30,
+          "portuguese_original": "(o) desconhecido",
+          "english_original": "unknown",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descontrolo",
+      "english": "lack of control",
+      "ukrainian": "втрата контролю",
+      "level": "B1",
+      "groups": [
+        "Emotions"
+      ],
+      "source_row_ids": [
+        31
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 31,
+          "portuguese_original": "(o) descontrolo",
+          "english_original": "lack of control",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "descrição",
+      "english": "description",
+      "ukrainian": "опис",
+      "level": "A2",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        32
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 32,
+          "portuguese_original": "(a) descrição",
+          "english_original": "description",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desde",
+      "english": "since; from",
+      "ukrainian": "від; з; відтоді як",
+      "level": "A2",
+      "groups": [
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        33
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 33,
+          "portuguese_original": "desde que",
+          "english_original": "provided that",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "que",
+      "english": "that; which",
+      "ukrainian": "що; який",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        33,
+        55,
+        117,
+        118,
+        151
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 33,
+          "portuguese_original": "desde que",
+          "english_original": "provided that",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 55,
+          "portuguese_original": "como quer que",
+          "english_original": "however",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 117,
+          "portuguese_original": "à medida que",
+          "english_original": "as",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 118,
+          "portuguese_original": "a não ser que",
+          "english_original": "unless",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 151,
+          "portuguese_original": "ainda que",
+          "english_original": "even though",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "desembalar",
+      "english": "to unpack; to unwrap",
+      "ukrainian": "розпаковувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        34
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 34,
+          "portuguese_original": "desembalar",
+          "english_original": "to open",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desempenhar",
+      "english": "to perform",
+      "ukrainian": "виконувати",
+      "level": "B1",
+      "groups": [
+        "School and Work",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        35
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 35,
+          "portuguese_original": "desempenhar",
+          "english_original": "to perform",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desenhar",
+      "english": "to draw up",
+      "ukrainian": "малювати; креслити",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        36
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 36,
+          "portuguese_original": "desenhar",
+          "english_original": "to draw up",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desenvolvimento",
+      "english": "development",
+      "ukrainian": "розвиток",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        37
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 37,
+          "portuguese_original": "(o) desenvolvimento",
+          "english_original": "development",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desfazer",
+      "english": "to unpack",
+      "ukrainian": "розбирати; скасовувати; розпаковувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        38
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 38,
+          "portuguese_original": "desfazer",
+          "english_original": "to unpack",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "desgastante",
+      "english": "wearing",
+      "ukrainian": "виснажливий",
+      "level": "B2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        39
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 39,
+          "portuguese_original": "desgastante",
+          "english_original": "wearing",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ciclone",
+      "english": "cyclone",
+      "ukrainian": "циклон",
+      "level": "B1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        40
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 40,
+          "portuguese_original": "(o) ciclone",
+          "english_original": "cyclone",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ciclovia",
+      "english": "cycle path",
+      "ukrainian": "велодоріжка",
+      "level": "A2",
+      "groups": [
+        "Transportation"
+      ],
+      "source_row_ids": [
+        41
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 41,
+          "portuguese_original": "(a) ciclovia",
+          "english_original": "cycle path",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "cidadania",
+      "english": "citizenship",
+      "ukrainian": "громадянство",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        42
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 42,
+          "portuguese_original": "(a) cidadania",
+          "english_original": "citizenship",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "cínico",
+      "english": "cynical",
+      "ukrainian": "цинічний",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        43
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 43,
+          "portuguese_original": "cínico",
+          "english_original": "cynical",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "circulação",
+      "english": "(train) services",
+      "ukrainian": "рух; циркуляція; сполучення",
+      "level": "B1",
+      "groups": [
+        "Transportation"
+      ],
+      "source_row_ids": [
+        44
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 44,
+          "portuguese_original": "(a) circulação",
+          "english_original": "(train) services",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "climático",
+      "english": "climate-related",
+      "ukrainian": "кліматичний",
+      "level": "B1",
+      "groups": [
+        "Adjectives",
+        "Weather"
+      ],
+      "source_row_ids": [
+        45
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 45,
+          "portuguese_original": "climático",
+          "english_original": "climate-related",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "cobre",
+      "english": "copper",
+      "ukrainian": "мідь",
+      "level": "B1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        46
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 46,
+          "portuguese_original": "(o) cobre",
+          "english_original": "copper",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "coçar",
+      "english": "to scratch",
+      "ukrainian": "чесати",
+      "level": "A2",
+      "groups": [
+        "The Human Body",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        47
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 47,
+          "portuguese_original": "coçar",
+          "english_original": "to scratch",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "cócegas",
+      "english": "tickles",
+      "ukrainian": "лоскотання",
+      "level": "A2",
+      "groups": [
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        48
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 48,
+          "portuguese_original": "(as) cócegas",
+          "english_original": "tickles",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "cochilar",
+      "english": "to nap",
+      "ukrainian": "дрімати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        49
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 49,
+          "portuguese_original": "cochilar",
+          "english_original": "to nap",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "coincidir",
+      "english": "to coincide",
+      "ukrainian": "збігатися",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        50
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 50,
+          "portuguese_original": "coincidir",
+          "english_original": "to coincide",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "coluna",
+      "english": "column",
+      "ukrainian": "колона; колонка",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        51
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 51,
+          "portuguese_original": "(a) coluna vertebral",
+          "english_original": "spine",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "vertebral",
+      "english": "vertebral; spinal",
+      "ukrainian": "хребтовий",
+      "level": "B2",
+      "groups": [
+        "Adjectives",
+        "The Human Body"
+      ],
+      "source_row_ids": [
+        51
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 51,
+          "portuguese_original": "(a) coluna vertebral",
+          "english_original": "spine",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "comando",
+      "english": "command",
+      "ukrainian": "команда; керування; пульт",
+      "level": "B1",
+      "groups": [
+        "Technology"
+      ],
+      "source_row_ids": [
+        52
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 52,
+          "portuguese_original": "(o) comando",
+          "english_original": "command",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "combater",
+      "english": "to deal with",
+      "ukrainian": "боротися з; протидіяти",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        53
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 53,
+          "portuguese_original": "combater",
+          "english_original": "to deal with",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "combinar",
+      "english": "to arrange",
+      "ukrainian": "домовлятися; поєднувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        54
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 54,
+          "portuguese_original": "combinar",
+          "english_original": "to arrange",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "como",
+      "english": "how; as; like",
+      "ukrainian": "як",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        55
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 55,
+          "portuguese_original": "como quer que",
+          "english_original": "however",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "english": "wants; whether (in quer… quer…)",
+      "ukrainian": "хоче; чи; як… так і…",
+      "level": "B1",
+      "groups": [
+        "Grammatical Words",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        55
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 55,
+          "portuguese_original": "como quer que",
+          "english_original": "however",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "complexo",
+      "english": "complex",
+      "ukrainian": "складний",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        56
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 56,
+          "portuguese_original": "complexo",
+          "english_original": "complex",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "compor",
+      "english": "to compose",
+      "ukrainian": "складати; компонувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        57
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 57,
+          "portuguese_original": "compor",
+          "english_original": "to compose",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "compromisso",
+      "english": "commitment",
+      "ukrainian": "зобовʼязання; домовленість",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        58
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 58,
+          "portuguese_original": "(o) compromisso",
+          "english_original": "commitment",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "computação",
+      "english": "computation",
+      "ukrainian": "обчислення; інформатика",
+      "level": "B2",
+      "groups": [
+        "Technology"
+      ],
+      "source_row_ids": [
+        59
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 59,
+          "portuguese_original": "(a) computação",
+          "english_original": "computation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "computador",
+      "english": "computer",
+      "ukrainian": "компʼютер",
+      "level": "A1",
+      "groups": [
+        "Technology"
+      ],
+      "source_row_ids": [
+        60
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 60,
+          "portuguese_original": "(o) computador portátil",
+          "english_original": "laptop",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "portátil",
+      "english": "portable; laptop",
+      "ukrainian": "портативний; ноутбук",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Technology"
+      ],
+      "source_row_ids": [
+        60
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 60,
+          "portuguese_original": "(o) computador portátil",
+          "english_original": "laptop",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "comummente",
+      "english": "commonly",
+      "ukrainian": "зазвичай; загальноприйнято",
+      "level": "B2",
+      "groups": [
+        "Adverbs"
+      ],
+      "source_row_ids": [
+        61
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 61,
+          "portuguese_original": "comummente",
+          "english_original": "commonly",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "concelho",
+      "english": "municipality",
+      "ukrainian": "муніципалітет",
+      "level": "B1",
+      "groups": [
+        "Places"
+      ],
+      "source_row_ids": [
+        62
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 62,
+          "portuguese_original": "(o) concelho",
+          "english_original": "municipality",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "concretizar",
+      "english": "to fulfil",
+      "ukrainian": "втілювати; реалізувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        63
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 63,
+          "portuguese_original": "concretizar",
+          "english_original": "to fulfil",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "condicionar",
+      "english": "to affect",
+      "ukrainian": "зумовлювати; обмежувати",
+      "level": "B2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        64
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 64,
+          "portuguese_original": "condicionar",
+          "english_original": "to affect",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "conferir",
+      "english": "to confer; to grant; to check",
+      "ukrainian": "надавати; перевіряти; звіряти",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        65
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 65,
+          "portuguese_original": "conferir (a)",
+          "english_original": "to make",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "confirmação",
+      "english": "confirmation",
+      "ukrainian": "підтвердження",
+      "level": "B1",
+      "groups": [
+        "Communication"
+      ],
+      "source_row_ids": [
+        66
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 66,
+          "portuguese_original": "(a) confirmação",
+          "english_original": "confirmation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "conjuntura",
+      "english": "circumstances",
+      "ukrainian": "конʼюнктура; сукупність обставин",
+      "level": "B2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        67
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 67,
+          "portuguese_original": "(a) conjuntura",
+          "english_original": "circumstances",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "consecutivo",
+      "english": "consecutive",
+      "ukrainian": "послідовний; поспіль",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        68
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 68,
+          "portuguese_original": "consecutivo",
+          "english_original": "consecutive",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "conserto",
+      "english": "repair",
+      "ukrainian": "ремонт",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        69
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 69,
+          "portuguese_original": "(o) conserto",
+          "english_original": "repair",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "conservação",
+      "english": "conservation",
+      "ukrainian": "збереження; консервація",
+      "level": "B1",
+      "groups": [
+        "Nature"
+      ],
+      "source_row_ids": [
+        70
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 70,
+          "portuguese_original": "(a) conservação",
+          "english_original": "conservation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "conservas",
+      "english": "preserved foods",
+      "ukrainian": "консерви",
+      "level": "A2",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        71
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 71,
+          "portuguese_original": "(as) conservas",
+          "english_original": "preserved foods",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "consideração",
+      "english": "regard",
+      "ukrainian": "повага; розгляд; міркування",
+      "level": "B1",
+      "groups": [
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        72
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 72,
+          "portuguese_original": "(a) consideração",
+          "english_original": "regard",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "constar",
+      "english": "to consist of; to be listed",
+      "ukrainian": "складатися з; бути зазначеним",
+      "level": "B2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        73
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 73,
+          "portuguese_original": "constar (de)",
+          "english_original": "to come (from)",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "constipado",
+      "english": "having a cold; suffering from a cold",
+      "ukrainian": "застуджений",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        74
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 74,
+          "portuguese_original": "constipado",
+          "english_original": "to have a cold",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "construção",
+      "english": "construction; building",
+      "ukrainian": "будівництво; конструкція",
+      "level": "B1",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        75
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 75,
+          "portuguese_original": "(a) construção modular",
+          "english_original": "modular construction",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "modular",
+      "english": "modular",
+      "ukrainian": "модульний",
+      "level": "B2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        75
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 75,
+          "portuguese_original": "(a) construção modular",
+          "english_original": "modular construction",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "consulta",
+      "english": "consultation",
+      "ukrainian": "консультація; прийом у лікаря",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        76
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 76,
+          "portuguese_original": "(a) consulta",
+          "english_original": "consultation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "consultora",
+      "english": "consultant",
+      "ukrainian": "консультантка; консалтингова компанія",
+      "level": "B1",
+      "groups": [
+        "Occupations"
+      ],
+      "source_row_ids": [
+        77
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 77,
+          "portuguese_original": "(a) consultora",
+          "english_original": "consultant",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "consultório",
+      "english": "doctor's surgery",
+      "ukrainian": "лікарський кабінет",
+      "level": "A2",
+      "groups": [
+        "Emergencies and Health",
+        "Places"
+      ],
+      "source_row_ids": [
+        78
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 78,
+          "portuguese_original": "(o) consultório",
+          "english_original": "doctor's surgery",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aproximar",
+      "english": "to bring closer / to approach",
+      "ukrainian": "наближати; наближатися",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        79
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 79,
+          "portuguese_original": "aproximar",
+          "english_original": "to bring closer / to approach",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aquecedor",
+      "english": "heater",
+      "ukrainian": "обігрівач",
+      "level": "A2",
+      "groups": [
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        80
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 80,
+          "portuguese_original": "(o) aquecedor",
+          "english_original": "heater",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aquecimento",
+      "english": "heating; warming",
+      "ukrainian": "опалення; нагрівання",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        81
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 81,
+          "portuguese_original": "(o) aquecimento global",
+          "english_original": "global warming",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "global",
+      "english": "global; worldwide",
+      "ukrainian": "глобальний; всесвітній",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        81
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 81,
+          "portuguese_original": "(o) aquecimento global",
+          "english_original": "global warming",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "argumentista",
+      "english": "screenwriter",
+      "ukrainian": "сценарист; сценаристка",
+      "level": "B1",
+      "groups": [
+        "Occupations",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        82
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 82,
+          "portuguese_original": "(a/o) argumentista",
+          "english_original": "screenwriter",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ária",
+      "english": "aria",
+      "ukrainian": "арія",
+      "level": "B2",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        83
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 83,
+          "portuguese_original": "(a) ária",
+          "english_original": "aria",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "armário",
+      "english": "cupboard",
+      "ukrainian": "шафа",
+      "level": "A1",
+      "groups": [
+        "Common Objects"
+      ],
+      "source_row_ids": [
+        84
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 84,
+          "portuguese_original": "(o) armário",
+          "english_original": "cupboard",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "arrancar",
+      "english": "to begin",
+      "ukrainian": "починати; виривати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        85
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 85,
+          "portuguese_original": "arrancar",
+          "english_original": "to begin",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "arranjar",
+      "english": "to get",
+      "ukrainian": "діставати; знаходити; лагодити",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        86
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 86,
+          "portuguese_original": "arranjar",
+          "english_original": "to get",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "arrecadação",
+      "english": "storage room; collection of funds",
+      "ukrainian": "комора; збирання коштів",
+      "level": "B1",
+      "groups": [
+        "Places"
+      ],
+      "source_row_ids": [
+        87
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 87,
+          "portuguese_original": "(a) arrecadação",
+          "english_original": "storage",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "arrendar",
+      "english": "to rent",
+      "ukrainian": "орендувати; здавати в оренду",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        88
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 88,
+          "portuguese_original": "arrendar",
+          "english_original": "to rent",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "arriscar",
+      "english": "to take a chance",
+      "ukrainian": "ризикувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        89
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 89,
+          "portuguese_original": "arriscar",
+          "english_original": "to take a chance",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "articular",
+      "english": "to coordinate",
+      "ukrainian": "узгоджувати; чітко вимовляти",
+      "level": "B2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        90
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 90,
+          "portuguese_original": "articular",
+          "english_original": "to coordinate",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "assados",
+      "english": "roasts",
+      "ukrainian": "запечені страви; печеня",
+      "level": "A2",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        91
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 91,
+          "portuguese_original": "(os) assados",
+          "english_original": "roasts",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "assaltante",
+      "english": "robber",
+      "ukrainian": "грабіжник; грабіжниця",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        92
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 92,
+          "portuguese_original": "(a/o) assaltante",
+          "english_original": "robber",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "assento",
+      "english": "seat",
+      "ukrainian": "сидіння; місце",
+      "level": "A2",
+      "groups": [
+        "Common Objects",
+        "Transportation"
+      ],
+      "source_row_ids": [
+        93
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 93,
+          "portuguese_original": "(o) assento",
+          "english_original": "seat",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "assumir",
+      "english": "to assume",
+      "ukrainian": "брати на себе; визнавати; припускати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        94
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 94,
+          "portuguese_original": "assumir",
+          "english_original": "to assume",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atencioso",
+      "english": "considerate",
+      "ukrainian": "уважний; турботливий",
+      "level": "B1",
+      "groups": [
+        "Adjectives",
+        "Relationships and Feelings"
+      ],
+      "source_row_ids": [
+        95
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 95,
+          "portuguese_original": "atencioso",
+          "english_original": "considerate",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atenuar",
+      "english": "to lessen",
+      "ukrainian": "послаблювати; помʼякшувати",
+      "level": "B2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        96
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 96,
+          "portuguese_original": "atenuar",
+          "english_original": "to lessen",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atração",
+      "english": "attraction",
+      "ukrainian": "привабливість; атракція; потяг",
+      "level": "B1",
+      "groups": [
+        "Emotions",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        97
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 97,
+          "portuguese_original": "(a) atração",
+          "english_original": "attraction",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atrasar",
+      "english": "to slow down",
+      "ukrainian": "затримувати; спізнюватися",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        98
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 98,
+          "portuguese_original": "atrasar",
+          "english_original": "to slow down",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atribuição",
+      "english": "award",
+      "ukrainian": "надання; присвоєння; обовʼязок",
+      "level": "B2",
+      "groups": [
+        "School and Work"
+      ],
+      "source_row_ids": [
+        99
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 99,
+          "portuguese_original": "(a) atribuição",
+          "english_original": "award",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atuar",
+      "english": "to perform",
+      "ukrainian": "діяти; виступати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        100
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 100,
+          "portuguese_original": "atuar",
+          "english_original": "to perform",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "atum",
+      "english": "tuna",
+      "ukrainian": "тунець",
+      "level": "A2",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        101
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 101,
+          "portuguese_original": "(o) atum",
+          "english_original": "tuna",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "audácia",
+      "english": "boldness",
+      "ukrainian": "сміливість; зухвалість",
+      "level": "B2",
+      "groups": [
+        "Emotions"
+      ],
+      "source_row_ids": [
+        102
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 102,
+          "portuguese_original": "(a) audácia",
+          "english_original": "boldness",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "audiovisual",
+      "english": "audiovisual arts",
+      "ukrainian": "аудіовізуальна сфера",
+      "level": "B2",
+      "groups": [
+        "Sightseeing and Activities",
+        "Technology"
+      ],
+      "source_row_ids": [
+        103
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 103,
+          "portuguese_original": "(o) audiovisual",
+          "english_original": "audiovisual arts",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "auditivo",
+      "english": "hearing-related",
+      "ukrainian": "слуховий",
+      "level": "B1",
+      "groups": [
+        "Adjectives",
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        104
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 104,
+          "portuguese_original": "auditivo",
+          "english_original": "hearing-related",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ausência",
+      "english": "absence",
+      "ukrainian": "відсутність",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        105
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 105,
+          "portuguese_original": "(a) ausência",
+          "english_original": "absence",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "auspicioso",
+      "english": "promising",
+      "ukrainian": "сприятливий; багатообіцяючий",
+      "level": "C1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        106
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 106,
+          "portuguese_original": "auspicioso",
+          "english_original": "promising",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "automatismo",
+      "english": "automatism; automatic action",
+      "ukrainian": "автоматизм; автоматична дія",
+      "level": "B2",
+      "groups": [
+        "Technology"
+      ],
+      "source_row_ids": [
+        107
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 107,
+          "portuguese_original": "(o) automatismo",
+          "english_original": "automation",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "autonomia",
+      "english": "autonomy; independence",
+      "ukrainian": "автономія; самостійність",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        108
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 108,
+          "portuguese_original": "(a) autonomia",
+          "english_original": "initiative",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "autorizar",
+      "english": "to give permission",
+      "ukrainian": "дозволяти",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        109
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 109,
+          "portuguese_original": "autorizar",
+          "english_original": "to give permission",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "avançar",
+      "english": "to move forward",
+      "ukrainian": "просуватися вперед",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        110
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 110,
+          "portuguese_original": "avançar",
+          "english_original": "to move forward",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "balanço",
+      "english": "outcome",
+      "ukrainian": "підсумок; баланс; коливання",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        111
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 111,
+          "portuguese_original": "(o) balanço",
+          "english_original": "outcome",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "balnear",
+      "english": "bathing-related; seaside; beach-related",
+      "ukrainian": "пляжний; курортний",
+      "level": "B1",
+      "groups": [
+        "Adjectives",
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        112
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 112,
+          "portuguese_original": "balnear",
+          "english_original": "beach",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "banda",
+      "english": "band; group",
+      "ukrainian": "гурт; група",
+      "level": "A2",
+      "groups": [
+        "Sightseeing and Activities"
+      ],
+      "source_row_ids": [
+        113
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 113,
+          "portuguese_original": "(a) banda sonora",
+          "english_original": "soundtrack",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "sonora",
+      "english": "sound-related; sonorous (feminine)",
+      "ukrainian": "звукова; звучна",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        113
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 113,
+          "portuguese_original": "(a) banda sonora",
+          "english_original": "soundtrack",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "banhado",
+      "english": "bathed; washed by water",
+      "ukrainian": "омитий; викупаний",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        114
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 114,
+          "portuguese_original": "banhado (por)",
+          "english_original": "bathed (by)",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "por",
+      "english": "by; through; for",
+      "ukrainian": "через; за; по",
+      "level": "A1",
+      "groups": [
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        114,
+        128
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 114,
+          "portuguese_original": "banhado (por)",
+          "english_original": "bathed (by)",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 128,
+          "portuguese_original": "acabar por",
+          "english_original": "to end up",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "barrar",
+      "english": "to spread",
+      "ukrainian": "намазувати; перегороджувати",
+      "level": "B1",
+      "groups": [
+        "Food and Drink",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        115
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 115,
+          "portuguese_original": "barrar",
+          "english_original": "to spread",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "base",
+      "english": "base",
+      "ukrainian": "основа; база",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        116
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 116,
+          "portuguese_original": "(a) base",
+          "english_original": "base",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "à",
+      "english": "to the; at the (a + a)",
+      "ukrainian": "до; у (злиття прийменника a з артиклем a)",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words",
+        "Prepositions"
+      ],
+      "source_row_ids": [
+        117,
+        121
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 117,
+          "portuguese_original": "à medida que",
+          "english_original": "as",
+          "role": "individually translated component; original English describes the full expression"
+        },
+        {
+          "source_row_id": 121,
+          "portuguese_original": "à vista",
+          "english_original": "coming up",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "english": "measure",
+      "ukrainian": "міра; захід; розмір",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        117
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 117,
+          "portuguese_original": "à medida que",
+          "english_original": "as",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "não",
+      "english": "not; no",
+      "ukrainian": "не; ні",
+      "level": "A1",
+      "groups": [
+        "Grammatical Words"
+      ],
+      "source_row_ids": [
+        118
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 118,
+          "portuguese_original": "a não ser que",
+          "english_original": "unless",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "english": "to be",
+      "ukrainian": "бути",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        118
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 118,
+          "portuguese_original": "a não ser que",
+          "english_original": "unless",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "english": "to leave; to break",
+      "ukrainian": "вирушати; ламати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        119
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 119,
+          "portuguese_original": "a partir de",
+          "english_original": "starting from",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "propósito",
+      "english": "purpose; intention",
+      "ukrainian": "мета; намір",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        120
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 120,
+          "portuguese_original": "a propósito",
+          "english_original": "by the way",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "vista",
+      "english": "view; sight; eyesight",
+      "ukrainian": "вид; погляд; зір",
+      "level": "A2",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        121
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 121,
+          "portuguese_original": "à vista",
+          "english_original": "coming up",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "abatanado",
+      "english": "long black coffee",
+      "ukrainian": "велика чорна кава",
+      "level": "A2",
+      "groups": [
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        122
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 122,
+          "portuguese_original": "(o) abatanado",
+          "english_original": "long black coffee",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "abordar",
+      "english": "to address",
+      "ukrainian": "порушувати тему; звертатися",
+      "level": "B1",
+      "groups": [
+        "Communication",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        123
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 123,
+          "portuguese_original": "abordar",
+          "english_original": "to address",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "abrandar",
+      "english": "to slow down",
+      "ukrainian": "сповільнювати; помʼякшувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        124
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 124,
+          "portuguese_original": "abrandar",
+          "english_original": "to slow down",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "abrigo",
+      "english": "shelter",
+      "ukrainian": "притулок; укриття",
+      "level": "B1",
+      "groups": [
+        "Places"
+      ],
+      "source_row_ids": [
+        125
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 125,
+          "portuguese_original": "(o) abrigo",
+          "english_original": "shelter",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "abrupto",
+      "english": "abrupt",
+      "ukrainian": "раптовий; різкий",
+      "level": "B2",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        126
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 126,
+          "portuguese_original": "abrupto",
+          "english_original": "abrupt",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "absorção",
+      "english": "uptake",
+      "ukrainian": "поглинання; засвоєння",
+      "level": "B2",
+      "groups": [
+        "Emergencies and Health"
+      ],
+      "source_row_ids": [
+        127
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 127,
+          "portuguese_original": "(a) absorção",
+          "english_original": "uptake",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "acabar",
+      "english": "to finish; to end",
+      "ukrainian": "закінчувати",
+      "level": "A1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        128
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 128,
+          "portuguese_original": "acabar por",
+          "english_original": "to end up",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "acender",
+      "english": "to light",
+      "ukrainian": "запалювати; вмикати світло",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        129
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 129,
+          "portuguese_original": "acender",
+          "english_original": "to light",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "acentuar",
+      "english": "to heighten",
+      "ukrainian": "посилювати; наголошувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        130
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 130,
+          "portuguese_original": "acentuar",
+          "english_original": "to heighten",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ácido",
+      "english": "acidic/sour",
+      "ukrainian": "кислий; кислотний",
+      "level": "A2",
+      "groups": [
+        "Adjectives",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        131
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 131,
+          "portuguese_original": "ácido",
+          "english_original": "acidic/sour",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aço",
+      "english": "steel",
+      "ukrainian": "сталь",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        132
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 132,
+          "portuguese_original": "(o) aço",
+          "english_original": "steel",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "acontecimento",
+      "english": "event",
+      "ukrainian": "подія",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        133
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 133,
+          "portuguese_original": "(o) acontecimento",
+          "english_original": "event",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "açucarado",
+      "english": "sugary",
+      "ukrainian": "солодкий; підсолоджений",
+      "level": "B1",
+      "groups": [
+        "Adjectives",
+        "Food and Drink"
+      ],
+      "source_row_ids": [
+        134
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 134,
+          "portuguese_original": "açucarado",
+          "english_original": "sugary",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "acumulado",
+      "english": "accumulated",
+      "ukrainian": "накопичений",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        135
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 135,
+          "portuguese_original": "acumulado",
+          "english_original": "accumulated",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "acumular",
+      "english": "to build up",
+      "ukrainian": "накопичувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        136
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 136,
+          "portuguese_original": "acumular",
+          "english_original": "to build up",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adequado",
+      "english": "appropriate",
+      "ukrainian": "відповідний; доречний",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        137
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 137,
+          "portuguese_original": "adequado",
+          "english_original": "appropriate",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adiamento",
+      "english": "postponement",
+      "ukrainian": "відкладення; перенесення",
+      "level": "B1",
+      "groups": [
+        "Time"
+      ],
+      "source_row_ids": [
+        138
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 138,
+          "portuguese_original": "(o) adiamento",
+          "english_original": "postponement",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adiar",
+      "english": "to delay",
+      "ukrainian": "відкладати; переносити",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        139
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 139,
+          "portuguese_original": "adiar",
+          "english_original": "to delay",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adicional",
+      "english": "additional",
+      "ukrainian": "додатковий",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        140
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 140,
+          "portuguese_original": "adicional",
+          "english_original": "additional",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adivinhar",
+      "english": "to guess",
+      "ukrainian": "вгадувати",
+      "level": "A2",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        141
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 141,
+          "portuguese_original": "adivinhar",
+          "english_original": "to guess",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "adquirir",
+      "english": "to purchase",
+      "ukrainian": "купувати; набувати",
+      "level": "B1",
+      "groups": [
+        "Shopping and Payments",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        142
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 142,
+          "portuguese_original": "adquirir",
+          "english_original": "to purchase",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "afetar",
+      "english": "to affect",
+      "ukrainian": "впливати; уражати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        143
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 143,
+          "portuguese_original": "afetar",
+          "english_original": "to affect",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "agendar",
+      "english": "to schedule",
+      "ukrainian": "планувати; призначати час",
+      "level": "B1",
+      "groups": [
+        "Time",
+        "Verbs"
+      ],
+      "source_row_ids": [
+        144
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 144,
+          "portuguese_original": "agendar",
+          "english_original": "to schedule",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "agente",
+      "english": "agent",
+      "ukrainian": "агент",
+      "level": "B1",
+      "groups": [
+        "Occupations"
+      ],
+      "source_row_ids": [
+        145
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 145,
+          "portuguese_original": "(o) agente",
+          "english_original": "agent",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ágil",
+      "english": "agile",
+      "ukrainian": "спритний; рухливий",
+      "level": "B1",
+      "groups": [
+        "Adjectives"
+      ],
+      "source_row_ids": [
+        146
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 146,
+          "portuguese_original": "ágil",
+          "english_original": "agile",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "agravar",
+      "english": "to worsen",
+      "ukrainian": "погіршувати; загострювати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        147
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 147,
+          "portuguese_original": "agravar",
+          "english_original": "to worsen",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "agressividade",
+      "english": "aggressiveness",
+      "ukrainian": "агресивність",
+      "level": "B1",
+      "groups": [
+        "Emotions"
+      ],
+      "source_row_ids": [
+        148
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 148,
+          "portuguese_original": "(a) agressividade",
+          "english_original": "aggressiveness",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aguaceiro",
+      "english": "shower",
+      "ukrainian": "злива; короткочасний дощ",
+      "level": "B1",
+      "groups": [
+        "Weather"
+      ],
+      "source_row_ids": [
+        149
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 149,
+          "portuguese_original": "(o) aguaceiro",
+          "english_original": "shower",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "aguardar",
+      "english": "to wait",
+      "ukrainian": "очікувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        150
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 150,
+          "portuguese_original": "aguardar",
+          "english_original": "to wait",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ainda",
+      "english": "still; yet; even",
+      "ukrainian": "ще; досі; навіть",
+      "level": "A1",
+      "groups": [
+        "Adverbs"
+      ],
+      "source_row_ids": [
+        151
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 151,
+          "portuguese_original": "ainda que",
+          "english_original": "even though",
+          "role": "individually translated component; original English describes the full expression"
+        }
+      ]
+    },
+    {
+      "portuguese": "ajustamento",
+      "english": "adjustment",
+      "ukrainian": "коригування; пристосування",
+      "level": "B1",
+      "groups": [
+        "Miscellaneous"
+      ],
+      "source_row_ids": [
+        152
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 152,
+          "portuguese_original": "(o) ajustamento",
+          "english_original": "adjustment",
+          "role": "individual source word"
+        }
+      ]
+    },
+    {
+      "portuguese": "ajustar",
+      "english": "to adjust",
+      "ukrainian": "пристосовувати; коригувати",
+      "level": "B1",
+      "groups": [
+        "Verbs"
+      ],
+      "source_row_ids": [
+        153
+      ],
+      "source_senses": [
+        {
+          "source_row_id": 153,
+          "portuguese_original": "ajustar",
+          "english_original": "to adjust",
+          "role": "individual source word"
+        }
+      ]
+    }
+  ]
+}

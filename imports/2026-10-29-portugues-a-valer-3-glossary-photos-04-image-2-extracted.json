@@ -1,0 +1,842 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-2",
+  "source_files": [
+    {
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/66ea1fe0-8e45-4f93-9393-10ba7e09ac4b/1000058774.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/2-1000058774.jpg",
+      "sha256": "6f94c48ec6583fcee1eb09e51ac0a873ea98b4b86f26459c3c412c4682728f5b"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 50
+  },
+  "rows": [
+    {
+      "id": 42,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 1,
+      "portuguese_original": "lidar (com)",
+      "english_original": "to deal (with)",
+      "normalized_words": [
+        "lidar",
+        "com"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 2,
+      "portuguese_original": "(a) ligação ferroviária",
+      "english_original": "rail link",
+      "normalized_words": [
+        "ligação",
+        "ferroviária"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 3,
+      "portuguese_original": "ligeiro",
+      "english_original": "slight",
+      "normalized_words": [
+        "ligeiro"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 4,
+      "portuguese_original": "limpo",
+      "english_original": "clear",
+      "normalized_words": [
+        "limpo"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 5,
+      "portuguese_original": "(a) linhaça",
+      "english_original": "linseed",
+      "normalized_words": [
+        "linhaça"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 6,
+      "portuguese_original": "listar",
+      "english_original": "to list",
+      "normalized_words": [
+        "listar"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 7,
+      "portuguese_original": "(o) lítio",
+      "english_original": "lithium",
+      "normalized_words": [
+        "lítio"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 8,
+      "portuguese_original": "(o) livro aos quadradinhos",
+      "english_original": "comic book",
+      "normalized_words": [
+        "livro",
+        "aos",
+        "quadradinhos"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 9,
+      "portuguese_original": "(a) longevidade",
+      "english_original": "longevity",
+      "normalized_words": [
+        "longevidade"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 10,
+      "portuguese_original": "(os) lugares marcados",
+      "english_original": "designated seat",
+      "normalized_words": [
+        "lugares",
+        "marcados"
+      ],
+      "enrichment_note": "Source gloss designated seat is singular whereas the Portuguese label is plural."
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 11,
+      "portuguese_original": "(a) madrugada",
+      "english_original": "early morning",
+      "normalized_words": [
+        "madrugada"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 12,
+      "portuguese_original": "(a) maiúscula",
+      "english_original": "upper case",
+      "normalized_words": [
+        "maiúscula"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 13,
+      "portuguese_original": "(o) mal",
+      "english_original": "illness",
+      "normalized_words": [
+        "mal"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 14,
+      "portuguese_original": "mal-humorado",
+      "english_original": "bad-tempered",
+      "normalized_words": [
+        "mal-humorado"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 15,
+      "portuguese_original": "(a) maldade",
+      "english_original": "wickedness",
+      "normalized_words": [
+        "maldade"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 16,
+      "portuguese_original": "malhado",
+      "english_original": "mottled",
+      "normalized_words": [
+        "malhado"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 17,
+      "portuguese_original": "(a) malta",
+      "english_original": "group",
+      "normalized_words": [
+        "malta"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 18,
+      "portuguese_original": "(a) manifestação",
+      "english_original": "demonstration",
+      "normalized_words": [
+        "manifestação"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 19,
+      "portuguese_original": "(a) manutenção",
+      "english_original": "maintenance",
+      "normalized_words": [
+        "manutenção"
+      ]
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 20,
+      "portuguese_original": "marcante",
+      "english_original": "striking",
+      "normalized_words": [
+        "marcante"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 21,
+      "portuguese_original": "marcar",
+      "english_original": "to schedule",
+      "normalized_words": [
+        "marcar"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 22,
+      "portuguese_original": "marmitar",
+      "english_original": "to bring/eat a packed lunch",
+      "normalized_words": [
+        "marmitar"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 23,
+      "portuguese_original": "(a) massa de ar",
+      "english_original": "volume of air",
+      "normalized_words": [
+        "massa",
+        "de",
+        "ar"
+      ],
+      "enrichment_note": "Printed volume of air is less precise than the meteorological term air mass."
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 24,
+      "portuguese_original": "massivo",
+      "english_original": "massive",
+      "normalized_words": [
+        "massivo"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 25,
+      "portuguese_original": "mastigar",
+      "english_original": "to chew",
+      "normalized_words": [
+        "mastigar"
+      ]
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 26,
+      "portuguese_original": "(a) matéria",
+      "english_original": "subject matter",
+      "normalized_words": [
+        "matéria"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 27,
+      "portuguese_original": "(a) matéria-prima",
+      "english_original": "raw materials",
+      "normalized_words": [
+        "matéria-prima"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 28,
+      "portuguese_original": "(o) material precioso",
+      "english_original": "precious material",
+      "normalized_words": [
+        "material",
+        "precioso"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 29,
+      "portuguese_original": "(a) média",
+      "english_original": "average",
+      "normalized_words": [
+        "média"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 30,
+      "portuguese_original": "(a) medicina curativa",
+      "english_original": "curative medicine",
+      "normalized_words": [
+        "medicina",
+        "curativa"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 31,
+      "portuguese_original": "(a) medicina preventiva",
+      "english_original": "preventive medicine",
+      "normalized_words": [
+        "medicina",
+        "preventiva"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 32,
+      "portuguese_original": "(a) medida",
+      "english_original": "measure",
+      "normalized_words": [
+        "medida"
+      ]
+    },
+    {
+      "id": 74,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 33,
+      "portuguese_original": "(a) melhoria",
+      "english_original": "improvement",
+      "normalized_words": [
+        "melhoria"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 34,
+      "portuguese_original": "mencionar",
+      "english_original": "to mention",
+      "normalized_words": [
+        "mencionar"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 35,
+      "portuguese_original": "menininho",
+      "english_original": "little boy",
+      "normalized_words": [
+        "menininho"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 36,
+      "portuguese_original": "(a/o) menor",
+      "english_original": "minor",
+      "normalized_words": [
+        "menor"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 37,
+      "portuguese_original": "meramente",
+      "english_original": "merely",
+      "normalized_words": [
+        "meramente"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 38,
+      "portuguese_original": "(o) mercado de trabalho",
+      "english_original": "labour market",
+      "normalized_words": [
+        "mercado",
+        "de",
+        "trabalho"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 39,
+      "portuguese_original": "mergulhar",
+      "english_original": "to dive",
+      "normalized_words": [
+        "mergulhar"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 2,
+      "page": null,
+      "page_identifier": "image-2",
+      "row_on_page": 40,
+      "portuguese_original": "(o) mérito",
+      "english_original": "merit",
+      "normalized_words": [
+        "mérito"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        15,
+        24,
+        64,
+        79,
+        106,
+        167,
+        174,
+        184
+      ]
+    },
+    {
+      "portuguese": "lidar",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "com",
+      "source_row_ids": [
+        42,
+        188
+      ]
+    },
+    {
+      "portuguese": "ligação",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "ferroviária",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "ligeiro",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "limpo",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "linhaça",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "listar",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "lítio",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "livro",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "aos",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "quadradinhos",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "longevidade",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "lugares",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "marcados",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "madrugada",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "maiúscula",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "mal",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "mal-humorado",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "maldade",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "malhado",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "malta",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "manifestação",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "manutenção",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "marcante",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "marcar",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "marmitar",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "massa",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "ar",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "massivo",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "mastigar",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "matéria",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "matéria-prima",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "material",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "precioso",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "média",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "medicina",
+      "source_row_ids": [
+        71,
+        72
+      ]
+    },
+    {
+      "portuguese": "curativa",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "preventiva",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "melhoria",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "mencionar",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "menininho",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "menor",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "meramente",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "mercado",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "trabalho",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "mergulhar",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "mérito",
+      "source_row_ids": [
+        81
+      ]
+    }
+  ]
+}

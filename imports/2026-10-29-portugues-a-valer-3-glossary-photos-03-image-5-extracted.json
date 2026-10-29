@@ -1,0 +1,817 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "page": null,
+  "page_identifier": "image-5",
+  "source_files": [
+    {
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/5b93a8df-0258-445a-930d-2ad41c7fe932/1000058776.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/5-1000058776.jpg",
+      "sha256": "9da46f5bf73f778841aaabfe8d387dfaed7f74436eb7b8e517ac1310923b331d"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 47
+  },
+  "rows": [
+    {
+      "id": 150,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 1,
+      "portuguese_original": "pregar",
+      "english_original": "to nail",
+      "normalized_words": [
+        "pregar"
+      ]
+    },
+    {
+      "id": 151,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 2,
+      "portuguese_original": "(o) prego",
+      "english_original": "nail",
+      "normalized_words": [
+        "prego"
+      ]
+    },
+    {
+      "id": 152,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 3,
+      "portuguese_original": "preguiçar",
+      "english_original": "to laze about",
+      "normalized_words": [
+        "preguiçar"
+      ]
+    },
+    {
+      "id": 153,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 4,
+      "portuguese_original": "prejudicial",
+      "english_original": "harmful",
+      "normalized_words": [
+        "prejudicial"
+      ]
+    },
+    {
+      "id": 154,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 5,
+      "portuguese_original": "preliminar",
+      "english_original": "preliminary",
+      "normalized_words": [
+        "preliminar"
+      ]
+    },
+    {
+      "id": 155,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 6,
+      "portuguese_original": "(a) premência",
+      "english_original": "urgent need",
+      "normalized_words": [
+        "premência"
+      ]
+    },
+    {
+      "id": 156,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 7,
+      "portuguese_original": "(o) prémio",
+      "english_original": "award",
+      "normalized_words": [
+        "prémio"
+      ]
+    },
+    {
+      "id": 157,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 8,
+      "portuguese_original": "prescrever",
+      "english_original": "to prescribe",
+      "normalized_words": [
+        "prescrever"
+      ]
+    },
+    {
+      "id": 158,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 9,
+      "portuguese_original": "(a) prestação de serviço",
+      "english_original": "service provision",
+      "normalized_words": [
+        "prestação",
+        "de",
+        "serviço"
+      ]
+    },
+    {
+      "id": 159,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 10,
+      "portuguese_original": "prever",
+      "english_original": "to expect",
+      "normalized_words": [
+        "prever"
+      ]
+    },
+    {
+      "id": 160,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 11,
+      "portuguese_original": "previamente",
+      "english_original": "previously",
+      "normalized_words": [
+        "previamente"
+      ]
+    },
+    {
+      "id": 161,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 12,
+      "portuguese_original": "(a) previsão meteorológica",
+      "english_original": "weather forecast",
+      "normalized_words": [
+        "previsão",
+        "meteorológica"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 13,
+      "portuguese_original": "previsível",
+      "english_original": "predictable",
+      "normalized_words": [
+        "previsível"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 14,
+      "portuguese_original": "previsivelmente",
+      "english_original": "predictably",
+      "normalized_words": [
+        "previsivelmente"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 15,
+      "portuguese_original": "primordial",
+      "english_original": "of prime importance",
+      "normalized_words": [
+        "primordial"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 16,
+      "portuguese_original": "(os) processados",
+      "english_original": "processed food",
+      "normalized_words": [
+        "processados"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 17,
+      "portuguese_original": "processar",
+      "english_original": "to process",
+      "normalized_words": [
+        "processar"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 18,
+      "portuguese_original": "(a) procrastinação",
+      "english_original": "procrastination",
+      "normalized_words": [
+        "procrastinação"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 19,
+      "portuguese_original": "procrastinador",
+      "english_original": "procrastinator",
+      "normalized_words": [
+        "procrastinador"
+      ]
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 20,
+      "portuguese_original": "procrastinar",
+      "english_original": "to procrastinate",
+      "normalized_words": [
+        "procrastinar"
+      ]
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 21,
+      "portuguese_original": "(o) professor catedrático",
+      "english_original": "full professor",
+      "normalized_words": [
+        "professor",
+        "catedrático"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 22,
+      "portuguese_original": "(a) profundeza",
+      "english_original": "depth",
+      "normalized_words": [
+        "profundeza"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 23,
+      "portuguese_original": "(a) programação",
+      "english_original": "programming",
+      "normalized_words": [
+        "programação"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 24,
+      "portuguese_original": "projetar",
+      "english_original": "to throw",
+      "normalized_words": [
+        "projetar"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 25,
+      "portuguese_original": "(o) projeto-piloto",
+      "english_original": "pilot project",
+      "normalized_words": [
+        "projeto-piloto"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 26,
+      "portuguese_original": "(o) projetor",
+      "english_original": "projector",
+      "normalized_words": [
+        "projetor"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 27,
+      "portuguese_original": "prolongar-se",
+      "english_original": "to extend",
+      "normalized_words": [
+        "prolongar",
+        "se"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 28,
+      "portuguese_original": "(o) promotor",
+      "english_original": "organiser",
+      "normalized_words": [
+        "promotor"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 29,
+      "portuguese_original": "propiciar",
+      "english_original": "to provide",
+      "normalized_words": [
+        "propiciar"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 30,
+      "portuguese_original": "propor",
+      "english_original": "to suggest",
+      "normalized_words": [
+        "propor"
+      ]
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 31,
+      "portuguese_original": "(a) proposta",
+      "english_original": "proposal",
+      "normalized_words": [
+        "proposta"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 32,
+      "portuguese_original": "proveniente (de)",
+      "english_original": "come (from)",
+      "normalized_words": [
+        "proveniente",
+        "de"
+      ],
+      "enrichment_note": "Portuguese is an adjective rather than a finite verb."
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 33,
+      "portuguese_original": "provocar",
+      "english_original": "to trigger",
+      "normalized_words": [
+        "provocar"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 34,
+      "portuguese_original": "(a) proximidade",
+      "english_original": "closeness",
+      "normalized_words": [
+        "proximidade"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 35,
+      "portuguese_original": "(o) público-alvo",
+      "english_original": "target group",
+      "normalized_words": [
+        "público-alvo"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 36,
+      "portuguese_original": "pulmonar",
+      "english_original": "lung-related",
+      "normalized_words": [
+        "pulmonar"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 37,
+      "portuguese_original": "(a) purificação",
+      "english_original": "cleansing",
+      "normalized_words": [
+        "purificação"
+      ]
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 38,
+      "portuguese_original": "purificar",
+      "english_original": "to cleanse",
+      "normalized_words": [
+        "purificar"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 39,
+      "portuguese_original": "quando quer que",
+      "english_original": "whenever",
+      "normalized_words": [
+        "quando",
+        "quer",
+        "que"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "row_on_page": 40,
+      "portuguese_original": "Que vergonha!",
+      "english_original": "How embarrassing!",
+      "normalized_words": [
+        "que",
+        "vergonha"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        3,
+        176
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        11,
+        68,
+        158,
+        181
+      ]
+    },
+    {
+      "portuguese": "pregar",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "prego",
+      "source_row_ids": [
+        151
+      ]
+    },
+    {
+      "portuguese": "preguiçar",
+      "source_row_ids": [
+        152
+      ]
+    },
+    {
+      "portuguese": "prejudicial",
+      "source_row_ids": [
+        153
+      ]
+    },
+    {
+      "portuguese": "preliminar",
+      "source_row_ids": [
+        154
+      ]
+    },
+    {
+      "portuguese": "premência",
+      "source_row_ids": [
+        155
+      ]
+    },
+    {
+      "portuguese": "prémio",
+      "source_row_ids": [
+        156
+      ]
+    },
+    {
+      "portuguese": "prescrever",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "prestação",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "serviço",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "prever",
+      "source_row_ids": [
+        159
+      ]
+    },
+    {
+      "portuguese": "previamente",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "meteorológica",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "previsível",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "previsivelmente",
+      "source_row_ids": [
+        163
+      ]
+    },
+    {
+      "portuguese": "primordial",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "processados",
+      "source_row_ids": [
+        165
+      ]
+    },
+    {
+      "portuguese": "processar",
+      "source_row_ids": [
+        166
+      ]
+    },
+    {
+      "portuguese": "procrastinação",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "procrastinador",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "procrastinar",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "professor",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "catedrático",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "profundeza",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "programação",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "projetar",
+      "source_row_ids": [
+        173
+      ]
+    },
+    {
+      "portuguese": "projeto-piloto",
+      "source_row_ids": [
+        174
+      ]
+    },
+    {
+      "portuguese": "projetor",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "prolongar",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "promotor",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "propiciar",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "propor",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "proposta",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "proveniente",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "provocar",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "proximidade",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "público-alvo",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "pulmonar",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "purificação",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "purificar",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "quando",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "vergonha",
+      "source_row_ids": [
+        189
+      ]
+    }
+  ]
+}

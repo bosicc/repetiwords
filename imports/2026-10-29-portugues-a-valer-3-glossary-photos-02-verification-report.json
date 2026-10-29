@@ -1,0 +1,58 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 200,
+    "distinct_source_labels": 200,
+    "unique_words": 222,
+    "rows_by_page": {
+      "202": 39,
+      "204": 40,
+      "206": 41,
+      "208": 40,
+      "210": 40
+    },
+    "rows_by_image": {
+      "1": 39,
+      "2": 40,
+      "3": 41,
+      "4": 40,
+      "5": 40
+    }
+  },
+  "checks": {
+    "batch_contract": "passed lib/word-import.js validateBatch without database initialization",
+    "source_photo_hashes": "passed 5/5",
+    "json_backup_hashes": "passed",
+    "page_json_backups": "passed 5/5",
+    "source_row_coverage": "passed 200/200",
+    "normalized_unique_words": 222,
+    "existing_group_names_only": true,
+    "database_connections": 0,
+    "database_writes": false
+  },
+  "comparison_with_previous_photo_batch": {
+    "overlapping_word_forms": 9,
+    "overlapping_words": [
+      "com",
+      "de",
+      "em",
+      "para",
+      "se",
+      "jurídico",
+      "que",
+      "a",
+      "por"
+    ],
+    "combined_source_rows": 396,
+    "combined_unique_words": 428,
+    "note": "Comparison only against photo batch 01, not against the live database. Each source batch remains independently replayable."
+  },
+  "limitations": [
+    "Portuguese and English columns transcribed visually; other languages and internal lesson-page reference numbers not transcribed.",
+    "Assistant Ukrainian translations, CEFR estimates, component translations and corrections have not been independently reviewed.",
+    "No live database duplicate/conflict comparison or import performed."
+  ],
+  "import_preview_command": "rtk npm run words:import -- imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-enriched.json --dry-run"
+}

@@ -1,0 +1,827 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "page": 212,
+  "page_identifier": "212",
+  "source_files": [
+    {
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/8b3809ee-8bf3-40ec-97a0-72f14799d6d8/1000058780.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/1-1000058780.jpg",
+      "sha256": "7baae2f02f164bc6e09e2dedd5c627c1e1847befdc27c23569be9e85152761a6"
+    }
+  ],
+  "counts": {
+    "source_rows": 41,
+    "unique_words": 47
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 1,
+      "portuguese_original": "são",
+      "english_original": "healthy",
+      "normalized_words": [
+        "são"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 2,
+      "portuguese_original": "satisfazer",
+      "english_original": "to satisfy",
+      "normalized_words": [
+        "satisfazer"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 3,
+      "portuguese_original": "se calhar",
+      "english_original": "maybe",
+      "normalized_words": [
+        "se",
+        "calhar"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 4,
+      "portuguese_original": "(a) seca",
+      "english_original": "drought",
+      "normalized_words": [
+        "seca"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 5,
+      "portuguese_original": "sectorial",
+      "english_original": "sectoral",
+      "normalized_words": [
+        "sectorial"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 6,
+      "portuguese_original": "sedentário",
+      "english_original": "sedentary",
+      "normalized_words": [
+        "sedentário"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 7,
+      "portuguese_original": "segundo",
+      "english_original": "according to",
+      "normalized_words": [
+        "segundo"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 8,
+      "portuguese_original": "(a) seguradora",
+      "english_original": "insurer",
+      "normalized_words": [
+        "seguradora"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 9,
+      "portuguese_original": "(a) segurança",
+      "english_original": "safety",
+      "normalized_words": [
+        "segurança"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 10,
+      "portuguese_original": "(a) Segurança Social",
+      "english_original": "Social Security",
+      "normalized_words": [
+        "segurança",
+        "social"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 11,
+      "portuguese_original": "(o) seguro de saúde",
+      "english_original": "health insurance",
+      "normalized_words": [
+        "seguro",
+        "de",
+        "saúde"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 12,
+      "portuguese_original": "(a) sela",
+      "english_original": "saddle",
+      "normalized_words": [
+        "sela"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 13,
+      "portuguese_original": "(o) selo",
+      "english_original": "stamp",
+      "normalized_words": [
+        "selo"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 14,
+      "portuguese_original": "(o) sem-número",
+      "english_original": "countless",
+      "normalized_words": [
+        "sem-número"
+      ],
+      "enrichment_note": "The article marks a noun, not the adjective countless."
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 15,
+      "portuguese_original": "sentenciar",
+      "english_original": "to pronounce",
+      "normalized_words": [
+        "sentenciar"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 16,
+      "portuguese_original": "ser obrigado a",
+      "english_original": "to be obliged to",
+      "normalized_words": [
+        "ser",
+        "obrigado",
+        "a"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 17,
+      "portuguese_original": "(a) série",
+      "english_original": "series",
+      "normalized_words": [
+        "série"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 18,
+      "portuguese_original": "(o) servo",
+      "english_original": "servant",
+      "normalized_words": [
+        "servo"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 19,
+      "portuguese_original": "siamês",
+      "english_original": "siamese",
+      "normalized_words": [
+        "siamês"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 20,
+      "portuguese_original": "simétrico",
+      "english_original": "symmetrical",
+      "normalized_words": [
+        "simétrico"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 21,
+      "portuguese_original": "simultâneo",
+      "english_original": "simultaneous",
+      "normalized_words": [
+        "simultâneo"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 22,
+      "portuguese_original": "(o) sindicato",
+      "english_original": "union",
+      "normalized_words": [
+        "sindicato"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 23,
+      "portuguese_original": "(a) síndrome",
+      "english_original": "syndrome",
+      "normalized_words": [
+        "síndrome"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 24,
+      "portuguese_original": "singular",
+      "english_original": "unique",
+      "normalized_words": [
+        "singular"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 25,
+      "portuguese_original": "(a) sinopse",
+      "english_original": "synopsis",
+      "normalized_words": [
+        "sinopse"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 26,
+      "portuguese_original": "sintetizar",
+      "english_original": "to summarise",
+      "normalized_words": [
+        "sintetizar"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 27,
+      "portuguese_original": "(o) sintoma",
+      "english_original": "symptom",
+      "normalized_words": [
+        "sintoma"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 28,
+      "portuguese_original": "(o) sismo",
+      "english_original": "earthquake",
+      "normalized_words": [
+        "sismo"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 29,
+      "portuguese_original": "(o) sistema digestivo",
+      "english_original": "digestive system",
+      "normalized_words": [
+        "sistema",
+        "digestivo"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 30,
+      "portuguese_original": "sobrecarregado",
+      "english_original": "overwhelmed",
+      "normalized_words": [
+        "sobrecarregado"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 31,
+      "portuguese_original": "sobrepor",
+      "english_original": "to overlap",
+      "normalized_words": [
+        "sobrepor"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 32,
+      "portuguese_original": "sobretudo",
+      "english_original": "above all",
+      "normalized_words": [
+        "sobretudo"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 33,
+      "portuguese_original": "(o) sódio",
+      "english_original": "sodium",
+      "normalized_words": [
+        "sódio"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 34,
+      "portuguese_original": "(a) soja",
+      "english_original": "soya",
+      "normalized_words": [
+        "soja"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 35,
+      "portuguese_original": "solicitar",
+      "english_original": "to request",
+      "normalized_words": [
+        "solicitar"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 36,
+      "portuguese_original": "(a) sonolência",
+      "english_original": "drowsiness",
+      "normalized_words": [
+        "sonolência"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 37,
+      "portuguese_original": "(a) subsistência",
+      "english_original": "subsistence",
+      "normalized_words": [
+        "subsistência"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 38,
+      "portuguese_original": "substituir",
+      "english_original": "to replace",
+      "normalized_words": [
+        "substituir"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 39,
+      "portuguese_original": "sufocar",
+      "english_original": "to smother",
+      "normalized_words": [
+        "sufocar"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 40,
+      "portuguese_original": "superar",
+      "english_original": "to overcome",
+      "normalized_words": [
+        "superar"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "row_on_page": 41,
+      "portuguese_original": "supersticioso",
+      "english_original": "superstitious",
+      "normalized_words": [
+        "supersticioso"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "são",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "satisfazer",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        3,
+        176
+      ]
+    },
+    {
+      "portuguese": "calhar",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "seca",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "sectorial",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "sedentário",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "seguradora",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "segurança",
+      "source_row_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "portuguese": "social",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        11,
+        68,
+        158,
+        181
+      ]
+    },
+    {
+      "portuguese": "saúde",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "sela",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "selo",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "sem-número",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "sentenciar",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "série",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "servo",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "siamês",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "simétrico",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "simultâneo",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "sindicato",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "síndrome",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "singular",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "sinopse",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "sintetizar",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "sintoma",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "sismo",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "sistema",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "digestivo",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "sobrecarregado",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "sobrepor",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "sobretudo",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "sódio",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "soja",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "solicitar",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "sonolência",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "subsistência",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "substituir",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "sufocar",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "superar",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "supersticioso",
+      "source_row_ids": [
+        41
+      ]
+    }
+  ]
+}

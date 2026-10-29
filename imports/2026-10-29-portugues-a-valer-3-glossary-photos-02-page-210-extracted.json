@@ -1,0 +1,777 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 202, 204, 206, 208 and 210",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visually transcribed the Portuguese and English columns. Other language columns and internal lesson-page numbers were not transcribed.",
+    "Original expressions, articles and capitalization are preserved in source rows. Vocabulary uses lowercase NFC word forms; article annotations are removed.",
+    "Expressions and reflexive clitics are split into individually translated components. Lexical compounds pré-fabricar are retained. Other inflected forms (e.g. raízes, fritos, recursos, humanos, inúmeros) remain distinct.",
+    "English source glosses are retained verbatim in extracted rows/source_senses; assistant corrections and component translations are distinguished from printed meanings.",
+    "Individual CEFR levels, Ukrainian translations, thematic groups and corrected/component English are assistant supplied, not independently reviewed. B1 is the user-supplied book level, not a level assigned mechanically to every entry.",
+    "Only thematic/grammatical groups are used. Provenance, pages and batch numbers remain metadata.",
+    "No database connection, conflict check or import is performed during preparation.",
+    "Fixed-expression components such as obstante and entanto have limited standalone use; preserve their source phrase context in source_senses."
+  ],
+  "page": 210,
+  "source_files": [
+    {
+      "image": 5,
+      "page": 210,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/a19d434c-a416-49b5-8dc2-e051670c6f93/b95e592e-de62-4b5c-b000-ad4569bcf3c8/1000058781.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-02-sources/5-1000058781.jpg",
+      "sha256": "dc9b416359113b704dbcee930f33b4481281c17646465cc6418fbfe1f2687941"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 46
+  },
+  "rows": [
+    {
+      "id": 161,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 1,
+      "portuguese_original": "(a) quebra",
+      "english_original": "fall",
+      "normalized_words": [
+        "quebra"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 2,
+      "portuguese_original": "(a) queixa",
+      "english_original": "complaint",
+      "normalized_words": [
+        "queixa"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 3,
+      "portuguese_original": "queixar-se (de)",
+      "english_original": "to complain (of)",
+      "normalized_words": [
+        "queixar",
+        "se",
+        "de"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 4,
+      "portuguese_original": "quem me dera",
+      "english_original": "I wish",
+      "normalized_words": [
+        "quem",
+        "me",
+        "dera"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 5,
+      "portuguese_original": "quem quer que",
+      "english_original": "whoever",
+      "normalized_words": [
+        "quem",
+        "quer",
+        "que"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 6,
+      "portuguese_original": "quer... quer...",
+      "english_original": "whether... or...",
+      "normalized_words": [
+        "quer"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 7,
+      "portuguese_original": "(o) quintal",
+      "english_original": "back garden",
+      "normalized_words": [
+        "quintal"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 8,
+      "portuguese_original": "(o) raio de sol",
+      "english_original": "ray of sunshine",
+      "normalized_words": [
+        "raio",
+        "de",
+        "sol"
+      ]
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 9,
+      "portuguese_original": "(as) raízes",
+      "english_original": "roots",
+      "normalized_words": [
+        "raízes"
+      ]
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 10,
+      "portuguese_original": "readaptar",
+      "english_original": "to readjust",
+      "normalized_words": [
+        "readaptar"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 11,
+      "portuguese_original": "(o) realizador",
+      "english_original": "director",
+      "normalized_words": [
+        "realizador"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 12,
+      "portuguese_original": "(o) reaproveitamento",
+      "english_original": "repurposing",
+      "normalized_words": [
+        "reaproveitamento"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 13,
+      "portuguese_original": "(o) receio",
+      "english_original": "fear",
+      "normalized_words": [
+        "receio"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 14,
+      "portuguese_original": "reciclar",
+      "english_original": "to recycle",
+      "normalized_words": [
+        "reciclar"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 15,
+      "portuguese_original": "recíproco",
+      "english_original": "reciprocal",
+      "normalized_words": [
+        "recíproco"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 16,
+      "portuguese_original": "(a) recolha",
+      "english_original": "collection",
+      "normalized_words": [
+        "recolha"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 17,
+      "portuguese_original": "recolher",
+      "english_original": "to gather",
+      "normalized_words": [
+        "recolher"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 18,
+      "portuguese_original": "recomendar",
+      "english_original": "to recommend",
+      "normalized_words": [
+        "recomendar"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 19,
+      "portuguese_original": "(a) reconquista",
+      "english_original": "to regain",
+      "normalized_words": [
+        "reconquista"
+      ],
+      "enrichment_note": "Printed to regain is verbal; reconquista with article is a noun."
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 20,
+      "portuguese_original": "(o) recurso",
+      "english_original": "resource",
+      "normalized_words": [
+        "recurso"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 21,
+      "portuguese_original": "(os) Recursos Humanos",
+      "english_original": "human resources",
+      "normalized_words": [
+        "recursos",
+        "humanos"
+      ]
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 22,
+      "portuguese_original": "(a) redução",
+      "english_original": "reduction",
+      "normalized_words": [
+        "redução"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 23,
+      "portuguese_original": "reduzir",
+      "english_original": "to reduce",
+      "normalized_words": [
+        "reduzir"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 24,
+      "portuguese_original": "reembolsar",
+      "english_original": "to refund",
+      "normalized_words": [
+        "reembolsar"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 25,
+      "portuguese_original": "(o) reembolso",
+      "english_original": "refund",
+      "normalized_words": [
+        "reembolso"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 26,
+      "portuguese_original": "(o) reencaminhamento",
+      "english_original": "referral",
+      "normalized_words": [
+        "reencaminhamento"
+      ]
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 27,
+      "portuguese_original": "(os) refinados",
+      "english_original": "refined food",
+      "normalized_words": [
+        "refinados"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 28,
+      "portuguese_original": "(o) reforço",
+      "english_original": "strengthening",
+      "normalized_words": [
+        "reforço"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 29,
+      "portuguese_original": "(o) refrigerante",
+      "english_original": "soft drink",
+      "normalized_words": [
+        "refrigerante"
+      ]
+    },
+    {
+      "id": 190,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 30,
+      "portuguese_original": "regenerar",
+      "english_original": "to regenerate",
+      "normalized_words": [
+        "regenerar"
+      ]
+    },
+    {
+      "id": 191,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 31,
+      "portuguese_original": "reger",
+      "english_original": "to govern",
+      "normalized_words": [
+        "reger"
+      ]
+    },
+    {
+      "id": 192,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 32,
+      "portuguese_original": "(o) regime",
+      "english_original": "policy",
+      "normalized_words": [
+        "regime"
+      ],
+      "enrichment_note": "Printed policy is contextual; broader dictionary-style meanings retained for individual-word practice."
+    },
+    {
+      "id": 193,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 33,
+      "portuguese_original": "registar",
+      "english_original": "to register",
+      "normalized_words": [
+        "registar"
+      ]
+    },
+    {
+      "id": 194,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 34,
+      "portuguese_original": "regulamentar",
+      "english_original": "to govern",
+      "normalized_words": [
+        "regulamentar"
+      ]
+    },
+    {
+      "id": 195,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 35,
+      "portuguese_original": "(o) rejuvenescimento",
+      "english_original": "renewal",
+      "normalized_words": [
+        "rejuvenescimento"
+      ],
+      "enrichment_note": "More precise standalone meaning than printed renewal."
+    },
+    {
+      "id": 196,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 36,
+      "portuguese_original": "(o) relâmpago",
+      "english_original": "lightning",
+      "normalized_words": [
+        "relâmpago"
+      ]
+    },
+    {
+      "id": 197,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 37,
+      "portuguese_original": "relaxado",
+      "english_original": "relaxed",
+      "normalized_words": [
+        "relaxado"
+      ]
+    },
+    {
+      "id": 198,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 38,
+      "portuguese_original": "(o) relaxamento",
+      "english_original": "relaxation",
+      "normalized_words": [
+        "relaxamento"
+      ]
+    },
+    {
+      "id": 199,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 39,
+      "portuguese_original": "relegar",
+      "english_original": "to relegate",
+      "normalized_words": [
+        "relegar"
+      ]
+    },
+    {
+      "id": 200,
+      "image": 5,
+      "page": 210,
+      "row_on_page": 40,
+      "portuguese_original": "(a) relevância",
+      "english_original": "importance",
+      "normalized_words": [
+        "relevância"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        3,
+        4,
+        91,
+        101,
+        147,
+        153,
+        163,
+        168
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        11,
+        87,
+        163
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        80,
+        108,
+        165
+      ]
+    },
+    {
+      "portuguese": "quebra",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "queixa",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "queixar",
+      "source_row_ids": [
+        163
+      ]
+    },
+    {
+      "portuguese": "quem",
+      "source_row_ids": [
+        164,
+        165
+      ]
+    },
+    {
+      "portuguese": "me",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "dera",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "source_row_ids": [
+        165,
+        166
+      ]
+    },
+    {
+      "portuguese": "quintal",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "raio",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "sol",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "raízes",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "readaptar",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "realizador",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "reaproveitamento",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "receio",
+      "source_row_ids": [
+        173
+      ]
+    },
+    {
+      "portuguese": "reciclar",
+      "source_row_ids": [
+        174
+      ]
+    },
+    {
+      "portuguese": "recíproco",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "recolha",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "recolher",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "recomendar",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "reconquista",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "recurso",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "recursos",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "humanos",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "redução",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "reduzir",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "reembolsar",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "reembolso",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "reencaminhamento",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "refinados",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "reforço",
+      "source_row_ids": [
+        188
+      ]
+    },
+    {
+      "portuguese": "refrigerante",
+      "source_row_ids": [
+        189
+      ]
+    },
+    {
+      "portuguese": "regenerar",
+      "source_row_ids": [
+        190
+      ]
+    },
+    {
+      "portuguese": "reger",
+      "source_row_ids": [
+        191
+      ]
+    },
+    {
+      "portuguese": "regime",
+      "source_row_ids": [
+        192
+      ]
+    },
+    {
+      "portuguese": "registar",
+      "source_row_ids": [
+        193
+      ]
+    },
+    {
+      "portuguese": "regulamentar",
+      "source_row_ids": [
+        194
+      ]
+    },
+    {
+      "portuguese": "rejuvenescimento",
+      "source_row_ids": [
+        195
+      ]
+    },
+    {
+      "portuguese": "relâmpago",
+      "source_row_ids": [
+        196
+      ]
+    },
+    {
+      "portuguese": "relaxado",
+      "source_row_ids": [
+        197
+      ]
+    },
+    {
+      "portuguese": "relaxamento",
+      "source_row_ids": [
+        198
+      ]
+    },
+    {
+      "portuguese": "relegar",
+      "source_row_ids": [
+        199
+      ]
+    },
+    {
+      "portuguese": "relevância",
+      "source_row_ids": [
+        200
+      ]
+    }
+  ]
+}

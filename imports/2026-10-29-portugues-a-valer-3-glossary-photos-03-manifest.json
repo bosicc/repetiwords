@@ -1,0 +1,121 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "source_files": [
+    {
+      "image": 1,
+      "page": 212,
+      "page_identifier": "212",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/8b3809ee-8bf3-40ec-97a0-72f14799d6d8/1000058780.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/1-1000058780.jpg",
+      "sha256": "7baae2f02f164bc6e09e2dedd5c627c1e1847befdc27c23569be9e85152761a6"
+    },
+    {
+      "image": 2,
+      "page": 214,
+      "page_identifier": "214",
+      "page_number_status": "visible",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/d6203546-1c7f-4bad-aec7-6d7d3c8048e6/1000058779.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/2-1000058779.jpg",
+      "sha256": "1b5cb693a6d0c434fd1ab2235ef5df23074c7059717b7abedc06996d3ed6b7a6"
+    },
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/801fe19a-e196-4809-ac40-95ccd9b45e17/1000058778.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/3-1000058778.jpg",
+      "sha256": "e40142f36a6392ec7a458bc4ea9fb5690e0faf00140de7c00f7f004191783304"
+    },
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/c09c4c9c-67d5-40a2-a3aa-3c78e246d474/1000058777.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/4-1000058777.jpg",
+      "sha256": "3cb550a8833d9ed4d49d5dc2d3445e40518cfdf857c04222e4860a13b3f8450f"
+    },
+    {
+      "image": 5,
+      "page": null,
+      "page_identifier": "image-5",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/5b93a8df-0258-445a-930d-2ad41c7fe932/1000058776.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/5-1000058776.jpg",
+      "sha256": "9da46f5bf73f778841aaabfe8d387dfaed7f74436eb7b8e517ac1310923b331d"
+    }
+  ],
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 189,
+    "distinct_source_labels": 187,
+    "unique_words": 212,
+    "rows_by_page_identifier": {
+      "212": 41,
+      "214": 28,
+      "image-3": 40,
+      "image-4": 40,
+      "image-5": 40
+    },
+    "rows_by_image": {
+      "1": 41,
+      "2": 28,
+      "3": 40,
+      "4": 40,
+      "5": 40
+    }
+  },
+  "files": [
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-extracted.json",
+      "sha256": "9728ac1682f86a0abb7721f5edf93bdedff783bc20962d288fa07d922778d1a8"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-enriched.json",
+      "sha256": "a66e394ef5173f80423510a38387ea3c94342dd69fc40eee1978b6003f24559b"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-page-212-extracted.json",
+      "sha256": "c2aa5b37163e6c13d592f5aad8cccc3b195c0ea3f645996de02726ca47b486b3"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-page-214-extracted.json",
+      "sha256": "2ddab8e4fda4b6a96936a97ad95af6875aa42fc14344e23e2359bea6153df1ee"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-image-3-extracted.json",
+      "sha256": "30682cf76fa767ddb02266741c7a55c0f0510206e42b18c3ce01d9833a4c910c"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-image-4-extracted.json",
+      "sha256": "490dacb17f5b0a3eb2eeec1e697006b8eff32d4c9bf3a1f19c1f62d44e0522b5"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-image-5-extracted.json",
+      "sha256": "d91f7284b8dc4af45c3a120203a9b2f32c26b1545fab2368f383d36fe16313ac"
+    },
+    {
+      "path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-verification-report.json",
+      "sha256": "a02675cfb9b49824b59fe11be670bdcdefd7e4218ccfa444b0cee8638b3c1ad9"
+    }
+  ],
+  "database_writes": false,
+  "verification_report": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-verification-report.json"
+}

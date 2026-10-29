@@ -1,0 +1,779 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-3",
+  "source_files": [
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/8652a21f-764b-4c75-bc91-5107793223ca/1000058773.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/3-1000058773.jpg",
+      "sha256": "32ece8c7f5606ec69c796268217dfc597292dc2bbe68c73b0c9752f3455e89ec"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 42
+  },
+  "rows": [
+    {
+      "id": 82,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 1,
+      "portuguese_original": "(o) gasóleo",
+      "english_original": "diesel",
+      "normalized_words": [
+        "gasóleo"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 2,
+      "portuguese_original": "(a) gasolina",
+      "english_original": "petrol",
+      "normalized_words": [
+        "gasolina"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 3,
+      "portuguese_original": "gastador",
+      "english_original": "spendthrift",
+      "normalized_words": [
+        "gastador"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 4,
+      "portuguese_original": "gerir",
+      "english_original": "to manage",
+      "normalized_words": [
+        "gerir"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 5,
+      "portuguese_original": "germinar",
+      "english_original": "to germinate",
+      "normalized_words": [
+        "germinar"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 6,
+      "portuguese_original": "(o) glúten",
+      "english_original": "gluten",
+      "normalized_words": [
+        "glúten"
+      ]
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 7,
+      "portuguese_original": "(a) gordura",
+      "english_original": "fat",
+      "normalized_words": [
+        "gordura"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 8,
+      "portuguese_original": "(a) gordura insaturada",
+      "english_original": "unsaturated fat",
+      "normalized_words": [
+        "gordura",
+        "insaturada"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 9,
+      "portuguese_original": "(a) gordura monoinsaturada",
+      "english_original": "monounsaturated fat",
+      "normalized_words": [
+        "gordura",
+        "monoinsaturada"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 10,
+      "portuguese_original": "(a) gordura poliinsaturada",
+      "english_original": "polyunsaturated",
+      "normalized_words": [
+        "gordura",
+        "poli-insaturada"
+      ],
+      "enrichment_note": "Preserve printed poliinsaturada in the source label; prepare the standard hyphenated adjective poli-insaturada. Source gloss omits the noun fat."
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 11,
+      "portuguese_original": "(a) gordura saturada",
+      "english_original": "saturated fat",
+      "normalized_words": [
+        "gordura",
+        "saturada"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 12,
+      "portuguese_original": "(o) gosto",
+      "english_original": "taste",
+      "normalized_words": [
+        "gosto"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 13,
+      "portuguese_original": "(a) gravação",
+      "english_original": "recording",
+      "normalized_words": [
+        "gravação"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 14,
+      "portuguese_original": "(os) grelos",
+      "english_original": "turnip greens",
+      "normalized_words": [
+        "grelos"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 15,
+      "portuguese_original": "(a) gruta",
+      "english_original": "cave",
+      "normalized_words": [
+        "gruta"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 16,
+      "portuguese_original": "guiado",
+      "english_original": "guided",
+      "normalized_words": [
+        "guiado"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 17,
+      "portuguese_original": "(os) guisados",
+      "english_original": "stews",
+      "normalized_words": [
+        "guisados"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 18,
+      "portuguese_original": "guloso",
+      "english_original": "sweet-toothed",
+      "normalized_words": [
+        "guloso"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 19,
+      "portuguese_original": "há quem...",
+      "english_original": "there are those who...",
+      "normalized_words": [
+        "há",
+        "quem"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 20,
+      "portuguese_original": "(a) habitação",
+      "english_original": "housing",
+      "normalized_words": [
+        "habitação"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 21,
+      "portuguese_original": "(a) hera",
+      "english_original": "ivy",
+      "normalized_words": [
+        "hera"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 22,
+      "portuguese_original": "(a) higienização",
+      "english_original": "sanitisation",
+      "normalized_words": [
+        "higienização"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 23,
+      "portuguese_original": "(a) hipertensão",
+      "english_original": "high blood pressure",
+      "normalized_words": [
+        "hipertensão"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 24,
+      "portuguese_original": "(a) hipótese",
+      "english_original": "possibility",
+      "normalized_words": [
+        "hipótese"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 25,
+      "portuguese_original": "(o) horário de expediente",
+      "english_original": "working hours",
+      "normalized_words": [
+        "horário",
+        "de",
+        "expediente"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 26,
+      "portuguese_original": "(a) hortênsia",
+      "english_original": "hydrangea",
+      "normalized_words": [
+        "hortênsia"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 27,
+      "portuguese_original": "(as/os) hortícolas",
+      "english_original": "vegetables",
+      "normalized_words": [
+        "hortícolas"
+      ]
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 28,
+      "portuguese_original": "idealizar",
+      "english_original": "to idealise",
+      "normalized_words": [
+        "idealizar"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 29,
+      "portuguese_original": "identificar",
+      "english_original": "to identify",
+      "normalized_words": [
+        "identificar"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 30,
+      "portuguese_original": "(o) idoso",
+      "english_original": "old person",
+      "normalized_words": [
+        "idoso"
+      ]
+    },
+    {
+      "id": 112,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 31,
+      "portuguese_original": "imersivo",
+      "english_original": "immersive",
+      "normalized_words": [
+        "imersivo"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 32,
+      "portuguese_original": "(a/o) imigrante",
+      "english_original": "immigrant",
+      "normalized_words": [
+        "imigrante"
+      ]
+    },
+    {
+      "id": 114,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 33,
+      "portuguese_original": "(a) implementação",
+      "english_original": "implementation",
+      "normalized_words": [
+        "implementação"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 34,
+      "portuguese_original": "implementar",
+      "english_original": "to implement",
+      "normalized_words": [
+        "implementar"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 35,
+      "portuguese_original": "imprescindível",
+      "english_original": "indispensable",
+      "normalized_words": [
+        "imprescindível"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 36,
+      "portuguese_original": "impressionante",
+      "english_original": "impressive",
+      "normalized_words": [
+        "impressionante"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 37,
+      "portuguese_original": "(a) inauguração",
+      "english_original": "inauguration",
+      "normalized_words": [
+        "inauguração"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 38,
+      "portuguese_original": "incendiar",
+      "english_original": "to catch fire",
+      "normalized_words": [
+        "incendiar"
+      ],
+      "enrichment_note": "Printed to catch fire is intransitive; incendiar is normally transitive. Catch fire is incendiar-se or pegar fogo."
+    },
+    {
+      "id": 120,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 39,
+      "portuguese_original": "(o) incêndio",
+      "english_original": "fire",
+      "normalized_words": [
+        "incêndio"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        15,
+        24,
+        64,
+        79,
+        106,
+        167,
+        174,
+        184
+      ]
+    },
+    {
+      "portuguese": "gasóleo",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "gasolina",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "gastador",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "gerir",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "germinar",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "glúten",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "gordura",
+      "source_row_ids": [
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "portuguese": "insaturada",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "monoinsaturada",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "poli-insaturada",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "saturada",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "gosto",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "gravação",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "grelos",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "gruta",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "guiado",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "guisados",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "guloso",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "há",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "quem",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "habitação",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "hera",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "higienização",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "hipertensão",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "hipótese",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "horário",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "expediente",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "hortênsia",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "hortícolas",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "idealizar",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "identificar",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "idoso",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "imersivo",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "imigrante",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "implementação",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "implementar",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "imprescindível",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "impressionante",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "inauguração",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "incendiar",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "incêndio",
+      "source_row_ids": [
+        120
+      ]
+    }
+  ]
+}

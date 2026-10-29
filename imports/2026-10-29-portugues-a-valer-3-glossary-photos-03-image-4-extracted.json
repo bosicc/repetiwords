@@ -1,0 +1,763 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of Portuguese and English columns only. Other languages and internal lesson-page numbers were not transcribed except the two suspender references (114 and 131) distinguishing duplicate rows.",
+    "Printed page numbers are visible only on images 1 (212) and 2 (214). Images 3, 4 and 5 retain page=null and stable image-based identifiers; no page numbers were guessed.",
+    "Preserve original articles, expressions, capitalization, punctuation, duplicate rows and source English in extracted JSON. Lowercase and NFC-normalize vocabulary and remove article annotations.",
+    "Split expressions and reflexive clitics into individually translated components. Preserve lexical compounds sem-número, xeque-mate, todo-o-terreno, projeto-piloto and público-alvo.",
+    "Keep inflected forms as printed (e.g. trisavós, baterias, recarregadas, pés, assentes); do not silently lemmatize.",
+    "Duplicate suspender source rows are preserved and merged into one word. The two vaga senses are preserved separately and merged into one word with both meanings.",
+    "Ukrainian translations, CEFR estimates, group assignments, English corrections and translations of components are assistant supplied and not independently reviewed.",
+    "Use only thematic/grammatical groups. The user-supplied B1 book level is metadata; individual estimated word levels may differ.",
+    "No database connection or import is performed. Each source batch is a separate replayable backup."
+  ],
+  "page": null,
+  "page_identifier": "image-4",
+  "source_files": [
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/cc5b3d9e-9ece-47e7-a80c-0141aa977af7/c09c4c9c-67d5-40a2-a3aa-3c78e246d474/1000058777.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-sources/4-1000058777.jpg",
+      "sha256": "3cb550a8833d9ed4d49d5dc2d3445e40518cfdf857c04222e4860a13b3f8450f"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 40
+  },
+  "rows": [
+    {
+      "id": 110,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 1,
+      "portuguese_original": "relevante",
+      "english_original": "important",
+      "normalized_words": [
+        "relevante"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 2,
+      "portuguese_original": "remediado",
+      "english_original": "to be of modest means",
+      "normalized_words": [
+        "remediado"
+      ],
+      "enrichment_note": "Portuguese entry is an adjective. Printed to be of modest means retained in source."
+    },
+    {
+      "id": 112,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 3,
+      "portuguese_original": "remunerar",
+      "english_original": "to pay (salary)",
+      "normalized_words": [
+        "remunerar"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 4,
+      "portuguese_original": "renal",
+      "english_original": "kidney",
+      "normalized_words": [
+        "renal"
+      ],
+      "enrichment_note": "Portuguese is an adjective; printed kidney is a noun."
+    },
+    {
+      "id": 114,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 5,
+      "portuguese_original": "(o) rendimento",
+      "english_original": "performance",
+      "normalized_words": [
+        "rendimento"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 6,
+      "portuguese_original": "(a) renovação",
+      "english_original": "renewal",
+      "normalized_words": [
+        "renovação"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 7,
+      "portuguese_original": "repartir",
+      "english_original": "to share",
+      "normalized_words": [
+        "repartir"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 8,
+      "portuguese_original": "repentino",
+      "english_original": "sudden",
+      "normalized_words": [
+        "repentino"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 9,
+      "portuguese_original": "repor",
+      "english_original": "to restock",
+      "normalized_words": [
+        "repor"
+      ]
+    },
+    {
+      "id": 119,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 10,
+      "portuguese_original": "reportar",
+      "english_original": "to report",
+      "normalized_words": [
+        "reportar"
+      ]
+    },
+    {
+      "id": 120,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 11,
+      "portuguese_original": "repousar",
+      "english_original": "to lie",
+      "normalized_words": [
+        "repousar"
+      ]
+    },
+    {
+      "id": 121,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 12,
+      "portuguese_original": "requerer",
+      "english_original": "to require",
+      "normalized_words": [
+        "requerer"
+      ]
+    },
+    {
+      "id": 122,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 13,
+      "portuguese_original": "(o) resíduo",
+      "english_original": "residue",
+      "normalized_words": [
+        "resíduo"
+      ]
+    },
+    {
+      "id": 123,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 14,
+      "portuguese_original": "resistir",
+      "english_original": "to survive",
+      "normalized_words": [
+        "resistir"
+      ],
+      "enrichment_note": "Printed to survive is contextual; preserve and clarify the base verb."
+    },
+    {
+      "id": 124,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 15,
+      "portuguese_original": "(a) resolução",
+      "english_original": "resolution",
+      "normalized_words": [
+        "resolução"
+      ]
+    },
+    {
+      "id": 125,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 16,
+      "portuguese_original": "(a) restauração",
+      "english_original": "restaurant business",
+      "normalized_words": [
+        "restauração"
+      ]
+    },
+    {
+      "id": 126,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 17,
+      "portuguese_original": "(a) restrição",
+      "english_original": "restriction",
+      "normalized_words": [
+        "restrição"
+      ]
+    },
+    {
+      "id": 127,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 18,
+      "portuguese_original": "restringir",
+      "english_original": "to restrict",
+      "normalized_words": [
+        "restringir"
+      ]
+    },
+    {
+      "id": 128,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 19,
+      "portuguese_original": "(o) resumo",
+      "english_original": "summary",
+      "normalized_words": [
+        "resumo"
+      ]
+    },
+    {
+      "id": 129,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 20,
+      "portuguese_original": "(o) retiro",
+      "english_original": "retreat",
+      "normalized_words": [
+        "retiro"
+      ]
+    },
+    {
+      "id": 130,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 21,
+      "portuguese_original": "revelar",
+      "english_original": "to reveal",
+      "normalized_words": [
+        "revelar"
+      ]
+    },
+    {
+      "id": 131,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 22,
+      "portuguese_original": "(o) rigor",
+      "english_original": "rigour",
+      "normalized_words": [
+        "rigor"
+      ]
+    },
+    {
+      "id": 132,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 23,
+      "portuguese_original": "(a) risca",
+      "english_original": "stripe",
+      "normalized_words": [
+        "risca"
+      ]
+    },
+    {
+      "id": 133,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 24,
+      "portuguese_original": "(o) risco",
+      "english_original": "risk",
+      "normalized_words": [
+        "risco"
+      ]
+    },
+    {
+      "id": 134,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 25,
+      "portuguese_original": "robótico",
+      "english_original": "robotic",
+      "normalized_words": [
+        "robótico"
+      ]
+    },
+    {
+      "id": 135,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 26,
+      "portuguese_original": "rodeado",
+      "english_original": "surrounded",
+      "normalized_words": [
+        "rodeado"
+      ]
+    },
+    {
+      "id": 136,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 27,
+      "portuguese_original": "(o) rodízio",
+      "english_original": "cycle",
+      "normalized_words": [
+        "rodízio"
+      ]
+    },
+    {
+      "id": 137,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 28,
+      "portuguese_original": "roer",
+      "english_original": "to gnaw",
+      "normalized_words": [
+        "roer"
+      ]
+    },
+    {
+      "id": 138,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 29,
+      "portuguese_original": "(a) rolha",
+      "english_original": "cork",
+      "normalized_words": [
+        "rolha"
+      ]
+    },
+    {
+      "id": 139,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 30,
+      "portuguese_original": "romper",
+      "english_original": "to rip",
+      "normalized_words": [
+        "romper"
+      ]
+    },
+    {
+      "id": 140,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 31,
+      "portuguese_original": "rondar",
+      "english_original": "to be approximately equivalent to",
+      "normalized_words": [
+        "rondar"
+      ]
+    },
+    {
+      "id": 141,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 32,
+      "portuguese_original": "roqueiro",
+      "english_original": "rocker",
+      "normalized_words": [
+        "roqueiro"
+      ]
+    },
+    {
+      "id": 142,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 33,
+      "portuguese_original": "(o) rótulo",
+      "english_original": "label",
+      "normalized_words": [
+        "rótulo"
+      ]
+    },
+    {
+      "id": 143,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 34,
+      "portuguese_original": "(a) roupagem",
+      "english_original": "clothing",
+      "normalized_words": [
+        "roupagem"
+      ]
+    },
+    {
+      "id": 144,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 35,
+      "portuguese_original": "(o) ruído",
+      "english_original": "noise",
+      "normalized_words": [
+        "ruído"
+      ]
+    },
+    {
+      "id": 145,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 36,
+      "portuguese_original": "(a) sabedoria",
+      "english_original": "wisdom",
+      "normalized_words": [
+        "sabedoria"
+      ]
+    },
+    {
+      "id": 146,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 37,
+      "portuguese_original": "saborear",
+      "english_original": "to savour",
+      "normalized_words": [
+        "saborear"
+      ]
+    },
+    {
+      "id": 147,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 38,
+      "portuguese_original": "saciar",
+      "english_original": "to fill",
+      "normalized_words": [
+        "saciar"
+      ]
+    },
+    {
+      "id": 148,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 39,
+      "portuguese_original": "sacrificar",
+      "english_original": "to sacrifice",
+      "normalized_words": [
+        "sacrificar"
+      ]
+    },
+    {
+      "id": 149,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 40,
+      "portuguese_original": "(a) salsicharia",
+      "english_original": "sausage products",
+      "normalized_words": [
+        "salsicharia"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "relevante",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "remediado",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "remunerar",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "renal",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "rendimento",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "renovação",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "repartir",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "repentino",
+      "source_row_ids": [
+        117
+      ]
+    },
+    {
+      "portuguese": "repor",
+      "source_row_ids": [
+        118
+      ]
+    },
+    {
+      "portuguese": "reportar",
+      "source_row_ids": [
+        119
+      ]
+    },
+    {
+      "portuguese": "repousar",
+      "source_row_ids": [
+        120
+      ]
+    },
+    {
+      "portuguese": "requerer",
+      "source_row_ids": [
+        121
+      ]
+    },
+    {
+      "portuguese": "resíduo",
+      "source_row_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "resistir",
+      "source_row_ids": [
+        123
+      ]
+    },
+    {
+      "portuguese": "resolução",
+      "source_row_ids": [
+        124
+      ]
+    },
+    {
+      "portuguese": "restauração",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "restrição",
+      "source_row_ids": [
+        126
+      ]
+    },
+    {
+      "portuguese": "restringir",
+      "source_row_ids": [
+        127
+      ]
+    },
+    {
+      "portuguese": "resumo",
+      "source_row_ids": [
+        128
+      ]
+    },
+    {
+      "portuguese": "retiro",
+      "source_row_ids": [
+        129
+      ]
+    },
+    {
+      "portuguese": "revelar",
+      "source_row_ids": [
+        130
+      ]
+    },
+    {
+      "portuguese": "rigor",
+      "source_row_ids": [
+        131
+      ]
+    },
+    {
+      "portuguese": "risca",
+      "source_row_ids": [
+        132
+      ]
+    },
+    {
+      "portuguese": "risco",
+      "source_row_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "robótico",
+      "source_row_ids": [
+        134
+      ]
+    },
+    {
+      "portuguese": "rodeado",
+      "source_row_ids": [
+        135
+      ]
+    },
+    {
+      "portuguese": "rodízio",
+      "source_row_ids": [
+        136
+      ]
+    },
+    {
+      "portuguese": "roer",
+      "source_row_ids": [
+        137
+      ]
+    },
+    {
+      "portuguese": "rolha",
+      "source_row_ids": [
+        138
+      ]
+    },
+    {
+      "portuguese": "romper",
+      "source_row_ids": [
+        139
+      ]
+    },
+    {
+      "portuguese": "rondar",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "roqueiro",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "rótulo",
+      "source_row_ids": [
+        142
+      ]
+    },
+    {
+      "portuguese": "roupagem",
+      "source_row_ids": [
+        143
+      ]
+    },
+    {
+      "portuguese": "ruído",
+      "source_row_ids": [
+        144
+      ]
+    },
+    {
+      "portuguese": "sabedoria",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "saborear",
+      "source_row_ids": [
+        146
+      ]
+    },
+    {
+      "portuguese": "saciar",
+      "source_row_ids": [
+        147
+      ]
+    },
+    {
+      "portuguese": "sacrificar",
+      "source_row_ids": [
+        148
+      ]
+    },
+    {
+      "portuguese": "salsicharia",
+      "source_row_ids": [
+        149
+      ]
+    }
+  ]
+}

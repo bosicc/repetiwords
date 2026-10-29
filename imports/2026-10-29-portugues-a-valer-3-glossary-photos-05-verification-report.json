@@ -1,0 +1,61 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 153,
+    "distinct_source_labels": 153,
+    "unique_words": 173,
+    "rows_by_page_identifier": {
+      "image-1": 39,
+      "image-2": 39,
+      "image-3": 38,
+      "image-4": 37
+    },
+    "rows_by_image": {
+      "1": 39,
+      "2": 39,
+      "3": 38,
+      "4": 37
+    }
+  },
+  "checks": {
+    "batch_contract": "passed lib/word-import.js validateBatch without database initialization",
+    "photo_hashes": "passed 4/4",
+    "json_hashes": "passed",
+    "individual_image_json_backups": "passed 4/4",
+    "source_row_coverage": "passed 153/153",
+    "normalized_unique_words": 173,
+    "latin_script": "passed",
+    "groups": "existing thematic/grammatical labels only",
+    "page_numbers": "null on all four images; no guessed page numbers",
+    "database_connections": 0,
+    "database_writes": false
+  },
+  "comparison_with_previous_photo_batches": {
+    "overlapping_word_forms": 12,
+    "overlapping_words": [
+      "de",
+      "se",
+      "a",
+      "para",
+      "segundo",
+      "que",
+      "quer",
+      "por",
+      "à",
+      "medida",
+      "não",
+      "ser"
+    ],
+    "combined_source_rows": 938,
+    "combined_unique_words": 1004,
+    "note": "Comparison only against photo batches 01–04, not against the live database. Each batch remains independently replayable."
+  },
+  "limitations": [
+    "Visual transcription covers Portuguese and English glossary columns only, excluding internal page-reference numbers.",
+    "Ukrainian translations, individual CEFR estimates, groups, corrected English and component English are assistant supplied and not independently reviewed.",
+    "No live database duplicate/conflict check or import performed."
+  ],
+  "import_preview_command": "rtk npm run words:import -- imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-enriched.json --dry-run"
+}

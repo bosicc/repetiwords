@@ -1,0 +1,3406 @@
+{
+  "prepared_at": "2026-10-29",
+  "status": "imported_and_verified",
+  "batch_file": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-portugues-a-valer-3-topic-review-enriched.json",
+  "import_result": {
+    "words": 1004,
+    "added": 824,
+    "existing": 180,
+    "enriched": 0,
+    "groups_added": 11,
+    "memberships_added": 990,
+    "conflicting_words_preserved": 155
+  },
+  "database_before": {
+    "words": 2014,
+    "groups": 50,
+    "memberships": 4149
+  },
+  "database_after": {
+    "words": 2838,
+    "groups": 61,
+    "memberships": 5139
+  },
+  "levels": {
+    "new_words": {
+      "B1": 511,
+      "B2": 196,
+      "A2": 111,
+      "A1": 4,
+      "C1": 2
+    },
+    "all_batch_words_actual_database_levels": {
+      "B1": 511,
+      "B2": 196,
+      "A2": 194,
+      "A1": 101,
+      "C1": 2
+    },
+    "all_database_words": {
+      "A1": 1243,
+      "A2": 878,
+      "B1": 518,
+      "B2": 197,
+      "C1": 2
+    }
+  },
+  "checks": {
+    "all_original_word_records_preserved": 2014,
+    "existing_group_records_preserved": 50,
+    "all_previous_memberships_preserved": true,
+    "all_requested_words_and_topic_memberships_present": true,
+    "new_words_mastery_zero": true,
+    "all_batch_words_have_translations_and_levels": true,
+    "all_non_vocabulary_table_counts_and_fingerprints_unchanged": true,
+    "no_source_based_categories_created": true,
+    "replay_has_zero_additions_or_updates": true
+  },
+  "backups": {
+    "before": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-before-import-bc0221e4-0d1b-48d7-8370-243b5038abf7.json",
+    "after": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-after-import-d3f018ef-2995-494a-bb33-b222100c87ef.json"
+  },
+  "new_word_ids": [
+    {
+      "id": 2176,
+      "portuguese": "alargar"
+    },
+    {
+      "id": 2177,
+      "portuguese": "alcance"
+    },
+    {
+      "id": 2178,
+      "portuguese": "alerta"
+    },
+    {
+      "id": 2179,
+      "portuguese": "algoritmo"
+    },
+    {
+      "id": 2180,
+      "portuguese": "aliás"
+    },
+    {
+      "id": 2181,
+      "portuguese": "aliviar"
+    },
+    {
+      "id": 2182,
+      "portuguese": "alongamento"
+    },
+    {
+      "id": 2183,
+      "portuguese": "altamente"
+    },
+    {
+      "id": 2184,
+      "portuguese": "altifalante"
+    },
+    {
+      "id": 2185,
+      "portuguese": "ambição"
+    },
+    {
+      "id": 2186,
+      "portuguese": "ambicionar"
+    },
+    {
+      "id": 2187,
+      "portuguese": "ameaça"
+    },
+    {
+      "id": 2188,
+      "portuguese": "ameno"
+    },
+    {
+      "id": 2189,
+      "portuguese": "amostra"
+    },
+    {
+      "id": 2190,
+      "portuguese": "ampliar"
+    },
+    {
+      "id": 2191,
+      "portuguese": "analfabeto"
+    },
+    {
+      "id": 2192,
+      "portuguese": "análise"
+    },
+    {
+      "id": 2193,
+      "portuguese": "analítico"
+    },
+    {
+      "id": 2194,
+      "portuguese": "ancorar"
+    },
+    {
+      "id": 2195,
+      "portuguese": "ansiar"
+    },
+    {
+      "id": 2196,
+      "portuguese": "antebraço"
+    },
+    {
+      "id": 2197,
+      "portuguese": "anteceder"
+    },
+    {
+      "id": 2198,
+      "portuguese": "antepassado"
+    },
+    {
+      "id": 2199,
+      "portuguese": "antioxidante"
+    },
+    {
+      "id": 2200,
+      "portuguese": "apelidar"
+    },
+    {
+      "id": 2201,
+      "portuguese": "apelo"
+    },
+    {
+      "id": 2202,
+      "portuguese": "apertar"
+    },
+    {
+      "id": 2203,
+      "portuguese": "apontar"
+    },
+    {
+      "id": 2204,
+      "portuguese": "aposentado"
+    },
+    {
+      "id": 2205,
+      "portuguese": "apreciador"
+    },
+    {
+      "id": 2206,
+      "portuguese": "aprendizagem"
+    },
+    {
+      "id": 2207,
+      "portuguese": "aprovar"
+    },
+    {
+      "id": 2208,
+      "portuguese": "aproveitamento"
+    },
+    {
+      "id": 2209,
+      "portuguese": "batido"
+    },
+    {
+      "id": 2210,
+      "portuguese": "bem-sucedido"
+    },
+    {
+      "id": 2211,
+      "portuguese": "benéfico"
+    },
+    {
+      "id": 2212,
+      "portuguese": "bloqueado"
+    },
+    {
+      "id": 2213,
+      "portuguese": "boleia"
+    },
+    {
+      "id": 2214,
+      "portuguese": "bolsa"
+    },
+    {
+      "id": 2215,
+      "portuguese": "bosque"
+    },
+    {
+      "id": 2216,
+      "portuguese": "bracarense"
+    },
+    {
+      "id": 2217,
+      "portuguese": "brilhar"
+    },
+    {
+      "id": 2218,
+      "portuguese": "bué"
+    },
+    {
+      "id": 2219,
+      "portuguese": "burla"
+    },
+    {
+      "id": 2220,
+      "portuguese": "caça"
+    },
+    {
+      "id": 2221,
+      "portuguese": "cacimbo"
+    },
+    {
+      "id": 2222,
+      "portuguese": "calculado"
+    },
+    {
+      "id": 2223,
+      "portuguese": "caldo"
+    },
+    {
+      "id": 2224,
+      "portuguese": "canal"
+    },
+    {
+      "id": 2225,
+      "portuguese": "cantinho"
+    },
+    {
+      "id": 2226,
+      "portuguese": "capim"
+    },
+    {
+      "id": 2227,
+      "portuguese": "risco"
+    },
+    {
+      "id": 2228,
+      "portuguese": "caracterizar"
+    },
+    {
+      "id": 2229,
+      "portuguese": "cardiovascular"
+    },
+    {
+      "id": 2230,
+      "portuguese": "casca"
+    },
+    {
+      "id": 2231,
+      "portuguese": "caso"
+    },
+    {
+      "id": 2232,
+      "portuguese": "castigado"
+    },
+    {
+      "id": 2233,
+      "portuguese": "categoria"
+    },
+    {
+      "id": 2234,
+      "portuguese": "troia"
+    },
+    {
+      "id": 2235,
+      "portuguese": "cela"
+    },
+    {
+      "id": 2236,
+      "portuguese": "cenário"
+    },
+    {
+      "id": 2237,
+      "portuguese": "charcutaria"
+    },
+    {
+      "id": 2238,
+      "portuguese": "cheque"
+    },
+    {
+      "id": 2239,
+      "portuguese": "chocante"
+    },
+    {
+      "id": 2240,
+      "portuguese": "ciclista"
+    },
+    {
+      "id": 2241,
+      "portuguese": "consumir"
+    },
+    {
+      "id": 2242,
+      "portuguese": "contabilizar"
+    },
+    {
+      "id": 2243,
+      "portuguese": "conter"
+    },
+    {
+      "id": 2244,
+      "portuguese": "contexto"
+    },
+    {
+      "id": 2245,
+      "portuguese": "continuidade"
+    },
+    {
+      "id": 2246,
+      "portuguese": "contradição"
+    },
+    {
+      "id": 2247,
+      "portuguese": "contradizer"
+    },
+    {
+      "id": 2248,
+      "portuguese": "contrassenso"
+    },
+    {
+      "id": 2249,
+      "portuguese": "contribuir"
+    },
+    {
+      "id": 2250,
+      "portuguese": "contudo"
+    },
+    {
+      "id": 2251,
+      "portuguese": "convir"
+    },
+    {
+      "id": 2252,
+      "portuguese": "convocar"
+    },
+    {
+      "id": 2253,
+      "portuguese": "corpanzil"
+    },
+    {
+      "id": 2254,
+      "portuguese": "corrente"
+    },
+    {
+      "id": 2255,
+      "portuguese": "riscos"
+    },
+    {
+      "id": 2256,
+      "portuguese": "corte"
+    },
+    {
+      "id": 2257,
+      "portuguese": "coser"
+    },
+    {
+      "id": 2258,
+      "portuguese": "crescente"
+    },
+    {
+      "id": 2259,
+      "portuguese": "cristalino"
+    },
+    {
+      "id": 2260,
+      "portuguese": "crucial"
+    },
+    {
+      "id": 2261,
+      "portuguese": "cruzar"
+    },
+    {
+      "id": 2262,
+      "portuguese": "dedos"
+    },
+    {
+      "id": 2263,
+      "portuguese": "cuidados"
+    },
+    {
+      "id": 2264,
+      "portuguese": "primários"
+    },
+    {
+      "id": 2265,
+      "portuguese": "cujo"
+    },
+    {
+      "id": 2266,
+      "portuguese": "culpado"
+    },
+    {
+      "id": 2267,
+      "portuguese": "cumprimento"
+    },
+    {
+      "id": 2268,
+      "portuguese": "cumprir"
+    },
+    {
+      "id": 2269,
+      "portuguese": "curtir"
+    },
+    {
+      "id": 2270,
+      "portuguese": "dados"
+    },
+    {
+      "id": 2271,
+      "portuguese": "daí"
+    },
+    {
+      "id": 2272,
+      "portuguese": "diante"
+    },
+    {
+      "id": 2273,
+      "portuguese": "primazia"
+    },
+    {
+      "id": 2274,
+      "portuguese": "prioridade"
+    },
+    {
+      "id": 2275,
+      "portuguese": "desilusão"
+    },
+    {
+      "id": 2276,
+      "portuguese": "desintoxicação"
+    },
+    {
+      "id": 2277,
+      "portuguese": "deslocado"
+    },
+    {
+      "id": 2278,
+      "portuguese": "deslumbrante"
+    },
+    {
+      "id": 2279,
+      "portuguese": "despacho"
+    },
+    {
+      "id": 2280,
+      "portuguese": "despensa"
+    },
+    {
+      "id": 2281,
+      "portuguese": "desperdiçar"
+    },
+    {
+      "id": 2282,
+      "portuguese": "desperdício"
+    },
+    {
+      "id": 2283,
+      "portuguese": "despertar"
+    },
+    {
+      "id": 2284,
+      "portuguese": "despiste"
+    },
+    {
+      "id": 2285,
+      "portuguese": "destacar"
+    },
+    {
+      "id": 2286,
+      "portuguese": "destaque"
+    },
+    {
+      "id": 2287,
+      "portuguese": "destinar"
+    },
+    {
+      "id": 2288,
+      "portuguese": "desvendar"
+    },
+    {
+      "id": 2289,
+      "portuguese": "desvirtuar"
+    },
+    {
+      "id": 2290,
+      "portuguese": "deus"
+    },
+    {
+      "id": 2291,
+      "portuguese": "queira"
+    },
+    {
+      "id": 2292,
+      "portuguese": "devido"
+    },
+    {
+      "id": 2293,
+      "portuguese": "devoto"
+    },
+    {
+      "id": 2294,
+      "portuguese": "dica"
+    },
+    {
+      "id": 2295,
+      "portuguese": "diferir"
+    },
+    {
+      "id": 2296,
+      "portuguese": "digressão"
+    },
+    {
+      "id": 2297,
+      "portuguese": "dimensão"
+    },
+    {
+      "id": 2298,
+      "portuguese": "dinâmica"
+    },
+    {
+      "id": 2299,
+      "portuguese": "direcionado"
+    },
+    {
+      "id": 2300,
+      "portuguese": "discrição"
+    },
+    {
+      "id": 2301,
+      "portuguese": "dispensa"
+    },
+    {
+      "id": 2302,
+      "portuguese": "dispensar"
+    },
+    {
+      "id": 2303,
+      "portuguese": "dispor"
+    },
+    {
+      "id": 2304,
+      "portuguese": "disposição"
+    },
+    {
+      "id": 2305,
+      "portuguese": "disputar"
+    },
+    {
+      "id": 2306,
+      "portuguese": "distante"
+    },
+    {
+      "id": 2307,
+      "portuguese": "distração"
+    },
+    {
+      "id": 2308,
+      "portuguese": "enquadramento"
+    },
+    {
+      "id": 2309,
+      "portuguese": "jurídico"
+    },
+    {
+      "id": 2310,
+      "portuguese": "enquadrar"
+    },
+    {
+      "id": 2311,
+      "portuguese": "enraizado"
+    },
+    {
+      "id": 2312,
+      "portuguese": "enriquecedor"
+    },
+    {
+      "id": 2313,
+      "portuguese": "ensino"
+    },
+    {
+      "id": 2314,
+      "portuguese": "superior"
+    },
+    {
+      "id": 2315,
+      "portuguese": "enumerar"
+    },
+    {
+      "id": 2316,
+      "portuguese": "envelhecimento"
+    },
+    {
+      "id": 2317,
+      "portuguese": "enxame"
+    },
+    {
+      "id": 2318,
+      "portuguese": "equacionar"
+    },
+    {
+      "id": 2319,
+      "portuguese": "equilibrado"
+    },
+    {
+      "id": 2320,
+      "portuguese": "equilibrar"
+    },
+    {
+      "id": 2321,
+      "portuguese": "equipamento"
+    },
+    {
+      "id": 2322,
+      "portuguese": "cultural"
+    },
+    {
+      "id": 2323,
+      "portuguese": "equivalência"
+    },
+    {
+      "id": 2324,
+      "portuguese": "equivaler"
+    },
+    {
+      "id": 2325,
+      "portuguese": "erva"
+    },
+    {
+      "id": 2326,
+      "portuguese": "aromática"
+    },
+    {
+      "id": 2327,
+      "portuguese": "escalar"
+    },
+    {
+      "id": 2328,
+      "portuguese": "esclarecimento"
+    },
+    {
+      "id": 2329,
+      "portuguese": "esconder"
+    },
+    {
+      "id": 2330,
+      "portuguese": "esgotado"
+    },
+    {
+      "id": 2331,
+      "portuguese": "esmagar"
+    },
+    {
+      "id": 2332,
+      "portuguese": "espantado"
+    },
+    {
+      "id": 2333,
+      "portuguese": "especiaria"
+    },
+    {
+      "id": 2334,
+      "portuguese": "espectador"
+    },
+    {
+      "id": 2335,
+      "portuguese": "esperança"
+    },
+    {
+      "id": 2336,
+      "portuguese": "espetáculo"
+    },
+    {
+      "id": 2337,
+      "portuguese": "espiritual"
+    },
+    {
+      "id": 2338,
+      "portuguese": "espreguiçar"
+    },
+    {
+      "id": 2339,
+      "portuguese": "estalactite"
+    },
+    {
+      "id": 2340,
+      "portuguese": "estalagmite"
+    },
+    {
+      "id": 2341,
+      "portuguese": "atento"
+    },
+    {
+      "id": 2342,
+      "portuguese": "estatística"
+    },
+    {
+      "id": 2343,
+      "portuguese": "estimulante"
+    },
+    {
+      "id": 2344,
+      "portuguese": "estirar"
+    },
+    {
+      "id": 2345,
+      "portuguese": "estória"
+    },
+    {
+      "id": 2346,
+      "portuguese": "estranhar"
+    },
+    {
+      "id": 2347,
+      "portuguese": "estratégico"
+    },
+    {
+      "id": 2348,
+      "portuguese": "estrear"
+    },
+    {
+      "id": 2349,
+      "portuguese": "guarda"
+    },
+    {
+      "id": 2350,
+      "portuguese": "ficção"
+    },
+    {
+      "id": 2351,
+      "portuguese": "finalidade"
+    },
+    {
+      "id": 2352,
+      "portuguese": "fiscal"
+    },
+    {
+      "id": 2353,
+      "portuguese": "fixar"
+    },
+    {
+      "id": 2354,
+      "portuguese": "fixe"
+    },
+    {
+      "id": 2355,
+      "portuguese": "fixo"
+    },
+    {
+      "id": 2356,
+      "portuguese": "flagrante"
+    },
+    {
+      "id": 2357,
+      "portuguese": "flexibilidade"
+    },
+    {
+      "id": 2358,
+      "portuguese": "flexitariano"
+    },
+    {
+      "id": 2359,
+      "portuguese": "florescer"
+    },
+    {
+      "id": 2360,
+      "portuguese": "fluência"
+    },
+    {
+      "id": 2361,
+      "portuguese": "fluido"
+    },
+    {
+      "id": 2362,
+      "portuguese": "foco"
+    },
+    {
+      "id": 2363,
+      "portuguese": "fôlego"
+    },
+    {
+      "id": 2364,
+      "portuguese": "fonte"
+    },
+    {
+      "id": 2365,
+      "portuguese": "formulação"
+    },
+    {
+      "id": 2366,
+      "portuguese": "fraude"
+    },
+    {
+      "id": 2367,
+      "portuguese": "freguesia"
+    },
+    {
+      "id": 2368,
+      "portuguese": "frequentar"
+    },
+    {
+      "id": 2369,
+      "portuguese": "fritos"
+    },
+    {
+      "id": 2370,
+      "portuguese": "fruição"
+    },
+    {
+      "id": 2371,
+      "portuguese": "fruto"
+    },
+    {
+      "id": 2372,
+      "portuguese": "fundir"
+    },
+    {
+      "id": 2373,
+      "portuguese": "furacão"
+    },
+    {
+      "id": 2374,
+      "portuguese": "gaiato"
+    },
+    {
+      "id": 2375,
+      "portuguese": "galeão"
+    },
+    {
+      "id": 2376,
+      "portuguese": "ganho"
+    },
+    {
+      "id": 2377,
+      "portuguese": "garoto"
+    },
+    {
+      "id": 2378,
+      "portuguese": "butano"
+    },
+    {
+      "id": 2379,
+      "portuguese": "incentivo"
+    },
+    {
+      "id": 2380,
+      "portuguese": "indescritível"
+    },
+    {
+      "id": 2381,
+      "portuguese": "índice"
+    },
+    {
+      "id": 2382,
+      "portuguese": "inflamatório"
+    },
+    {
+      "id": 2383,
+      "portuguese": "informática"
+    },
+    {
+      "id": 2384,
+      "portuguese": "ingestão"
+    },
+    {
+      "id": 2385,
+      "portuguese": "inovador"
+    },
+    {
+      "id": 2386,
+      "portuguese": "inquirido"
+    },
+    {
+      "id": 2387,
+      "portuguese": "insónia"
+    },
+    {
+      "id": 2388,
+      "portuguese": "inspirador"
+    },
+    {
+      "id": 2389,
+      "portuguese": "integral"
+    },
+    {
+      "id": 2390,
+      "portuguese": "intempérie"
+    },
+    {
+      "id": 2391,
+      "portuguese": "intercâmbio"
+    },
+    {
+      "id": 2392,
+      "portuguese": "interferir"
+    },
+    {
+      "id": 2393,
+      "portuguese": "interrupção"
+    },
+    {
+      "id": 2394,
+      "portuguese": "intervir"
+    },
+    {
+      "id": 2395,
+      "portuguese": "intuição"
+    },
+    {
+      "id": 2396,
+      "portuguese": "intuitivo"
+    },
+    {
+      "id": 2397,
+      "portuguese": "inúmeros"
+    },
+    {
+      "id": 2398,
+      "portuguese": "inundação"
+    },
+    {
+      "id": 2399,
+      "portuguese": "inverter"
+    },
+    {
+      "id": 2400,
+      "portuguese": "irritabilidade"
+    },
+    {
+      "id": 2401,
+      "portuguese": "irromper"
+    },
+    {
+      "id": 2402,
+      "portuguese": "isentar"
+    },
+    {
+      "id": 2403,
+      "portuguese": "janelinha"
+    },
+    {
+      "id": 2404,
+      "portuguese": "jejum"
+    },
+    {
+      "id": 2405,
+      "portuguese": "laboral"
+    },
+    {
+      "id": 2406,
+      "portuguese": "lácteo"
+    },
+    {
+      "id": 2407,
+      "portuguese": "laticínios"
+    },
+    {
+      "id": 2408,
+      "portuguese": "lava"
+    },
+    {
+      "id": 2409,
+      "portuguese": "lavagem"
+    },
+    {
+      "id": 2410,
+      "portuguese": "lazer"
+    },
+    {
+      "id": 2411,
+      "portuguese": "legislar"
+    },
+    {
+      "id": 2412,
+      "portuguese": "leguminosas"
+    },
+    {
+      "id": 2413,
+      "portuguese": "diagonal"
+    },
+    {
+      "id": 2414,
+      "portuguese": "lesão"
+    },
+    {
+      "id": 2415,
+      "portuguese": "leveza"
+    },
+    {
+      "id": 2416,
+      "portuguese": "libertar"
+    },
+    {
+      "id": 2417,
+      "portuguese": "licenciamento"
+    },
+    {
+      "id": 2418,
+      "portuguese": "miragem"
+    },
+    {
+      "id": 2419,
+      "portuguese": "mitigação"
+    },
+    {
+      "id": 2420,
+      "portuguese": "modificar"
+    },
+    {
+      "id": 2421,
+      "portuguese": "moer"
+    },
+    {
+      "id": 2422,
+      "portuguese": "moldar"
+    },
+    {
+      "id": 2423,
+      "portuguese": "mortal"
+    },
+    {
+      "id": 2424,
+      "portuguese": "motociclo"
+    },
+    {
+      "id": 2425,
+      "portuguese": "rumo"
+    },
+    {
+      "id": 2426,
+      "portuguese": "multiplicar"
+    },
+    {
+      "id": 2427,
+      "portuguese": "município"
+    },
+    {
+      "id": 2428,
+      "portuguese": "murar"
+    },
+    {
+      "id": 2429,
+      "portuguese": "muro"
+    },
+    {
+      "id": 2430,
+      "portuguese": "murro"
+    },
+    {
+      "id": 2431,
+      "portuguese": "musculação"
+    },
+    {
+      "id": 2432,
+      "portuguese": "musculoesquelético"
+    },
+    {
+      "id": 2433,
+      "portuguese": "faixa"
+    },
+    {
+      "id": 2434,
+      "portuguese": "íntegra"
+    },
+    {
+      "id": 2435,
+      "portuguese": "maioria"
+    },
+    {
+      "id": 2436,
+      "portuguese": "obstante"
+    },
+    {
+      "id": 2437,
+      "portuguese": "natalidade"
+    },
+    {
+      "id": 2438,
+      "portuguese": "nativo"
+    },
+    {
+      "id": 2439,
+      "portuguese": "sequer"
+    },
+    {
+      "id": 2440,
+      "portuguese": "neurológico"
+    },
+    {
+      "id": 2441,
+      "portuguese": "neutro"
+    },
+    {
+      "id": 2442,
+      "portuguese": "nevão"
+    },
+    {
+      "id": 2443,
+      "portuguese": "âmbito"
+    },
+    {
+      "id": 2444,
+      "portuguese": "entanto"
+    },
+    {
+      "id": 2445,
+      "portuguese": "nomeadamente"
+    },
+    {
+      "id": 2446,
+      "portuguese": "novidade"
+    },
+    {
+      "id": 2447,
+      "portuguese": "noz"
+    },
+    {
+      "id": 2448,
+      "portuguese": "nutriente"
+    },
+    {
+      "id": 2449,
+      "portuguese": "pensionista"
+    },
+    {
+      "id": 2450,
+      "portuguese": "perceção"
+    },
+    {
+      "id": 2451,
+      "portuguese": "percorrer"
+    },
+    {
+      "id": 2452,
+      "portuguese": "percurso"
+    },
+    {
+      "id": 2453,
+      "portuguese": "peso"
+    },
+    {
+      "id": 2454,
+      "portuguese": "persistência"
+    },
+    {
+      "id": 2455,
+      "portuguese": "persistente"
+    },
+    {
+      "id": 2456,
+      "portuguese": "perspetivar"
+    },
+    {
+      "id": 2457,
+      "portuguese": "pertencer"
+    },
+    {
+      "id": 2458,
+      "portuguese": "perturbação"
+    },
+    {
+      "id": 2459,
+      "portuguese": "pesadelo"
+    },
+    {
+      "id": 2460,
+      "portuguese": "pescado"
+    },
+    {
+      "id": 2461,
+      "portuguese": "pesquisa"
+    },
+    {
+      "id": 2462,
+      "portuguese": "pimba"
+    },
+    {
+      "id": 2463,
+      "portuguese": "pirâmide"
+    },
+    {
+      "id": 2464,
+      "portuguese": "demográfica"
+    },
+    {
+      "id": 2465,
+      "portuguese": "planície"
+    },
+    {
+      "id": 2466,
+      "portuguese": "plateia"
+    },
+    {
+      "id": 2467,
+      "portuguese": "platina"
+    },
+    {
+      "id": 2468,
+      "portuguese": "poderoso"
+    },
+    {
+      "id": 2469,
+      "portuguese": "poético"
+    },
+    {
+      "id": 2470,
+      "portuguese": "ponteiro"
+    },
+    {
+      "id": 2471,
+      "portuguese": "ponto"
+    },
+    {
+      "id": 2472,
+      "portuguese": "viragem"
+    },
+    {
+      "id": 2473,
+      "portuguese": "porção"
+    },
+    {
+      "id": 2474,
+      "portuguese": "porém"
+    },
+    {
+      "id": 2475,
+      "portuguese": "portanto"
+    },
+    {
+      "id": 2476,
+      "portuguese": "porventura"
+    },
+    {
+      "id": 2477,
+      "portuguese": "poste"
+    },
+    {
+      "id": 2478,
+      "portuguese": "iluminação"
+    },
+    {
+      "id": 2479,
+      "portuguese": "potencialidade"
+    },
+    {
+      "id": 2480,
+      "portuguese": "prazo"
+    },
+    {
+      "id": 2481,
+      "portuguese": "preceder"
+    },
+    {
+      "id": 2482,
+      "portuguese": "precipitação"
+    },
+    {
+      "id": 2483,
+      "portuguese": "pré-fabricar"
+    },
+    {
+      "id": 2484,
+      "portuguese": "quebra"
+    },
+    {
+      "id": 2485,
+      "portuguese": "queixa"
+    },
+    {
+      "id": 2486,
+      "portuguese": "queixar"
+    },
+    {
+      "id": 2487,
+      "portuguese": "dera"
+    },
+    {
+      "id": 2488,
+      "portuguese": "quintal"
+    },
+    {
+      "id": 2489,
+      "portuguese": "raízes"
+    },
+    {
+      "id": 2490,
+      "portuguese": "readaptar"
+    },
+    {
+      "id": 2491,
+      "portuguese": "realizador"
+    },
+    {
+      "id": 2492,
+      "portuguese": "reaproveitamento"
+    },
+    {
+      "id": 2493,
+      "portuguese": "receio"
+    },
+    {
+      "id": 2494,
+      "portuguese": "reciclar"
+    },
+    {
+      "id": 2495,
+      "portuguese": "recíproco"
+    },
+    {
+      "id": 2496,
+      "portuguese": "recolha"
+    },
+    {
+      "id": 2497,
+      "portuguese": "recolher"
+    },
+    {
+      "id": 2498,
+      "portuguese": "reconquista"
+    },
+    {
+      "id": 2499,
+      "portuguese": "recurso"
+    },
+    {
+      "id": 2500,
+      "portuguese": "recursos"
+    },
+    {
+      "id": 2501,
+      "portuguese": "humanos"
+    },
+    {
+      "id": 2502,
+      "portuguese": "redução"
+    },
+    {
+      "id": 2503,
+      "portuguese": "reduzir"
+    },
+    {
+      "id": 2504,
+      "portuguese": "reembolsar"
+    },
+    {
+      "id": 2505,
+      "portuguese": "reembolso"
+    },
+    {
+      "id": 2506,
+      "portuguese": "reencaminhamento"
+    },
+    {
+      "id": 2507,
+      "portuguese": "refinados"
+    },
+    {
+      "id": 2508,
+      "portuguese": "reforço"
+    },
+    {
+      "id": 2509,
+      "portuguese": "regenerar"
+    },
+    {
+      "id": 2510,
+      "portuguese": "reger"
+    },
+    {
+      "id": 2511,
+      "portuguese": "regime"
+    },
+    {
+      "id": 2512,
+      "portuguese": "registar"
+    },
+    {
+      "id": 2513,
+      "portuguese": "regulamentar"
+    },
+    {
+      "id": 2514,
+      "portuguese": "rejuvenescimento"
+    },
+    {
+      "id": 2515,
+      "portuguese": "relâmpago"
+    },
+    {
+      "id": 2516,
+      "portuguese": "relaxado"
+    },
+    {
+      "id": 2517,
+      "portuguese": "relaxamento"
+    },
+    {
+      "id": 2518,
+      "portuguese": "relegar"
+    },
+    {
+      "id": 2519,
+      "portuguese": "relevância"
+    },
+    {
+      "id": 2520,
+      "portuguese": "satisfazer"
+    },
+    {
+      "id": 2521,
+      "portuguese": "seca"
+    },
+    {
+      "id": 2522,
+      "portuguese": "sectorial"
+    },
+    {
+      "id": 2523,
+      "portuguese": "sedentário"
+    },
+    {
+      "id": 2524,
+      "portuguese": "seguradora"
+    },
+    {
+      "id": 2525,
+      "portuguese": "social"
+    },
+    {
+      "id": 2526,
+      "portuguese": "sela"
+    },
+    {
+      "id": 2527,
+      "portuguese": "sem-número"
+    },
+    {
+      "id": 2528,
+      "portuguese": "sentenciar"
+    },
+    {
+      "id": 2529,
+      "portuguese": "série"
+    },
+    {
+      "id": 2530,
+      "portuguese": "servo"
+    },
+    {
+      "id": 2531,
+      "portuguese": "siamês"
+    },
+    {
+      "id": 2532,
+      "portuguese": "simétrico"
+    },
+    {
+      "id": 2533,
+      "portuguese": "simultâneo"
+    },
+    {
+      "id": 2534,
+      "portuguese": "sindicato"
+    },
+    {
+      "id": 2535,
+      "portuguese": "síndrome"
+    },
+    {
+      "id": 2536,
+      "portuguese": "singular"
+    },
+    {
+      "id": 2537,
+      "portuguese": "sinopse"
+    },
+    {
+      "id": 2538,
+      "portuguese": "sintetizar"
+    },
+    {
+      "id": 2539,
+      "portuguese": "sintoma"
+    },
+    {
+      "id": 2540,
+      "portuguese": "sismo"
+    },
+    {
+      "id": 2541,
+      "portuguese": "sistema"
+    },
+    {
+      "id": 2542,
+      "portuguese": "digestivo"
+    },
+    {
+      "id": 2543,
+      "portuguese": "sobrecarregado"
+    },
+    {
+      "id": 2544,
+      "portuguese": "sobrepor"
+    },
+    {
+      "id": 2545,
+      "portuguese": "sódio"
+    },
+    {
+      "id": 2546,
+      "portuguese": "soja"
+    },
+    {
+      "id": 2547,
+      "portuguese": "sonolência"
+    },
+    {
+      "id": 2548,
+      "portuguese": "subsistência"
+    },
+    {
+      "id": 2549,
+      "portuguese": "substituir"
+    },
+    {
+      "id": 2550,
+      "portuguese": "sufocar"
+    },
+    {
+      "id": 2551,
+      "portuguese": "superar"
+    },
+    {
+      "id": 2552,
+      "portuguese": "supersticioso"
+    },
+    {
+      "id": 2553,
+      "portuguese": "untar"
+    },
+    {
+      "id": 2554,
+      "portuguese": "urbano"
+    },
+    {
+      "id": 2555,
+      "portuguese": "usufruir"
+    },
+    {
+      "id": 2556,
+      "portuguese": "utente"
+    },
+    {
+      "id": 2557,
+      "portuguese": "vaga"
+    },
+    {
+      "id": 2558,
+      "portuguese": "vago"
+    },
+    {
+      "id": 2559,
+      "portuguese": "valência"
+    },
+    {
+      "id": 2560,
+      "portuguese": "valorização"
+    },
+    {
+      "id": 2561,
+      "portuguese": "valorizado"
+    },
+    {
+      "id": 2562,
+      "portuguese": "valorizar"
+    },
+    {
+      "id": 2563,
+      "portuguese": "varinha"
+    },
+    {
+      "id": 2564,
+      "portuguese": "mágica"
+    },
+    {
+      "id": 2565,
+      "portuguese": "veículo"
+    },
+    {
+      "id": 2566,
+      "portuguese": "versátil"
+    },
+    {
+      "id": 2567,
+      "portuguese": "vertente"
+    },
+    {
+      "id": 2568,
+      "portuguese": "vício"
+    },
+    {
+      "id": 2569,
+      "portuguese": "vigorar"
+    },
+    {
+      "id": 2570,
+      "portuguese": "vinha"
+    },
+    {
+      "id": 2571,
+      "portuguese": "visibilidade"
+    },
+    {
+      "id": 2572,
+      "portuguese": "vítima"
+    },
+    {
+      "id": 2573,
+      "portuguese": "vocalista"
+    },
+    {
+      "id": 2574,
+      "portuguese": "vulcânico"
+    },
+    {
+      "id": 2575,
+      "portuguese": "voluntariado"
+    },
+    {
+      "id": 2576,
+      "portuguese": "xeque"
+    },
+    {
+      "id": 2577,
+      "portuguese": "xeque-mate"
+    },
+    {
+      "id": 2578,
+      "portuguese": "zelo"
+    },
+    {
+      "id": 2579,
+      "portuguese": "conforto"
+    },
+    {
+      "id": 2580,
+      "portuguese": "metropolitana"
+    },
+    {
+      "id": 2581,
+      "portuguese": "supor"
+    },
+    {
+      "id": 2582,
+      "portuguese": "suscitar"
+    },
+    {
+      "id": 2583,
+      "portuguese": "suspender"
+    },
+    {
+      "id": 2584,
+      "portuguese": "sustentável"
+    },
+    {
+      "id": 2585,
+      "portuguese": "tabela"
+    },
+    {
+      "id": 2586,
+      "portuguese": "periódica"
+    },
+    {
+      "id": 2587,
+      "portuguese": "taquicardia"
+    },
+    {
+      "id": 2588,
+      "portuguese": "tecnologia"
+    },
+    {
+      "id": 2589,
+      "portuguese": "telha"
+    },
+    {
+      "id": 2590,
+      "portuguese": "temperado"
+    },
+    {
+      "id": 2591,
+      "portuguese": "temperar"
+    },
+    {
+      "id": 2592,
+      "portuguese": "atmosférico"
+    },
+    {
+      "id": 2593,
+      "portuguese": "tendência"
+    },
+    {
+      "id": 2594,
+      "portuguese": "tentativa"
+    },
+    {
+      "id": 2595,
+      "portuguese": "baterias"
+    },
+    {
+      "id": 2596,
+      "portuguese": "recarregadas"
+    },
+    {
+      "id": 2597,
+      "portuguese": "pés"
+    },
+    {
+      "id": 2598,
+      "portuguese": "assentes"
+    },
+    {
+      "id": 2599,
+      "portuguese": "terapêutico"
+    },
+    {
+      "id": 2600,
+      "portuguese": "terapia"
+    },
+    {
+      "id": 2601,
+      "portuguese": "termal"
+    },
+    {
+      "id": 2602,
+      "portuguese": "terreno"
+    },
+    {
+      "id": 2603,
+      "portuguese": "território"
+    },
+    {
+      "id": 2604,
+      "portuguese": "testemunho"
+    },
+    {
+      "id": 2605,
+      "portuguese": "todo-o-terreno"
+    },
+    {
+      "id": 2606,
+      "portuguese": "tonelada"
+    },
+    {
+      "id": 2607,
+      "portuguese": "tornado"
+    },
+    {
+      "id": 2608,
+      "portuguese": "transferir"
+    },
+    {
+      "id": 2609,
+      "portuguese": "transitório"
+    },
+    {
+      "id": 2610,
+      "portuguese": "tremor"
+    },
+    {
+      "id": 2611,
+      "portuguese": "trinado"
+    },
+    {
+      "id": 2612,
+      "portuguese": "trisavós"
+    },
+    {
+      "id": 2613,
+      "portuguese": "troca"
+    },
+    {
+      "id": 2614,
+      "portuguese": "tronco"
+    },
+    {
+      "id": 2615,
+      "portuguese": "truta"
+    },
+    {
+      "id": 2616,
+      "portuguese": "última"
+    },
+    {
+      "id": 2617,
+      "portuguese": "ultimamente"
+    },
+    {
+      "id": 2618,
+      "portuguese": "relevante"
+    },
+    {
+      "id": 2619,
+      "portuguese": "remediado"
+    },
+    {
+      "id": 2620,
+      "portuguese": "remunerar"
+    },
+    {
+      "id": 2621,
+      "portuguese": "renal"
+    },
+    {
+      "id": 2622,
+      "portuguese": "rendimento"
+    },
+    {
+      "id": 2623,
+      "portuguese": "renovação"
+    },
+    {
+      "id": 2624,
+      "portuguese": "repartir"
+    },
+    {
+      "id": 2625,
+      "portuguese": "repentino"
+    },
+    {
+      "id": 2626,
+      "portuguese": "repor"
+    },
+    {
+      "id": 2627,
+      "portuguese": "reportar"
+    },
+    {
+      "id": 2628,
+      "portuguese": "repousar"
+    },
+    {
+      "id": 2629,
+      "portuguese": "requerer"
+    },
+    {
+      "id": 2630,
+      "portuguese": "resíduo"
+    },
+    {
+      "id": 2631,
+      "portuguese": "resistir"
+    },
+    {
+      "id": 2632,
+      "portuguese": "resolução"
+    },
+    {
+      "id": 2633,
+      "portuguese": "restauração"
+    },
+    {
+      "id": 2634,
+      "portuguese": "restrição"
+    },
+    {
+      "id": 2635,
+      "portuguese": "restringir"
+    },
+    {
+      "id": 2636,
+      "portuguese": "resumo"
+    },
+    {
+      "id": 2637,
+      "portuguese": "retiro"
+    },
+    {
+      "id": 2638,
+      "portuguese": "revelar"
+    },
+    {
+      "id": 2639,
+      "portuguese": "rigor"
+    },
+    {
+      "id": 2640,
+      "portuguese": "risca"
+    },
+    {
+      "id": 2641,
+      "portuguese": "robótico"
+    },
+    {
+      "id": 2642,
+      "portuguese": "rodeado"
+    },
+    {
+      "id": 2643,
+      "portuguese": "rodízio"
+    },
+    {
+      "id": 2644,
+      "portuguese": "roer"
+    },
+    {
+      "id": 2645,
+      "portuguese": "rolha"
+    },
+    {
+      "id": 2646,
+      "portuguese": "romper"
+    },
+    {
+      "id": 2647,
+      "portuguese": "rondar"
+    },
+    {
+      "id": 2648,
+      "portuguese": "roqueiro"
+    },
+    {
+      "id": 2649,
+      "portuguese": "rótulo"
+    },
+    {
+      "id": 2650,
+      "portuguese": "roupagem"
+    },
+    {
+      "id": 2651,
+      "portuguese": "ruído"
+    },
+    {
+      "id": 2652,
+      "portuguese": "sabedoria"
+    },
+    {
+      "id": 2653,
+      "portuguese": "saborear"
+    },
+    {
+      "id": 2654,
+      "portuguese": "saciar"
+    },
+    {
+      "id": 2655,
+      "portuguese": "sacrificar"
+    },
+    {
+      "id": 2656,
+      "portuguese": "salsicharia"
+    },
+    {
+      "id": 2657,
+      "portuguese": "pregar"
+    },
+    {
+      "id": 2658,
+      "portuguese": "prego"
+    },
+    {
+      "id": 2659,
+      "portuguese": "preguiçar"
+    },
+    {
+      "id": 2660,
+      "portuguese": "prejudicial"
+    },
+    {
+      "id": 2661,
+      "portuguese": "preliminar"
+    },
+    {
+      "id": 2662,
+      "portuguese": "premência"
+    },
+    {
+      "id": 2663,
+      "portuguese": "prémio"
+    },
+    {
+      "id": 2664,
+      "portuguese": "prescrever"
+    },
+    {
+      "id": 2665,
+      "portuguese": "prestação"
+    },
+    {
+      "id": 2666,
+      "portuguese": "prever"
+    },
+    {
+      "id": 2667,
+      "portuguese": "previamente"
+    },
+    {
+      "id": 2668,
+      "portuguese": "meteorológica"
+    },
+    {
+      "id": 2669,
+      "portuguese": "previsível"
+    },
+    {
+      "id": 2670,
+      "portuguese": "previsivelmente"
+    },
+    {
+      "id": 2671,
+      "portuguese": "primordial"
+    },
+    {
+      "id": 2672,
+      "portuguese": "processados"
+    },
+    {
+      "id": 2673,
+      "portuguese": "processar"
+    },
+    {
+      "id": 2674,
+      "portuguese": "procrastinação"
+    },
+    {
+      "id": 2675,
+      "portuguese": "procrastinador"
+    },
+    {
+      "id": 2676,
+      "portuguese": "procrastinar"
+    },
+    {
+      "id": 2677,
+      "portuguese": "catedrático"
+    },
+    {
+      "id": 2678,
+      "portuguese": "profundeza"
+    },
+    {
+      "id": 2679,
+      "portuguese": "programação"
+    },
+    {
+      "id": 2680,
+      "portuguese": "projetar"
+    },
+    {
+      "id": 2681,
+      "portuguese": "projeto-piloto"
+    },
+    {
+      "id": 2682,
+      "portuguese": "projetor"
+    },
+    {
+      "id": 2683,
+      "portuguese": "prolongar"
+    },
+    {
+      "id": 2684,
+      "portuguese": "promotor"
+    },
+    {
+      "id": 2685,
+      "portuguese": "propiciar"
+    },
+    {
+      "id": 2686,
+      "portuguese": "propor"
+    },
+    {
+      "id": 2687,
+      "portuguese": "proposta"
+    },
+    {
+      "id": 2688,
+      "portuguese": "proveniente"
+    },
+    {
+      "id": 2689,
+      "portuguese": "provocar"
+    },
+    {
+      "id": 2690,
+      "portuguese": "proximidade"
+    },
+    {
+      "id": 2691,
+      "portuguese": "público-alvo"
+    },
+    {
+      "id": 2692,
+      "portuguese": "pulmonar"
+    },
+    {
+      "id": 2693,
+      "portuguese": "purificação"
+    },
+    {
+      "id": 2694,
+      "portuguese": "purificar"
+    },
+    {
+      "id": 2695,
+      "portuguese": "vergonha"
+    },
+    {
+      "id": 2696,
+      "portuguese": "nutrir"
+    },
+    {
+      "id": 2697,
+      "portuguese": "obrigação"
+    },
+    {
+      "id": 2698,
+      "portuguese": "obstáculo"
+    },
+    {
+      "id": 2699,
+      "portuguese": "oferta"
+    },
+    {
+      "id": 2700,
+      "portuguese": "olimpíada"
+    },
+    {
+      "id": 2701,
+      "portuguese": "oloroso"
+    },
+    {
+      "id": 2702,
+      "portuguese": "operador"
+    },
+    {
+      "id": 2703,
+      "portuguese": "operar"
+    },
+    {
+      "id": 2704,
+      "portuguese": "oportuno"
+    },
+    {
+      "id": 2705,
+      "portuguese": "oposto"
+    },
+    {
+      "id": 2706,
+      "portuguese": "orçamento"
+    },
+    {
+      "id": 2707,
+      "portuguese": "organismo"
+    },
+    {
+      "id": 2708,
+      "portuguese": "originário"
+    },
+    {
+      "id": 2709,
+      "portuguese": "organizado"
+    },
+    {
+      "id": 2710,
+      "portuguese": "oscilar"
+    },
+    {
+      "id": 2711,
+      "portuguese": "ousar"
+    },
+    {
+      "id": 2712,
+      "portuguese": "oxalá"
+    },
+    {
+      "id": 2713,
+      "portuguese": "paço"
+    },
+    {
+      "id": 2714,
+      "portuguese": "padrão"
+    },
+    {
+      "id": 2715,
+      "portuguese": "paladar"
+    },
+    {
+      "id": 2716,
+      "portuguese": "paládio"
+    },
+    {
+      "id": 2717,
+      "portuguese": "embrulho"
+    },
+    {
+      "id": 2718,
+      "portuguese": "paraíso"
+    },
+    {
+      "id": 2719,
+      "portuguese": "paralisação"
+    },
+    {
+      "id": 2720,
+      "portuguese": "parceiro"
+    },
+    {
+      "id": 2721,
+      "portuguese": "pardo"
+    },
+    {
+      "id": 2722,
+      "portuguese": "passadeira"
+    },
+    {
+      "id": 2723,
+      "portuguese": "passo"
+    },
+    {
+      "id": 2724,
+      "portuguese": "património"
+    },
+    {
+      "id": 2725,
+      "portuguese": "pau"
+    },
+    {
+      "id": 2726,
+      "portuguese": "peça"
+    },
+    {
+      "id": 2727,
+      "portuguese": "pedaço"
+    },
+    {
+      "id": 2728,
+      "portuguese": "pedestre"
+    },
+    {
+      "id": 2729,
+      "portuguese": "pendente"
+    },
+    {
+      "id": 2730,
+      "portuguese": "pensão"
+    },
+    {
+      "id": 2731,
+      "portuguese": "lidar"
+    },
+    {
+      "id": 2732,
+      "portuguese": "ferroviária"
+    },
+    {
+      "id": 2733,
+      "portuguese": "ligeiro"
+    },
+    {
+      "id": 2734,
+      "portuguese": "linhaça"
+    },
+    {
+      "id": 2735,
+      "portuguese": "listar"
+    },
+    {
+      "id": 2736,
+      "portuguese": "lítio"
+    },
+    {
+      "id": 2737,
+      "portuguese": "aos"
+    },
+    {
+      "id": 2738,
+      "portuguese": "quadradinhos"
+    },
+    {
+      "id": 2739,
+      "portuguese": "longevidade"
+    },
+    {
+      "id": 2740,
+      "portuguese": "lugares"
+    },
+    {
+      "id": 2741,
+      "portuguese": "marcados"
+    },
+    {
+      "id": 2742,
+      "portuguese": "maiúscula"
+    },
+    {
+      "id": 2743,
+      "portuguese": "mal-humorado"
+    },
+    {
+      "id": 2744,
+      "portuguese": "maldade"
+    },
+    {
+      "id": 2745,
+      "portuguese": "malhado"
+    },
+    {
+      "id": 2746,
+      "portuguese": "malta"
+    },
+    {
+      "id": 2747,
+      "portuguese": "manifestação"
+    },
+    {
+      "id": 2748,
+      "portuguese": "marcante"
+    },
+    {
+      "id": 2749,
+      "portuguese": "marmitar"
+    },
+    {
+      "id": 2750,
+      "portuguese": "massivo"
+    },
+    {
+      "id": 2751,
+      "portuguese": "mastigar"
+    },
+    {
+      "id": 2752,
+      "portuguese": "matéria-prima"
+    },
+    {
+      "id": 2753,
+      "portuguese": "material"
+    },
+    {
+      "id": 2754,
+      "portuguese": "precioso"
+    },
+    {
+      "id": 2755,
+      "portuguese": "curativa"
+    },
+    {
+      "id": 2756,
+      "portuguese": "preventiva"
+    },
+    {
+      "id": 2757,
+      "portuguese": "medida"
+    },
+    {
+      "id": 2758,
+      "portuguese": "melhoria"
+    },
+    {
+      "id": 2759,
+      "portuguese": "mencionar"
+    },
+    {
+      "id": 2760,
+      "portuguese": "menininho"
+    },
+    {
+      "id": 2761,
+      "portuguese": "meramente"
+    },
+    {
+      "id": 2762,
+      "portuguese": "mérito"
+    },
+    {
+      "id": 2763,
+      "portuguese": "gasóleo"
+    },
+    {
+      "id": 2764,
+      "portuguese": "gastador"
+    },
+    {
+      "id": 2765,
+      "portuguese": "gerir"
+    },
+    {
+      "id": 2766,
+      "portuguese": "germinar"
+    },
+    {
+      "id": 2767,
+      "portuguese": "gordura"
+    },
+    {
+      "id": 2768,
+      "portuguese": "insaturada"
+    },
+    {
+      "id": 2769,
+      "portuguese": "monoinsaturada"
+    },
+    {
+      "id": 2770,
+      "portuguese": "poli-insaturada"
+    },
+    {
+      "id": 2771,
+      "portuguese": "saturada"
+    },
+    {
+      "id": 2772,
+      "portuguese": "gravação"
+    },
+    {
+      "id": 2773,
+      "portuguese": "grelos"
+    },
+    {
+      "id": 2774,
+      "portuguese": "gruta"
+    },
+    {
+      "id": 2775,
+      "portuguese": "guiado"
+    },
+    {
+      "id": 2776,
+      "portuguese": "guisados"
+    },
+    {
+      "id": 2777,
+      "portuguese": "habitação"
+    },
+    {
+      "id": 2778,
+      "portuguese": "hera"
+    },
+    {
+      "id": 2779,
+      "portuguese": "higienização"
+    },
+    {
+      "id": 2780,
+      "portuguese": "hipertensão"
+    },
+    {
+      "id": 2781,
+      "portuguese": "hipótese"
+    },
+    {
+      "id": 2782,
+      "portuguese": "expediente"
+    },
+    {
+      "id": 2783,
+      "portuguese": "hortênsia"
+    },
+    {
+      "id": 2784,
+      "portuguese": "hortícolas"
+    },
+    {
+      "id": 2785,
+      "portuguese": "idealizar"
+    },
+    {
+      "id": 2786,
+      "portuguese": "identificar"
+    },
+    {
+      "id": 2787,
+      "portuguese": "imersivo"
+    },
+    {
+      "id": 2788,
+      "portuguese": "imigrante"
+    },
+    {
+      "id": 2789,
+      "portuguese": "implementação"
+    },
+    {
+      "id": 2790,
+      "portuguese": "implementar"
+    },
+    {
+      "id": 2791,
+      "portuguese": "imprescindível"
+    },
+    {
+      "id": 2792,
+      "portuguese": "impressionante"
+    },
+    {
+      "id": 2793,
+      "portuguese": "inauguração"
+    },
+    {
+      "id": 2794,
+      "portuguese": "incendiar"
+    },
+    {
+      "id": 2795,
+      "portuguese": "incêndio"
+    },
+    {
+      "id": 2796,
+      "portuguese": "estufados"
+    },
+    {
+      "id": 2797,
+      "portuguese": "etapa"
+    },
+    {
+      "id": 2798,
+      "portuguese": "evidência"
+    },
+    {
+      "id": 2799,
+      "portuguese": "exaltar"
+    },
+    {
+      "id": 2800,
+      "portuguese": "exatidão"
+    },
+    {
+      "id": 2801,
+      "portuguese": "excerto"
+    },
+    {
+      "id": 2802,
+      "portuguese": "excessivo"
+    },
+    {
+      "id": 2803,
+      "portuguese": "exceto"
+    },
+    {
+      "id": 2804,
+      "portuguese": "excluir"
+    },
+    {
+      "id": 2805,
+      "portuguese": "exclusão"
+    },
+    {
+      "id": 2806,
+      "portuguese": "exercer"
+    },
+    {
+      "id": 2807,
+      "portuguese": "exigência"
+    },
+    {
+      "id": 2808,
+      "portuguese": "expandir"
+    },
+    {
+      "id": 2809,
+      "portuguese": "expectativa"
+    },
+    {
+      "id": 2810,
+      "portuguese": "experienciar"
+    },
+    {
+      "id": 2811,
+      "portuguese": "explícito"
+    },
+    {
+      "id": 2812,
+      "portuguese": "expor"
+    },
+    {
+      "id": 2813,
+      "portuguese": "expressão"
+    },
+    {
+      "id": 2814,
+      "portuguese": "idiomática"
+    },
+    {
+      "id": 2815,
+      "portuguese": "exteriorizar"
+    },
+    {
+      "id": 2816,
+      "portuguese": "extrair"
+    },
+    {
+      "id": 2817,
+      "portuguese": "extremo"
+    },
+    {
+      "id": 2818,
+      "portuguese": "fada"
+    },
+    {
+      "id": 2819,
+      "portuguese": "fadiga"
+    },
+    {
+      "id": 2820,
+      "portuguese": "fascínio"
+    },
+    {
+      "id": 2821,
+      "portuguese": "fatal"
+    },
+    {
+      "id": 2822,
+      "portuguese": "fazenda"
+    },
+    {
+      "id": 2823,
+      "portuguese": "ferimento"
+    },
+    {
+      "id": 2824,
+      "portuguese": "ferramenta"
+    },
+    {
+      "id": 2825,
+      "portuguese": "fértil"
+    },
+    {
+      "id": 2826,
+      "portuguese": "festival"
+    },
+    {
+      "id": 2827,
+      "portuguese": "fibra"
+    },
+    {
+      "id": 2828,
+      "portuguese": "distraído"
+    },
+    {
+      "id": 2829,
+      "portuguese": "divulgar"
+    },
+    {
+      "id": 2830,
+      "portuguese": "terços"
+    },
+    {
+      "id": 2831,
+      "portuguese": "domínio"
+    },
+    {
+      "id": 2832,
+      "portuguese": "drasticamente"
+    },
+    {
+      "id": 2833,
+      "portuguese": "drástico"
+    },
+    {
+      "id": 2834,
+      "portuguese": "ecoturismo"
+    },
+    {
+      "id": 2835,
+      "portuguese": "efeito"
+    },
+    {
+      "id": 2836,
+      "portuguese": "estufa"
+    },
+    {
+      "id": 2837,
+      "portuguese": "efetuar"
+    },
+    {
+      "id": 2838,
+      "portuguese": "eficiência"
+    },
+    {
+      "id": 2839,
+      "portuguese": "eixo"
+    },
+    {
+      "id": 2840,
+      "portuguese": "elaborado"
+    },
+    {
+      "id": 2841,
+      "portuguese": "elite"
+    },
+    {
+      "id": 2842,
+      "portuguese": "anexo"
+    },
+    {
+      "id": 2843,
+      "portuguese": "busca"
+    },
+    {
+      "id": 2844,
+      "portuguese": "dívida"
+    },
+    {
+      "id": 2845,
+      "portuguese": "proporção"
+    },
+    {
+      "id": 2846,
+      "portuguese": "vigor"
+    },
+    {
+      "id": 2847,
+      "portuguese": "embalar"
+    },
+    {
+      "id": 2848,
+      "portuguese": "emergente"
+    },
+    {
+      "id": 2849,
+      "portuguese": "emigrante"
+    },
+    {
+      "id": 2850,
+      "portuguese": "emissão"
+    },
+    {
+      "id": 2851,
+      "portuguese": "gases"
+    },
+    {
+      "id": 2852,
+      "portuguese": "emitir"
+    },
+    {
+      "id": 2853,
+      "portuguese": "empreendedor"
+    },
+    {
+      "id": 2854,
+      "portuguese": "empregar"
+    },
+    {
+      "id": 2855,
+      "portuguese": "empurrar"
+    },
+    {
+      "id": 2856,
+      "portuguese": "encantar"
+    },
+    {
+      "id": 2857,
+      "portuguese": "encanto"
+    },
+    {
+      "id": 2858,
+      "portuguese": "encarar"
+    },
+    {
+      "id": 2859,
+      "portuguese": "enchidos"
+    },
+    {
+      "id": 2860,
+      "portuguese": "energia"
+    },
+    {
+      "id": 2861,
+      "portuguese": "renovável"
+    },
+    {
+      "id": 2862,
+      "portuguese": "enervar"
+    },
+    {
+      "id": 2863,
+      "portuguese": "engano"
+    },
+    {
+      "id": 2864,
+      "portuguese": "enlatados"
+    },
+    {
+      "id": 2865,
+      "portuguese": "enormidade"
+    },
+    {
+      "id": 2866,
+      "portuguese": "enoturismo"
+    },
+    {
+      "id": 2867,
+      "portuguese": "tutela"
+    },
+    {
+      "id": 2868,
+      "portuguese": "pública"
+    },
+    {
+      "id": 2869,
+      "portuguese": "declínio"
+    },
+    {
+      "id": 2870,
+      "portuguese": "decorrer"
+    },
+    {
+      "id": 2871,
+      "portuguese": "dedicar"
+    },
+    {
+      "id": 2872,
+      "portuguese": "degelo"
+    },
+    {
+      "id": 2873,
+      "portuguese": "meia-idade"
+    },
+    {
+      "id": 2874,
+      "portuguese": "qualquer"
+    },
+    {
+      "id": 2875,
+      "portuguese": "modo"
+    },
+    {
+      "id": 2876,
+      "portuguese": "demasiado"
+    },
+    {
+      "id": 2877,
+      "portuguese": "demência"
+    },
+    {
+      "id": 2878,
+      "portuguese": "demissão"
+    },
+    {
+      "id": 2879,
+      "portuguese": "demográfico"
+    },
+    {
+      "id": 2880,
+      "portuguese": "demonstração"
+    },
+    {
+      "id": 2881,
+      "portuguese": "denominação"
+    },
+    {
+      "id": 2882,
+      "portuguese": "denunciar"
+    },
+    {
+      "id": 2883,
+      "portuguese": "depressão"
+    },
+    {
+      "id": 2884,
+      "portuguese": "desabafar"
+    },
+    {
+      "id": 2885,
+      "portuguese": "desafiante"
+    },
+    {
+      "id": 2886,
+      "portuguese": "desafio"
+    },
+    {
+      "id": 2887,
+      "portuguese": "desanimar"
+    },
+    {
+      "id": 2888,
+      "portuguese": "descascar"
+    },
+    {
+      "id": 2889,
+      "portuguese": "descendência"
+    },
+    {
+      "id": 2890,
+      "portuguese": "descendente"
+    },
+    {
+      "id": 2891,
+      "portuguese": "descomplicar"
+    },
+    {
+      "id": 2892,
+      "portuguese": "desconhecido"
+    },
+    {
+      "id": 2893,
+      "portuguese": "descontrolo"
+    },
+    {
+      "id": 2894,
+      "portuguese": "descrição"
+    },
+    {
+      "id": 2895,
+      "portuguese": "desembalar"
+    },
+    {
+      "id": 2896,
+      "portuguese": "desempenhar"
+    },
+    {
+      "id": 2897,
+      "portuguese": "desenhar"
+    },
+    {
+      "id": 2898,
+      "portuguese": "desenvolvimento"
+    },
+    {
+      "id": 2899,
+      "portuguese": "desfazer"
+    },
+    {
+      "id": 2900,
+      "portuguese": "desgastante"
+    },
+    {
+      "id": 2901,
+      "portuguese": "ciclone"
+    },
+    {
+      "id": 2902,
+      "portuguese": "cidadania"
+    },
+    {
+      "id": 2903,
+      "portuguese": "cínico"
+    },
+    {
+      "id": 2904,
+      "portuguese": "circulação"
+    },
+    {
+      "id": 2905,
+      "portuguese": "climático"
+    },
+    {
+      "id": 2906,
+      "portuguese": "cobre"
+    },
+    {
+      "id": 2907,
+      "portuguese": "coçar"
+    },
+    {
+      "id": 2908,
+      "portuguese": "cócegas"
+    },
+    {
+      "id": 2909,
+      "portuguese": "cochilar"
+    },
+    {
+      "id": 2910,
+      "portuguese": "coincidir"
+    },
+    {
+      "id": 2911,
+      "portuguese": "coluna"
+    },
+    {
+      "id": 2912,
+      "portuguese": "vertebral"
+    },
+    {
+      "id": 2913,
+      "portuguese": "combater"
+    },
+    {
+      "id": 2914,
+      "portuguese": "combinar"
+    },
+    {
+      "id": 2915,
+      "portuguese": "complexo"
+    },
+    {
+      "id": 2916,
+      "portuguese": "compor"
+    },
+    {
+      "id": 2917,
+      "portuguese": "compromisso"
+    },
+    {
+      "id": 2918,
+      "portuguese": "computação"
+    },
+    {
+      "id": 2919,
+      "portuguese": "portátil"
+    },
+    {
+      "id": 2920,
+      "portuguese": "comummente"
+    },
+    {
+      "id": 2921,
+      "portuguese": "concelho"
+    },
+    {
+      "id": 2922,
+      "portuguese": "concretizar"
+    },
+    {
+      "id": 2923,
+      "portuguese": "condicionar"
+    },
+    {
+      "id": 2924,
+      "portuguese": "conferir"
+    },
+    {
+      "id": 2925,
+      "portuguese": "confirmação"
+    },
+    {
+      "id": 2926,
+      "portuguese": "conjuntura"
+    },
+    {
+      "id": 2927,
+      "portuguese": "consecutivo"
+    },
+    {
+      "id": 2928,
+      "portuguese": "conserto"
+    },
+    {
+      "id": 2929,
+      "portuguese": "conservação"
+    },
+    {
+      "id": 2930,
+      "portuguese": "conservas"
+    },
+    {
+      "id": 2931,
+      "portuguese": "consideração"
+    },
+    {
+      "id": 2932,
+      "portuguese": "constar"
+    },
+    {
+      "id": 2933,
+      "portuguese": "construção"
+    },
+    {
+      "id": 2934,
+      "portuguese": "modular"
+    },
+    {
+      "id": 2935,
+      "portuguese": "consultora"
+    },
+    {
+      "id": 2936,
+      "portuguese": "consultório"
+    },
+    {
+      "id": 2937,
+      "portuguese": "aproximar"
+    },
+    {
+      "id": 2938,
+      "portuguese": "aquecedor"
+    },
+    {
+      "id": 2939,
+      "portuguese": "global"
+    },
+    {
+      "id": 2940,
+      "portuguese": "argumentista"
+    },
+    {
+      "id": 2941,
+      "portuguese": "ária"
+    },
+    {
+      "id": 2942,
+      "portuguese": "arrancar"
+    },
+    {
+      "id": 2943,
+      "portuguese": "arrecadação"
+    },
+    {
+      "id": 2944,
+      "portuguese": "arrendar"
+    },
+    {
+      "id": 2945,
+      "portuguese": "arriscar"
+    },
+    {
+      "id": 2946,
+      "portuguese": "articular"
+    },
+    {
+      "id": 2947,
+      "portuguese": "assados"
+    },
+    {
+      "id": 2948,
+      "portuguese": "assaltante"
+    },
+    {
+      "id": 2949,
+      "portuguese": "assumir"
+    },
+    {
+      "id": 2950,
+      "portuguese": "atencioso"
+    },
+    {
+      "id": 2951,
+      "portuguese": "atenuar"
+    },
+    {
+      "id": 2952,
+      "portuguese": "atração"
+    },
+    {
+      "id": 2953,
+      "portuguese": "atrasar"
+    },
+    {
+      "id": 2954,
+      "portuguese": "atribuição"
+    },
+    {
+      "id": 2955,
+      "portuguese": "atuar"
+    },
+    {
+      "id": 2956,
+      "portuguese": "audácia"
+    },
+    {
+      "id": 2957,
+      "portuguese": "audiovisual"
+    },
+    {
+      "id": 2958,
+      "portuguese": "auditivo"
+    },
+    {
+      "id": 2959,
+      "portuguese": "ausência"
+    },
+    {
+      "id": 2960,
+      "portuguese": "auspicioso"
+    },
+    {
+      "id": 2961,
+      "portuguese": "automatismo"
+    },
+    {
+      "id": 2962,
+      "portuguese": "autonomia"
+    },
+    {
+      "id": 2963,
+      "portuguese": "autorizar"
+    },
+    {
+      "id": 2964,
+      "portuguese": "avançar"
+    },
+    {
+      "id": 2965,
+      "portuguese": "balanço"
+    },
+    {
+      "id": 2966,
+      "portuguese": "balnear"
+    },
+    {
+      "id": 2967,
+      "portuguese": "sonora"
+    },
+    {
+      "id": 2968,
+      "portuguese": "banhado"
+    },
+    {
+      "id": 2969,
+      "portuguese": "barrar"
+    },
+    {
+      "id": 2970,
+      "portuguese": "base"
+    },
+    {
+      "id": 2971,
+      "portuguese": "propósito"
+    },
+    {
+      "id": 2972,
+      "portuguese": "abatanado"
+    },
+    {
+      "id": 2973,
+      "portuguese": "abordar"
+    },
+    {
+      "id": 2974,
+      "portuguese": "abrandar"
+    },
+    {
+      "id": 2975,
+      "portuguese": "abrigo"
+    },
+    {
+      "id": 2976,
+      "portuguese": "abrupto"
+    },
+    {
+      "id": 2977,
+      "portuguese": "absorção"
+    },
+    {
+      "id": 2978,
+      "portuguese": "acentuar"
+    },
+    {
+      "id": 2979,
+      "portuguese": "ácido"
+    },
+    {
+      "id": 2980,
+      "portuguese": "aço"
+    },
+    {
+      "id": 2981,
+      "portuguese": "acontecimento"
+    },
+    {
+      "id": 2982,
+      "portuguese": "açucarado"
+    },
+    {
+      "id": 2983,
+      "portuguese": "acumulado"
+    },
+    {
+      "id": 2984,
+      "portuguese": "acumular"
+    },
+    {
+      "id": 2985,
+      "portuguese": "adequado"
+    },
+    {
+      "id": 2986,
+      "portuguese": "adiamento"
+    },
+    {
+      "id": 2987,
+      "portuguese": "adiar"
+    },
+    {
+      "id": 2988,
+      "portuguese": "adicional"
+    },
+    {
+      "id": 2989,
+      "portuguese": "adivinhar"
+    },
+    {
+      "id": 2990,
+      "portuguese": "adquirir"
+    },
+    {
+      "id": 2991,
+      "portuguese": "afetar"
+    },
+    {
+      "id": 2992,
+      "portuguese": "agendar"
+    },
+    {
+      "id": 2993,
+      "portuguese": "ágil"
+    },
+    {
+      "id": 2994,
+      "portuguese": "agravar"
+    },
+    {
+      "id": 2995,
+      "portuguese": "agressividade"
+    },
+    {
+      "id": 2996,
+      "portuguese": "aguaceiro"
+    },
+    {
+      "id": 2997,
+      "portuguese": "aguardar"
+    },
+    {
+      "id": 2998,
+      "portuguese": "ajustamento"
+    },
+    {
+      "id": 2999,
+      "portuguese": "ajustar"
+    }
+  ],
+  "new_groups": [
+    {
+      "id": 52,
+      "name": "Quantities and Measurement"
+    },
+    {
+      "id": 53,
+      "name": "Language and Grammar"
+    },
+    {
+      "id": 54,
+      "name": "Home and Daily Life"
+    },
+    {
+      "id": 55,
+      "name": "Thinking and Decision Making"
+    },
+    {
+      "id": 56,
+      "name": "Science and Research"
+    },
+    {
+      "id": 57,
+      "name": "Law and Public Services"
+    },
+    {
+      "id": 58,
+      "name": "Sports and Exercise"
+    },
+    {
+      "id": 59,
+      "name": "Society and Demographics"
+    },
+    {
+      "id": 60,
+      "name": "Space and Movement"
+    },
+    {
+      "id": 61,
+      "name": "Religion and Beliefs"
+    },
+    {
+      "id": 62,
+      "name": "Industry and Materials"
+    }
+  ]
+}

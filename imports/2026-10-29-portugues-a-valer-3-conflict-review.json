@@ -1,0 +1,2146 @@
+{
+  "prepared_at": "2026-10-29",
+  "policy": "Keep existing translations and levels; retain contextual incoming meanings in source backups. Add only missing values and additional topical memberships.",
+  "conflicting_words": 155,
+  "field_counts": {
+    "english": 120,
+    "level": 71,
+    "ukrainian": 110
+  },
+  "conflicts": [
+    {
+      "portuguese": "alterar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to change; to alter",
+          "incoming": "to change"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "altura",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "height; time; occasion",
+          "incoming": "time"
+        },
+        "ukrainian": {
+          "database": "висота; зріст; час; момент",
+          "incoming": "час; висота"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "amizade",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "animado",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "excited; lively (masculine)",
+          "incoming": "cheerful"
+        },
+        "ukrainian": {
+          "database": "схвильований; жвавий",
+          "incoming": "жвавий; веселий"
+        }
+      }
+    },
+    {
+      "portuguese": "apaixonar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to inspire love; with -se: to fall in love",
+          "incoming": "to make fall in love; to captivate"
+        },
+        "ukrainian": {
+          "database": "викликати кохання; із -se: закохуватися",
+          "incoming": "закохувати в себе; захоплювати"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "se",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "oneself; impersonal or reflexive pronoun",
+          "incoming": "oneself; reflexive pronoun"
+        },
+        "ukrainian": {
+          "database": "себе; зворотний або безособовий займенник",
+          "incoming": "себе; зворотний займенник"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "de",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "of, from",
+          "incoming": "of; from"
+        }
+      }
+    },
+    {
+      "portuguese": "aplicação",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "application, app",
+          "incoming": "application; use; app"
+        },
+        "ukrainian": {
+          "database": "застосунок",
+          "incoming": "застосування; застосунок"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "apoio",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "support; help",
+          "incoming": "support"
+        },
+        "ukrainian": {
+          "database": "підтримка; допомога",
+          "incoming": "підтримка"
+        }
+      }
+    },
+    {
+      "portuguese": "para",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "for, to",
+          "incoming": "for; to; towards"
+        }
+      }
+    },
+    {
+      "portuguese": "bigode",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "moustache; mustache",
+          "incoming": "moustache"
+        }
+      }
+    },
+    {
+      "portuguese": "bilheteira",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "bolacha",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "biscuit; cookie",
+          "incoming": "biscuit"
+        }
+      }
+    },
+    {
+      "portuguese": "burro",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "donkey",
+          "incoming": "dumb"
+        },
+        "ukrainian": {
+          "database": "осел",
+          "incoming": "дурний; осел"
+        }
+      }
+    },
+    {
+      "portuguese": "caminho",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "way; path",
+          "incoming": "way"
+        },
+        "ukrainian": {
+          "database": "шлях; дорога",
+          "incoming": "шлях"
+        }
+      }
+    },
+    {
+      "portuguese": "capital",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "capital city",
+          "incoming": "capital; investment funds"
+        },
+        "ukrainian": {
+          "database": "столиця",
+          "incoming": "капітал"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "carta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "letter; card (in some expressions)",
+          "incoming": "letter; card"
+        },
+        "ukrainian": {
+          "database": "лист; картка (у деяких виразах)",
+          "incoming": "лист; картка"
+        }
+      }
+    },
+    {
+      "portuguese": "condução",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "керування автомобілем; водіння",
+          "incoming": "керування автомобілем"
+        }
+      }
+    },
+    {
+      "portuguese": "correr",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "бігти; бігати",
+          "incoming": "бігти"
+        }
+      }
+    },
+    {
+      "portuguese": "cozer",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to boil; to cook in water",
+          "incoming": "to boil"
+        },
+        "ukrainian": {
+          "database": "варити",
+          "incoming": "варити; випікати"
+        }
+      }
+    },
+    {
+      "portuguese": "crescer",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to grow; to grow up",
+          "incoming": "to grow up"
+        }
+      }
+    },
+    {
+      "portuguese": "os",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "the; them (masculine plural)",
+          "incoming": "the (masculine plural)"
+        },
+        "ukrainian": {
+          "database": "означений артикль чоловічого роду множини; їх",
+          "incoming": "означений артикль чоловічого роду множини"
+        }
+      }
+    },
+    {
+      "portuguese": "custo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "cost; expense",
+          "incoming": "cost"
+        },
+        "ukrainian": {
+          "database": "вартість; витрата",
+          "incoming": "вартість"
+        }
+      }
+    },
+    {
+      "portuguese": "em",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "in, on",
+          "incoming": "in; on; at"
+        },
+        "ukrainian": {
+          "database": "у; в; на",
+          "incoming": "у; на"
+        }
+      }
+    },
+    {
+      "portuguese": "conta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "bill; account",
+          "incoming": "account; bill; calculation"
+        },
+        "ukrainian": {
+          "database": "рахунок",
+          "incoming": "рахунок; обчислення"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "por",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "by, through",
+          "incoming": "by; through; for"
+        },
+        "ukrainian": {
+          "database": "через; за; кимось",
+          "incoming": "через; за; по"
+        }
+      }
+    },
+    {
+      "portuguese": "a",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to, at",
+          "incoming": "to; at; the (feminine singular)"
+        },
+        "ukrainian": {
+          "database": "до; у; на",
+          "incoming": "до; у; означений артикль жіночого роду"
+        }
+      }
+    },
+    {
+      "portuguese": "desligar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to switch off; to hang up",
+          "incoming": "to switch off; to disconnect"
+        },
+        "ukrainian": {
+          "database": "вимикати; завершувати дзвінок",
+          "incoming": "вимикати; відʼєднувати"
+        }
+      }
+    },
+    {
+      "portuguese": "despedir",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to dismiss; to say goodbye (with se)",
+          "incoming": "to fire"
+        },
+        "ukrainian": {
+          "database": "звільняти; прощатися (із se)",
+          "incoming": "звільняти з роботи"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "que",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "that, than",
+          "incoming": "that; which"
+        },
+        "ukrainian": {
+          "database": "що; ніж",
+          "incoming": "що; який"
+        }
+      }
+    },
+    {
+      "portuguese": "dever",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "should; must; to owe",
+          "incoming": "to owe; must; should"
+        },
+        "ukrainian": {
+          "database": "мусити; бути зобов'язаним; заборгувати",
+          "incoming": "бути винним; мусити"
+        }
+      }
+    },
+    {
+      "portuguese": "dieta",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "дієта; раціон харчування",
+          "incoming": "дієта"
+        }
+      }
+    },
+    {
+      "portuguese": "escala",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "stopover; scale",
+          "incoming": "scale"
+        },
+        "ukrainian": {
+          "database": "пересадка; проміжна зупинка; шкала",
+          "incoming": "шкала; масштаб; пересадка"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "estar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to be (states, feelings, or location)",
+          "incoming": "to be (state or location)"
+        },
+        "ukrainian": {
+          "database": "бути (стан або місцеперебування)",
+          "incoming": "бути; перебувати"
+        }
+      }
+    },
+    {
+      "portuguese": "volta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "return; turn; round",
+          "incoming": "turn; return; round"
+        },
+        "ukrainian": {
+          "database": "повернення; поворот; коло",
+          "incoming": "поворот; повернення; коло"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "ficar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to stay; to be located; to become",
+          "incoming": "to stay; to become; to be located"
+        },
+        "ukrainian": {
+          "database": "залишатися; перебувати; знаходитися; ставати",
+          "incoming": "залишатися; ставати; бути розташованим"
+        }
+      }
+    },
+    {
+      "portuguese": "à",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "до; у; на (із означеним артиклем жіночого роду)",
+          "incoming": "до; у (злиття прийменника a з артиклем a)"
+        }
+      }
+    },
+    {
+      "portuguese": "pé",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "стопа",
+          "incoming": "стопа; нога"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "atrás",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "back",
+          "incoming": "behind; back"
+        },
+        "ukrainian": {
+          "database": "позаду",
+          "incoming": "позаду; назад"
+        }
+      }
+    },
+    {
+      "portuguese": "do",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "з; від; належність (de + o)",
+          "incoming": "означення належності; з (de + o)"
+        }
+      }
+    },
+    {
+      "portuguese": "funcionário",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "employee; civil servant",
+          "incoming": "employee"
+        }
+      }
+    },
+    {
+      "portuguese": "galão",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "coffee with milk served in a glass",
+          "incoming": "latte"
+        },
+        "ukrainian": {
+          "database": "кава з молоком у склянці",
+          "incoming": "кава з молоком у високій склянці"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "gás",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "na",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "in the; at the; on the (em + a)",
+          "incoming": "in the; on the (em + a)"
+        },
+        "ukrainian": {
+          "database": "у; на (із означеним артиклем жіночого роду)",
+          "incoming": "у; на (em + a)"
+        }
+      }
+    },
+    {
+      "portuguese": "mesmo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "same; himself; even",
+          "incoming": "same; even"
+        },
+        "ukrainian": {
+          "database": "той самий; сам; навіть",
+          "incoming": "той самий; навіть"
+        }
+      }
+    },
+    {
+      "portuguese": "metro",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "subway",
+          "incoming": "metre; metro"
+        },
+        "ukrainian": {
+          "database": "метро",
+          "incoming": "метр; метро"
+        }
+      }
+    },
+    {
+      "portuguese": "quadrado",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "square (shape); square (adjective)",
+          "incoming": "square; squared"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "mina",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "mine (mineral extraction site or explosive device)",
+          "incoming": "mine"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "mudar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to change; to move (home)",
+          "incoming": "to change; to move"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "multa",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "fine; penalty (money)",
+          "incoming": "fine"
+        }
+      }
+    },
+    {
+      "portuguese": "municipal",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "municipal; relating to a town or city",
+          "incoming": "municipal"
+        },
+        "ukrainian": {
+          "database": "муніципальний; міський",
+          "incoming": "муніципальний"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "sua",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "his, her, your – formal feminine",
+          "incoming": "her; his; your; their (feminine singular)"
+        },
+        "ukrainian": {
+          "database": "його; її; Ваша (жіночий рід)",
+          "incoming": "її; його; Ваш; їхній (жіночий рід)"
+        }
+      }
+    },
+    {
+      "portuguese": "não",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "no",
+          "incoming": "not; no"
+        },
+        "ukrainian": {
+          "database": "ні",
+          "incoming": "не; ні"
+        }
+      }
+    },
+    {
+      "portuguese": "natas",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "cream (dairy)",
+          "incoming": "cream"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "nem",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "ні; ані; навіть не",
+          "incoming": "ані; навіть не"
+        }
+      }
+    },
+    {
+      "portuguese": "no",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "у; в; на (em + o)",
+          "incoming": "у; на (em + o)"
+        }
+      }
+    },
+    {
+      "portuguese": "nublado",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "perder",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to lose; to miss (transport)",
+          "incoming": "to lose"
+        },
+        "ukrainian": {
+          "database": "губити; втрачати; запізнюватися на транспорт",
+          "incoming": "втрачати; губити"
+        }
+      }
+    },
+    {
+      "portuguese": "pilha",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "battery; pile",
+          "incoming": "battery"
+        },
+        "ukrainian": {
+          "database": "батарейка; стос; купа",
+          "incoming": "батарейка; купа"
+        }
+      }
+    },
+    {
+      "portuguese": "planta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "plant; floor plan",
+          "incoming": "plant; plan; sole of the foot"
+        },
+        "ukrainian": {
+          "database": "рослина; план приміщення",
+          "incoming": "рослина; план; підошва стопи"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "plataforma",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "poluição",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "último",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "poupar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to save (money or resources)",
+          "incoming": "to save"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "prédio",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "будівля; багатоповерховий будинок",
+          "incoming": "будинок; будівля"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "quem",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "who",
+          "incoming": "who; whoever"
+        }
+      }
+    },
+    {
+      "portuguese": "me",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "me; to me (object clitic)",
+          "incoming": "me; to me"
+        }
+      }
+    },
+    {
+      "portuguese": "quer",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "wants; want (querer, third-person singular or formal you)",
+          "incoming": "wants; whether (in quer… quer…)"
+        },
+        "ukrainian": {
+          "database": "хоче; хочете (форма querer)",
+          "incoming": "хоче; чи; як… так і…"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "raio",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "lightning",
+          "incoming": "ray; lightning bolt"
+        },
+        "ukrainian": {
+          "database": "блискавка",
+          "incoming": "промінь; блискавка"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "sol",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "refrigerante",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "soda",
+          "incoming": "soft drink"
+        },
+        "ukrainian": {
+          "database": "газований напій",
+          "incoming": "безалкогольний газований напій"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "são",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "Saint (before male names); are (form of ser)",
+          "incoming": "healthy"
+        },
+        "ukrainian": {
+          "database": "святий (перед чоловічими іменами); є (форма ser)",
+          "incoming": "здоровий"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "calhar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to happen; to occur by chance",
+          "incoming": "to happen; to fit; to suit"
+        },
+        "ukrainian": {
+          "database": "траплятися; випадати",
+          "incoming": "траплятися; підходити"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "segundo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "second",
+          "incoming": "according to"
+        },
+        "ukrainian": {
+          "database": "секунда",
+          "incoming": "згідно з; відповідно до"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "segurança",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "безпека; охорона",
+          "incoming": "безпека"
+        }
+      }
+    },
+    {
+      "portuguese": "seguro",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "safe",
+          "incoming": "insurance; safe; secure"
+        },
+        "ukrainian": {
+          "database": "безпечний",
+          "incoming": "страхування; безпечний; надійний"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "saúde",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "здоров'я",
+          "incoming": "здоровʼя"
+        }
+      }
+    },
+    {
+      "portuguese": "selo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "postage stamp; seal",
+          "incoming": "stamp"
+        }
+      }
+    },
+    {
+      "portuguese": "ser",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to be, permanent states and characteristics",
+          "incoming": "to be"
+        },
+        "ukrainian": {
+          "database": "бути (постійні властивості)",
+          "incoming": "бути"
+        }
+      }
+    },
+    {
+      "portuguese": "obrigado",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "thank you – if you are masculine",
+          "incoming": "obliged; grateful"
+        },
+        "ukrainian": {
+          "database": "дякую (каже чоловік)",
+          "incoming": "зобовʼязаний; вдячний"
+        }
+      }
+    },
+    {
+      "portuguese": "sobretudo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "above all; especially; mainly",
+          "incoming": "above all"
+        },
+        "ukrainian": {
+          "database": "передусім; особливо; головним чином",
+          "incoming": "передусім; особливо"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "solicitar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to request (formal)",
+          "incoming": "to request"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "zona",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "area; zone",
+          "incoming": "zone; area"
+        },
+        "ukrainian": {
+          "database": "район; зона",
+          "incoming": "зона; район"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "tempo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "weather",
+          "incoming": "time; weather"
+        },
+        "ukrainian": {
+          "database": "погода",
+          "incoming": "час; погода"
+        }
+      }
+    },
+    {
+      "portuguese": "as",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "the; them (feminine plural)",
+          "incoming": "the (feminine plural)"
+        },
+        "ukrainian": {
+          "database": "означений артикль жіночого роду множини; їх",
+          "incoming": "означений артикль жіночого роду множини"
+        }
+      }
+    },
+    {
+      "portuguese": "terra",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "earth",
+          "incoming": "earth; land; ground"
+        },
+        "ukrainian": {
+          "database": "земля",
+          "incoming": "земля; суша; ґрунт"
+        }
+      }
+    },
+    {
+      "portuguese": "tocar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to touch; to play an instrument; to ring",
+          "incoming": "to impact"
+        },
+        "ukrainian": {
+          "database": "торкатися; грати на інструменті; дзвонити",
+          "incoming": "торкатися; впливати; грати на інструменті"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "hora",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "hour",
+          "incoming": "hour; time"
+        },
+        "ukrainian": {
+          "database": "година",
+          "incoming": "година; час"
+        }
+      }
+    },
+    {
+      "portuguese": "serviço",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "service",
+          "incoming": "service; work"
+        },
+        "ukrainian": {
+          "database": "послуга; служба",
+          "incoming": "послуга; служба; робота"
+        }
+      }
+    },
+    {
+      "portuguese": "previsão",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "forecast",
+          "incoming": "forecast; prediction"
+        },
+        "ukrainian": {
+          "database": "прогноз",
+          "incoming": "прогноз; передбачення"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "professor",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "teacher (masculine)",
+          "incoming": "teacher; professor"
+        },
+        "ukrainian": {
+          "database": "учитель; викладач",
+          "incoming": "викладач; учитель; професор"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "onde",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "де",
+          "incoming": "де; куди"
+        }
+      }
+    },
+    {
+      "portuguese": "o",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "the (masculine singular definite article)",
+          "incoming": "the (masculine singular); him; that"
+        },
+        "ukrainian": {
+          "database": "означений артикль чоловічого роду",
+          "incoming": "означений артикль чоловічого роду; його; те"
+        }
+      }
+    },
+    {
+      "portuguese": "papel",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "paper",
+          "incoming": "paper; role"
+        },
+        "ukrainian": {
+          "database": "папір",
+          "incoming": "папір; роль"
+        }
+      }
+    },
+    {
+      "portuguese": "passar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to pass; to spend time; to iron",
+          "incoming": "to transmit; to pass; to spend time"
+        },
+        "ukrainian": {
+          "database": "проходити; проводити час; прасувати",
+          "incoming": "передавати; проходити; проводити час"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "ação",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "action; act",
+          "incoming": "action"
+        },
+        "ukrainian": {
+          "database": "дія; вчинок",
+          "incoming": "дія"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "ligação",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "connection",
+          "incoming": "connection; link; call"
+        },
+        "ukrainian": {
+          "database": "з’єднання",
+          "incoming": "звʼязок; сполучення; дзвінок"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "limpo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "clean",
+          "incoming": "clear"
+        },
+        "ukrainian": {
+          "database": "чистий",
+          "incoming": "чистий; ясний"
+        }
+      }
+    },
+    {
+      "portuguese": "madrugada",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "early hours before dawn",
+          "incoming": "early morning"
+        },
+        "ukrainian": {
+          "database": "час після опівночі до ранку; світанок",
+          "incoming": "час після півночі до світанку"
+        }
+      }
+    },
+    {
+      "portuguese": "mal",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "badly",
+          "incoming": "illness"
+        },
+        "ukrainian": {
+          "database": "погано",
+          "incoming": "недуга; зло"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "manutenção",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "технічне обслуговування; догляд",
+          "incoming": "обслуговування; утримання"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "marcar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to mark; to schedule; to book",
+          "incoming": "to schedule"
+        },
+        "ukrainian": {
+          "database": "позначати; призначати; бронювати",
+          "incoming": "призначати; позначати"
+        }
+      }
+    },
+    {
+      "portuguese": "massa",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "pasta; dough",
+          "incoming": "mass; dough; pasta"
+        },
+        "ukrainian": {
+          "database": "макарони; тісто",
+          "incoming": "маса; тісто; макарони"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "matéria",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "subject",
+          "incoming": "subject matter"
+        },
+        "ukrainian": {
+          "database": "навчальний предмет; матеріал",
+          "incoming": "матерія; предмет вивчення; матеріал"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "média",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "medium; average (feminine)",
+          "incoming": "average"
+        },
+        "ukrainian": {
+          "database": "середня",
+          "incoming": "середнє значення"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "medicina",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "medicine (field of study and practice)",
+          "incoming": "medicine (discipline)"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "menor",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "smaller; younger",
+          "incoming": "minor"
+        },
+        "ukrainian": {
+          "database": "менший; молодший",
+          "incoming": "неповнолітній; неповнолітня"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "trabalho",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "work",
+          "incoming": "work; job"
+        },
+        "ukrainian": {
+          "database": "робота",
+          "incoming": "робота; праця"
+        }
+      }
+    },
+    {
+      "portuguese": "mergulhar",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "пірнати; занурюватися",
+          "incoming": "пірнати; занурювати"
+        }
+      }
+    },
+    {
+      "portuguese": "gasolina",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "petrol; gasoline",
+          "incoming": "petrol"
+        }
+      }
+    },
+    {
+      "portuguese": "glúten",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "gosto",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "taste; liking; pleasure",
+          "incoming": "taste"
+        },
+        "ukrainian": {
+          "database": "смак; уподобання; задоволення",
+          "incoming": "смак; уподобання"
+        }
+      }
+    },
+    {
+      "portuguese": "guloso",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "fond of sweets; greedy for food",
+          "incoming": "sweet-toothed"
+        },
+        "ukrainian": {
+          "database": "ласий до солодкого; ласун",
+          "incoming": "ласий до солодкого; ненажерливий"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "há",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "there is; there are (haver)",
+          "incoming": "there is; there are; ago"
+        },
+        "ukrainian": {
+          "database": "є; існує",
+          "incoming": "є; існує; тому"
+        }
+      }
+    },
+    {
+      "portuguese": "horário",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "schedule; timetable; opening hours",
+          "incoming": "schedule; timetable"
+        },
+        "ukrainian": {
+          "database": "розклад; години роботи",
+          "incoming": "розклад; графік"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "idoso",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "elderly man; elderly (masculine)",
+          "incoming": "old person"
+        },
+        "ukrainian": {
+          "database": "літній чоловік; літній",
+          "incoming": "літня людина"
+        }
+      }
+    },
+    {
+      "portuguese": "evitar",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "êxito",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "falta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "lack; absence",
+          "incoming": "absence; lack"
+        },
+        "ukrainian": {
+          "database": "нестача; відсутність",
+          "incoming": "відсутність; нестача"
+        }
+      }
+    },
+    {
+      "portuguese": "faltar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to be missing; to be absent; to lack",
+          "incoming": "to miss"
+        }
+      }
+    },
+    {
+      "portuguese": "fatura",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "invoice; bill",
+          "incoming": "invoice"
+        },
+        "ukrainian": {
+          "database": "рахунок; рахунок-фактура",
+          "incoming": "рахунок; фактура"
+        }
+      }
+    },
+    {
+      "portuguese": "fazer",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to do, to make",
+          "incoming": "to do; to make"
+        }
+      }
+    },
+    {
+      "portuguese": "grande",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "big, large",
+          "incoming": "big; great"
+        }
+      }
+    },
+    {
+      "portuguese": "embalagem",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "packaging; package",
+          "incoming": "package"
+        }
+      }
+    },
+    {
+      "portuguese": "embora",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "away (with verbs of leaving); although",
+          "incoming": "although"
+        },
+        "ukrainian": {
+          "database": "геть (із дієсловами відходу); хоча",
+          "incoming": "хоча"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "barriga",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "encerrar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to close; to end",
+          "incoming": "to close"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "encomenda",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "order; parcel",
+          "incoming": "order"
+        }
+      }
+    },
+    {
+      "portuguese": "imediato",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "longa",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "довга",
+          "incoming": "довга; тривала"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "longo",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "long (masculine)",
+          "incoming": "long"
+        },
+        "ukrainian": {
+          "database": "довгий",
+          "incoming": "довгий; тривалий"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "curso",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "course",
+          "incoming": "course; route"
+        },
+        "ukrainian": {
+          "database": "курс; навчальний курс",
+          "incoming": "курс; перебіг; маршрут"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "deixar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to leave; to let; to allow",
+          "incoming": "to leave; to let"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "A1"
+        }
+      }
+    },
+    {
+      "portuguese": "plano",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "plan",
+          "incoming": "plan; plane; level"
+        },
+        "ukrainian": {
+          "database": "план",
+          "incoming": "план; площина; рівень"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "desarrumado",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "untidy; messy",
+          "incoming": "untidy"
+        },
+        "ukrainian": {
+          "database": "неприбраний; безладний",
+          "incoming": "неприбраний; неохайний"
+        }
+      }
+    },
+    {
+      "portuguese": "descalçar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to take off footwear",
+          "incoming": "to take off one's shoes"
+        },
+        "ukrainian": {
+          "database": "знімати взуття; роззуватися",
+          "incoming": "знімати взуття"
+        }
+      }
+    },
+    {
+      "portuguese": "desde",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "з; від; відтоді як",
+          "incoming": "від; з; відтоді як"
+        }
+      }
+    },
+    {
+      "portuguese": "ciclovia",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "cycle path; bike lane",
+          "incoming": "cycle path"
+        }
+      }
+    },
+    {
+      "portuguese": "comando",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "remote control; command",
+          "incoming": "command"
+        },
+        "ukrainian": {
+          "database": "пульт; команда",
+          "incoming": "команда; керування; пульт"
+        },
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "como",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "how",
+          "incoming": "how; as; like"
+        }
+      }
+    },
+    {
+      "portuguese": "computador",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "комп’ютер",
+          "incoming": "компʼютер"
+        }
+      }
+    },
+    {
+      "portuguese": "constipado",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "having a cold",
+          "incoming": "having a cold; suffering from a cold"
+        }
+      }
+    },
+    {
+      "portuguese": "consulta",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "medical appointment; consultation",
+          "incoming": "consultation"
+        },
+        "ukrainian": {
+          "database": "прийом у лікаря; консультація",
+          "incoming": "консультація; прийом у лікаря"
+        }
+      }
+    },
+    {
+      "portuguese": "aquecimento",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "heating; warm-up",
+          "incoming": "heating; warming"
+        },
+        "ukrainian": {
+          "database": "опалення; розминка",
+          "incoming": "опалення; нагрівання"
+        }
+      }
+    },
+    {
+      "portuguese": "armário",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "cupboard; wardrobe",
+          "incoming": "cupboard"
+        }
+      }
+    },
+    {
+      "portuguese": "arranjar",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to get; to arrange; to fix",
+          "incoming": "to get"
+        },
+        "ukrainian": {
+          "database": "діставати; влаштовувати; лагодити",
+          "incoming": "діставати; знаходити; лагодити"
+        }
+      }
+    },
+    {
+      "portuguese": "assento",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "сидіння; місце для сидіння",
+          "incoming": "сидіння; місце"
+        }
+      }
+    },
+    {
+      "portuguese": "atum",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "banda",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "band (musical group)",
+          "incoming": "band; group"
+        },
+        "ukrainian": {
+          "database": "музичний гурт",
+          "incoming": "гурт; група"
+        }
+      }
+    },
+    {
+      "portuguese": "partir",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to leave, to break",
+          "incoming": "to leave; to break"
+        },
+        "ukrainian": {
+          "database": "від’їжджати; ламати",
+          "incoming": "вирушати; ламати"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "vista",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "вид; краєвид; зір",
+          "incoming": "вид; погляд; зір"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "acabar",
+      "action": "preserve existing database values",
+      "fields": {
+        "ukrainian": {
+          "database": "закінчувати; завершувати",
+          "incoming": "закінчувати"
+        }
+      }
+    },
+    {
+      "portuguese": "acender",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "to light; to turn on",
+          "incoming": "to light"
+        },
+        "ukrainian": {
+          "database": "запалювати; вмикати",
+          "incoming": "запалювати; вмикати світло"
+        },
+        "level": {
+          "database": "A1",
+          "incoming": "A2"
+        }
+      }
+    },
+    {
+      "portuguese": "agente",
+      "action": "preserve existing database values",
+      "fields": {
+        "level": {
+          "database": "A2",
+          "incoming": "B1"
+        }
+      }
+    },
+    {
+      "portuguese": "ainda",
+      "action": "preserve existing database values",
+      "fields": {
+        "english": {
+          "database": "still; yet",
+          "incoming": "still; yet; even"
+        },
+        "ukrainian": {
+          "database": "ще; досі",
+          "incoming": "ще; досі; навіть"
+        }
+      }
+    }
+  ]
+}

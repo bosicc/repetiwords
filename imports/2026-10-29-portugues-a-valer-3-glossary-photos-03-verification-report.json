@@ -1,0 +1,61 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: visible pages 212, 214, and three photographs with printed page numbers outside the frame",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "counts": {
+    "source_rows": 189,
+    "distinct_source_labels": 187,
+    "unique_words": 212,
+    "rows_by_page_identifier": {
+      "212": 41,
+      "214": 28,
+      "image-3": 40,
+      "image-4": 40,
+      "image-5": 40
+    },
+    "rows_by_image": {
+      "1": 41,
+      "2": 28,
+      "3": 40,
+      "4": 40,
+      "5": 40
+    }
+  },
+  "checks": {
+    "batch_contract": "passed lib/word-import.js validateBatch without database initialization",
+    "photo_hashes": "passed 5/5",
+    "json_hashes": "passed",
+    "page_image_json_backups": "passed 5/5",
+    "source_row_coverage": "passed 189/189",
+    "normalized_unique_words": 212,
+    "duplicate_source_senses": "suspender and vaga preserved in source rows, deduplicated in vocabulary",
+    "unknown_page_numbers": "null for images 3, 4, 5; no inference recorded as fact",
+    "groups": "existing topical/grammatical names only",
+    "database_connections": 0,
+    "database_writes": false
+  },
+  "comparison_with_previous_photo_batches": {
+    "overlapping_word_forms": 10,
+    "overlapping_words": [
+      "se",
+      "de",
+      "a",
+      "em",
+      "conta",
+      "os",
+      "na",
+      "risco",
+      "quer",
+      "que"
+    ],
+    "combined_source_rows": 585,
+    "combined_unique_words": 630,
+    "note": "Comparison with photo batches 01 and 02 only; no live database duplicate/conflict comparison performed."
+  },
+  "limitations": [
+    "Portuguese and English columns transcribed visually. Most internal reference numbers and other language columns are not transcribed.",
+    "Ukrainian translations, CEFR estimates, classifications, component English and corrections are assistant supplied and not independently reviewed.",
+    "No database import has run."
+  ],
+  "import_preview_command": "rtk npm run words:import -- imports/2026-10-29-portugues-a-valer-3-glossary-photos-03-enriched.json --dry-run"
+}

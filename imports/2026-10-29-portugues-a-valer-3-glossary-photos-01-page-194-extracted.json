@@ -1,0 +1,748 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 192, 194, 196, 198 and 200",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns only. German, Spanish, French, Chinese and internal lesson-page reference columns were not transcribed.",
+    "Keep printed articles, expressions and source English in rows. Remove article annotations from vocabulary entries; split expressions and pronominal clitics into individual words, keeping independent component translations.",
+    "Keep bem-sucedido as a lexical hyphenated compound. Lowercase and NFC-normalize words. Do not reduce other inflected forms to lemmas.",
+    "Book level B1 is user-supplied metadata; individual CEFR levels are assistant estimates, and may differ from B1.",
+    "Topic and grammatical groups only; book title and page numbers remain metadata. No database writes performed.",
+    "Two printed destaque rows are preserved and merged into one vocabulary entry with both senses.",
+    "Unclear internal reference digits were intentionally not guessed. Source photos are backed up for later inspection.",
+    "Estória is retained as the printed literary spelling; it is not silently changed to história. Cacimbo and bué are retained with regional/colloquial context in notes."
+  ],
+  "page": 194,
+  "source_files": [
+    {
+      "image": 2,
+      "page": 194,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/fbc47b29-c33a-49dc-a442-767c6d002627/78a7f46c-5e7c-427e-96e2-03a604324910/1000058789.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-sources/2-1000058789.jpg",
+      "sha256": "e07d86362d947fb8477fc18a274cfe80c16cab6928bd82fbb97fcef0f51efcf4"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 44
+  },
+  "rows": [
+    {
+      "id": 41,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 1,
+      "portuguese_original": "(a) bateria",
+      "english_original": "battery",
+      "normalized_words": [
+        "bateria"
+      ]
+    },
+    {
+      "id": 42,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 2,
+      "portuguese_original": "(o) batido",
+      "english_original": "smoothie",
+      "normalized_words": [
+        "batido"
+      ]
+    },
+    {
+      "id": 43,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 3,
+      "portuguese_original": "bem-sucedido",
+      "english_original": "successful",
+      "normalized_words": [
+        "bem-sucedido"
+      ]
+    },
+    {
+      "id": 44,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 4,
+      "portuguese_original": "benéfico",
+      "english_original": "beneficial",
+      "normalized_words": [
+        "benéfico"
+      ]
+    },
+    {
+      "id": 45,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 5,
+      "portuguese_original": "(o) bigode",
+      "english_original": "moustache",
+      "normalized_words": [
+        "bigode"
+      ]
+    },
+    {
+      "id": 46,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 6,
+      "portuguese_original": "(a) bilheteira",
+      "english_original": "ticket office",
+      "normalized_words": [
+        "bilheteira"
+      ]
+    },
+    {
+      "id": 47,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 7,
+      "portuguese_original": "bloqueado",
+      "english_original": "blocked",
+      "normalized_words": [
+        "bloqueado"
+      ]
+    },
+    {
+      "id": 48,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 8,
+      "portuguese_original": "(a) bolacha",
+      "english_original": "biscuit",
+      "normalized_words": [
+        "bolacha"
+      ]
+    },
+    {
+      "id": 49,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 9,
+      "portuguese_original": "(a) boleia",
+      "english_original": "lift",
+      "normalized_words": [
+        "boleia"
+      ]
+    },
+    {
+      "id": 50,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 10,
+      "portuguese_original": "(a) bolsa",
+      "english_original": "scholarship",
+      "normalized_words": [
+        "bolsa"
+      ]
+    },
+    {
+      "id": 51,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 11,
+      "portuguese_original": "(o) bosque",
+      "english_original": "woods",
+      "normalized_words": [
+        "bosque"
+      ]
+    },
+    {
+      "id": 52,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 12,
+      "portuguese_original": "bracarense",
+      "english_original": "from Braga",
+      "normalized_words": [
+        "bracarense"
+      ]
+    },
+    {
+      "id": 53,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 13,
+      "portuguese_original": "brilhar",
+      "english_original": "to shine",
+      "normalized_words": [
+        "brilhar"
+      ]
+    },
+    {
+      "id": 54,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 14,
+      "portuguese_original": "bué",
+      "english_original": "a lot",
+      "normalized_words": [
+        "bué"
+      ]
+    },
+    {
+      "id": 55,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 15,
+      "portuguese_original": "(a) burla",
+      "english_original": "scam",
+      "normalized_words": [
+        "burla"
+      ]
+    },
+    {
+      "id": 56,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 16,
+      "portuguese_original": "burro",
+      "english_original": "dumb",
+      "normalized_words": [
+        "burro"
+      ]
+    },
+    {
+      "id": 57,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 17,
+      "portuguese_original": "(a) caça",
+      "english_original": "hunt",
+      "normalized_words": [
+        "caça"
+      ]
+    },
+    {
+      "id": 58,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 18,
+      "portuguese_original": "(o) cacimbo",
+      "english_original": "dry season",
+      "normalized_words": [
+        "cacimbo"
+      ]
+    },
+    {
+      "id": 59,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 19,
+      "portuguese_original": "calculado",
+      "english_original": "calculated",
+      "normalized_words": [
+        "calculado"
+      ]
+    },
+    {
+      "id": 60,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 20,
+      "portuguese_original": "(o) caldo",
+      "english_original": "stock cube",
+      "normalized_words": [
+        "caldo"
+      ],
+      "enrichment_note": "A stock cube is normally cubo de caldo; caldo alone means broth/stock."
+    },
+    {
+      "id": 61,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 21,
+      "portuguese_original": "(o) caminho",
+      "english_original": "way",
+      "normalized_words": [
+        "caminho"
+      ]
+    },
+    {
+      "id": 62,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 22,
+      "portuguese_original": "(o) canal aberto",
+      "english_original": "free-to-view channel",
+      "normalized_words": [
+        "canal",
+        "aberto"
+      ]
+    },
+    {
+      "id": 63,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 23,
+      "portuguese_original": "(o) cantinho",
+      "english_original": "corner",
+      "normalized_words": [
+        "cantinho"
+      ]
+    },
+    {
+      "id": 64,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 24,
+      "portuguese_original": "(o) capim",
+      "english_original": "pasture/grass",
+      "normalized_words": [
+        "capim"
+      ]
+    },
+    {
+      "id": 65,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 25,
+      "portuguese_original": "(o) capital de risco",
+      "english_original": "risk capital",
+      "normalized_words": [
+        "capital",
+        "de",
+        "risco"
+      ]
+    },
+    {
+      "id": 66,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 26,
+      "portuguese_original": "caracterizar",
+      "english_original": "to be known for",
+      "normalized_words": [
+        "caracterizar"
+      ],
+      "enrichment_note": "Printed passive gloss corresponds to a reflexive/passive construction."
+    },
+    {
+      "id": 67,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 27,
+      "portuguese_original": "cardiovascular",
+      "english_original": "cardiovascular",
+      "normalized_words": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": 68,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 28,
+      "portuguese_original": "(a) carta de condução",
+      "english_original": "driving licence",
+      "normalized_words": [
+        "carta",
+        "de",
+        "condução"
+      ]
+    },
+    {
+      "id": 69,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 29,
+      "portuguese_original": "(a) casca",
+      "english_original": "skin",
+      "normalized_words": [
+        "casca"
+      ]
+    },
+    {
+      "id": 70,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 30,
+      "portuguese_original": "caso",
+      "english_original": "in the event that",
+      "normalized_words": [
+        "caso"
+      ]
+    },
+    {
+      "id": 71,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 31,
+      "portuguese_original": "castigado",
+      "english_original": "affected",
+      "normalized_words": [
+        "castigado"
+      ]
+    },
+    {
+      "id": 72,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 32,
+      "portuguese_original": "(a) categoria",
+      "english_original": "category",
+      "normalized_words": [
+        "categoria"
+      ]
+    },
+    {
+      "id": 73,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 33,
+      "portuguese_original": "(o) Cavalo de Troia",
+      "english_original": "Trojan Horse",
+      "normalized_words": [
+        "cavalo",
+        "de",
+        "troia"
+      ]
+    },
+    {
+      "id": 74,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 34,
+      "portuguese_original": "(a) cela",
+      "english_original": "cell",
+      "normalized_words": [
+        "cela"
+      ]
+    },
+    {
+      "id": 75,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 35,
+      "portuguese_original": "(o) cenário",
+      "english_original": "scenario",
+      "normalized_words": [
+        "cenário"
+      ]
+    },
+    {
+      "id": 76,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 36,
+      "portuguese_original": "(a) charcutaria",
+      "english_original": "cold cuts",
+      "normalized_words": [
+        "charcutaria"
+      ]
+    },
+    {
+      "id": 77,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 37,
+      "portuguese_original": "(o) cheque",
+      "english_original": "cheque",
+      "normalized_words": [
+        "cheque"
+      ]
+    },
+    {
+      "id": 78,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 38,
+      "portuguese_original": "chocante",
+      "english_original": "shocking",
+      "normalized_words": [
+        "chocante"
+      ]
+    },
+    {
+      "id": 79,
+      "image": 2,
+      "page": 194,
+      "row_on_page": 39,
+      "portuguese_original": "(a/o) ciclista",
+      "english_original": "cyclist",
+      "normalized_words": [
+        "ciclista"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        30,
+        65,
+        68,
+        73,
+        109,
+        113,
+        121,
+        143,
+        181,
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "bateria",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "batido",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "bem-sucedido",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "benéfico",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "bigode",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "bilheteira",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "bloqueado",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "bolacha",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "boleia",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "bolsa",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "bosque",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "bracarense",
+      "source_row_ids": [
+        52
+      ]
+    },
+    {
+      "portuguese": "brilhar",
+      "source_row_ids": [
+        53
+      ]
+    },
+    {
+      "portuguese": "bué",
+      "source_row_ids": [
+        54
+      ]
+    },
+    {
+      "portuguese": "burla",
+      "source_row_ids": [
+        55
+      ]
+    },
+    {
+      "portuguese": "burro",
+      "source_row_ids": [
+        56
+      ]
+    },
+    {
+      "portuguese": "caça",
+      "source_row_ids": [
+        57
+      ]
+    },
+    {
+      "portuguese": "cacimbo",
+      "source_row_ids": [
+        58
+      ]
+    },
+    {
+      "portuguese": "calculado",
+      "source_row_ids": [
+        59
+      ]
+    },
+    {
+      "portuguese": "caldo",
+      "source_row_ids": [
+        60
+      ]
+    },
+    {
+      "portuguese": "caminho",
+      "source_row_ids": [
+        61
+      ]
+    },
+    {
+      "portuguese": "canal",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "aberto",
+      "source_row_ids": [
+        62
+      ]
+    },
+    {
+      "portuguese": "cantinho",
+      "source_row_ids": [
+        63
+      ]
+    },
+    {
+      "portuguese": "capim",
+      "source_row_ids": [
+        64
+      ]
+    },
+    {
+      "portuguese": "capital",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "risco",
+      "source_row_ids": [
+        65
+      ]
+    },
+    {
+      "portuguese": "caracterizar",
+      "source_row_ids": [
+        66
+      ]
+    },
+    {
+      "portuguese": "cardiovascular",
+      "source_row_ids": [
+        67
+      ]
+    },
+    {
+      "portuguese": "carta",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "condução",
+      "source_row_ids": [
+        68
+      ]
+    },
+    {
+      "portuguese": "casca",
+      "source_row_ids": [
+        69
+      ]
+    },
+    {
+      "portuguese": "caso",
+      "source_row_ids": [
+        70
+      ]
+    },
+    {
+      "portuguese": "castigado",
+      "source_row_ids": [
+        71
+      ]
+    },
+    {
+      "portuguese": "categoria",
+      "source_row_ids": [
+        72
+      ]
+    },
+    {
+      "portuguese": "cavalo",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "troia",
+      "source_row_ids": [
+        73
+      ]
+    },
+    {
+      "portuguese": "cela",
+      "source_row_ids": [
+        74
+      ]
+    },
+    {
+      "portuguese": "cenário",
+      "source_row_ids": [
+        75
+      ]
+    },
+    {
+      "portuguese": "charcutaria",
+      "source_row_ids": [
+        76
+      ]
+    },
+    {
+      "portuguese": "cheque",
+      "source_row_ids": [
+        77
+      ]
+    },
+    {
+      "portuguese": "chocante",
+      "source_row_ids": [
+        78
+      ]
+    },
+    {
+      "portuguese": "ciclista",
+      "source_row_ids": [
+        79
+      ]
+    }
+  ]
+}

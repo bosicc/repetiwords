@@ -1,0 +1,839 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-1",
+  "source_files": [
+    {
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/2a0129fc-8352-485a-905b-4309af93a0da/1000058775.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/1-1000058775.jpg",
+      "sha256": "11e7bc32d9da3d77c9c02cd799de73375d2803365e6f584d78ae3825f7af9c18"
+    }
+  ],
+  "counts": {
+    "source_rows": 41,
+    "unique_words": 47
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 1,
+      "portuguese_original": "nutrir",
+      "english_original": "to nourish",
+      "normalized_words": [
+        "nutrir"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 2,
+      "portuguese_original": "(a) obrigação",
+      "english_original": "obligation",
+      "normalized_words": [
+        "obrigação"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 3,
+      "portuguese_original": "(o) obstáculo",
+      "english_original": "obstacle",
+      "normalized_words": [
+        "obstáculo"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 4,
+      "portuguese_original": "(a) oferta",
+      "english_original": "offer",
+      "normalized_words": [
+        "oferta"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 5,
+      "portuguese_original": "(a) Olimpíada",
+      "english_original": "Olympics",
+      "normalized_words": [
+        "olimpíada"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 6,
+      "portuguese_original": "oloroso",
+      "english_original": "fragrant",
+      "normalized_words": [
+        "oloroso"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 7,
+      "portuguese_original": "onde quer que",
+      "english_original": "wherever",
+      "normalized_words": [
+        "onde",
+        "quer",
+        "que"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 8,
+      "portuguese_original": "(o) operador",
+      "english_original": "operator",
+      "normalized_words": [
+        "operador"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 9,
+      "portuguese_original": "operar",
+      "english_original": "to operate",
+      "normalized_words": [
+        "operar"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 10,
+      "portuguese_original": "oportuno",
+      "english_original": "timely",
+      "normalized_words": [
+        "oportuno"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 11,
+      "portuguese_original": "(o) oposto",
+      "english_original": "opposite",
+      "normalized_words": [
+        "oposto"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 12,
+      "portuguese_original": "o que quer que",
+      "english_original": "whatever",
+      "normalized_words": [
+        "o",
+        "que",
+        "quer"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 13,
+      "portuguese_original": "(o) orçamento",
+      "english_original": "budget",
+      "normalized_words": [
+        "orçamento"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 14,
+      "portuguese_original": "(o) organismo",
+      "english_original": "body",
+      "normalized_words": [
+        "organismo"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 15,
+      "portuguese_original": "(ser) originário (de)",
+      "english_original": "(to) come (from)",
+      "normalized_words": [
+        "ser",
+        "originário",
+        "de"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 16,
+      "portuguese_original": "organizado",
+      "english_original": "tidy",
+      "normalized_words": [
+        "organizado"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 17,
+      "portuguese_original": "oscilar",
+      "english_original": "to fluctuate",
+      "normalized_words": [
+        "oscilar"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 18,
+      "portuguese_original": "ousar",
+      "english_original": "to dare",
+      "normalized_words": [
+        "ousar"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 19,
+      "portuguese_original": "oxalá",
+      "english_original": "hopefully",
+      "normalized_words": [
+        "oxalá"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 20,
+      "portuguese_original": "(o) paço",
+      "english_original": "palace",
+      "normalized_words": [
+        "paço"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 21,
+      "portuguese_original": "(o) padrão",
+      "english_original": "pattern",
+      "normalized_words": [
+        "padrão"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 22,
+      "portuguese_original": "paladar",
+      "english_original": "taste",
+      "normalized_words": [
+        "paladar"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 23,
+      "portuguese_original": "(o) paládio",
+      "english_original": "palladium",
+      "normalized_words": [
+        "paládio"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 24,
+      "portuguese_original": "(o) papel de embrulho",
+      "english_original": "wrapping paper",
+      "normalized_words": [
+        "papel",
+        "de",
+        "embrulho"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 25,
+      "portuguese_original": "(o) paraíso",
+      "english_original": "paradise",
+      "normalized_words": [
+        "paraíso"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 26,
+      "portuguese_original": "(a) paralisação",
+      "english_original": "stoppage",
+      "normalized_words": [
+        "paralisação"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 27,
+      "portuguese_original": "(o) parceiro",
+      "english_original": "partner",
+      "normalized_words": [
+        "parceiro"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 28,
+      "portuguese_original": "pardo",
+      "english_original": "hazel",
+      "normalized_words": [
+        "pardo"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 29,
+      "portuguese_original": "(a) passadeira",
+      "english_original": "treadmill",
+      "normalized_words": [
+        "passadeira"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 30,
+      "portuguese_original": "passar",
+      "english_original": "to transmit",
+      "normalized_words": [
+        "passar"
+      ]
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 31,
+      "portuguese_original": "passar a",
+      "english_original": "to become a",
+      "normalized_words": [
+        "passar",
+        "a"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 32,
+      "portuguese_original": "passar à ação",
+      "english_original": "to take action",
+      "normalized_words": [
+        "passar",
+        "à",
+        "ação"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 33,
+      "portuguese_original": "passar para",
+      "english_original": "to pass to",
+      "normalized_words": [
+        "passar",
+        "para"
+      ]
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 34,
+      "portuguese_original": "(o) passo",
+      "english_original": "step",
+      "normalized_words": [
+        "passo"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 35,
+      "portuguese_original": "(o) património",
+      "english_original": "heritage",
+      "normalized_words": [
+        "património"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 36,
+      "portuguese_original": "(o) pau",
+      "english_original": "stick",
+      "normalized_words": [
+        "pau"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 37,
+      "portuguese_original": "(a) peça",
+      "english_original": "play",
+      "normalized_words": [
+        "peça"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 38,
+      "portuguese_original": "(o) pedaço",
+      "english_original": "piece",
+      "normalized_words": [
+        "pedaço"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 39,
+      "portuguese_original": "pedestre",
+      "english_original": "walking",
+      "normalized_words": [
+        "pedestre"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 40,
+      "portuguese_original": "pendente",
+      "english_original": "pending",
+      "normalized_words": [
+        "pendente"
+      ]
+    },
+    {
+      "id": 41,
+      "image": 1,
+      "page": null,
+      "page_identifier": "image-1",
+      "row_on_page": 41,
+      "portuguese_original": "(a) pensão",
+      "english_original": "pension",
+      "normalized_words": [
+        "pensão"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "nutrir",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "obrigação",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "obstáculo",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "oferta",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "olimpíada",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "oloroso",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "source_row_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "portuguese": "que",
+      "source_row_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "portuguese": "operador",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "operar",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "oportuno",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "oposto",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "o",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "orçamento",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "organismo",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "originário",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        15,
+        24,
+        64,
+        79,
+        106,
+        167,
+        174,
+        184
+      ]
+    },
+    {
+      "portuguese": "organizado",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "oscilar",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "ousar",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "oxalá",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "paço",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "padrão",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "paladar",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "paládio",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "papel",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "embrulho",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "paraíso",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "paralisação",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "parceiro",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "pardo",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "passadeira",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "passar",
+      "source_row_ids": [
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        31,
+        153,
+        188
+      ]
+    },
+    {
+      "portuguese": "à",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "passo",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "património",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "pau",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "peça",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "pedaço",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "pedestre",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "pendente",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "pensão",
+      "source_row_ids": [
+        41
+      ]
+    }
+  ]
+}

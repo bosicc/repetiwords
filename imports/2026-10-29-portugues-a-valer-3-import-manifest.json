@@ -1,0 +1,29 @@
+{
+  "prepared_at": "2026-10-29",
+  "status": "imported_and_verified",
+  "batch_file": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-portugues-a-valer-3-topic-review-enriched.json",
+  "batch_sha256": "8fe495a815130c30af9f196a296c03fb5b6ae75ccae4418ea6aaf8b37f7cfa06",
+  "backup_before": {
+    "path": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-before-import-bc0221e4-0d1b-48d7-8370-243b5038abf7.json",
+    "sha256": "94df6238100af49f50c396b6fd27ca8264c46aa102b574c6b683d77ca913b2f9"
+  },
+  "snapshot_after": {
+    "path": "/Users/borys.pratsiuk/proj/repetiwords/data/backups/2026-10-29-b1-after-import-d3f018ef-2995-494a-bb33-b222100c87ef.json",
+    "sha256": "c491b288dbd5fc18402875dd78d51934013f771a4518f3c7f99ddccb71e78584"
+  },
+  "reports": [
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-portugues-a-valer-3-import-report.json",
+      "sha256": "37d25261d4e569f562b2a820ac2940961fbfdcc6fd3bc1c7086c12e780755ad4"
+    },
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-portugues-a-valer-3-import-replay-check.json",
+      "sha256": "4943b5bdafd3abaeb9d09d0ef1105f8c4f0b6779c9fb05118866a97948f8987c"
+    },
+    {
+      "path": "/Users/borys.pratsiuk/proj/repetiwords/imports/2026-10-29-portugues-a-valer-3-import-verification-report.json",
+      "sha256": "cbb657621fff054630d8e256567882f05596dafea286770432cf6de91cc26cab"
+    }
+  ],
+  "database_writes": "Vocabulary records, thematic groups and word-group memberships only; existing values and learner progress preserved."
+}

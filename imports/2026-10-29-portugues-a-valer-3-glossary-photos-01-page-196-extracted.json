@@ -1,0 +1,812 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 192, 194, 196, 198 and 200",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns only. German, Spanish, French, Chinese and internal lesson-page reference columns were not transcribed.",
+    "Keep printed articles, expressions and source English in rows. Remove article annotations from vocabulary entries; split expressions and pronominal clitics into individual words, keeping independent component translations.",
+    "Keep bem-sucedido as a lexical hyphenated compound. Lowercase and NFC-normalize words. Do not reduce other inflected forms to lemmas.",
+    "Book level B1 is user-supplied metadata; individual CEFR levels are assistant estimates, and may differ from B1.",
+    "Topic and grammatical groups only; book title and page numbers remain metadata. No database writes performed.",
+    "Two printed destaque rows are preserved and merged into one vocabulary entry with both senses.",
+    "Unclear internal reference digits were intentionally not guessed. Source photos are backed up for later inspection.",
+    "Estória is retained as the printed literary spelling; it is not silently changed to história. Cacimbo and bué are retained with regional/colloquial context in notes."
+  ],
+  "page": 196,
+  "source_files": [
+    {
+      "image": 3,
+      "page": 196,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/fbc47b29-c33a-49dc-a442-767c6d002627/5805d793-9622-4b29-8436-aff46df540f0/1000058788.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-sources/3-1000058788.jpg",
+      "sha256": "6893b65a1aa05206f3213f41c9a22113e2b9be5562a419db9b748a159d463a98"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 49
+  },
+  "rows": [
+    {
+      "id": 80,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 1,
+      "portuguese_original": "consumir",
+      "english_original": "to consume",
+      "normalized_words": [
+        "consumir"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 2,
+      "portuguese_original": "contabilizar",
+      "english_original": "to record",
+      "normalized_words": [
+        "contabilizar"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 3,
+      "portuguese_original": "conter",
+      "english_original": "to contain",
+      "normalized_words": [
+        "conter"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 4,
+      "portuguese_original": "(o) contexto",
+      "english_original": "context",
+      "normalized_words": [
+        "contexto"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 5,
+      "portuguese_original": "(a) continuidade",
+      "english_original": "continuity",
+      "normalized_words": [
+        "continuidade"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 6,
+      "portuguese_original": "(a) contradição",
+      "english_original": "contradiction",
+      "normalized_words": [
+        "contradição"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 7,
+      "portuguese_original": "contradizer",
+      "english_original": "to contradict",
+      "normalized_words": [
+        "contradizer"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 8,
+      "portuguese_original": "(o) contrassenso",
+      "english_original": "contradiction",
+      "normalized_words": [
+        "contrassenso"
+      ],
+      "enrichment_note": "More precise standalone meaning than printed contradiction."
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 9,
+      "portuguese_original": "contribuir",
+      "english_original": "to contribute",
+      "normalized_words": [
+        "contribuir"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 10,
+      "portuguese_original": "contudo",
+      "english_original": "however",
+      "normalized_words": [
+        "contudo"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 11,
+      "portuguese_original": "convir",
+      "english_original": "to be convenient",
+      "normalized_words": [
+        "convir"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 12,
+      "portuguese_original": "convocar",
+      "english_original": "to call",
+      "normalized_words": [
+        "convocar"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 13,
+      "portuguese_original": "(o) corpanzil",
+      "english_original": "hulking body",
+      "normalized_words": [
+        "corpanzil"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 14,
+      "portuguese_original": "(a) corrente",
+      "english_original": "chain",
+      "normalized_words": [
+        "corrente"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 15,
+      "portuguese_original": "correr riscos",
+      "english_original": "to take risks",
+      "normalized_words": [
+        "correr",
+        "riscos"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 16,
+      "portuguese_original": "(o) corte",
+      "english_original": "(sudden) break",
+      "normalized_words": [
+        "corte"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 17,
+      "portuguese_original": "coser",
+      "english_original": "to sew",
+      "normalized_words": [
+        "coser"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 18,
+      "portuguese_original": "cozer",
+      "english_original": "to boil",
+      "normalized_words": [
+        "cozer"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 19,
+      "portuguese_original": "crescente",
+      "english_original": "increasing",
+      "normalized_words": [
+        "crescente"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 20,
+      "portuguese_original": "crescer",
+      "english_original": "to grow up",
+      "normalized_words": [
+        "crescer"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 21,
+      "portuguese_original": "cristalino",
+      "english_original": "crystalline",
+      "normalized_words": [
+        "cristalino"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 22,
+      "portuguese_original": "crucial",
+      "english_original": "crucial",
+      "normalized_words": [
+        "crucial"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 23,
+      "portuguese_original": "cruzar os dedos",
+      "english_original": "to cross one's fingers",
+      "normalized_words": [
+        "cruzar",
+        "os",
+        "dedos"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 24,
+      "portuguese_original": "(os) cuidados primários",
+      "english_original": "primary care",
+      "normalized_words": [
+        "cuidados",
+        "primários"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 25,
+      "portuguese_original": "cujo",
+      "english_original": "whose",
+      "normalized_words": [
+        "cujo"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 26,
+      "portuguese_original": "culpado",
+      "english_original": "guilty",
+      "normalized_words": [
+        "culpado"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 27,
+      "portuguese_original": "(o) cumprimento",
+      "english_original": "greeting",
+      "normalized_words": [
+        "cumprimento"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 28,
+      "portuguese_original": "cumprir",
+      "english_original": "to meet",
+      "normalized_words": [
+        "cumprir"
+      ]
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 29,
+      "portuguese_original": "curtir",
+      "english_original": "to enjoy",
+      "normalized_words": [
+        "curtir"
+      ]
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 30,
+      "portuguese_original": "(o) custo de vida",
+      "english_original": "cost of living",
+      "normalized_words": [
+        "custo",
+        "de",
+        "vida"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 31,
+      "portuguese_original": "(os) dados",
+      "english_original": "data",
+      "normalized_words": [
+        "dados"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 32,
+      "portuguese_original": "daí em diante",
+      "english_original": "from there on",
+      "normalized_words": [
+        "daí",
+        "em",
+        "diante"
+      ]
+    },
+    {
+      "id": 112,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 33,
+      "portuguese_original": "dar com",
+      "english_original": "to find / to come across",
+      "normalized_words": [
+        "dar",
+        "com"
+      ]
+    },
+    {
+      "id": 113,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 34,
+      "portuguese_original": "dar conta (de)",
+      "english_original": "to realise",
+      "normalized_words": [
+        "dar",
+        "conta",
+        "de"
+      ]
+    },
+    {
+      "id": 114,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 35,
+      "portuguese_original": "dar para",
+      "english_original": "to open onto / to be suitable to",
+      "normalized_words": [
+        "dar",
+        "para"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 36,
+      "portuguese_original": "dar por",
+      "english_original": "to notice",
+      "normalized_words": [
+        "dar",
+        "por"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 37,
+      "portuguese_original": "dar primazia a",
+      "english_original": "to give priority to",
+      "normalized_words": [
+        "dar",
+        "primazia",
+        "a"
+      ]
+    },
+    {
+      "id": 117,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 38,
+      "portuguese_original": "dar prioridade a",
+      "english_original": "to prioritise",
+      "normalized_words": [
+        "dar",
+        "prioridade",
+        "a"
+      ]
+    },
+    {
+      "id": 118,
+      "image": 3,
+      "page": 196,
+      "row_on_page": 39,
+      "portuguese_original": "dar-se com",
+      "english_original": "to get along with",
+      "normalized_words": [
+        "dar",
+        "se",
+        "com"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        29,
+        118,
+        121,
+        131,
+        134,
+        158,
+        184
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        30,
+        65,
+        68,
+        73,
+        109,
+        113,
+        121,
+        143,
+        181,
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        35,
+        114,
+        147
+      ]
+    },
+    {
+      "portuguese": "consumir",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "contabilizar",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "conter",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "contexto",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "continuidade",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "contradição",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "contradizer",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "contrassenso",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "contribuir",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "contudo",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "convir",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "convocar",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "corpanzil",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "corrente",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "correr",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "riscos",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "corte",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "coser",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "cozer",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "crescente",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "crescer",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "cristalino",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "crucial",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "cruzar",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "os",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "dedos",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "cuidados",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "primários",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "cujo",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "culpado",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "cumprimento",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "cumprir",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "curtir",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "custo",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "vida",
+      "source_row_ids": [
+        109,
+        181
+      ]
+    },
+    {
+      "portuguese": "dados",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "daí",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        111,
+        131,
+        158
+      ]
+    },
+    {
+      "portuguese": "diante",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "dar",
+      "source_row_ids": [
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ]
+    },
+    {
+      "portuguese": "com",
+      "source_row_ids": [
+        112,
+        118
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "por",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "primazia",
+      "source_row_ids": [
+        116
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        116,
+        117,
+        134,
+        138,
+        139,
+        170
+      ]
+    },
+    {
+      "portuguese": "prioridade",
+      "source_row_ids": [
+        117
+      ]
+    }
+  ]
+}

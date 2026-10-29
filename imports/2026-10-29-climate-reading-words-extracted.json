@@ -1,0 +1,788 @@
+{
+  "source": "User-supplied Portuguese vocabulary from climate-related reading in this chat",
+  "prepared_at": "2026-10-29",
+  "original_text": "entrou, terreno desconhecido, Entre, seca, incêndios, inundações, cada, nevões, vagas de frio, secas, vagas de calor, incêndios florestais, inundações, cientistas, andam, avisar, demasiado, ponto de viragem, partir, crises, sobrepor, descontrolar, prever, propósito, publicada, notícia, sobre, um, relatório, conclui, crise, escalar, serão, castigadas, entanto, assumir, combate, grito, assistimos, suscita, ação, líder, medida, mitigação, emissões, estufa, fechando, condenando, estabilidade climática, preeminência, líderes, economia.",
+  "counts": {
+    "source_entries": 52,
+    "distinct_source_entries": 51,
+    "unique_word_forms": 56
+  },
+  "extraction_method": "User text, split on commas; lowercase NFC normalization and word tokenization",
+  "rows": [
+    {
+      "id": 1,
+      "portuguese_original": "entrou",
+      "normalized_words": [
+        "entrou"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 2,
+      "portuguese_original": "terreno desconhecido",
+      "normalized_words": [
+        "terreno",
+        "desconhecido"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 3,
+      "portuguese_original": "Entre",
+      "normalized_words": [
+        "entre"
+      ],
+      "source_translation": null,
+      "note": "Source capitalization retained; normalized entre. Without a full sentence it may be the preposition between/among or an entrar verb form. Both meanings retained."
+    },
+    {
+      "id": 4,
+      "portuguese_original": "seca",
+      "normalized_words": [
+        "seca"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 5,
+      "portuguese_original": "incêndios",
+      "normalized_words": [
+        "incêndios"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 6,
+      "portuguese_original": "inundações",
+      "normalized_words": [
+        "inundações"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 7,
+      "portuguese_original": "cada",
+      "normalized_words": [
+        "cada"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 8,
+      "portuguese_original": "nevões",
+      "normalized_words": [
+        "nevões"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 9,
+      "portuguese_original": "vagas de frio",
+      "normalized_words": [
+        "vagas",
+        "de",
+        "frio"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 10,
+      "portuguese_original": "secas",
+      "normalized_words": [
+        "secas"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 11,
+      "portuguese_original": "vagas de calor",
+      "normalized_words": [
+        "vagas",
+        "de",
+        "calor"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 12,
+      "portuguese_original": "incêndios florestais",
+      "normalized_words": [
+        "incêndios",
+        "florestais"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 13,
+      "portuguese_original": "inundações",
+      "normalized_words": [
+        "inundações"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 14,
+      "portuguese_original": "cientistas",
+      "normalized_words": [
+        "cientistas"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 15,
+      "portuguese_original": "andam",
+      "normalized_words": [
+        "andam"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 16,
+      "portuguese_original": "avisar",
+      "normalized_words": [
+        "avisar"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 17,
+      "portuguese_original": "demasiado",
+      "normalized_words": [
+        "demasiado"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 18,
+      "portuguese_original": "ponto de viragem",
+      "normalized_words": [
+        "ponto",
+        "de",
+        "viragem"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 19,
+      "portuguese_original": "partir",
+      "normalized_words": [
+        "partir"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 20,
+      "portuguese_original": "crises",
+      "normalized_words": [
+        "crises"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 21,
+      "portuguese_original": "sobrepor",
+      "normalized_words": [
+        "sobrepor"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 22,
+      "portuguese_original": "descontrolar",
+      "normalized_words": [
+        "descontrolar"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 23,
+      "portuguese_original": "prever",
+      "normalized_words": [
+        "prever"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 24,
+      "portuguese_original": "propósito",
+      "normalized_words": [
+        "propósito"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 25,
+      "portuguese_original": "publicada",
+      "normalized_words": [
+        "publicada"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 26,
+      "portuguese_original": "notícia",
+      "normalized_words": [
+        "notícia"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 27,
+      "portuguese_original": "sobre",
+      "normalized_words": [
+        "sobre"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 28,
+      "portuguese_original": "um",
+      "normalized_words": [
+        "um"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 29,
+      "portuguese_original": "relatório",
+      "normalized_words": [
+        "relatório"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 30,
+      "portuguese_original": "conclui",
+      "normalized_words": [
+        "conclui"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 31,
+      "portuguese_original": "crise",
+      "normalized_words": [
+        "crise"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 32,
+      "portuguese_original": "escalar",
+      "normalized_words": [
+        "escalar"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 33,
+      "portuguese_original": "serão",
+      "normalized_words": [
+        "serão"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 34,
+      "portuguese_original": "castigadas",
+      "normalized_words": [
+        "castigadas"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 35,
+      "portuguese_original": "entanto",
+      "normalized_words": [
+        "entanto"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 36,
+      "portuguese_original": "assumir",
+      "normalized_words": [
+        "assumir"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 37,
+      "portuguese_original": "combate",
+      "normalized_words": [
+        "combate"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 38,
+      "portuguese_original": "grito",
+      "normalized_words": [
+        "grito"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 39,
+      "portuguese_original": "assistimos",
+      "normalized_words": [
+        "assistimos"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 40,
+      "portuguese_original": "suscita",
+      "normalized_words": [
+        "suscita"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 41,
+      "portuguese_original": "ação",
+      "normalized_words": [
+        "ação"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 42,
+      "portuguese_original": "líder",
+      "normalized_words": [
+        "líder"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 43,
+      "portuguese_original": "medida",
+      "normalized_words": [
+        "medida"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 44,
+      "portuguese_original": "mitigação",
+      "normalized_words": [
+        "mitigação"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 45,
+      "portuguese_original": "emissões",
+      "normalized_words": [
+        "emissões"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 46,
+      "portuguese_original": "estufa",
+      "normalized_words": [
+        "estufa"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 47,
+      "portuguese_original": "fechando",
+      "normalized_words": [
+        "fechando"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 48,
+      "portuguese_original": "condenando",
+      "normalized_words": [
+        "condenando"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 49,
+      "portuguese_original": "estabilidade climática",
+      "normalized_words": [
+        "estabilidade",
+        "climática"
+      ],
+      "source_translation": null,
+      "note": "Complete expression retained as context; components receive independent translations."
+    },
+    {
+      "id": 50,
+      "portuguese_original": "preeminência",
+      "normalized_words": [
+        "preeminência"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 51,
+      "portuguese_original": "líderes",
+      "normalized_words": [
+        "líderes"
+      ],
+      "source_translation": null
+    },
+    {
+      "id": 52,
+      "portuguese_original": "economia.",
+      "normalized_words": [
+        "economia"
+      ],
+      "source_translation": null
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "entrou",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "terreno",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "entre",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "seca",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "incêndios",
+      "source_row_ids": [
+        5,
+        12
+      ]
+    },
+    {
+      "portuguese": "inundações",
+      "source_row_ids": [
+        6,
+        13
+      ]
+    },
+    {
+      "portuguese": "cada",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "nevões",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "vagas",
+      "source_row_ids": [
+        9,
+        11
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        9,
+        11,
+        18
+      ]
+    },
+    {
+      "portuguese": "frio",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "secas",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "calor",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "florestais",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "cientistas",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "andam",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "avisar",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "ponto",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "viragem",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "crises",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "sobrepor",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "descontrolar",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "prever",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "propósito",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "publicada",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "notícia",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "sobre",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "um",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "relatório",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "conclui",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "crise",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "escalar",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "serão",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "castigadas",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "entanto",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "assumir",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "combate",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "grito",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "assistimos",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "suscita",
+      "source_row_ids": [
+        40
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "source_row_ids": [
+        41
+      ]
+    },
+    {
+      "portuguese": "líder",
+      "source_row_ids": [
+        42
+      ]
+    },
+    {
+      "portuguese": "medida",
+      "source_row_ids": [
+        43
+      ]
+    },
+    {
+      "portuguese": "mitigação",
+      "source_row_ids": [
+        44
+      ]
+    },
+    {
+      "portuguese": "emissões",
+      "source_row_ids": [
+        45
+      ]
+    },
+    {
+      "portuguese": "estufa",
+      "source_row_ids": [
+        46
+      ]
+    },
+    {
+      "portuguese": "fechando",
+      "source_row_ids": [
+        47
+      ]
+    },
+    {
+      "portuguese": "condenando",
+      "source_row_ids": [
+        48
+      ]
+    },
+    {
+      "portuguese": "estabilidade",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "climática",
+      "source_row_ids": [
+        49
+      ]
+    },
+    {
+      "portuguese": "preeminência",
+      "source_row_ids": [
+        50
+      ]
+    },
+    {
+      "portuguese": "líderes",
+      "source_row_ids": [
+        51
+      ]
+    },
+    {
+      "portuguese": "economia",
+      "source_row_ids": [
+        52
+      ]
+    }
+  ]
+}

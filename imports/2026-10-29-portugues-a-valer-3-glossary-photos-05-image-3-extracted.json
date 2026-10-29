@@ -1,0 +1,749 @@
+{
+  "source": "Four user photographs of Português a Valer 3 glossary: de tutela pública–desgastante, ciclone–consultório, aproximar–base, à medida que–ajustar; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page reference columns are not transcribed.",
+    "Printed page numbers are outside the photographs. Keep page=null and stable image identifiers; no page numbers are inferred.",
+    "Original phrases, article annotations, capitalization and source English are retained. Individual vocabulary is lowercased and NFC normalized.",
+    "Split expressions and reflexive clitics into separately translated words. Retain lexical compound meia-idade; preserve inflected forms as printed rather than silently lemmatizing.",
+    "Gender-neutral headwords such as argumentista and assaltante produce one spelling each; gender article alternatives are metadata, not additional words.",
+    "Ukrainian translations, per-word CEFR estimates, topic assignments, English component translations and corrections are assistant supplied and not independently reviewed. B1 book level is user-supplied metadata.",
+    "Topics use existing thematic and grammatical labels. Provenance remains metadata. No database connection, conflict comparison or import is performed.",
+    "Each photo has a separate extracted JSON; original photos and combined extracted/enriched batches are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-3",
+  "source_files": [
+    {
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/4dc98e32-9e6a-4b96-b744-5d43d0a1c813/cfe23311-ba30-48e1-9d77-18da92520d8d/1000058768.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-05-sources/3-1000058768.jpg",
+      "sha256": "62f001cbd549537c1b0712289a99505115c144a2af4078a6e7838d7656277096"
+    }
+  ],
+  "counts": {
+    "source_rows": 38,
+    "unique_words": 41
+  },
+  "rows": [
+    {
+      "id": 79,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 1,
+      "portuguese_original": "aproximar",
+      "english_original": "to bring closer / to approach",
+      "normalized_words": [
+        "aproximar"
+      ]
+    },
+    {
+      "id": 80,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 2,
+      "portuguese_original": "(o) aquecedor",
+      "english_original": "heater",
+      "normalized_words": [
+        "aquecedor"
+      ]
+    },
+    {
+      "id": 81,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 3,
+      "portuguese_original": "(o) aquecimento global",
+      "english_original": "global warming",
+      "normalized_words": [
+        "aquecimento",
+        "global"
+      ]
+    },
+    {
+      "id": 82,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 4,
+      "portuguese_original": "(a/o) argumentista",
+      "english_original": "screenwriter",
+      "normalized_words": [
+        "argumentista"
+      ]
+    },
+    {
+      "id": 83,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 5,
+      "portuguese_original": "(a) ária",
+      "english_original": "aria",
+      "normalized_words": [
+        "ária"
+      ]
+    },
+    {
+      "id": 84,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 6,
+      "portuguese_original": "(o) armário",
+      "english_original": "cupboard",
+      "normalized_words": [
+        "armário"
+      ]
+    },
+    {
+      "id": 85,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 7,
+      "portuguese_original": "arrancar",
+      "english_original": "to begin",
+      "normalized_words": [
+        "arrancar"
+      ]
+    },
+    {
+      "id": 86,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 8,
+      "portuguese_original": "arranjar",
+      "english_original": "to get",
+      "normalized_words": [
+        "arranjar"
+      ]
+    },
+    {
+      "id": 87,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 9,
+      "portuguese_original": "(a) arrecadação",
+      "english_original": "storage",
+      "normalized_words": [
+        "arrecadação"
+      ],
+      "enrichment_note": "Printed storage is retained; clarify common European Portuguese noun senses."
+    },
+    {
+      "id": 88,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 10,
+      "portuguese_original": "arrendar",
+      "english_original": "to rent",
+      "normalized_words": [
+        "arrendar"
+      ]
+    },
+    {
+      "id": 89,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 11,
+      "portuguese_original": "arriscar",
+      "english_original": "to take a chance",
+      "normalized_words": [
+        "arriscar"
+      ]
+    },
+    {
+      "id": 90,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 12,
+      "portuguese_original": "articular",
+      "english_original": "to coordinate",
+      "normalized_words": [
+        "articular"
+      ]
+    },
+    {
+      "id": 91,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 13,
+      "portuguese_original": "(os) assados",
+      "english_original": "roasts",
+      "normalized_words": [
+        "assados"
+      ]
+    },
+    {
+      "id": 92,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 14,
+      "portuguese_original": "(a/o) assaltante",
+      "english_original": "robber",
+      "normalized_words": [
+        "assaltante"
+      ]
+    },
+    {
+      "id": 93,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 15,
+      "portuguese_original": "(o) assento",
+      "english_original": "seat",
+      "normalized_words": [
+        "assento"
+      ]
+    },
+    {
+      "id": 94,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 16,
+      "portuguese_original": "assumir",
+      "english_original": "to assume",
+      "normalized_words": [
+        "assumir"
+      ]
+    },
+    {
+      "id": 95,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 17,
+      "portuguese_original": "atencioso",
+      "english_original": "considerate",
+      "normalized_words": [
+        "atencioso"
+      ]
+    },
+    {
+      "id": 96,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 18,
+      "portuguese_original": "atenuar",
+      "english_original": "to lessen",
+      "normalized_words": [
+        "atenuar"
+      ]
+    },
+    {
+      "id": 97,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 19,
+      "portuguese_original": "(a) atração",
+      "english_original": "attraction",
+      "normalized_words": [
+        "atração"
+      ]
+    },
+    {
+      "id": 98,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 20,
+      "portuguese_original": "atrasar",
+      "english_original": "to slow down",
+      "normalized_words": [
+        "atrasar"
+      ]
+    },
+    {
+      "id": 99,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 21,
+      "portuguese_original": "(a) atribuição",
+      "english_original": "award",
+      "normalized_words": [
+        "atribuição"
+      ]
+    },
+    {
+      "id": 100,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 22,
+      "portuguese_original": "atuar",
+      "english_original": "to perform",
+      "normalized_words": [
+        "atuar"
+      ]
+    },
+    {
+      "id": 101,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 23,
+      "portuguese_original": "(o) atum",
+      "english_original": "tuna",
+      "normalized_words": [
+        "atum"
+      ]
+    },
+    {
+      "id": 102,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 24,
+      "portuguese_original": "(a) audácia",
+      "english_original": "boldness",
+      "normalized_words": [
+        "audácia"
+      ]
+    },
+    {
+      "id": 103,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 25,
+      "portuguese_original": "(o) audiovisual",
+      "english_original": "audiovisual arts",
+      "normalized_words": [
+        "audiovisual"
+      ]
+    },
+    {
+      "id": 104,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 26,
+      "portuguese_original": "auditivo",
+      "english_original": "hearing-related",
+      "normalized_words": [
+        "auditivo"
+      ]
+    },
+    {
+      "id": 105,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 27,
+      "portuguese_original": "(a) ausência",
+      "english_original": "absence",
+      "normalized_words": [
+        "ausência"
+      ]
+    },
+    {
+      "id": 106,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 28,
+      "portuguese_original": "auspicioso",
+      "english_original": "promising",
+      "normalized_words": [
+        "auspicioso"
+      ]
+    },
+    {
+      "id": 107,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 29,
+      "portuguese_original": "(o) automatismo",
+      "english_original": "automation",
+      "normalized_words": [
+        "automatismo"
+      ],
+      "enrichment_note": "Printed automation is broader; the usual Portuguese term for automation is automatização."
+    },
+    {
+      "id": 108,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 30,
+      "portuguese_original": "(a) autonomia",
+      "english_original": "initiative",
+      "normalized_words": [
+        "autonomia"
+      ],
+      "enrichment_note": "Printed initiative is contextual; autonomy/independence is the standalone meaning."
+    },
+    {
+      "id": 109,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 31,
+      "portuguese_original": "autorizar",
+      "english_original": "to give permission",
+      "normalized_words": [
+        "autorizar"
+      ]
+    },
+    {
+      "id": 110,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 32,
+      "portuguese_original": "avançar",
+      "english_original": "to move forward",
+      "normalized_words": [
+        "avançar"
+      ]
+    },
+    {
+      "id": 111,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 33,
+      "portuguese_original": "(o) balanço",
+      "english_original": "outcome",
+      "normalized_words": [
+        "balanço"
+      ]
+    },
+    {
+      "id": 112,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 34,
+      "portuguese_original": "balnear",
+      "english_original": "beach",
+      "normalized_words": [
+        "balnear"
+      ],
+      "enrichment_note": "Portuguese is an adjective; printed beach is a noun."
+    },
+    {
+      "id": 113,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 35,
+      "portuguese_original": "(a) banda sonora",
+      "english_original": "soundtrack",
+      "normalized_words": [
+        "banda",
+        "sonora"
+      ]
+    },
+    {
+      "id": 114,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 36,
+      "portuguese_original": "banhado (por)",
+      "english_original": "bathed (by)",
+      "normalized_words": [
+        "banhado",
+        "por"
+      ]
+    },
+    {
+      "id": 115,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 37,
+      "portuguese_original": "barrar",
+      "english_original": "to spread",
+      "normalized_words": [
+        "barrar"
+      ]
+    },
+    {
+      "id": 116,
+      "image": 3,
+      "page": null,
+      "page_identifier": "image-3",
+      "row_on_page": 38,
+      "portuguese_original": "(a) base",
+      "english_original": "base",
+      "normalized_words": [
+        "base"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "aproximar",
+      "source_row_ids": [
+        79
+      ]
+    },
+    {
+      "portuguese": "aquecedor",
+      "source_row_ids": [
+        80
+      ]
+    },
+    {
+      "portuguese": "aquecimento",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "global",
+      "source_row_ids": [
+        81
+      ]
+    },
+    {
+      "portuguese": "argumentista",
+      "source_row_ids": [
+        82
+      ]
+    },
+    {
+      "portuguese": "ária",
+      "source_row_ids": [
+        83
+      ]
+    },
+    {
+      "portuguese": "armário",
+      "source_row_ids": [
+        84
+      ]
+    },
+    {
+      "portuguese": "arrancar",
+      "source_row_ids": [
+        85
+      ]
+    },
+    {
+      "portuguese": "arranjar",
+      "source_row_ids": [
+        86
+      ]
+    },
+    {
+      "portuguese": "arrecadação",
+      "source_row_ids": [
+        87
+      ]
+    },
+    {
+      "portuguese": "arrendar",
+      "source_row_ids": [
+        88
+      ]
+    },
+    {
+      "portuguese": "arriscar",
+      "source_row_ids": [
+        89
+      ]
+    },
+    {
+      "portuguese": "articular",
+      "source_row_ids": [
+        90
+      ]
+    },
+    {
+      "portuguese": "assados",
+      "source_row_ids": [
+        91
+      ]
+    },
+    {
+      "portuguese": "assaltante",
+      "source_row_ids": [
+        92
+      ]
+    },
+    {
+      "portuguese": "assento",
+      "source_row_ids": [
+        93
+      ]
+    },
+    {
+      "portuguese": "assumir",
+      "source_row_ids": [
+        94
+      ]
+    },
+    {
+      "portuguese": "atencioso",
+      "source_row_ids": [
+        95
+      ]
+    },
+    {
+      "portuguese": "atenuar",
+      "source_row_ids": [
+        96
+      ]
+    },
+    {
+      "portuguese": "atração",
+      "source_row_ids": [
+        97
+      ]
+    },
+    {
+      "portuguese": "atrasar",
+      "source_row_ids": [
+        98
+      ]
+    },
+    {
+      "portuguese": "atribuição",
+      "source_row_ids": [
+        99
+      ]
+    },
+    {
+      "portuguese": "atuar",
+      "source_row_ids": [
+        100
+      ]
+    },
+    {
+      "portuguese": "atum",
+      "source_row_ids": [
+        101
+      ]
+    },
+    {
+      "portuguese": "audácia",
+      "source_row_ids": [
+        102
+      ]
+    },
+    {
+      "portuguese": "audiovisual",
+      "source_row_ids": [
+        103
+      ]
+    },
+    {
+      "portuguese": "auditivo",
+      "source_row_ids": [
+        104
+      ]
+    },
+    {
+      "portuguese": "ausência",
+      "source_row_ids": [
+        105
+      ]
+    },
+    {
+      "portuguese": "auspicioso",
+      "source_row_ids": [
+        106
+      ]
+    },
+    {
+      "portuguese": "automatismo",
+      "source_row_ids": [
+        107
+      ]
+    },
+    {
+      "portuguese": "autonomia",
+      "source_row_ids": [
+        108
+      ]
+    },
+    {
+      "portuguese": "autorizar",
+      "source_row_ids": [
+        109
+      ]
+    },
+    {
+      "portuguese": "avançar",
+      "source_row_ids": [
+        110
+      ]
+    },
+    {
+      "portuguese": "balanço",
+      "source_row_ids": [
+        111
+      ]
+    },
+    {
+      "portuguese": "balnear",
+      "source_row_ids": [
+        112
+      ]
+    },
+    {
+      "portuguese": "banda",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "sonora",
+      "source_row_ids": [
+        113
+      ]
+    },
+    {
+      "portuguese": "banhado",
+      "source_row_ids": [
+        114
+      ]
+    },
+    {
+      "portuguese": "por",
+      "source_row_ids": [
+        114,
+        128
+      ]
+    },
+    {
+      "portuguese": "barrar",
+      "source_row_ids": [
+        115
+      ]
+    },
+    {
+      "portuguese": "base",
+      "source_row_ids": [
+        116
+      ]
+    }
+  ]
+}

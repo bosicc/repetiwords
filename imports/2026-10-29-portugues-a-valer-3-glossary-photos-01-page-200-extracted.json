@@ -1,0 +1,816 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 192, 194, 196, 198 and 200",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns only. German, Spanish, French, Chinese and internal lesson-page reference columns were not transcribed.",
+    "Keep printed articles, expressions and source English in rows. Remove article annotations from vocabulary entries; split expressions and pronominal clitics into individual words, keeping independent component translations.",
+    "Keep bem-sucedido as a lexical hyphenated compound. Lowercase and NFC-normalize words. Do not reduce other inflected forms to lemmas.",
+    "Book level B1 is user-supplied metadata; individual CEFR levels are assistant estimates, and may differ from B1.",
+    "Topic and grammatical groups only; book title and page numbers remain metadata. No database writes performed.",
+    "Two printed destaque rows are preserved and merged into one vocabulary entry with both senses.",
+    "Unclear internal reference digits were intentionally not guessed. Source photos are backed up for later inspection.",
+    "Estória is retained as the printed literary spelling; it is not silently changed to história. Cacimbo and bué are retained with regional/colloquial context in notes."
+  ],
+  "page": 200,
+  "source_files": [
+    {
+      "image": 5,
+      "page": 200,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/fbc47b29-c33a-49dc-a442-767c6d002627/033bfb91-57de-44c0-acce-ac9df7ad77aa/1000058786.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-sources/5-1000058786.jpg",
+      "sha256": "bd26c4e813958e4217f2dd3774dfe1ee6a8bad0a658c208e9402c829bff6541a"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 49
+  },
+  "rows": [
+    {
+      "id": 157,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 1,
+      "portuguese_original": "(o) enquadramento jurídico",
+      "english_original": "legal framework",
+      "normalized_words": [
+        "enquadramento",
+        "jurídico"
+      ]
+    },
+    {
+      "id": 158,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 2,
+      "portuguese_original": "enquadrar-se (em)",
+      "english_original": "to fit (into)",
+      "normalized_words": [
+        "enquadrar",
+        "se",
+        "em"
+      ]
+    },
+    {
+      "id": 159,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 3,
+      "portuguese_original": "enraizado",
+      "english_original": "rooted",
+      "normalized_words": [
+        "enraizado"
+      ]
+    },
+    {
+      "id": 160,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 4,
+      "portuguese_original": "enriquecedor",
+      "english_original": "enriching",
+      "normalized_words": [
+        "enriquecedor"
+      ]
+    },
+    {
+      "id": 161,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 5,
+      "portuguese_original": "(o) ensino superior",
+      "english_original": "university education",
+      "normalized_words": [
+        "ensino",
+        "superior"
+      ]
+    },
+    {
+      "id": 162,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 6,
+      "portuguese_original": "enumerar",
+      "english_original": "to list",
+      "normalized_words": [
+        "enumerar"
+      ]
+    },
+    {
+      "id": 163,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 7,
+      "portuguese_original": "(o) envelhecimento",
+      "english_original": "ageing",
+      "normalized_words": [
+        "envelhecimento"
+      ]
+    },
+    {
+      "id": 164,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 8,
+      "portuguese_original": "(o) enxame",
+      "english_original": "swarm",
+      "normalized_words": [
+        "enxame"
+      ]
+    },
+    {
+      "id": 165,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 9,
+      "portuguese_original": "equacionar",
+      "english_original": "to consider",
+      "normalized_words": [
+        "equacionar"
+      ]
+    },
+    {
+      "id": 166,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 10,
+      "portuguese_original": "equilibrado",
+      "english_original": "balanced",
+      "normalized_words": [
+        "equilibrado"
+      ]
+    },
+    {
+      "id": 167,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 11,
+      "portuguese_original": "equilibrar",
+      "english_original": "to balance",
+      "normalized_words": [
+        "equilibrar"
+      ]
+    },
+    {
+      "id": 168,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 12,
+      "portuguese_original": "(o) equipamento cultural",
+      "english_original": "cultural facilities",
+      "normalized_words": [
+        "equipamento",
+        "cultural"
+      ]
+    },
+    {
+      "id": 169,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 13,
+      "portuguese_original": "(a) equivalência",
+      "english_original": "equivalent",
+      "normalized_words": [
+        "equivalência"
+      ],
+      "enrichment_note": "Printed equivalent does not match the Portuguese noun."
+    },
+    {
+      "id": 170,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 14,
+      "portuguese_original": "equivaler (a)",
+      "english_original": "to be equivalent (to)",
+      "normalized_words": [
+        "equivaler",
+        "a"
+      ]
+    },
+    {
+      "id": 171,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 15,
+      "portuguese_original": "(a) erva aromática",
+      "english_original": "aromatic herb",
+      "normalized_words": [
+        "erva",
+        "aromática"
+      ]
+    },
+    {
+      "id": 172,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 16,
+      "portuguese_original": "(a) escala",
+      "english_original": "scale",
+      "normalized_words": [
+        "escala"
+      ]
+    },
+    {
+      "id": 173,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 17,
+      "portuguese_original": "escalar",
+      "english_original": "to worsen",
+      "normalized_words": [
+        "escalar"
+      ]
+    },
+    {
+      "id": 174,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 18,
+      "portuguese_original": "(o) esclarecimento",
+      "english_original": "clarification",
+      "normalized_words": [
+        "esclarecimento"
+      ]
+    },
+    {
+      "id": 175,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 19,
+      "portuguese_original": "esconder",
+      "english_original": "to hide",
+      "normalized_words": [
+        "esconder"
+      ]
+    },
+    {
+      "id": 176,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 20,
+      "portuguese_original": "esgotado",
+      "english_original": "sold out",
+      "normalized_words": [
+        "esgotado"
+      ]
+    },
+    {
+      "id": 177,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 21,
+      "portuguese_original": "esmagar",
+      "english_original": "to mash",
+      "normalized_words": [
+        "esmagar"
+      ]
+    },
+    {
+      "id": 178,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 22,
+      "portuguese_original": "espantado",
+      "english_original": "in shock",
+      "normalized_words": [
+        "espantado"
+      ]
+    },
+    {
+      "id": 179,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 23,
+      "portuguese_original": "(a) especiaria",
+      "english_original": "spice",
+      "normalized_words": [
+        "especiaria"
+      ]
+    },
+    {
+      "id": 180,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 24,
+      "portuguese_original": "(o) espectador",
+      "english_original": "spectator",
+      "normalized_words": [
+        "espectador"
+      ]
+    },
+    {
+      "id": 181,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 25,
+      "portuguese_original": "(a) esperança de vida",
+      "english_original": "life expectancy",
+      "normalized_words": [
+        "esperança",
+        "de",
+        "vida"
+      ]
+    },
+    {
+      "id": 182,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 26,
+      "portuguese_original": "(o) espetáculo",
+      "english_original": "performance",
+      "normalized_words": [
+        "espetáculo"
+      ]
+    },
+    {
+      "id": 183,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 27,
+      "portuguese_original": "espiritual",
+      "english_original": "spiritual",
+      "normalized_words": [
+        "espiritual"
+      ]
+    },
+    {
+      "id": 184,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 28,
+      "portuguese_original": "espreguiçar-se",
+      "english_original": "to stretch oneself",
+      "normalized_words": [
+        "espreguiçar",
+        "se"
+      ]
+    },
+    {
+      "id": 185,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 29,
+      "portuguese_original": "(a) estalactite",
+      "english_original": "stalactite",
+      "normalized_words": [
+        "estalactite"
+      ]
+    },
+    {
+      "id": 186,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 30,
+      "portuguese_original": "(o) estalagmite",
+      "english_original": "stalagmite",
+      "normalized_words": [
+        "estalagmite"
+      ],
+      "enrichment_note": "Portuguese noun is normally feminine: a estalagmite. Preserve printed masculine article in extracted data."
+    },
+    {
+      "id": 187,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 31,
+      "portuguese_original": "estar atento",
+      "english_original": "to be on one's guard",
+      "normalized_words": [
+        "estar",
+        "atento"
+      ]
+    },
+    {
+      "id": 188,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 32,
+      "portuguese_original": "estar de volta",
+      "english_original": "to return",
+      "normalized_words": [
+        "estar",
+        "de",
+        "volta"
+      ]
+    },
+    {
+      "id": 189,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 33,
+      "portuguese_original": "estar de volta de",
+      "english_original": "to return from",
+      "normalized_words": [
+        "estar",
+        "de",
+        "volta"
+      ],
+      "enrichment_note": "Printed return from can be misleading: estar de volta de algo commonly means to be busy working on it. Retain printed gloss for context."
+    },
+    {
+      "id": 190,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 34,
+      "portuguese_original": "(a) estatística",
+      "english_original": "statistics",
+      "normalized_words": [
+        "estatística"
+      ]
+    },
+    {
+      "id": 191,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 35,
+      "portuguese_original": "estimulante",
+      "english_original": "stimulating",
+      "normalized_words": [
+        "estimulante"
+      ]
+    },
+    {
+      "id": 192,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 36,
+      "portuguese_original": "estirar",
+      "english_original": "to stretch out",
+      "normalized_words": [
+        "estirar"
+      ]
+    },
+    {
+      "id": 193,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 37,
+      "portuguese_original": "(a) estória",
+      "english_original": "story",
+      "normalized_words": [
+        "estória"
+      ]
+    },
+    {
+      "id": 194,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 38,
+      "portuguese_original": "estranhar",
+      "english_original": "to be surprising",
+      "normalized_words": [
+        "estranhar"
+      ],
+      "enrichment_note": "Active verb: to find something strange."
+    },
+    {
+      "id": 195,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 39,
+      "portuguese_original": "estratégico",
+      "english_original": "strategic",
+      "normalized_words": [
+        "estratégico"
+      ]
+    },
+    {
+      "id": 196,
+      "image": 5,
+      "page": 200,
+      "row_on_page": 40,
+      "portuguese_original": "estrear",
+      "english_original": "to premiere",
+      "normalized_words": [
+        "estrear"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        29,
+        118,
+        121,
+        131,
+        134,
+        158,
+        184
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        30,
+        65,
+        68,
+        73,
+        109,
+        113,
+        121,
+        143,
+        181,
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "vida",
+      "source_row_ids": [
+        109,
+        181
+      ]
+    },
+    {
+      "portuguese": "em",
+      "source_row_ids": [
+        111,
+        131,
+        158
+      ]
+    },
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        116,
+        117,
+        134,
+        138,
+        139,
+        170
+      ]
+    },
+    {
+      "portuguese": "enquadramento",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "jurídico",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "enquadrar",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "enraizado",
+      "source_row_ids": [
+        159
+      ]
+    },
+    {
+      "portuguese": "enriquecedor",
+      "source_row_ids": [
+        160
+      ]
+    },
+    {
+      "portuguese": "ensino",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "superior",
+      "source_row_ids": [
+        161
+      ]
+    },
+    {
+      "portuguese": "enumerar",
+      "source_row_ids": [
+        162
+      ]
+    },
+    {
+      "portuguese": "envelhecimento",
+      "source_row_ids": [
+        163
+      ]
+    },
+    {
+      "portuguese": "enxame",
+      "source_row_ids": [
+        164
+      ]
+    },
+    {
+      "portuguese": "equacionar",
+      "source_row_ids": [
+        165
+      ]
+    },
+    {
+      "portuguese": "equilibrado",
+      "source_row_ids": [
+        166
+      ]
+    },
+    {
+      "portuguese": "equilibrar",
+      "source_row_ids": [
+        167
+      ]
+    },
+    {
+      "portuguese": "equipamento",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "cultural",
+      "source_row_ids": [
+        168
+      ]
+    },
+    {
+      "portuguese": "equivalência",
+      "source_row_ids": [
+        169
+      ]
+    },
+    {
+      "portuguese": "equivaler",
+      "source_row_ids": [
+        170
+      ]
+    },
+    {
+      "portuguese": "erva",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "aromática",
+      "source_row_ids": [
+        171
+      ]
+    },
+    {
+      "portuguese": "escala",
+      "source_row_ids": [
+        172
+      ]
+    },
+    {
+      "portuguese": "escalar",
+      "source_row_ids": [
+        173
+      ]
+    },
+    {
+      "portuguese": "esclarecimento",
+      "source_row_ids": [
+        174
+      ]
+    },
+    {
+      "portuguese": "esconder",
+      "source_row_ids": [
+        175
+      ]
+    },
+    {
+      "portuguese": "esgotado",
+      "source_row_ids": [
+        176
+      ]
+    },
+    {
+      "portuguese": "esmagar",
+      "source_row_ids": [
+        177
+      ]
+    },
+    {
+      "portuguese": "espantado",
+      "source_row_ids": [
+        178
+      ]
+    },
+    {
+      "portuguese": "especiaria",
+      "source_row_ids": [
+        179
+      ]
+    },
+    {
+      "portuguese": "espectador",
+      "source_row_ids": [
+        180
+      ]
+    },
+    {
+      "portuguese": "esperança",
+      "source_row_ids": [
+        181
+      ]
+    },
+    {
+      "portuguese": "espetáculo",
+      "source_row_ids": [
+        182
+      ]
+    },
+    {
+      "portuguese": "espiritual",
+      "source_row_ids": [
+        183
+      ]
+    },
+    {
+      "portuguese": "espreguiçar",
+      "source_row_ids": [
+        184
+      ]
+    },
+    {
+      "portuguese": "estalactite",
+      "source_row_ids": [
+        185
+      ]
+    },
+    {
+      "portuguese": "estalagmite",
+      "source_row_ids": [
+        186
+      ]
+    },
+    {
+      "portuguese": "estar",
+      "source_row_ids": [
+        187,
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "atento",
+      "source_row_ids": [
+        187
+      ]
+    },
+    {
+      "portuguese": "volta",
+      "source_row_ids": [
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "estatística",
+      "source_row_ids": [
+        190
+      ]
+    },
+    {
+      "portuguese": "estimulante",
+      "source_row_ids": [
+        191
+      ]
+    },
+    {
+      "portuguese": "estirar",
+      "source_row_ids": [
+        192
+      ]
+    },
+    {
+      "portuguese": "estória",
+      "source_row_ids": [
+        193
+      ]
+    },
+    {
+      "portuguese": "estranhar",
+      "source_row_ids": [
+        194
+      ]
+    },
+    {
+      "portuguese": "estratégico",
+      "source_row_ids": [
+        195
+      ]
+    },
+    {
+      "portuguese": "estrear",
+      "source_row_ids": [
+        196
+      ]
+    }
+  ]
+}

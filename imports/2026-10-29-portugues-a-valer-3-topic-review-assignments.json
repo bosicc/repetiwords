@@ -1,0 +1,4897 @@
+{
+  "source": "The five locally backed-up Português a Valer 3 photo batches; thematic category review requested by the user",
+  "prepared_at": "2026-10-29",
+  "purpose": "Replayable manual thematic category assignments for word forms needing a more useful topic",
+  "assignments": [
+    {
+      "portuguese": "a",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "abatanado",
+      "groups": []
+    },
+    {
+      "portuguese": "aberto",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "abordar",
+      "groups": []
+    },
+    {
+      "portuguese": "abrandar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "abrigo",
+      "groups": []
+    },
+    {
+      "portuguese": "abrupto",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "absorção",
+      "groups": []
+    },
+    {
+      "portuguese": "acabar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "acender",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "acentuar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "acontecimento",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "acumulado",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "acumular",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "adequado",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "adiamento",
+      "groups": []
+    },
+    {
+      "portuguese": "adiar",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "adicional",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "adivinhar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "adquirir",
+      "groups": []
+    },
+    {
+      "portuguese": "afetar",
+      "groups": [
+        "Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "agendar",
+      "groups": []
+    },
+    {
+      "portuguese": "agente",
+      "groups": []
+    },
+    {
+      "portuguese": "agravar",
+      "groups": [
+        "Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "agressividade",
+      "groups": []
+    },
+    {
+      "portuguese": "aguaceiro",
+      "groups": []
+    },
+    {
+      "portuguese": "aguardar",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "ainda",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "ajustamento",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "ajustar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "alargar",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "alcance",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "alerta",
+      "groups": []
+    },
+    {
+      "portuguese": "algoritmo",
+      "groups": []
+    },
+    {
+      "portuguese": "aliviar",
+      "groups": []
+    },
+    {
+      "portuguese": "aliás",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "alongamento",
+      "groups": []
+    },
+    {
+      "portuguese": "altamente",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "alterar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "altifalante",
+      "groups": []
+    },
+    {
+      "portuguese": "altura",
+      "groups": []
+    },
+    {
+      "portuguese": "ambicionar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "ambição",
+      "groups": []
+    },
+    {
+      "portuguese": "ameaça",
+      "groups": []
+    },
+    {
+      "portuguese": "ameno",
+      "groups": [
+        "Weather"
+      ]
+    },
+    {
+      "portuguese": "amizade",
+      "groups": []
+    },
+    {
+      "portuguese": "amostra",
+      "groups": [
+        "Quantities and Measurement",
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "ampliar",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "analfabeto",
+      "groups": []
+    },
+    {
+      "portuguese": "analítico",
+      "groups": []
+    },
+    {
+      "portuguese": "ancorar",
+      "groups": []
+    },
+    {
+      "portuguese": "anexo",
+      "groups": []
+    },
+    {
+      "portuguese": "animado",
+      "groups": []
+    },
+    {
+      "portuguese": "ansiar",
+      "groups": []
+    },
+    {
+      "portuguese": "antebraço",
+      "groups": []
+    },
+    {
+      "portuguese": "anteceder",
+      "groups": []
+    },
+    {
+      "portuguese": "antepassado",
+      "groups": []
+    },
+    {
+      "portuguese": "antioxidante",
+      "groups": []
+    },
+    {
+      "portuguese": "análise",
+      "groups": []
+    },
+    {
+      "portuguese": "aos",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "apaixonar",
+      "groups": []
+    },
+    {
+      "portuguese": "apelidar",
+      "groups": []
+    },
+    {
+      "portuguese": "apelo",
+      "groups": []
+    },
+    {
+      "portuguese": "apertar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "aplicação",
+      "groups": []
+    },
+    {
+      "portuguese": "apoio",
+      "groups": []
+    },
+    {
+      "portuguese": "apontar",
+      "groups": []
+    },
+    {
+      "portuguese": "aposentado",
+      "groups": []
+    },
+    {
+      "portuguese": "apreciador",
+      "groups": []
+    },
+    {
+      "portuguese": "aprendizagem",
+      "groups": []
+    },
+    {
+      "portuguese": "aprovar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "aproveitamento",
+      "groups": []
+    },
+    {
+      "portuguese": "aproximar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "aquecedor",
+      "groups": []
+    },
+    {
+      "portuguese": "aquecimento",
+      "groups": [
+        "Home and Daily Life",
+        "Nature"
+      ]
+    },
+    {
+      "portuguese": "ar",
+      "groups": []
+    },
+    {
+      "portuguese": "argumentista",
+      "groups": []
+    },
+    {
+      "portuguese": "armário",
+      "groups": []
+    },
+    {
+      "portuguese": "aromática",
+      "groups": []
+    },
+    {
+      "portuguese": "arrancar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "arranjar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "arrecadação",
+      "groups": []
+    },
+    {
+      "portuguese": "arrendar",
+      "groups": [
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "arriscar",
+      "groups": [
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "articular",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "as",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "assados",
+      "groups": []
+    },
+    {
+      "portuguese": "assaltante",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "assentes",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "assento",
+      "groups": []
+    },
+    {
+      "portuguese": "assumir",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "atencioso",
+      "groups": []
+    },
+    {
+      "portuguese": "atento",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "atenuar",
+      "groups": [
+        "Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "atmosférico",
+      "groups": []
+    },
+    {
+      "portuguese": "atrasar",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "atração",
+      "groups": []
+    },
+    {
+      "portuguese": "atribuição",
+      "groups": []
+    },
+    {
+      "portuguese": "atrás",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "atuar",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "atum",
+      "groups": []
+    },
+    {
+      "portuguese": "audiovisual",
+      "groups": []
+    },
+    {
+      "portuguese": "auditivo",
+      "groups": []
+    },
+    {
+      "portuguese": "audácia",
+      "groups": []
+    },
+    {
+      "portuguese": "auspicioso",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "ausência",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "automatismo",
+      "groups": []
+    },
+    {
+      "portuguese": "autonomia",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "autorizar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "avançar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "aço",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "açucarado",
+      "groups": []
+    },
+    {
+      "portuguese": "ação",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "balanço",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "balnear",
+      "groups": []
+    },
+    {
+      "portuguese": "banda",
+      "groups": []
+    },
+    {
+      "portuguese": "banhado",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "barrar",
+      "groups": []
+    },
+    {
+      "portuguese": "barriga",
+      "groups": []
+    },
+    {
+      "portuguese": "base",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "bateria",
+      "groups": []
+    },
+    {
+      "portuguese": "baterias",
+      "groups": []
+    },
+    {
+      "portuguese": "batido",
+      "groups": []
+    },
+    {
+      "portuguese": "bem-sucedido",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "benéfico",
+      "groups": []
+    },
+    {
+      "portuguese": "bigode",
+      "groups": []
+    },
+    {
+      "portuguese": "bilheteira",
+      "groups": []
+    },
+    {
+      "portuguese": "bloqueado",
+      "groups": [
+        "Technology"
+      ]
+    },
+    {
+      "portuguese": "bolacha",
+      "groups": []
+    },
+    {
+      "portuguese": "boleia",
+      "groups": []
+    },
+    {
+      "portuguese": "bolsa",
+      "groups": []
+    },
+    {
+      "portuguese": "bosque",
+      "groups": []
+    },
+    {
+      "portuguese": "bracarense",
+      "groups": []
+    },
+    {
+      "portuguese": "brilhar",
+      "groups": [
+        "Weather"
+      ]
+    },
+    {
+      "portuguese": "burla",
+      "groups": []
+    },
+    {
+      "portuguese": "burro",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "busca",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "butano",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "bué",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "cacimbo",
+      "groups": []
+    },
+    {
+      "portuguese": "calculado",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "caldo",
+      "groups": []
+    },
+    {
+      "portuguese": "calhar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "caminho",
+      "groups": []
+    },
+    {
+      "portuguese": "canal",
+      "groups": []
+    },
+    {
+      "portuguese": "cantinho",
+      "groups": []
+    },
+    {
+      "portuguese": "capim",
+      "groups": []
+    },
+    {
+      "portuguese": "capital",
+      "groups": []
+    },
+    {
+      "portuguese": "caracterizar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "cardiovascular",
+      "groups": []
+    },
+    {
+      "portuguese": "carta",
+      "groups": []
+    },
+    {
+      "portuguese": "casca",
+      "groups": []
+    },
+    {
+      "portuguese": "caso",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "castigado",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "catedrático",
+      "groups": []
+    },
+    {
+      "portuguese": "categoria",
+      "groups": [
+        "Quantities and Measurement",
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "cavalo",
+      "groups": []
+    },
+    {
+      "portuguese": "caça",
+      "groups": []
+    },
+    {
+      "portuguese": "cela",
+      "groups": []
+    },
+    {
+      "portuguese": "cenário",
+      "groups": []
+    },
+    {
+      "portuguese": "charcutaria",
+      "groups": []
+    },
+    {
+      "portuguese": "cheque",
+      "groups": []
+    },
+    {
+      "portuguese": "chocante",
+      "groups": []
+    },
+    {
+      "portuguese": "ciclista",
+      "groups": []
+    },
+    {
+      "portuguese": "ciclone",
+      "groups": []
+    },
+    {
+      "portuguese": "ciclovia",
+      "groups": []
+    },
+    {
+      "portuguese": "cidadania",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "circulação",
+      "groups": []
+    },
+    {
+      "portuguese": "climático",
+      "groups": []
+    },
+    {
+      "portuguese": "cobre",
+      "groups": []
+    },
+    {
+      "portuguese": "cochilar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "coincidir",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "coluna",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "com",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "comando",
+      "groups": []
+    },
+    {
+      "portuguese": "combater",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "combinar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "como",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "complexo",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "compor",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "compromisso",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "computador",
+      "groups": []
+    },
+    {
+      "portuguese": "computação",
+      "groups": []
+    },
+    {
+      "portuguese": "comummente",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "concelho",
+      "groups": []
+    },
+    {
+      "portuguese": "concretizar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "condicionar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "condução",
+      "groups": []
+    },
+    {
+      "portuguese": "conferir",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "confirmação",
+      "groups": []
+    },
+    {
+      "portuguese": "conforto",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "conjuntura",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "consecutivo",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "conserto",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "conservas",
+      "groups": []
+    },
+    {
+      "portuguese": "conservação",
+      "groups": []
+    },
+    {
+      "portuguese": "consideração",
+      "groups": []
+    },
+    {
+      "portuguese": "constar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "constipado",
+      "groups": []
+    },
+    {
+      "portuguese": "construção",
+      "groups": []
+    },
+    {
+      "portuguese": "consulta",
+      "groups": []
+    },
+    {
+      "portuguese": "consultora",
+      "groups": []
+    },
+    {
+      "portuguese": "consultório",
+      "groups": []
+    },
+    {
+      "portuguese": "consumir",
+      "groups": []
+    },
+    {
+      "portuguese": "conta",
+      "groups": []
+    },
+    {
+      "portuguese": "contabilizar",
+      "groups": []
+    },
+    {
+      "portuguese": "conter",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "contexto",
+      "groups": []
+    },
+    {
+      "portuguese": "continuidade",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "contradizer",
+      "groups": []
+    },
+    {
+      "portuguese": "contradição",
+      "groups": []
+    },
+    {
+      "portuguese": "contrassenso",
+      "groups": []
+    },
+    {
+      "portuguese": "contribuir",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "contudo",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "convir",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "convocar",
+      "groups": []
+    },
+    {
+      "portuguese": "corpanzil",
+      "groups": []
+    },
+    {
+      "portuguese": "corrente",
+      "groups": []
+    },
+    {
+      "portuguese": "correr",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "corte",
+      "groups": []
+    },
+    {
+      "portuguese": "coser",
+      "groups": [
+        "Clothing and Accessories"
+      ]
+    },
+    {
+      "portuguese": "cozer",
+      "groups": []
+    },
+    {
+      "portuguese": "coçar",
+      "groups": []
+    },
+    {
+      "portuguese": "crescente",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "crescer",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "cristalino",
+      "groups": []
+    },
+    {
+      "portuguese": "crucial",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "cruzar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "cuidados",
+      "groups": []
+    },
+    {
+      "portuguese": "cujo",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "culpado",
+      "groups": []
+    },
+    {
+      "portuguese": "cultural",
+      "groups": []
+    },
+    {
+      "portuguese": "cumprimento",
+      "groups": []
+    },
+    {
+      "portuguese": "cumprir",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "curativa",
+      "groups": []
+    },
+    {
+      "portuguese": "curso",
+      "groups": []
+    },
+    {
+      "portuguese": "curtir",
+      "groups": []
+    },
+    {
+      "portuguese": "custo",
+      "groups": []
+    },
+    {
+      "portuguese": "cínico",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "cócegas",
+      "groups": []
+    },
+    {
+      "portuguese": "dados",
+      "groups": []
+    },
+    {
+      "portuguese": "dar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "data",
+      "groups": []
+    },
+    {
+      "portuguese": "daí",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "de",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "declínio",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "decorrer",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "dedicar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "dedos",
+      "groups": []
+    },
+    {
+      "portuguese": "degelo",
+      "groups": []
+    },
+    {
+      "portuguese": "deixar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "demasiado",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "demissão",
+      "groups": []
+    },
+    {
+      "portuguese": "demográfica",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "demográfico",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "demonstração",
+      "groups": []
+    },
+    {
+      "portuguese": "demência",
+      "groups": []
+    },
+    {
+      "portuguese": "denominação",
+      "groups": []
+    },
+    {
+      "portuguese": "denunciar",
+      "groups": []
+    },
+    {
+      "portuguese": "depressão",
+      "groups": []
+    },
+    {
+      "portuguese": "dera",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "desabafar",
+      "groups": []
+    },
+    {
+      "portuguese": "desafiante",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "desafio",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "desanimar",
+      "groups": []
+    },
+    {
+      "portuguese": "desarrumado",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "descalçar",
+      "groups": []
+    },
+    {
+      "portuguese": "descascar",
+      "groups": []
+    },
+    {
+      "portuguese": "descendente",
+      "groups": []
+    },
+    {
+      "portuguese": "descendência",
+      "groups": []
+    },
+    {
+      "portuguese": "descomplicar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "desconhecido",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "descontrolo",
+      "groups": []
+    },
+    {
+      "portuguese": "descrição",
+      "groups": []
+    },
+    {
+      "portuguese": "desde",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "desembalar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "desempenhar",
+      "groups": []
+    },
+    {
+      "portuguese": "desenhar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "desenvolvimento",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "desfazer",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "desgastante",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "desilusão",
+      "groups": []
+    },
+    {
+      "portuguese": "desintoxicação",
+      "groups": []
+    },
+    {
+      "portuguese": "desligar",
+      "groups": [
+        "Technology"
+      ]
+    },
+    {
+      "portuguese": "deslocado",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "deslumbrante",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "despacho",
+      "groups": []
+    },
+    {
+      "portuguese": "despedir",
+      "groups": []
+    },
+    {
+      "portuguese": "despensa",
+      "groups": []
+    },
+    {
+      "portuguese": "desperdiçar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "desperdício",
+      "groups": []
+    },
+    {
+      "portuguese": "despertar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "despiste",
+      "groups": []
+    },
+    {
+      "portuguese": "destacar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "destaque",
+      "groups": []
+    },
+    {
+      "portuguese": "destinar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "desvendar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "desvirtuar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "deus",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "dever",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "devido",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "devoto",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "diagonal",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "diante",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "dica",
+      "groups": []
+    },
+    {
+      "portuguese": "dieta",
+      "groups": []
+    },
+    {
+      "portuguese": "diferir",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "digestivo",
+      "groups": []
+    },
+    {
+      "portuguese": "digressão",
+      "groups": []
+    },
+    {
+      "portuguese": "dimensão",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "dinâmica",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "direcionado",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "discrição",
+      "groups": []
+    },
+    {
+      "portuguese": "dispensa",
+      "groups": []
+    },
+    {
+      "portuguese": "dispensar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "disponível",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "dispor",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "disposição",
+      "groups": []
+    },
+    {
+      "portuguese": "disputar",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "distante",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "distração",
+      "groups": []
+    },
+    {
+      "portuguese": "distraído",
+      "groups": []
+    },
+    {
+      "portuguese": "divulgar",
+      "groups": []
+    },
+    {
+      "portuguese": "do",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "dois",
+      "groups": []
+    },
+    {
+      "portuguese": "domínio",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "drasticamente",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "drástico",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "dívida",
+      "groups": []
+    },
+    {
+      "portuguese": "ecoturismo",
+      "groups": []
+    },
+    {
+      "portuguese": "efeito",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "efetuar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "eficiência",
+      "groups": []
+    },
+    {
+      "portuguese": "eixo",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "elaborado",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "elite",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "em",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "embalagem",
+      "groups": []
+    },
+    {
+      "portuguese": "embalar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "embora",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "embrulho",
+      "groups": []
+    },
+    {
+      "portuguese": "emergente",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "emigrante",
+      "groups": []
+    },
+    {
+      "portuguese": "emissão",
+      "groups": []
+    },
+    {
+      "portuguese": "emitir",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "empreendedor",
+      "groups": []
+    },
+    {
+      "portuguese": "empregar",
+      "groups": []
+    },
+    {
+      "portuguese": "empurrar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "encantar",
+      "groups": []
+    },
+    {
+      "portuguese": "encanto",
+      "groups": []
+    },
+    {
+      "portuguese": "encarar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "encerrar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "enchidos",
+      "groups": []
+    },
+    {
+      "portuguese": "encomenda",
+      "groups": []
+    },
+    {
+      "portuguese": "energia",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "enervar",
+      "groups": []
+    },
+    {
+      "portuguese": "engano",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "enlatados",
+      "groups": []
+    },
+    {
+      "portuguese": "enormidade",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "enoturismo",
+      "groups": []
+    },
+    {
+      "portuguese": "enquadramento",
+      "groups": []
+    },
+    {
+      "portuguese": "enquadrar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "enraizado",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "enriquecedor",
+      "groups": []
+    },
+    {
+      "portuguese": "ensino",
+      "groups": []
+    },
+    {
+      "portuguese": "entanto",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "enumerar",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "envelhecimento",
+      "groups": []
+    },
+    {
+      "portuguese": "enxame",
+      "groups": []
+    },
+    {
+      "portuguese": "equacionar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "equilibrado",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "equilibrar",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "equipamento",
+      "groups": []
+    },
+    {
+      "portuguese": "equivaler",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "equivalência",
+      "groups": []
+    },
+    {
+      "portuguese": "erva",
+      "groups": []
+    },
+    {
+      "portuguese": "escala",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "escalar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "esclarecimento",
+      "groups": []
+    },
+    {
+      "portuguese": "esconder",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "esgotado",
+      "groups": []
+    },
+    {
+      "portuguese": "esmagar",
+      "groups": []
+    },
+    {
+      "portuguese": "espantado",
+      "groups": []
+    },
+    {
+      "portuguese": "especiaria",
+      "groups": []
+    },
+    {
+      "portuguese": "espectador",
+      "groups": []
+    },
+    {
+      "portuguese": "esperança",
+      "groups": []
+    },
+    {
+      "portuguese": "espetáculo",
+      "groups": []
+    },
+    {
+      "portuguese": "espiritual",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "espreguiçar",
+      "groups": []
+    },
+    {
+      "portuguese": "estalactite",
+      "groups": []
+    },
+    {
+      "portuguese": "estalagmite",
+      "groups": []
+    },
+    {
+      "portuguese": "estar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "estatística",
+      "groups": []
+    },
+    {
+      "portuguese": "estimulante",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "estirar",
+      "groups": []
+    },
+    {
+      "portuguese": "estranhar",
+      "groups": []
+    },
+    {
+      "portuguese": "estratégico",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "estrear",
+      "groups": []
+    },
+    {
+      "portuguese": "estufa",
+      "groups": []
+    },
+    {
+      "portuguese": "estufados",
+      "groups": []
+    },
+    {
+      "portuguese": "estória",
+      "groups": []
+    },
+    {
+      "portuguese": "etapa",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "evidência",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "evitar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "exaltar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "exatidão",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "excerto",
+      "groups": []
+    },
+    {
+      "portuguese": "excessivo",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "exceto",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "excluir",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "exclusão",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "exercer",
+      "groups": []
+    },
+    {
+      "portuguese": "exigência",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "expandir",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "expectativa",
+      "groups": []
+    },
+    {
+      "portuguese": "expediente",
+      "groups": []
+    },
+    {
+      "portuguese": "experienciar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "explícito",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "expor",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "expressão",
+      "groups": []
+    },
+    {
+      "portuguese": "exteriorizar",
+      "groups": []
+    },
+    {
+      "portuguese": "extrair",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "extremo",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "fada",
+      "groups": []
+    },
+    {
+      "portuguese": "fadiga",
+      "groups": []
+    },
+    {
+      "portuguese": "faixa",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "falador",
+      "groups": []
+    },
+    {
+      "portuguese": "falta",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "faltar",
+      "groups": [
+        "Home and Daily Life",
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "fascínio",
+      "groups": []
+    },
+    {
+      "portuguese": "fatal",
+      "groups": []
+    },
+    {
+      "portuguese": "fatura",
+      "groups": []
+    },
+    {
+      "portuguese": "fazenda",
+      "groups": []
+    },
+    {
+      "portuguese": "fazer",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "ferimento",
+      "groups": []
+    },
+    {
+      "portuguese": "ferramenta",
+      "groups": []
+    },
+    {
+      "portuguese": "ferroviária",
+      "groups": []
+    },
+    {
+      "portuguese": "festival",
+      "groups": []
+    },
+    {
+      "portuguese": "fibra",
+      "groups": []
+    },
+    {
+      "portuguese": "ficar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "ficção",
+      "groups": []
+    },
+    {
+      "portuguese": "finalidade",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "fiscal",
+      "groups": []
+    },
+    {
+      "portuguese": "fixar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "fixe",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "fixo",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "flagrante",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "flexibilidade",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "flexitariano",
+      "groups": []
+    },
+    {
+      "portuguese": "florescer",
+      "groups": []
+    },
+    {
+      "portuguese": "fluido",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "fluência",
+      "groups": []
+    },
+    {
+      "portuguese": "foco",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "fonte",
+      "groups": []
+    },
+    {
+      "portuguese": "formulação",
+      "groups": []
+    },
+    {
+      "portuguese": "fraude",
+      "groups": []
+    },
+    {
+      "portuguese": "freguesia",
+      "groups": []
+    },
+    {
+      "portuguese": "frequentar",
+      "groups": []
+    },
+    {
+      "portuguese": "frigideira",
+      "groups": []
+    },
+    {
+      "portuguese": "fritos",
+      "groups": []
+    },
+    {
+      "portuguese": "fruição",
+      "groups": []
+    },
+    {
+      "portuguese": "fruto",
+      "groups": []
+    },
+    {
+      "portuguese": "funcionário",
+      "groups": []
+    },
+    {
+      "portuguese": "fundir",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "furacão",
+      "groups": []
+    },
+    {
+      "portuguese": "fértil",
+      "groups": []
+    },
+    {
+      "portuguese": "fôlego",
+      "groups": []
+    },
+    {
+      "portuguese": "gaiato",
+      "groups": []
+    },
+    {
+      "portuguese": "galeão",
+      "groups": []
+    },
+    {
+      "portuguese": "galão",
+      "groups": []
+    },
+    {
+      "portuguese": "ganho",
+      "groups": []
+    },
+    {
+      "portuguese": "garoto",
+      "groups": []
+    },
+    {
+      "portuguese": "gases",
+      "groups": []
+    },
+    {
+      "portuguese": "gasolina",
+      "groups": []
+    },
+    {
+      "portuguese": "gastador",
+      "groups": []
+    },
+    {
+      "portuguese": "gasóleo",
+      "groups": []
+    },
+    {
+      "portuguese": "gerir",
+      "groups": []
+    },
+    {
+      "portuguese": "germinar",
+      "groups": []
+    },
+    {
+      "portuguese": "global",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "glúten",
+      "groups": []
+    },
+    {
+      "portuguese": "gordura",
+      "groups": []
+    },
+    {
+      "portuguese": "gosto",
+      "groups": []
+    },
+    {
+      "portuguese": "grande",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "gravação",
+      "groups": []
+    },
+    {
+      "portuguese": "grelos",
+      "groups": []
+    },
+    {
+      "portuguese": "gruta",
+      "groups": []
+    },
+    {
+      "portuguese": "guarda",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "guiado",
+      "groups": []
+    },
+    {
+      "portuguese": "guisados",
+      "groups": []
+    },
+    {
+      "portuguese": "guloso",
+      "groups": []
+    },
+    {
+      "portuguese": "gás",
+      "groups": []
+    },
+    {
+      "portuguese": "habitação",
+      "groups": []
+    },
+    {
+      "portuguese": "hera",
+      "groups": []
+    },
+    {
+      "portuguese": "higienização",
+      "groups": []
+    },
+    {
+      "portuguese": "hipertensão",
+      "groups": []
+    },
+    {
+      "portuguese": "hipótese",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "hora",
+      "groups": []
+    },
+    {
+      "portuguese": "hortênsia",
+      "groups": []
+    },
+    {
+      "portuguese": "hortícolas",
+      "groups": []
+    },
+    {
+      "portuguese": "horário",
+      "groups": []
+    },
+    {
+      "portuguese": "humanos",
+      "groups": []
+    },
+    {
+      "portuguese": "há",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "idade",
+      "groups": []
+    },
+    {
+      "portuguese": "idealizar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "identificar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "idiomática",
+      "groups": []
+    },
+    {
+      "portuguese": "idoso",
+      "groups": []
+    },
+    {
+      "portuguese": "iluminação",
+      "groups": []
+    },
+    {
+      "portuguese": "imediato",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "imersivo",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "imigrante",
+      "groups": []
+    },
+    {
+      "portuguese": "implementar",
+      "groups": []
+    },
+    {
+      "portuguese": "implementação",
+      "groups": []
+    },
+    {
+      "portuguese": "imprescindível",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "impressionante",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "inauguração",
+      "groups": []
+    },
+    {
+      "portuguese": "incendiar",
+      "groups": []
+    },
+    {
+      "portuguese": "incentivo",
+      "groups": []
+    },
+    {
+      "portuguese": "incêndio",
+      "groups": []
+    },
+    {
+      "portuguese": "indescritível",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "inflamatório",
+      "groups": []
+    },
+    {
+      "portuguese": "informática",
+      "groups": []
+    },
+    {
+      "portuguese": "ingestão",
+      "groups": []
+    },
+    {
+      "portuguese": "inovador",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "inquirido",
+      "groups": []
+    },
+    {
+      "portuguese": "insaturada",
+      "groups": []
+    },
+    {
+      "portuguese": "inspirador",
+      "groups": []
+    },
+    {
+      "portuguese": "insónia",
+      "groups": []
+    },
+    {
+      "portuguese": "integral",
+      "groups": []
+    },
+    {
+      "portuguese": "intempérie",
+      "groups": []
+    },
+    {
+      "portuguese": "intercâmbio",
+      "groups": []
+    },
+    {
+      "portuguese": "interferir",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "interrupção",
+      "groups": []
+    },
+    {
+      "portuguese": "intervir",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "intuitivo",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "intuição",
+      "groups": []
+    },
+    {
+      "portuguese": "inundação",
+      "groups": []
+    },
+    {
+      "portuguese": "inverter",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "inúmeros",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "irritabilidade",
+      "groups": []
+    },
+    {
+      "portuguese": "irromper",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "isentar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "janelinha",
+      "groups": []
+    },
+    {
+      "portuguese": "jejum",
+      "groups": []
+    },
+    {
+      "portuguese": "jurídico",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "laboral",
+      "groups": []
+    },
+    {
+      "portuguese": "laticínios",
+      "groups": []
+    },
+    {
+      "portuguese": "lava",
+      "groups": []
+    },
+    {
+      "portuguese": "lavagem",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "lazer",
+      "groups": []
+    },
+    {
+      "portuguese": "legislar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "leguminosas",
+      "groups": []
+    },
+    {
+      "portuguese": "ler",
+      "groups": []
+    },
+    {
+      "portuguese": "lesão",
+      "groups": []
+    },
+    {
+      "portuguese": "leveza",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "libertar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "licenciamento",
+      "groups": []
+    },
+    {
+      "portuguese": "lidar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "ligação",
+      "groups": []
+    },
+    {
+      "portuguese": "ligeiro",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "limpo",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "linhaça",
+      "groups": []
+    },
+    {
+      "portuguese": "listar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "livro",
+      "groups": []
+    },
+    {
+      "portuguese": "longa",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "longevidade",
+      "groups": []
+    },
+    {
+      "portuguese": "longo",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "lugares",
+      "groups": []
+    },
+    {
+      "portuguese": "lácteo",
+      "groups": []
+    },
+    {
+      "portuguese": "lítio",
+      "groups": []
+    },
+    {
+      "portuguese": "madrugada",
+      "groups": []
+    },
+    {
+      "portuguese": "maioria",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "maiúscula",
+      "groups": []
+    },
+    {
+      "portuguese": "mal",
+      "groups": []
+    },
+    {
+      "portuguese": "mal-humorado",
+      "groups": []
+    },
+    {
+      "portuguese": "maldade",
+      "groups": []
+    },
+    {
+      "portuguese": "malhado",
+      "groups": [
+        "Clothing and Accessories"
+      ]
+    },
+    {
+      "portuguese": "malta",
+      "groups": []
+    },
+    {
+      "portuguese": "manifestação",
+      "groups": []
+    },
+    {
+      "portuguese": "manutenção",
+      "groups": []
+    },
+    {
+      "portuguese": "mar",
+      "groups": []
+    },
+    {
+      "portuguese": "marcados",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "marcante",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "marcar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "marmitar",
+      "groups": []
+    },
+    {
+      "portuguese": "massa",
+      "groups": []
+    },
+    {
+      "portuguese": "massivo",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "mastigar",
+      "groups": []
+    },
+    {
+      "portuguese": "material",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "matéria",
+      "groups": []
+    },
+    {
+      "portuguese": "matéria-prima",
+      "groups": []
+    },
+    {
+      "portuguese": "me",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "medicina",
+      "groups": []
+    },
+    {
+      "portuguese": "medida",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "meia-idade",
+      "groups": []
+    },
+    {
+      "portuguese": "melhoria",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "mencionar",
+      "groups": []
+    },
+    {
+      "portuguese": "menininho",
+      "groups": []
+    },
+    {
+      "portuguese": "menor",
+      "groups": []
+    },
+    {
+      "portuguese": "meramente",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "mercado",
+      "groups": []
+    },
+    {
+      "portuguese": "mergulhar",
+      "groups": []
+    },
+    {
+      "portuguese": "mesmo",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "meteorológica",
+      "groups": []
+    },
+    {
+      "portuguese": "metro",
+      "groups": []
+    },
+    {
+      "portuguese": "metropolitana",
+      "groups": []
+    },
+    {
+      "portuguese": "mina",
+      "groups": []
+    },
+    {
+      "portuguese": "miragem",
+      "groups": []
+    },
+    {
+      "portuguese": "mitigação",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "modificar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "modo",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "modular",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "moer",
+      "groups": []
+    },
+    {
+      "portuguese": "moldar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "monoinsaturada",
+      "groups": []
+    },
+    {
+      "portuguese": "mortal",
+      "groups": []
+    },
+    {
+      "portuguese": "morte",
+      "groups": []
+    },
+    {
+      "portuguese": "motociclo",
+      "groups": []
+    },
+    {
+      "portuguese": "mudar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "multa",
+      "groups": []
+    },
+    {
+      "portuguese": "multiplicar",
+      "groups": []
+    },
+    {
+      "portuguese": "municipal",
+      "groups": []
+    },
+    {
+      "portuguese": "município",
+      "groups": []
+    },
+    {
+      "portuguese": "murar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "muro",
+      "groups": []
+    },
+    {
+      "portuguese": "murro",
+      "groups": []
+    },
+    {
+      "portuguese": "musculação",
+      "groups": []
+    },
+    {
+      "portuguese": "musculoesquelético",
+      "groups": []
+    },
+    {
+      "portuguese": "mágica",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "média",
+      "groups": []
+    },
+    {
+      "portuguese": "mérito",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "na",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "natalidade",
+      "groups": []
+    },
+    {
+      "portuguese": "natas",
+      "groups": []
+    },
+    {
+      "portuguese": "nativo",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "nem",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "neurológico",
+      "groups": []
+    },
+    {
+      "portuguese": "neutro",
+      "groups": [
+        "Science and Research"
+      ]
+    },
+    {
+      "portuguese": "nevoeiro",
+      "groups": []
+    },
+    {
+      "portuguese": "nevão",
+      "groups": []
+    },
+    {
+      "portuguese": "no",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "nomeadamente",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "novidade",
+      "groups": []
+    },
+    {
+      "portuguese": "noz",
+      "groups": []
+    },
+    {
+      "portuguese": "nublado",
+      "groups": []
+    },
+    {
+      "portuguese": "nutriente",
+      "groups": []
+    },
+    {
+      "portuguese": "nutrir",
+      "groups": []
+    },
+    {
+      "portuguese": "não",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "o",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "obrigação",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "obstante",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "obstáculo",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "oferta",
+      "groups": []
+    },
+    {
+      "portuguese": "olimpíada",
+      "groups": []
+    },
+    {
+      "portuguese": "oloroso",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "operador",
+      "groups": []
+    },
+    {
+      "portuguese": "operar",
+      "groups": [
+        "Technology"
+      ]
+    },
+    {
+      "portuguese": "oportuno",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "oposto",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "organismo",
+      "groups": []
+    },
+    {
+      "portuguese": "organizado",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "originário",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "orçamento",
+      "groups": []
+    },
+    {
+      "portuguese": "os",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "oscilar",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "ousar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "oxalá",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "padrão",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "paladar",
+      "groups": []
+    },
+    {
+      "portuguese": "paládio",
+      "groups": []
+    },
+    {
+      "portuguese": "papel",
+      "groups": []
+    },
+    {
+      "portuguese": "para",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "paralisação",
+      "groups": []
+    },
+    {
+      "portuguese": "paraíso",
+      "groups": []
+    },
+    {
+      "portuguese": "parceiro",
+      "groups": []
+    },
+    {
+      "portuguese": "pardo",
+      "groups": []
+    },
+    {
+      "portuguese": "partir",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "passadeira",
+      "groups": []
+    },
+    {
+      "portuguese": "passar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "passo",
+      "groups": []
+    },
+    {
+      "portuguese": "património",
+      "groups": []
+    },
+    {
+      "portuguese": "pau",
+      "groups": []
+    },
+    {
+      "portuguese": "paço",
+      "groups": []
+    },
+    {
+      "portuguese": "pedaço",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "pedestre",
+      "groups": []
+    },
+    {
+      "portuguese": "pendente",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "pensionista",
+      "groups": []
+    },
+    {
+      "portuguese": "pensão",
+      "groups": []
+    },
+    {
+      "portuguese": "perceção",
+      "groups": []
+    },
+    {
+      "portuguese": "percorrer",
+      "groups": []
+    },
+    {
+      "portuguese": "percurso",
+      "groups": []
+    },
+    {
+      "portuguese": "perder",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "periódica",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "persistente",
+      "groups": []
+    },
+    {
+      "portuguese": "persistência",
+      "groups": []
+    },
+    {
+      "portuguese": "perspetivar",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "pertencer",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "perturbação",
+      "groups": []
+    },
+    {
+      "portuguese": "pesadelo",
+      "groups": []
+    },
+    {
+      "portuguese": "pescado",
+      "groups": []
+    },
+    {
+      "portuguese": "peso",
+      "groups": []
+    },
+    {
+      "portuguese": "pesquisa",
+      "groups": []
+    },
+    {
+      "portuguese": "peça",
+      "groups": []
+    },
+    {
+      "portuguese": "pilha",
+      "groups": []
+    },
+    {
+      "portuguese": "pimba",
+      "groups": []
+    },
+    {
+      "portuguese": "pirâmide",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "plano",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "planta",
+      "groups": []
+    },
+    {
+      "portuguese": "planície",
+      "groups": []
+    },
+    {
+      "portuguese": "plataforma",
+      "groups": []
+    },
+    {
+      "portuguese": "plateia",
+      "groups": []
+    },
+    {
+      "portuguese": "platina",
+      "groups": []
+    },
+    {
+      "portuguese": "poderoso",
+      "groups": [
+        "School and Work",
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "poli-insaturada",
+      "groups": []
+    },
+    {
+      "portuguese": "poluição",
+      "groups": []
+    },
+    {
+      "portuguese": "ponteiro",
+      "groups": []
+    },
+    {
+      "portuguese": "ponto",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "por",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "portanto",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "portátil",
+      "groups": []
+    },
+    {
+      "portuguese": "porventura",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "porção",
+      "groups": []
+    },
+    {
+      "portuguese": "porém",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "poste",
+      "groups": []
+    },
+    {
+      "portuguese": "potencialidade",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "poupar",
+      "groups": []
+    },
+    {
+      "portuguese": "poético",
+      "groups": []
+    },
+    {
+      "portuguese": "prazo",
+      "groups": []
+    },
+    {
+      "portuguese": "preceder",
+      "groups": []
+    },
+    {
+      "portuguese": "precioso",
+      "groups": [
+        "Industry and Materials"
+      ]
+    },
+    {
+      "portuguese": "precipitação",
+      "groups": []
+    },
+    {
+      "portuguese": "pregar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "prego",
+      "groups": []
+    },
+    {
+      "portuguese": "preguiçar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "prejudicial",
+      "groups": []
+    },
+    {
+      "portuguese": "preliminar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "premência",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "prescrever",
+      "groups": []
+    },
+    {
+      "portuguese": "prestação",
+      "groups": []
+    },
+    {
+      "portuguese": "preventiva",
+      "groups": []
+    },
+    {
+      "portuguese": "prever",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "previamente",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "previsivelmente",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "previsível",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "primazia",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "primordial",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "primários",
+      "groups": []
+    },
+    {
+      "portuguese": "prioridade",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "processados",
+      "groups": []
+    },
+    {
+      "portuguese": "processar",
+      "groups": []
+    },
+    {
+      "portuguese": "procrastinador",
+      "groups": []
+    },
+    {
+      "portuguese": "procrastinar",
+      "groups": []
+    },
+    {
+      "portuguese": "procrastinação",
+      "groups": []
+    },
+    {
+      "portuguese": "professor",
+      "groups": []
+    },
+    {
+      "portuguese": "profundeza",
+      "groups": []
+    },
+    {
+      "portuguese": "programação",
+      "groups": []
+    },
+    {
+      "portuguese": "projetar",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "projeto-piloto",
+      "groups": []
+    },
+    {
+      "portuguese": "projetor",
+      "groups": []
+    },
+    {
+      "portuguese": "prolongar",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "promotor",
+      "groups": []
+    },
+    {
+      "portuguese": "propiciar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "propor",
+      "groups": []
+    },
+    {
+      "portuguese": "proporção",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "proposta",
+      "groups": []
+    },
+    {
+      "portuguese": "propósito",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "proveniente",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "provocar",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "proximidade",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "pré-fabricar",
+      "groups": []
+    },
+    {
+      "portuguese": "prédio",
+      "groups": []
+    },
+    {
+      "portuguese": "prémio",
+      "groups": []
+    },
+    {
+      "portuguese": "pulmonar",
+      "groups": []
+    },
+    {
+      "portuguese": "purificar",
+      "groups": [
+        "Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "purificação",
+      "groups": []
+    },
+    {
+      "portuguese": "pé",
+      "groups": []
+    },
+    {
+      "portuguese": "pés",
+      "groups": []
+    },
+    {
+      "portuguese": "pública",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "público-alvo",
+      "groups": []
+    },
+    {
+      "portuguese": "quadradinhos",
+      "groups": []
+    },
+    {
+      "portuguese": "quadrado",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "qualquer",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "quando",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "que",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "quebra",
+      "groups": [
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "queira",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "queixa",
+      "groups": []
+    },
+    {
+      "portuguese": "queixar",
+      "groups": []
+    },
+    {
+      "portuguese": "quem",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "quintal",
+      "groups": []
+    },
+    {
+      "portuguese": "raio",
+      "groups": []
+    },
+    {
+      "portuguese": "raízes",
+      "groups": []
+    },
+    {
+      "portuguese": "readaptar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "realizador",
+      "groups": []
+    },
+    {
+      "portuguese": "reaproveitamento",
+      "groups": []
+    },
+    {
+      "portuguese": "recarregadas",
+      "groups": []
+    },
+    {
+      "portuguese": "receio",
+      "groups": []
+    },
+    {
+      "portuguese": "reciclar",
+      "groups": []
+    },
+    {
+      "portuguese": "recolha",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "recolher",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "recomendar",
+      "groups": []
+    },
+    {
+      "portuguese": "reconquista",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "recurso",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "recursos",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "recíproco",
+      "groups": []
+    },
+    {
+      "portuguese": "reduzir",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "redução",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "reembolsar",
+      "groups": []
+    },
+    {
+      "portuguese": "reembolso",
+      "groups": []
+    },
+    {
+      "portuguese": "reencaminhamento",
+      "groups": []
+    },
+    {
+      "portuguese": "refinados",
+      "groups": []
+    },
+    {
+      "portuguese": "reforço",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "refrigerante",
+      "groups": []
+    },
+    {
+      "portuguese": "regenerar",
+      "groups": []
+    },
+    {
+      "portuguese": "reger",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "regime",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "registar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "regulamentar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "rejuvenescimento",
+      "groups": []
+    },
+    {
+      "portuguese": "relaxado",
+      "groups": []
+    },
+    {
+      "portuguese": "relaxamento",
+      "groups": []
+    },
+    {
+      "portuguese": "relegar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "relevante",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "relevância",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "relâmpago",
+      "groups": []
+    },
+    {
+      "portuguese": "remediado",
+      "groups": [
+        "Shopping and Payments",
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "remunerar",
+      "groups": []
+    },
+    {
+      "portuguese": "renal",
+      "groups": []
+    },
+    {
+      "portuguese": "rendimento",
+      "groups": []
+    },
+    {
+      "portuguese": "renovação",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "renovável",
+      "groups": []
+    },
+    {
+      "portuguese": "repartir",
+      "groups": [
+        "Food and Drink"
+      ]
+    },
+    {
+      "portuguese": "repentino",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "repor",
+      "groups": []
+    },
+    {
+      "portuguese": "reportar",
+      "groups": []
+    },
+    {
+      "portuguese": "repousar",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "requerer",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "resistir",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "resolução",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "restauração",
+      "groups": []
+    },
+    {
+      "portuguese": "restringir",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "restrição",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "resumo",
+      "groups": []
+    },
+    {
+      "portuguese": "resíduo",
+      "groups": []
+    },
+    {
+      "portuguese": "retiro",
+      "groups": []
+    },
+    {
+      "portuguese": "revelar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "rigor",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "risca",
+      "groups": [
+        "Clothing and Accessories"
+      ]
+    },
+    {
+      "portuguese": "risco",
+      "groups": [
+        "Law and Public Services",
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "riscos",
+      "groups": [
+        "Law and Public Services",
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "robótico",
+      "groups": []
+    },
+    {
+      "portuguese": "rodeado",
+      "groups": [
+        "Space and Movement"
+      ]
+    },
+    {
+      "portuguese": "rodízio",
+      "groups": []
+    },
+    {
+      "portuguese": "roer",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "rolha",
+      "groups": []
+    },
+    {
+      "portuguese": "romper",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "rondar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "roqueiro",
+      "groups": []
+    },
+    {
+      "portuguese": "roupagem",
+      "groups": []
+    },
+    {
+      "portuguese": "rumo",
+      "groups": []
+    },
+    {
+      "portuguese": "ruído",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "rótulo",
+      "groups": []
+    },
+    {
+      "portuguese": "sabedoria",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "saborear",
+      "groups": []
+    },
+    {
+      "portuguese": "saciar",
+      "groups": []
+    },
+    {
+      "portuguese": "sacrificar",
+      "groups": [
+        "Religion and Beliefs",
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "salsicharia",
+      "groups": []
+    },
+    {
+      "portuguese": "satisfazer",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "saturada",
+      "groups": []
+    },
+    {
+      "portuguese": "saúde",
+      "groups": []
+    },
+    {
+      "portuguese": "se",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "seca",
+      "groups": []
+    },
+    {
+      "portuguese": "sectorial",
+      "groups": []
+    },
+    {
+      "portuguese": "sedentário",
+      "groups": []
+    },
+    {
+      "portuguese": "segundo",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "seguradora",
+      "groups": []
+    },
+    {
+      "portuguese": "segurança",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "groups": []
+    },
+    {
+      "portuguese": "sela",
+      "groups": []
+    },
+    {
+      "portuguese": "selo",
+      "groups": []
+    },
+    {
+      "portuguese": "sem-número",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "sentenciar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "sequer",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "serviço",
+      "groups": []
+    },
+    {
+      "portuguese": "servo",
+      "groups": []
+    },
+    {
+      "portuguese": "siamês",
+      "groups": [
+        "Animals"
+      ]
+    },
+    {
+      "portuguese": "simultâneo",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "simétrico",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "sindicato",
+      "groups": []
+    },
+    {
+      "portuguese": "singular",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "sinopse",
+      "groups": []
+    },
+    {
+      "portuguese": "sintetizar",
+      "groups": []
+    },
+    {
+      "portuguese": "sintoma",
+      "groups": []
+    },
+    {
+      "portuguese": "sismo",
+      "groups": []
+    },
+    {
+      "portuguese": "sistema",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "sobrecarregado",
+      "groups": []
+    },
+    {
+      "portuguese": "sobrepor",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "sobretudo",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "social",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "soja",
+      "groups": []
+    },
+    {
+      "portuguese": "sol",
+      "groups": []
+    },
+    {
+      "portuguese": "solicitar",
+      "groups": []
+    },
+    {
+      "portuguese": "sonolência",
+      "groups": []
+    },
+    {
+      "portuguese": "sonora",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "sua",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "subsistência",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "substituir",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "sufocar",
+      "groups": []
+    },
+    {
+      "portuguese": "superar",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "superior",
+      "groups": []
+    },
+    {
+      "portuguese": "supersticioso",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "supor",
+      "groups": [
+        "Thinking and Decision Making"
+      ]
+    },
+    {
+      "portuguese": "suscitar",
+      "groups": [
+        "Communication"
+      ]
+    },
+    {
+      "portuguese": "suspender",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "sustentável",
+      "groups": []
+    },
+    {
+      "portuguese": "são",
+      "groups": []
+    },
+    {
+      "portuguese": "série",
+      "groups": []
+    },
+    {
+      "portuguese": "síndrome",
+      "groups": []
+    },
+    {
+      "portuguese": "sódio",
+      "groups": []
+    },
+    {
+      "portuguese": "tabela",
+      "groups": []
+    },
+    {
+      "portuguese": "taquicardia",
+      "groups": []
+    },
+    {
+      "portuguese": "tecnologia",
+      "groups": []
+    },
+    {
+      "portuguese": "telha",
+      "groups": []
+    },
+    {
+      "portuguese": "temperado",
+      "groups": []
+    },
+    {
+      "portuguese": "temperar",
+      "groups": []
+    },
+    {
+      "portuguese": "tempo",
+      "groups": []
+    },
+    {
+      "portuguese": "tendência",
+      "groups": [
+        "Home and Daily Life",
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "tentativa",
+      "groups": [
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "ter",
+      "groups": [
+        "Home and Daily Life"
+      ]
+    },
+    {
+      "portuguese": "terapia",
+      "groups": []
+    },
+    {
+      "portuguese": "terapêutico",
+      "groups": []
+    },
+    {
+      "portuguese": "terceira",
+      "groups": []
+    },
+    {
+      "portuguese": "termal",
+      "groups": []
+    },
+    {
+      "portuguese": "terra",
+      "groups": []
+    },
+    {
+      "portuguese": "terreno",
+      "groups": []
+    },
+    {
+      "portuguese": "território",
+      "groups": []
+    },
+    {
+      "portuguese": "terços",
+      "groups": []
+    },
+    {
+      "portuguese": "testemunho",
+      "groups": []
+    },
+    {
+      "portuguese": "tocar",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "todo-o-terreno",
+      "groups": []
+    },
+    {
+      "portuguese": "tonelada",
+      "groups": [
+        "Quantities and Measurement"
+      ]
+    },
+    {
+      "portuguese": "tornado",
+      "groups": []
+    },
+    {
+      "portuguese": "trabalho",
+      "groups": []
+    },
+    {
+      "portuguese": "transferir",
+      "groups": [
+        "Shopping and Payments"
+      ]
+    },
+    {
+      "portuguese": "transitório",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "tremor",
+      "groups": []
+    },
+    {
+      "portuguese": "trinado",
+      "groups": []
+    },
+    {
+      "portuguese": "trisavós",
+      "groups": []
+    },
+    {
+      "portuguese": "troca",
+      "groups": []
+    },
+    {
+      "portuguese": "troia",
+      "groups": []
+    },
+    {
+      "portuguese": "tronco",
+      "groups": []
+    },
+    {
+      "portuguese": "trovoada",
+      "groups": []
+    },
+    {
+      "portuguese": "trovão",
+      "groups": []
+    },
+    {
+      "portuguese": "truta",
+      "groups": []
+    },
+    {
+      "portuguese": "tutela",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "ultimamente",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "untar",
+      "groups": []
+    },
+    {
+      "portuguese": "urbano",
+      "groups": []
+    },
+    {
+      "portuguese": "usufruir",
+      "groups": [
+        "Sightseeing and Activities"
+      ]
+    },
+    {
+      "portuguese": "utente",
+      "groups": []
+    },
+    {
+      "portuguese": "vaga",
+      "groups": []
+    },
+    {
+      "portuguese": "vago",
+      "groups": [
+        "Communication",
+        "Emotions"
+      ]
+    },
+    {
+      "portuguese": "valorizado",
+      "groups": [
+        "Emotions",
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "valorizar",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "valorização",
+      "groups": []
+    },
+    {
+      "portuguese": "valência",
+      "groups": []
+    },
+    {
+      "portuguese": "varinha",
+      "groups": []
+    },
+    {
+      "portuguese": "vergonha",
+      "groups": []
+    },
+    {
+      "portuguese": "versátil",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "vertebral",
+      "groups": []
+    },
+    {
+      "portuguese": "vertente",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "veículo",
+      "groups": []
+    },
+    {
+      "portuguese": "vida",
+      "groups": [
+        "Society and Demographics"
+      ]
+    },
+    {
+      "portuguese": "vigor",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "vigorar",
+      "groups": [
+        "Law and Public Services"
+      ]
+    },
+    {
+      "portuguese": "vinha",
+      "groups": []
+    },
+    {
+      "portuguese": "viragem",
+      "groups": []
+    },
+    {
+      "portuguese": "visibilidade",
+      "groups": []
+    },
+    {
+      "portuguese": "vista",
+      "groups": [
+        "Emergencies and Health"
+      ]
+    },
+    {
+      "portuguese": "vocalista",
+      "groups": []
+    },
+    {
+      "portuguese": "volta",
+      "groups": []
+    },
+    {
+      "portuguese": "voluntariado",
+      "groups": []
+    },
+    {
+      "portuguese": "vulcânico",
+      "groups": []
+    },
+    {
+      "portuguese": "vício",
+      "groups": []
+    },
+    {
+      "portuguese": "vítima",
+      "groups": []
+    },
+    {
+      "portuguese": "xeque",
+      "groups": [
+        "Religion and Beliefs"
+      ]
+    },
+    {
+      "portuguese": "xeque-mate",
+      "groups": []
+    },
+    {
+      "portuguese": "zelo",
+      "groups": []
+    },
+    {
+      "portuguese": "zona",
+      "groups": []
+    },
+    {
+      "portuguese": "à",
+      "groups": [
+        "Language and Grammar"
+      ]
+    },
+    {
+      "portuguese": "ácido",
+      "groups": []
+    },
+    {
+      "portuguese": "ágil",
+      "groups": [
+        "Sports and Exercise"
+      ]
+    },
+    {
+      "portuguese": "ária",
+      "groups": []
+    },
+    {
+      "portuguese": "âmbito",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "êxito",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "índice",
+      "groups": []
+    },
+    {
+      "portuguese": "íntegra",
+      "groups": [
+        "School and Work"
+      ]
+    },
+    {
+      "portuguese": "última",
+      "groups": [
+        "Time"
+      ]
+    },
+    {
+      "portuguese": "último",
+      "groups": [
+        "Time"
+      ]
+    }
+  ]
+}

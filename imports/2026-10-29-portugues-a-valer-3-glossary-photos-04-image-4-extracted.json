@@ -1,0 +1,771 @@
+{
+  "source": "Five user photographs of Português a Valer 3 glossary: nutrir–pensão, lidar–mérito, gasóleo–incêndio, estufados–fibra, distraído–enoturismo; printed page numbers not visible",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns. Other languages and internal lesson-page references are not transcribed.",
+    "Printed page numbers are outside the frame on all five photographs. Keep page=null and stable image identifiers; do not guess pagination.",
+    "Original expressions, article annotations, capitalization and English glosses are preserved in source rows. Individual vocabulary is lowercase and NFC normalized.",
+    "Split phrases, optional grammatical words in constructions and reflexive clitics into separately translated components. Retain lexical compounds mal-humorado and matéria-prima.",
+    "The source label gordura poliinsaturada is retained; the enriched adjective is normalized to standard poli-insaturada. Keep other inflected forms such as lugares, marcados, grelos, guisados, hortícolas, processados, enchidos and enlatados distinct.",
+    "Assistant Ukrainian translations, per-word CEFR estimates, topic assignments, English corrections and component meanings are not independently reviewed. B1 is user-supplied book metadata.",
+    "Use existing topical and grammatical groups; source book and images remain metadata. No database connection, duplicate/conflict check or import is performed.",
+    "Each photograph has a separate extracted JSON backup; original photographs and a combined extracted and enriched batch are retained."
+  ],
+  "page": null,
+  "page_identifier": "image-4",
+  "source_files": [
+    {
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "page_number_status": "not visible in photograph",
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/2f73f9f9-7527-47df-8590-f0d63da0530a/b5f89c95-b899-482f-8b8a-27f764033f80/1000058772.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-04-sources/4-1000058772.jpg",
+      "sha256": "0f9aa8036909863b1852f24a4e72f2785f2f5111e8a37978899d87fb432297f4"
+    }
+  ],
+  "counts": {
+    "source_rows": 39,
+    "unique_words": 42
+  },
+  "rows": [
+    {
+      "id": 121,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 1,
+      "portuguese_original": "(os) estufados",
+      "english_original": "braised dishes",
+      "normalized_words": [
+        "estufados"
+      ]
+    },
+    {
+      "id": 122,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 2,
+      "portuguese_original": "(a) etapa",
+      "english_original": "stage",
+      "normalized_words": [
+        "etapa"
+      ]
+    },
+    {
+      "id": 123,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 3,
+      "portuguese_original": "(a) evidência",
+      "english_original": "evidence",
+      "normalized_words": [
+        "evidência"
+      ]
+    },
+    {
+      "id": 124,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 4,
+      "portuguese_original": "evitar",
+      "english_original": "to avoid",
+      "normalized_words": [
+        "evitar"
+      ]
+    },
+    {
+      "id": 125,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 5,
+      "portuguese_original": "exaltar-se",
+      "english_original": "to get worked up",
+      "normalized_words": [
+        "exaltar",
+        "se"
+      ]
+    },
+    {
+      "id": 126,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 6,
+      "portuguese_original": "(a) exatidão",
+      "english_original": "precision",
+      "normalized_words": [
+        "exatidão"
+      ]
+    },
+    {
+      "id": 127,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 7,
+      "portuguese_original": "(o) excerto",
+      "english_original": "excerpt",
+      "normalized_words": [
+        "excerto"
+      ]
+    },
+    {
+      "id": 128,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 8,
+      "portuguese_original": "excessivo",
+      "english_original": "excessive",
+      "normalized_words": [
+        "excessivo"
+      ]
+    },
+    {
+      "id": 129,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 9,
+      "portuguese_original": "exceto",
+      "english_original": "except",
+      "normalized_words": [
+        "exceto"
+      ]
+    },
+    {
+      "id": 130,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 10,
+      "portuguese_original": "excluir",
+      "english_original": "to cut out",
+      "normalized_words": [
+        "excluir"
+      ]
+    },
+    {
+      "id": 131,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 11,
+      "portuguese_original": "(a) exclusão",
+      "english_original": "cutting out",
+      "normalized_words": [
+        "exclusão"
+      ]
+    },
+    {
+      "id": 132,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 12,
+      "portuguese_original": "exercer",
+      "english_original": "to practise",
+      "normalized_words": [
+        "exercer"
+      ]
+    },
+    {
+      "id": 133,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 13,
+      "portuguese_original": "(a) exigência",
+      "english_original": "demand",
+      "normalized_words": [
+        "exigência"
+      ]
+    },
+    {
+      "id": 134,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 14,
+      "portuguese_original": "(o) êxito",
+      "english_original": "success",
+      "normalized_words": [
+        "êxito"
+      ]
+    },
+    {
+      "id": 135,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 15,
+      "portuguese_original": "expandir",
+      "english_original": "to expand",
+      "normalized_words": [
+        "expandir"
+      ]
+    },
+    {
+      "id": 136,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 16,
+      "portuguese_original": "(a) expectativa",
+      "english_original": "expectation",
+      "normalized_words": [
+        "expectativa"
+      ]
+    },
+    {
+      "id": 137,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 17,
+      "portuguese_original": "experienciar",
+      "english_original": "to experience",
+      "normalized_words": [
+        "experienciar"
+      ]
+    },
+    {
+      "id": 138,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 18,
+      "portuguese_original": "explícito",
+      "english_original": "explicit",
+      "normalized_words": [
+        "explícito"
+      ]
+    },
+    {
+      "id": 139,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 19,
+      "portuguese_original": "expor",
+      "english_original": "to exhibit",
+      "normalized_words": [
+        "expor"
+      ]
+    },
+    {
+      "id": 140,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 20,
+      "portuguese_original": "(a) expressão idiomática",
+      "english_original": "idiomatic expression",
+      "normalized_words": [
+        "expressão",
+        "idiomática"
+      ]
+    },
+    {
+      "id": 141,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 21,
+      "portuguese_original": "exteriorizar",
+      "english_original": "to externalize",
+      "normalized_words": [
+        "exteriorizar"
+      ]
+    },
+    {
+      "id": 142,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 22,
+      "portuguese_original": "extrair",
+      "english_original": "to extract",
+      "normalized_words": [
+        "extrair"
+      ]
+    },
+    {
+      "id": 143,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 23,
+      "portuguese_original": "extremo",
+      "english_original": "extreme",
+      "normalized_words": [
+        "extremo"
+      ]
+    },
+    {
+      "id": 144,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 24,
+      "portuguese_original": "(a) fada",
+      "english_original": "fairy",
+      "normalized_words": [
+        "fada"
+      ]
+    },
+    {
+      "id": 145,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 25,
+      "portuguese_original": "(a) fadiga",
+      "english_original": "tiredness",
+      "normalized_words": [
+        "fadiga"
+      ]
+    },
+    {
+      "id": 146,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 26,
+      "portuguese_original": "falador",
+      "english_original": "talkative",
+      "normalized_words": [
+        "falador"
+      ]
+    },
+    {
+      "id": 147,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 27,
+      "portuguese_original": "(a) falta",
+      "english_original": "absence",
+      "normalized_words": [
+        "falta"
+      ]
+    },
+    {
+      "id": 148,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 28,
+      "portuguese_original": "faltar",
+      "english_original": "to miss",
+      "normalized_words": [
+        "faltar"
+      ]
+    },
+    {
+      "id": 149,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 29,
+      "portuguese_original": "(o) fascínio",
+      "english_original": "interest (for)",
+      "normalized_words": [
+        "fascínio"
+      ],
+      "enrichment_note": "Printed interest (for) is contextual; use a noun gloss for standalone practice."
+    },
+    {
+      "id": 150,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 30,
+      "portuguese_original": "fatal",
+      "english_original": "deadly",
+      "normalized_words": [
+        "fatal"
+      ]
+    },
+    {
+      "id": 151,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 31,
+      "portuguese_original": "(a) fatura",
+      "english_original": "invoice",
+      "normalized_words": [
+        "fatura"
+      ]
+    },
+    {
+      "id": 152,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 32,
+      "portuguese_original": "(a) fazenda",
+      "english_original": "farm",
+      "normalized_words": [
+        "fazenda"
+      ]
+    },
+    {
+      "id": 153,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 33,
+      "portuguese_original": "fazer a conta",
+      "english_original": "to do the calculations",
+      "normalized_words": [
+        "fazer",
+        "a",
+        "conta"
+      ]
+    },
+    {
+      "id": 154,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 34,
+      "portuguese_original": "fazer falta",
+      "english_original": "to miss",
+      "normalized_words": [
+        "fazer",
+        "falta"
+      ],
+      "enrichment_note": "The expression is perspectivally different from to miss; preserve original gloss as context. Components translated independently."
+    },
+    {
+      "id": 155,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 35,
+      "portuguese_original": "(o) ferimento",
+      "english_original": "injury",
+      "normalized_words": [
+        "ferimento"
+      ]
+    },
+    {
+      "id": 156,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 36,
+      "portuguese_original": "(a) ferramenta",
+      "english_original": "tool",
+      "normalized_words": [
+        "ferramenta"
+      ]
+    },
+    {
+      "id": 157,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 37,
+      "portuguese_original": "fértil",
+      "english_original": "fertile",
+      "normalized_words": [
+        "fértil"
+      ]
+    },
+    {
+      "id": 158,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 38,
+      "portuguese_original": "(o) festival",
+      "english_original": "festival",
+      "normalized_words": [
+        "festival"
+      ]
+    },
+    {
+      "id": 159,
+      "image": 4,
+      "page": null,
+      "page_identifier": "image-4",
+      "row_on_page": 39,
+      "portuguese_original": "(a) fibra",
+      "english_original": "fibre",
+      "normalized_words": [
+        "fibra"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "a",
+      "source_row_ids": [
+        31,
+        153,
+        188
+      ]
+    },
+    {
+      "portuguese": "estufados",
+      "source_row_ids": [
+        121
+      ]
+    },
+    {
+      "portuguese": "etapa",
+      "source_row_ids": [
+        122
+      ]
+    },
+    {
+      "portuguese": "evidência",
+      "source_row_ids": [
+        123
+      ]
+    },
+    {
+      "portuguese": "evitar",
+      "source_row_ids": [
+        124
+      ]
+    },
+    {
+      "portuguese": "exaltar",
+      "source_row_ids": [
+        125
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        125,
+        196
+      ]
+    },
+    {
+      "portuguese": "exatidão",
+      "source_row_ids": [
+        126
+      ]
+    },
+    {
+      "portuguese": "excerto",
+      "source_row_ids": [
+        127
+      ]
+    },
+    {
+      "portuguese": "excessivo",
+      "source_row_ids": [
+        128
+      ]
+    },
+    {
+      "portuguese": "exceto",
+      "source_row_ids": [
+        129
+      ]
+    },
+    {
+      "portuguese": "excluir",
+      "source_row_ids": [
+        130
+      ]
+    },
+    {
+      "portuguese": "exclusão",
+      "source_row_ids": [
+        131
+      ]
+    },
+    {
+      "portuguese": "exercer",
+      "source_row_ids": [
+        132
+      ]
+    },
+    {
+      "portuguese": "exigência",
+      "source_row_ids": [
+        133
+      ]
+    },
+    {
+      "portuguese": "êxito",
+      "source_row_ids": [
+        134
+      ]
+    },
+    {
+      "portuguese": "expandir",
+      "source_row_ids": [
+        135
+      ]
+    },
+    {
+      "portuguese": "expectativa",
+      "source_row_ids": [
+        136
+      ]
+    },
+    {
+      "portuguese": "experienciar",
+      "source_row_ids": [
+        137
+      ]
+    },
+    {
+      "portuguese": "explícito",
+      "source_row_ids": [
+        138
+      ]
+    },
+    {
+      "portuguese": "expor",
+      "source_row_ids": [
+        139
+      ]
+    },
+    {
+      "portuguese": "expressão",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "idiomática",
+      "source_row_ids": [
+        140
+      ]
+    },
+    {
+      "portuguese": "exteriorizar",
+      "source_row_ids": [
+        141
+      ]
+    },
+    {
+      "portuguese": "extrair",
+      "source_row_ids": [
+        142
+      ]
+    },
+    {
+      "portuguese": "extremo",
+      "source_row_ids": [
+        143
+      ]
+    },
+    {
+      "portuguese": "fada",
+      "source_row_ids": [
+        144
+      ]
+    },
+    {
+      "portuguese": "fadiga",
+      "source_row_ids": [
+        145
+      ]
+    },
+    {
+      "portuguese": "falador",
+      "source_row_ids": [
+        146
+      ]
+    },
+    {
+      "portuguese": "falta",
+      "source_row_ids": [
+        147,
+        154
+      ]
+    },
+    {
+      "portuguese": "faltar",
+      "source_row_ids": [
+        148
+      ]
+    },
+    {
+      "portuguese": "fascínio",
+      "source_row_ids": [
+        149
+      ]
+    },
+    {
+      "portuguese": "fatal",
+      "source_row_ids": [
+        150
+      ]
+    },
+    {
+      "portuguese": "fatura",
+      "source_row_ids": [
+        151
+      ]
+    },
+    {
+      "portuguese": "fazenda",
+      "source_row_ids": [
+        152
+      ]
+    },
+    {
+      "portuguese": "fazer",
+      "source_row_ids": [
+        153,
+        154
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "source_row_ids": [
+        153
+      ]
+    },
+    {
+      "portuguese": "ferimento",
+      "source_row_ids": [
+        155
+      ]
+    },
+    {
+      "portuguese": "ferramenta",
+      "source_row_ids": [
+        156
+      ]
+    },
+    {
+      "portuguese": "fértil",
+      "source_row_ids": [
+        157
+      ]
+    },
+    {
+      "portuguese": "festival",
+      "source_row_ids": [
+        158
+      ]
+    },
+    {
+      "portuguese": "fibra",
+      "source_row_ids": [
+        159
+      ]
+    }
+  ]
+}

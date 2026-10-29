@@ -1,0 +1,1089 @@
+{
+  "file": "imports/2026-10-29-portugues-a-valer-3-topic-review-enriched.json",
+  "source": "The five locally backed-up Português a Valer 3 photo batches; thematic category review requested by the user",
+  "dry_run": true,
+  "words": 1004,
+  "added": 824,
+  "existing": 180,
+  "enriched": 0,
+  "groups_added": 11,
+  "memberships_added": 990,
+  "conflicts": [
+    {
+      "portuguese": "alterar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "altura",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "amizade",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "animado",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "apaixonar",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "se",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "de",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "aplicação",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "apoio",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "para",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "bigode",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "bilheteira",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "bolacha",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "burro",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "caminho",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "capital",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "carta",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "condução",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "correr",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "cozer",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "crescer",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "os",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "custo",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "em",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "conta",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "por",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "a",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "desligar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "despedir",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "que",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "dever",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "dieta",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "escala",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "estar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "volta",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "ficar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "à",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "pé",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "atrás",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "do",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "funcionário",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "galão",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "gás",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "na",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "mesmo",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "metro",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "quadrado",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "mina",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "mudar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "multa",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "municipal",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "sua",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "não",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "natas",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "nem",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "no",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "nublado",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "perder",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "pilha",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "planta",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "plataforma",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "poluição",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "último",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "poupar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "prédio",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "quem",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "me",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "quer",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "raio",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "sol",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "refrigerante",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "são",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "calhar",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "segundo",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "segurança",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "seguro",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "saúde",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "selo",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "ser",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "obrigado",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "sobretudo",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "solicitar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "zona",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "tempo",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "as",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "terra",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "tocar",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "hora",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "serviço",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "previsão",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "professor",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "onde",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "o",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "papel",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "passar",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "ação",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "ligação",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "limpo",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "madrugada",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "mal",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "manutenção",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "marcar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "massa",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "matéria",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "média",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "medicina",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "menor",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "trabalho",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "mergulhar",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "gasolina",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "glúten",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "gosto",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "guloso",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "há",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "horário",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "idoso",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "evitar",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "êxito",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "falta",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "faltar",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "fatura",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "fazer",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "grande",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "embalagem",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "embora",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "barriga",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "encerrar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "encomenda",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "imediato",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "longa",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "longo",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "curso",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "deixar",
+      "fields": [
+        "english",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "plano",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "desarrumado",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "descalçar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "desde",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "ciclovia",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "comando",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "como",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "computador",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "constipado",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "consulta",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "aquecimento",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "armário",
+      "fields": [
+        "english"
+      ]
+    },
+    {
+      "portuguese": "arranjar",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "assento",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "atum",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "banda",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "partir",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "vista",
+      "fields": [
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "acabar",
+      "fields": [
+        "ukrainian"
+      ]
+    },
+    {
+      "portuguese": "acender",
+      "fields": [
+        "english",
+        "ukrainian",
+        "level"
+      ]
+    },
+    {
+      "portuguese": "agente",
+      "fields": [
+        "level"
+      ]
+    },
+    {
+      "portuguese": "ainda",
+      "fields": [
+        "english",
+        "ukrainian"
+      ]
+    }
+  ]
+}

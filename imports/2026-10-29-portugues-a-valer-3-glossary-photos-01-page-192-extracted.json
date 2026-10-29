@@ -1,0 +1,757 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 192, 194, 196, 198 and 200",
+  "prepared_at": "2026-10-29",
+  "book_title": "Português a Valer 3",
+  "book_level": "B1",
+  "book_level_provenance": "user supplied",
+  "extraction_method": "Assistant visual transcription of supplied photographs",
+  "normalization_notes": [
+    "Assistant visual transcription of the Portuguese and English glossary columns only. German, Spanish, French, Chinese and internal lesson-page reference columns were not transcribed.",
+    "Keep printed articles, expressions and source English in rows. Remove article annotations from vocabulary entries; split expressions and pronominal clitics into individual words, keeping independent component translations.",
+    "Keep bem-sucedido as a lexical hyphenated compound. Lowercase and NFC-normalize words. Do not reduce other inflected forms to lemmas.",
+    "Book level B1 is user-supplied metadata; individual CEFR levels are assistant estimates, and may differ from B1.",
+    "Topic and grammatical groups only; book title and page numbers remain metadata. No database writes performed.",
+    "Two printed destaque rows are preserved and merged into one vocabulary entry with both senses.",
+    "Unclear internal reference digits were intentionally not guessed. Source photos are backed up for later inspection.",
+    "Estória is retained as the printed literary spelling; it is not silently changed to história. Cacimbo and bué are retained with regional/colloquial context in notes."
+  ],
+  "page": 192,
+  "source_files": [
+    {
+      "image": 1,
+      "page": 192,
+      "original_path": "/Users/borys.pratsiuk/proj/repetiwords/.codex-attachments/fbc47b29-c33a-49dc-a442-767c6d002627/3008580a-70bb-4e48-89ff-37a201949082/1000058790.jpg",
+      "backup_path": "imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-sources/1-1000058790.jpg",
+      "sha256": "c0199e67dab26fd2a0f0c7647263da28b293d1732addd6ee569af0aaffa75745"
+    }
+  ],
+  "counts": {
+    "source_rows": 40,
+    "unique_words": 43
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 1,
+      "portuguese_original": "alargar",
+      "english_original": "to widen",
+      "normalized_words": [
+        "alargar"
+      ]
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 2,
+      "portuguese_original": "(o) alcance",
+      "english_original": "reach",
+      "normalized_words": [
+        "alcance"
+      ]
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 3,
+      "portuguese_original": "(o) alerta",
+      "english_original": "alertness",
+      "normalized_words": [
+        "alerta"
+      ]
+    },
+    {
+      "id": 4,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 4,
+      "portuguese_original": "(o) algoritmo",
+      "english_original": "algorithm",
+      "normalized_words": [
+        "algoritmo"
+      ]
+    },
+    {
+      "id": 5,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 5,
+      "portuguese_original": "aliás",
+      "english_original": "in fact",
+      "normalized_words": [
+        "aliás"
+      ]
+    },
+    {
+      "id": 6,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 6,
+      "portuguese_original": "aliviar",
+      "english_original": "to alleviate",
+      "normalized_words": [
+        "aliviar"
+      ]
+    },
+    {
+      "id": 7,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 7,
+      "portuguese_original": "(o) alongamento",
+      "english_original": "stretching",
+      "normalized_words": [
+        "alongamento"
+      ]
+    },
+    {
+      "id": 8,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 8,
+      "portuguese_original": "altamente",
+      "english_original": "highly",
+      "normalized_words": [
+        "altamente"
+      ]
+    },
+    {
+      "id": 9,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 9,
+      "portuguese_original": "alterar",
+      "english_original": "to change",
+      "normalized_words": [
+        "alterar"
+      ]
+    },
+    {
+      "id": 10,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 10,
+      "portuguese_original": "(o) altifalante",
+      "english_original": "loudspeaker",
+      "normalized_words": [
+        "altifalante"
+      ]
+    },
+    {
+      "id": 11,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 11,
+      "portuguese_original": "(a) altura",
+      "english_original": "time",
+      "normalized_words": [
+        "altura"
+      ]
+    },
+    {
+      "id": 12,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 12,
+      "portuguese_original": "(a) ambição",
+      "english_original": "ambition",
+      "normalized_words": [
+        "ambição"
+      ]
+    },
+    {
+      "id": 13,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 13,
+      "portuguese_original": "ambicionar",
+      "english_original": "to aspire",
+      "normalized_words": [
+        "ambicionar"
+      ]
+    },
+    {
+      "id": 14,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 14,
+      "portuguese_original": "(a) ameaça",
+      "english_original": "threat",
+      "normalized_words": [
+        "ameaça"
+      ]
+    },
+    {
+      "id": 15,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 15,
+      "portuguese_original": "ameno",
+      "english_original": "mild",
+      "normalized_words": [
+        "ameno"
+      ]
+    },
+    {
+      "id": 16,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 16,
+      "portuguese_original": "(a) amizade",
+      "english_original": "friendship",
+      "normalized_words": [
+        "amizade"
+      ]
+    },
+    {
+      "id": 17,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 17,
+      "portuguese_original": "(a) amostra",
+      "english_original": "sample",
+      "normalized_words": [
+        "amostra"
+      ]
+    },
+    {
+      "id": 18,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 18,
+      "portuguese_original": "ampliar",
+      "english_original": "to extend",
+      "normalized_words": [
+        "ampliar"
+      ]
+    },
+    {
+      "id": 19,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 19,
+      "portuguese_original": "analfabeto",
+      "english_original": "illiterate",
+      "normalized_words": [
+        "analfabeto"
+      ]
+    },
+    {
+      "id": 20,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 20,
+      "portuguese_original": "(a) análise",
+      "english_original": "analysis",
+      "normalized_words": [
+        "análise"
+      ]
+    },
+    {
+      "id": 21,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 21,
+      "portuguese_original": "analítico",
+      "english_original": "analytical",
+      "normalized_words": [
+        "analítico"
+      ]
+    },
+    {
+      "id": 22,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 22,
+      "portuguese_original": "ancorar",
+      "english_original": "to anchor",
+      "normalized_words": [
+        "ancorar"
+      ]
+    },
+    {
+      "id": 23,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 23,
+      "portuguese_original": "animado",
+      "english_original": "cheerful",
+      "normalized_words": [
+        "animado"
+      ]
+    },
+    {
+      "id": 24,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 24,
+      "portuguese_original": "ansiar",
+      "english_original": "to long for",
+      "normalized_words": [
+        "ansiar"
+      ]
+    },
+    {
+      "id": 25,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 25,
+      "portuguese_original": "(o) antebraço",
+      "english_original": "forearm",
+      "normalized_words": [
+        "antebraço"
+      ]
+    },
+    {
+      "id": 26,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 26,
+      "portuguese_original": "anteceder",
+      "english_original": "to precede",
+      "normalized_words": [
+        "anteceder"
+      ]
+    },
+    {
+      "id": 27,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 27,
+      "portuguese_original": "(o) antepassado",
+      "english_original": "ancestor",
+      "normalized_words": [
+        "antepassado"
+      ]
+    },
+    {
+      "id": 28,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 28,
+      "portuguese_original": "antioxidante",
+      "english_original": "antioxidant",
+      "normalized_words": [
+        "antioxidante"
+      ]
+    },
+    {
+      "id": 29,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 29,
+      "portuguese_original": "apaixonar-se",
+      "english_original": "to fall in love",
+      "normalized_words": [
+        "apaixonar",
+        "se"
+      ]
+    },
+    {
+      "id": 30,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 30,
+      "portuguese_original": "apelidar (de)",
+      "english_original": "to be known as",
+      "normalized_words": [
+        "apelidar",
+        "de"
+      ],
+      "enrichment_note": "The active verb is to call/name; the printed passive gloss belongs to ser apelidado."
+    },
+    {
+      "id": 31,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 31,
+      "portuguese_original": "(o) apelo",
+      "english_original": "call",
+      "normalized_words": [
+        "apelo"
+      ]
+    },
+    {
+      "id": 32,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 32,
+      "portuguese_original": "apertar",
+      "english_original": "to clutch",
+      "normalized_words": [
+        "apertar"
+      ]
+    },
+    {
+      "id": 33,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 33,
+      "portuguese_original": "(a) aplicação",
+      "english_original": "introduction",
+      "normalized_words": [
+        "aplicação"
+      ],
+      "enrichment_note": "Printed introduction is not the usual meaning of aplicação."
+    },
+    {
+      "id": 34,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 34,
+      "portuguese_original": "(o) apoio",
+      "english_original": "support",
+      "normalized_words": [
+        "apoio"
+      ]
+    },
+    {
+      "id": 35,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 35,
+      "portuguese_original": "apontar (para)",
+      "english_original": "to mention",
+      "normalized_words": [
+        "apontar",
+        "para"
+      ]
+    },
+    {
+      "id": 36,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 36,
+      "portuguese_original": "aposentado",
+      "english_original": "retired",
+      "normalized_words": [
+        "aposentado"
+      ]
+    },
+    {
+      "id": 37,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 37,
+      "portuguese_original": "apreciador",
+      "english_original": "aficionado",
+      "normalized_words": [
+        "apreciador"
+      ]
+    },
+    {
+      "id": 38,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 38,
+      "portuguese_original": "(a) aprendizagem",
+      "english_original": "learning",
+      "normalized_words": [
+        "aprendizagem"
+      ]
+    },
+    {
+      "id": 39,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 39,
+      "portuguese_original": "aprovar",
+      "english_original": "to approve",
+      "normalized_words": [
+        "aprovar"
+      ]
+    },
+    {
+      "id": 40,
+      "image": 1,
+      "page": 192,
+      "row_on_page": 40,
+      "portuguese_original": "(o) aproveitamento",
+      "english_original": "achievement/return",
+      "normalized_words": [
+        "aproveitamento"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "portuguese": "alargar",
+      "source_row_ids": [
+        1
+      ]
+    },
+    {
+      "portuguese": "alcance",
+      "source_row_ids": [
+        2
+      ]
+    },
+    {
+      "portuguese": "alerta",
+      "source_row_ids": [
+        3
+      ]
+    },
+    {
+      "portuguese": "algoritmo",
+      "source_row_ids": [
+        4
+      ]
+    },
+    {
+      "portuguese": "aliás",
+      "source_row_ids": [
+        5
+      ]
+    },
+    {
+      "portuguese": "aliviar",
+      "source_row_ids": [
+        6
+      ]
+    },
+    {
+      "portuguese": "alongamento",
+      "source_row_ids": [
+        7
+      ]
+    },
+    {
+      "portuguese": "altamente",
+      "source_row_ids": [
+        8
+      ]
+    },
+    {
+      "portuguese": "alterar",
+      "source_row_ids": [
+        9
+      ]
+    },
+    {
+      "portuguese": "altifalante",
+      "source_row_ids": [
+        10
+      ]
+    },
+    {
+      "portuguese": "altura",
+      "source_row_ids": [
+        11
+      ]
+    },
+    {
+      "portuguese": "ambição",
+      "source_row_ids": [
+        12
+      ]
+    },
+    {
+      "portuguese": "ambicionar",
+      "source_row_ids": [
+        13
+      ]
+    },
+    {
+      "portuguese": "ameaça",
+      "source_row_ids": [
+        14
+      ]
+    },
+    {
+      "portuguese": "ameno",
+      "source_row_ids": [
+        15
+      ]
+    },
+    {
+      "portuguese": "amizade",
+      "source_row_ids": [
+        16
+      ]
+    },
+    {
+      "portuguese": "amostra",
+      "source_row_ids": [
+        17
+      ]
+    },
+    {
+      "portuguese": "ampliar",
+      "source_row_ids": [
+        18
+      ]
+    },
+    {
+      "portuguese": "analfabeto",
+      "source_row_ids": [
+        19
+      ]
+    },
+    {
+      "portuguese": "análise",
+      "source_row_ids": [
+        20
+      ]
+    },
+    {
+      "portuguese": "analítico",
+      "source_row_ids": [
+        21
+      ]
+    },
+    {
+      "portuguese": "ancorar",
+      "source_row_ids": [
+        22
+      ]
+    },
+    {
+      "portuguese": "animado",
+      "source_row_ids": [
+        23
+      ]
+    },
+    {
+      "portuguese": "ansiar",
+      "source_row_ids": [
+        24
+      ]
+    },
+    {
+      "portuguese": "antebraço",
+      "source_row_ids": [
+        25
+      ]
+    },
+    {
+      "portuguese": "anteceder",
+      "source_row_ids": [
+        26
+      ]
+    },
+    {
+      "portuguese": "antepassado",
+      "source_row_ids": [
+        27
+      ]
+    },
+    {
+      "portuguese": "antioxidante",
+      "source_row_ids": [
+        28
+      ]
+    },
+    {
+      "portuguese": "apaixonar",
+      "source_row_ids": [
+        29
+      ]
+    },
+    {
+      "portuguese": "se",
+      "source_row_ids": [
+        29,
+        118,
+        121,
+        131,
+        134,
+        158,
+        184
+      ]
+    },
+    {
+      "portuguese": "apelidar",
+      "source_row_ids": [
+        30
+      ]
+    },
+    {
+      "portuguese": "de",
+      "source_row_ids": [
+        30,
+        65,
+        68,
+        73,
+        109,
+        113,
+        121,
+        143,
+        181,
+        188,
+        189
+      ]
+    },
+    {
+      "portuguese": "apelo",
+      "source_row_ids": [
+        31
+      ]
+    },
+    {
+      "portuguese": "apertar",
+      "source_row_ids": [
+        32
+      ]
+    },
+    {
+      "portuguese": "aplicação",
+      "source_row_ids": [
+        33
+      ]
+    },
+    {
+      "portuguese": "apoio",
+      "source_row_ids": [
+        34
+      ]
+    },
+    {
+      "portuguese": "apontar",
+      "source_row_ids": [
+        35
+      ]
+    },
+    {
+      "portuguese": "para",
+      "source_row_ids": [
+        35,
+        114,
+        147
+      ]
+    },
+    {
+      "portuguese": "aposentado",
+      "source_row_ids": [
+        36
+      ]
+    },
+    {
+      "portuguese": "apreciador",
+      "source_row_ids": [
+        37
+      ]
+    },
+    {
+      "portuguese": "aprendizagem",
+      "source_row_ids": [
+        38
+      ]
+    },
+    {
+      "portuguese": "aprovar",
+      "source_row_ids": [
+        39
+      ]
+    },
+    {
+      "portuguese": "aproveitamento",
+      "source_row_ids": [
+        40
+      ]
+    }
+  ]
+}

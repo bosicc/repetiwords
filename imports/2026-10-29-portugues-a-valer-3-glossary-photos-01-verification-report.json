@@ -1,0 +1,41 @@
+{
+  "source": "User photographs of Português a Valer 3 glossary, pages 192, 194, 196, 198 and 200",
+  "prepared_at": "2026-10-29",
+  "status": "prepared_only_not_imported",
+  "checks": {
+    "batch_contract": "passed lib/word-import.js validateBatch without database initialization",
+    "source_photo_hashes": "passed",
+    "source_row_coverage": "196/196",
+    "normalized_unique_words": 215,
+    "per_page_json_backups": 5,
+    "groups": "existing category names only",
+    "database_connections": 0,
+    "database_writes": false
+  },
+  "counts": {
+    "source_rows": 196,
+    "distinct_source_labels": 195,
+    "unique_words": 215,
+    "rows_by_page": {
+      "192": 40,
+      "194": 39,
+      "196": 39,
+      "198": 38,
+      "200": 40
+    },
+    "rows_by_image": {
+      "1": 40,
+      "2": 39,
+      "3": 39,
+      "4": 38,
+      "5": 40
+    }
+  },
+  "limitations": [
+    "Visual transcription of Portuguese and English columns; other languages and internal reference-page numbers not transcribed.",
+    "English corrections, Ukrainian translations, individual-word CEFR estimates and topic assignments are assistant prepared and not independently reviewed.",
+    "Context-dependent estar de volta de is documented in enrichment metadata; only independent components are prepared.",
+    "No live database duplicate/conflict comparison or import has run."
+  ],
+  "import_command": "rtk npm run words:import -- imports/2026-10-29-portugues-a-valer-3-glossary-photos-01-enriched.json --dry-run"
+}
