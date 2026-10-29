@@ -3,6 +3,23 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'Share list by link': 'Поділитися списком',
+  'Anyone with this link can view and practise this list.': 'Усі, хто має посилання, можуть переглядати цей список і практикувати слова.',
+  'Open public list': 'Відкрити публічний список', 'Public link': 'Публічне посилання',
+  'Copy link': 'Копіювати посилання', 'Link copied!': 'Посилання скопійовано!', 'Stop sharing': 'Закрити публічний доступ',
+  'Could not share or copy the link. Please try again.': 'Не вдалося поділитися списком або скопіювати посилання. Спробуйте ще раз.',
+  'Shared word list': 'Спільний список слів', 'Save to My Lists': 'Зберегти до моїх списків',
+  'This shared list or practice is unavailable.': 'Цей спільний список або практика недоступні.',
+  'The link may have been disabled, or this practice has expired or belongs to another browser or account.': 'Можливо, посилання вимкнено, термін практики минув або вона належить іншому браузеру чи акаунту.',
+  'Edit my list': 'Редагувати мій список', 'Back to shared list': 'До спільного списку',
+  'Create an account or log in to save your own copy.': 'Створіть акаунт або увійдіть, щоб зберегти власну копію.',
+  'Could not save the list. Please try again.': 'Не вдалося зберегти список. Спробуйте ще раз.',
+  'This list is empty. Come back when its author adds words.': 'Цей список порожній. Поверніться, коли автор додасть слова.',
+  'Your progress is saved to your account.': 'Ваш прогрес збережено у вашому акаунті.',
+  'Save this practice to your account.': 'Збережіть результат цієї практики у своєму акаунті.',
+  'Save my progress': 'Зберегти мій прогрес', 'Keep your progress': 'Збережіть свій прогрес',
+  'Create an account or log in to save this practice. Your results are available in this browser for 24 hours.': 'Створіть акаунт або увійдіть, щоб зберегти цю практику. Результати доступні в цьому браузері протягом 24 годин.',
+  'Sign up to save progress': 'Зареєструватися й зберегти прогрес',
   'My words list': 'Мій список слів',
   'Practice my list': 'Практикувати мій список',
   'Untitled list': 'Новий список', 'Give your list a name': 'Введіть назву списку',

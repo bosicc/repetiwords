@@ -2,12 +2,13 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { submitChoiceAnswer, submitPracticeSkip } from '../actions';
+import { submitSharedChoice, submitSharedSkip } from '../shared/actions';
 import { getTranslation, getTranslationLanguage } from '../../lib/practice-exercises';
 import { useLanguage } from './language';
 import SessionSummary from './session-summary';
 import ExerciseIcon from './exercise-icon';
 
-export default function ChoicePractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0, questions }) {
+export default function ChoicePractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0, questions, shared }) {
   const { language, t } = useLanguage();
   const [answers, setAnswers] = useState(initialAnswers);
   const [index, setIndex] = useState(initialIndex);
@@ -51,7 +52,7 @@ export default function ChoicePractice({ sessionId, listId, words, initialAnswer
     setSelectedId(optionId);
     setQuestionLanguage(submittedLanguage);
     try {
-      const result = await submitChoiceAnswer(sessionId, word.id, optionId, submittedLanguage);
+      const result = await (shared ? submitSharedChoice : submitChoiceAnswer)(sessionId, word.id, optionId, submittedLanguage);
       setAnswers((previous) => [...previous, { wordId: word.id, known: result.known, revealed: false }]);
       setFeedback({ known: result.known });
     } catch {
@@ -79,7 +80,7 @@ export default function ChoicePractice({ sessionId, listId, words, initialAnswer
     setError(false);
     setQuestionLanguage(activeLanguage);
     try {
-      await submitPracticeSkip(sessionId, word.id);
+      await (shared ? submitSharedSkip : submitPracticeSkip)(sessionId, word.id);
       movedForward.current = true;
       setIndex((previous) => previous + 1);
       setSelectedId(null);
@@ -121,6 +122,6 @@ export default function ChoicePractice({ sessionId, listId, words, initialAnswer
         <button type="button" className="exercise-skip" disabled={saving || error} onClick={() => skip()}>{t(saving ? 'Saving…' : 'Skip')}</button>}
       {error && <><p role="alert">{t('Could not save your session. Please try again.')}</p>
         <button ref={retryButton} type="button" className="primary exercise-next" disabled={saving} onClick={() => selectedId === null ? skip(true) : choose(selectedId, true)}>{t('Retry save')}</button></>}
-    </> : <div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div>}
+    </> : <div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary shared={shared} listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div>}
   </section>;
 }

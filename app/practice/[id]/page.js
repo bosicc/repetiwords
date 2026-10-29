@@ -1,4 +1,6 @@
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
+import { requireUser } from '../../../lib/auth';
+import { sharedLists } from '../../../lib/shared-practice-context';
 import { getPractice, getVocabulary } from '../../../lib/app-database';
 import Practice from '../../practice';
 import ChoicePractice from '../../components/choice-practice';
@@ -10,6 +12,10 @@ export const runtime = 'nodejs';
 export default async function PracticePage({ params }) {
   const { id } = await params;
   const sessionId = Number(id);
+  if (!Number.isSafeInteger(sessionId) || sessionId < 1) notFound();
+  const user = await requireUser();
+  const sharedId = await sharedLists().findAccountPractice(sessionId, user.id);
+  if (sharedId) redirect(`/shared/practice/${sharedId}`);
   const session = await getPractice(sessionId);
   if (!session) notFound();
   const props = { sessionId, listId: session.listId, words: session.words, initialAnswers: session.answers, initialIndex: session.index };

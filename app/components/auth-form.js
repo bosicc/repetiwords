@@ -5,7 +5,7 @@ import { useActionState, useState } from 'react';
 import { login, register } from '../auth/actions';
 import { useLanguage } from './language';
 
-export default function AuthForm({ mode, confirmationError = false }) {
+export default function AuthForm({ mode, confirmationError = false, next = '/' }) {
   const signingUp = mode === 'register';
   const [state, action, pending] = useActionState(signingUp ? register : login, {});
   const [showPassword, setShowPassword] = useState(false);
@@ -15,6 +15,7 @@ export default function AuthForm({ mode, confirmationError = false }) {
     <h1 id="auth-heading">{t(signingUp ? 'Create your account' : 'Welcome back')}</h1>
     <p className="auth-intro">{t(signingUp ? 'Start learning European Portuguese.' : 'Log in to continue your Portuguese practice.')}</p>
     <form action={action} className="auth-form">
+      <input type="hidden" name="next" value={next} />
       <div className="auth-field">
         <label htmlFor="email">{t('Email')}</label>
         <input id="email" name="email" type="email" autoComplete="email" autoCapitalize="none" spellCheck={false} required maxLength={254} defaultValue={state.email || ''} aria-invalid={Boolean(state.errors?.email)} aria-describedby={state.errors?.email ? 'email-error' : undefined} placeholder="you@example.com" />
@@ -35,6 +36,6 @@ export default function AuthForm({ mode, confirmationError = false }) {
       </div>
       <button className="primary auth-submit" disabled={pending}>{t(pending ? signingUp ? 'Creating account…' : 'Logging in…' : signingUp ? 'Register' : 'Log in')} <span aria-hidden="true">→</span></button>
     </form>
-    <p className="auth-switch">{t(signingUp ? 'Already have an account?' : 'New to Repeti?')} <Link href={signingUp ? '/login' : '/register'}>{t(signingUp ? 'Log in' : 'Create an account')}</Link></p>
+    <p className="auth-switch">{t(signingUp ? 'Already have an account?' : 'New to Repeti?')} <Link href={`${signingUp ? '/login' : '/register'}?next=${encodeURIComponent(next)}`}>{t(signingUp ? 'Log in' : 'Create an account')}</Link></p>
   </section>;
 }

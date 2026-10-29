@@ -1,8 +1,9 @@
 'use client';
 import Link from 'next/link';
+import ProgressCta from '../shared/progress-cta';
 import { useLanguage } from './language';
 
-export default function SessionSummary({ answers, words, skipped, listId }) {
+export default function SessionSummary({ answers, words, skipped, listId, shared }) {
   const { t, language } = useLanguage();
   const answersByWord = new Map(answers.map((answer) => [answer.wordId, answer]));
   const independent = answers.filter((answer) => answer.known && !answer.revealed).length;
@@ -44,6 +45,7 @@ export default function SessionSummary({ answers, words, skipped, listId }) {
         })}</tbody>
       </table></div>
     </section>
-    <Link href={listId ? '/word-lists' : '/'} className="summary-home">{t(listId ? 'My words list' : 'Home')} <span aria-hidden="true">→</span></Link>
+    {shared && <ProgressCta shared={shared} />}
+    {shared ? <Link href={`/shared/${shared.token}`} className="summary-home">{t('Back to shared list')} →</Link> : <Link href={listId ? '/word-lists' : '/'} className="summary-home">{t(listId ? 'My words list' : 'Home')} <span aria-hidden="true">→</span></Link>}
   </div>;
 }

@@ -8,6 +8,7 @@ try {
   await client.query('BEGIN');
   await client.query(readFileSync(new URL('../supabase/migrations/202610130001_word_lists.sql', import.meta.url), 'utf8'));
   await client.query(readFileSync(new URL('../supabase/migrations/202610140001_list_practice_source.sql', import.meta.url), 'utf8'));
+  await client.query(readFileSync(new URL('../supabase/migrations/202610290001_shared_lists.sql', import.meta.url), 'utf8'));
   await client.query('COMMIT');
   console.log('Personal word lists schema applied.');
 } catch (error) {

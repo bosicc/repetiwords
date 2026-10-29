@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { submitMatchingRound } from '../actions';
+import { submitSharedRound } from '../shared/actions';
 import { getTranslation, getTranslationLanguage, translationsEquivalent } from '../../lib/practice-exercises';
 import { useLanguage } from './language';
 import SessionSummary from './session-summary';
@@ -26,7 +27,7 @@ function initialBoard() {
   return { selectedWordId: null, selectedTranslationId: null, pairs: [], attempts: [], mistakes: [], errorWordId: null, errorTranslationId: null, feedback: '' };
 }
 
-function MatchingRound({ sessionId, words, index, capacity, language, focusOnMount, onLock, onContinue }) {
+function MatchingRound({ sessionId, words, index, capacity, language, focusOnMount, onLock, onContinue, shared }) {
   const { t } = useLanguage();
   const [roundWords] = useState(() => words.slice(index, index + capacity));
   const [translations] = useState(() => shuffledTranslations(roundWords, sessionId, index, language));
@@ -61,7 +62,7 @@ function MatchingRound({ sessionId, words, index, capacity, language, focusOnMou
     onLock(true);
     setSaveState('saving');
     try {
-      const result = await submitMatchingRound(sessionId, attempts, language, roundWords.length);
+      const result = await (shared ? submitSharedRound : submitMatchingRound)(sessionId, attempts, language, roundWords.length);
       setSavedAnswers(Array.isArray(result) ? result : result.answers);
       setSaveState('saved');
     } catch {
@@ -155,7 +156,7 @@ function MatchingRound({ sessionId, words, index, capacity, language, focusOnMou
   </>;
 }
 
-export default function MatchingPractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0 }) {
+export default function MatchingPractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0, shared }) {
   const { language, t } = useLanguage();
   const [answers, setAnswers] = useState(initialAnswers);
   const [index, setIndex] = useState(initialIndex);
@@ -190,8 +191,8 @@ export default function MatchingPractice({ sessionId, listId, words, initialAnsw
   }
 
   return <section className="card practice-card matching-practice" aria-label={t('Matching practice')}>
-    {index >= words.length ? <><div className="session-progress-label"><span>{t('SESSION COMPLETE')}</span><strong>100%</strong></div><div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div></> :
+    {index >= words.length ? <><div className="session-progress-label"><span>{t('SESSION COMPLETE')}</span><strong>100%</strong></div><div ref={summary} tabIndex={-1} aria-label={t('SESSION COMPLETE')}><SessionSummary shared={shared} listId={listId} answers={answers} words={words} skipped={index - answers.length} /></div></> :
       capacity === null ? <p role="status">{t('Loading practice…')}</p> :
-        <MatchingRound key={`${index}:${roundLanguage}`} sessionId={sessionId} words={words} index={index} capacity={capacity} language={roundLanguage} focusOnMount={continued.current} onLock={setLocked} onContinue={continueRound} />}
+        <MatchingRound shared={shared} key={`${index}:${roundLanguage}`} sessionId={sessionId} words={words} index={index} capacity={capacity} language={roundLanguage} focusOnMount={continued.current} onLock={setLocked} onContinue={continueRound} />}
   </section>;
 }

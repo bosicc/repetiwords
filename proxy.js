@@ -18,7 +18,7 @@ export async function proxy(request) {
   });
   const { data, error } = await supabase.auth.getClaims();
   const pathname = request.nextUrl.pathname;
-  const publicRoute = pathname === '/' || pathname === '/login' || pathname === '/register' || pathname.startsWith('/auth/');
+  const publicRoute = pathname === '/' || pathname === '/login' || pathname === '/register' || pathname.startsWith('/auth/') || pathname.startsWith('/shared/');
   if ((!data?.claims || error) && !publicRoute) {
     const destination = request.nextUrl.clone();
     destination.pathname = '/login';
@@ -33,5 +33,5 @@ export async function proxy(request) {
 }
 
 export const config = {
-  matcher: ['/', '/login', '/register', '/settings/:path*', '/vocabulary/:path*', '/practice/:path*', '/auth/:path*', '/admin/:path*', '/word-lists/:path*'],
+  matcher: ['/', '/login', '/register', '/settings/:path*', '/vocabulary/:path*', '/practice/:path*', '/auth/:path*', '/admin/:path*', '/word-lists/:path*', '/shared/:path*'],
 };

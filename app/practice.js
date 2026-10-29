@@ -3,9 +3,10 @@
 import { useEffect, useRef, useState } from 'react';
 import { useLanguage, Text } from './components/language';
 import { submitPracticeAnswer } from './actions';
+import { submitSharedAnswer } from './shared/actions';
 import SessionSummary from './components/session-summary';
 
-export default function Practice({ words, sessionId, listId, initialAnswers = [], initialIndex = 0 }) {
+export default function Practice({ words, sessionId, listId, initialAnswers = [], initialIndex = 0, shared }) {
   const { language, t } = useLanguage();
   const sessionWords = words;
   const busy = useRef(false);
@@ -64,7 +65,7 @@ export default function Practice({ words, sessionId, listId, initialAnswers = []
     setError('');
     let showingFeedback = false;
     try {
-      await submitPracticeAnswer(sessionId, word.id, known, usedReveal);
+      await (shared ? submitSharedAnswer : submitPracticeAnswer)(sessionId, word.id, known, usedReveal);
       if (known !== null) {
         setAnswers((previous) => [...previous, { wordId: word.id, known, revealed: usedReveal }]);
         showingFeedback = true;
@@ -96,7 +97,7 @@ export default function Practice({ words, sessionId, listId, initialAnswers = []
         <button disabled={saving} className="answer-skip" aria-keyshortcuts="ArrowRight" onClick={nextWord}><Text>Skip</Text> <kbd aria-hidden="true">→</kbd></button>
         <button disabled={saving} className="answer-yes" aria-keyshortcuts="Space" onClick={() => answer(true)}>
           <span className="answer-label-desktop"><Text>YES · I know it</Text></span><span className="answer-label-mobile"><Text>YES</Text></span><kbd aria-hidden="true"><Text>Space</Text></kbd></button></div>
-    </> : <SessionSummary listId={listId} answers={answers} words={sessionWords} skipped={index - answers.length} />}
+    </> : <SessionSummary shared={shared} listId={listId} answers={answers} words={sessionWords} skipped={index - answers.length} />}
     {error && <p role="alert">{t('Could not save your session. Please try again.')}</p>}
   </section>;
 }

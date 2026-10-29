@@ -3,6 +3,7 @@
 import { useActionState, useEffect, useId, useState } from 'react';
 import { useFormStatus } from 'react-dom';
 import { beginPractice } from '../actions';
+import { beginSharedPractice } from '../shared/actions';
 import { PRACTICE_MODES, isPracticeMode } from '../../lib/practice-modes';
 import { useLanguage } from './language';
 import ExerciseIcon from './exercise-icon';
@@ -17,12 +18,12 @@ function StartButton() {
   </button>;
 }
 
-export default function PracticeLaunchForm({ count, mode, listId, topic, level, availableCount, onCancel, onPendingChange }) {
+export default function PracticeLaunchForm({ count, mode, listId, topic, level, availableCount, onCancel, onPendingChange, sharedToken }) {
   const { t, language } = useLanguage();
   const countId = useId();
   const [selectedMode, setSelectedMode] = useState(isPracticeMode(mode) ? mode : 'self-assessment');
   const [wordCount, setWordCount] = useState(String([10, 30, 100].includes(count) ? count : 30));
-  const [state, action, pending] = useActionState(beginPractice, null);
+  const [state, action, pending] = useActionState(sharedToken ? beginSharedPractice.bind(null, sharedToken) : beginPractice, null);
   useEffect(() => { onPendingChange?.(pending); }, [pending, onPendingChange]);
 
   return <form action={action} className="practice-picker-form" aria-busy={pending}>
@@ -34,7 +35,7 @@ export default function PracticeLaunchForm({ count, mode, listId, topic, level, 
       <span>{formatWordCount(availableCount, language)}{level && ` · ${t(level === 'unassigned' ? 'Unassigned' : level)}`}. {t('This session uses only words from this topic.')}</span>
       <span>{t('If fewer words are available, you will practise each one once.')}</span>
       <Link href="/vocabulary#word-topics">{t('Change topic')}</Link>
-    </p> : !listId && <Link className="practice-topic-link" href="/vocabulary#word-topics" onClick={onCancel}>{t('Want to focus on one topic? Browse topics')} <span aria-hidden="true">→</span></Link>}
+    </p> : !listId && !sharedToken && <Link className="practice-topic-link" href="/vocabulary#word-topics" onClick={onCancel}>{t('Want to focus on one topic? Browse topics')} <span aria-hidden="true">→</span></Link>}
     <fieldset className="practice-mode-fieldset" disabled={pending}>
       <legend>{t('Practice type')}</legend>
       <div className="practice-mode-grid">

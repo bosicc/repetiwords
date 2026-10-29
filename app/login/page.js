@@ -1,11 +1,13 @@
 import { redirect } from 'next/navigation';
+import { authReturn } from '../../lib/auth-return';
 import AuthForm from '../components/auth-form';
 import { getCurrentUser } from '../../lib/auth';
 
 export const metadata = { title: 'Log in · Repeti' };
 
 export default async function LoginPage({ searchParams }) {
-  if (await getCurrentUser()) redirect('/');
   const query = await searchParams;
-  return <main className="auth-page"><AuthForm mode="login" confirmationError={query.error === 'confirmation'} /></main>;
+  const next = authReturn(query.next);
+  if (await getCurrentUser()) redirect(next);
+  return <main className="auth-page"><AuthForm mode="login" next={next} confirmationError={query.error === 'confirmation'} /></main>;
 }
