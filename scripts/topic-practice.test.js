@@ -33,6 +33,9 @@ test('topic practice stays inside the chosen topic and level in every mode, incl
     const scopes = [
       [{ topic: 'Food and Drink' }, [1, 2, 5]],
       [{ topic: 'Food and Drink', level: 'A1' }, [1]],
+      [{ topic: 'Food and Drink', level: 'A1,A2' }, [1, 2]],
+      [{ topic: 'Food and Drink', level: 'A2,unassigned' }, [2, 5]],
+      [{ topic: 'Food and Drink', level: 'A1,A1,A2' }, [1, 2]],
       [{ topic: 'Food and Drink', level: 'unassigned' }, [5]],
       [{ topic: 'Restaurants and Cafés' }, [5]],
       [{ topic: 'uncategorized' }, [4, 6]],
@@ -55,7 +58,7 @@ test('topic practice stays inside the chosen topic and level in every mode, incl
       }
     }
     const before = (await query('SELECT COUNT(*) AS total FROM vocpt.sessions')).rows[0].total;
-    for (const scope of [{ topic: 'Missing' }, { topic: 'Empty topic' }, { topic: "' OR 1=1 --" }, { topic: 'Food and Drink', level: 'C2' }, { topic: '' }, { topic: [] }, { topic: 'x'.repeat(201) }, { level: 'invalid' }]) {
+    for (const scope of [{ topic: 'Missing' }, { topic: 'Empty topic' }, { topic: "' OR 1=1 --" }, { topic: 'Food and Drink', level: 'C2' }, { topic: '' }, { topic: [] }, { topic: 'x'.repeat(201) }, { level: 'invalid' }, { level: 'A1,invalid' }, { level: 'A1,' }, { level: ['A1', 'A2'] }, { level: "A1,' OR 1=1 --" }]) {
       await assert.rejects(db.startPractice(30, 'self-assessment', null, scope));
     }
     await assert.rejects(db.startPractice(10, 'self-assessment', 1, { topic: 'Food and Drink' }));

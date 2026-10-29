@@ -32,7 +32,7 @@ export default function PracticeLaunchForm({ count, mode, listId, topic, level, 
     {level && <input type="hidden" name="level" value={level} />}
     {topic ? <p className="practice-topic-note">
       <strong>{t('Topic')}: {t(topic === 'uncategorized' ? 'Uncategorized' : topic)}</strong>
-      <span>{formatWordCount(availableCount, language)}{level && ` · ${t(level === 'unassigned' ? 'Unassigned' : level)}`}. {t('This session uses only words from this topic.')}</span>
+      <span>{formatWordCount(availableCount, language)}{level && ` · ${level.split(',').map(value => t(value === 'unassigned' ? 'Unassigned' : value)).join(' + ')}`}. {t('This session uses only words from this topic.')}</span>
       <span>{t('If fewer words are available, you will practise each one once.')}</span>
       <Link href="/vocabulary#word-topics">{t('Change topic')}</Link>
     </p> : !listId && !sharedToken && <Link className="practice-topic-link" href="/vocabulary#word-topics" onClick={onCancel}>{t('Want to focus on one topic? Browse topics')} <span aria-hidden="true">→</span></Link>}
