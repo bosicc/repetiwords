@@ -3,8 +3,10 @@ import { useEffect, useId, useState, useTransition } from 'react';
 import { useRouter } from 'next/navigation';
 import { useLanguage } from '../components/language';
 import { addListWords, changeListWord } from './actions';
+import ShareList from './share-list';
+import ActionIcon from '../components/action-icon';
 
-export default function ListWords({ listId, words }) {
+export default function ListWords({ listId, words, shareToken }) {
   const { t, language } = useLanguage();
   const router = useRouter();
   const inputId = useId();
@@ -58,7 +60,10 @@ export default function ListWords({ listId, words }) {
   }
   const meaning = (word) => language === 'uk' ? word.ukrainian || word.english : word.english;
   return <section className="card settings-section word-list-editor" aria-labelledby="list-words-heading">
-    <h2 id="list-words-heading">{t('Words in this list')} <span className="word-list-count">{words.length}</span></h2>
+    <div className="word-list-editor-heading">
+      <h2 id="list-words-heading">{t('Words in this list')} <span className="word-list-count">{words.length}</span></h2>
+      <ShareList listId={listId} initialToken={shareToken} />
+    </div>
     <div role="status" aria-live="polite">
       {batchResult && <p>{t('Words added:')} {batchResult.added}</p>}
       {batchResult?.missing.length > 0 && <div className="word-list-missing"><strong>{t('Words not found in the dictionary:')}</strong><ul>{batchResult.missing.map(word => <li key={word} lang="pt-PT">{word}</li>)}</ul></div>}
@@ -72,6 +77,6 @@ export default function ListWords({ listId, words }) {
     <div role="status">{loading && <p>{t('Searching…')}</p>}{!batch && query.trim() && !loading && !error && !results.length && <p>{t('No matching words to add.')}</p>}</div>
     {!batch && results.length > 0 && <ul className="word-search-results" aria-label={t('Matching words')}>{results.map((word) => <li key={word.id}><button type="button" disabled={pending} onClick={() => update(word.id, false)}><span><strong lang="pt-PT">{word.portuguese}</strong><small>{meaning(word)}</small></span><span>{t('Add')} +</span></button></li>)}</ul>}
     {error && <p role="alert">{t('Could not update or search this list. Please try again.')}</p>}
-    {words.length ? <ul className="saved-list-words">{words.map((word) => <li key={word.id}><span><strong lang="pt-PT">{word.portuguese}</strong><small>{meaning(word)}</small></span><button type="button" disabled={pending} onClick={() => update(word.id, true)} aria-label={`${t('Remove')} ${word.portuguese}`}>{t('Remove')}</button></li>)}</ul> : <p>{t('Your list is empty. Search above to add words.')}</p>}
+    {words.length ? <ul className="saved-list-words">{words.map((word) => <li key={word.id}><span><strong lang="pt-PT">{word.portuguese}</strong><small>{meaning(word)}</small></span><button className="icon-button word-remove-button" type="button" disabled={pending} onClick={() => update(word.id, true)} aria-label={`${t('Remove')} ${word.portuguese}`} title={`${t('Remove')} ${word.portuguese}`}><ActionIcon name="trash" size={18} /></button></li>)}</ul> : <p>{t('Your list is empty. Search above to add words.')}</p>}
   </section>;
 }

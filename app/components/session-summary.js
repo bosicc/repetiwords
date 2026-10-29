@@ -26,6 +26,7 @@ export default function SessionSummary({ answers, words, skipped, listId, shared
       <span className="summary-icon" aria-hidden="true">{metric.icon}</span>
       <strong>{metric.value}</strong><span>{t(metric.label)}</span>
     </div>)}</div>
+    {shared && <ProgressCta shared={shared} />}
     <section className="session-word-results" aria-label={t('Session words')}>
       <h3>{t('Session words')}</h3>
       <div className="session-results-table"><table>
@@ -45,7 +46,6 @@ export default function SessionSummary({ answers, words, skipped, listId, shared
         })}</tbody>
       </table></div>
     </section>
-    {shared && <ProgressCta shared={shared} />}
     {shared ? <Link href={`/shared/${shared.token}`} className="summary-home">{t('Back to shared list')} →</Link> : <Link href={listId ? '/word-lists' : '/'} className="summary-home">{t(listId ? 'My words list' : 'Home')} <span aria-hidden="true">→</span></Link>}
   </div>;
 }

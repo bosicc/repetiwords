@@ -4,7 +4,6 @@ import { accountWordLists } from '../../../lib/account-word-lists';
 import { Text } from '../../components/language';
 import ListWords from '../list-words';
 import ListName from '../list-name';
-import ShareList from '../share-list';
 import { requireUser } from '../../../lib/auth';
 import { sharedLists } from '../../../lib/shared-practice-context';
 
@@ -18,7 +17,6 @@ export default async function WordListPage({ params, searchParams }) {
   return <main>
     <nav className="navigation"><Link href="/word-lists">← <Text>My words lists</Text></Link></nav>
     <ListName key={id} listId={id} initialName={list.name} isNew={(await searchParams).new === '1'} />
-    <ShareList listId={id} initialToken={token} />
-    <ListWords listId={id} words={list.words} />
+    <ListWords listId={id} words={list.words} shareToken={token} />
   </main>;
 }

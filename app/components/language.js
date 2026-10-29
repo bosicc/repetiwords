@@ -3,6 +3,17 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'Save this list': 'Зберегти цей список',
+  'Add a copy to your lists to edit and practise.': 'Додайте власну копію для редагування та практики.',
+  'Log in to keep a copy in your account.': 'Увійдіть, щоб зберегти копію у своєму акаунті.',
+  'Log in to save': 'Увійти, щоб зберегти',
+  'You can practise without an account.': 'Практикувати можна без акаунта.',
+  'Share list': 'Поділитися списком',
+  'Anyone with the link can practise.': 'Практика доступна всім за посиланням.',
+  'Link sharing is on': 'Доступ за посиланням увімкнено',
+  'Creating link…': 'Створюємо посилання…', 'Link unavailable': 'Посилання недоступне', 'Try again': 'Спробувати ще раз',
+  'Save this session and keep learning.': 'Збережіть результат і продовжуйте навчання.',
+  'Your results stay in this browser for 24 hours.': 'Результати доступні в цьому браузері протягом 24 годин.',
   'Share list by link': 'Поділитися списком',
   'Anyone with this link can view and practise this list.': 'Усі, хто має посилання, можуть переглядати цей список і практикувати слова.',
   'Open public list': 'Відкрити публічний список', 'Public link': 'Публічне посилання',

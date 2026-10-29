@@ -12,5 +12,6 @@ export default function PublicLanguageSwitcher() {
     <select id={id} value={language} onChange={(event) => selectLanguage(event.target.value)}>
       <option value="en" lang="en">English</option><option value="uk" lang="uk">Українська</option>
     </select>
+    <svg className="language-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" focusable="false"><path d="m7 10 5 5 5-5" /></svg>
   </div>;
 }
