@@ -65,5 +65,23 @@ test('personal lists isolate owners, search existing words, prevent duplicates, 
     assert.equal((await first.getLists())[0].progress.mastered,0);
     await assert.rejects(database.startPractice(10,'self-assessment',id));
     assert.equal((await database.getPractice(await database.startPractice(10))).words.length,3);
+
+    const batchList = await first.createList('Pasted words');
+    await first.addWord(batchList, 2);
+    await engine.exec("INSERT INTO vocpt.words (portuguese,english) VALUES ('bom dia','good morning');");
+    await assert.rejects(second.addWords(batchList, 'água, obrigado'));
+    assert.equal((await first.getList(batchList)).words.length, 1);
+    const batch = await first.addWords(batchList, ' CAFÉ, água, OBRIGADO, água, , bom dia, inexistente, cafézinho, coffee, ,');
+    assert.deepEqual(batch, { added: 3, missing: ['inexistente', 'cafézinho', 'coffee'] });
+    assert.deepEqual((await first.getList(batchList)).words.map(word => word.portuguese).sort(), ['bom dia', 'café', 'obrigado', 'água'].sort());
+    assert.deepEqual(await first.addWords(batchList, 'cafe\u0301, ÁGUA, obrigado, bom dia'), { added: 0, missing: [] });
+    assert.deepEqual(await first.addWords(batchList, 'missing, MISSING, %'), { added: 0, missing: ['MISSING', '%'] });
+    assert.deepEqual(await first.addWords(batchList, 'obrigado'), { added: 0, missing: [] });
+    for (const input of [null, [], '', ' , , ', 'x'.repeat(10001)]) {
+      await assert.rejects(first.addWords(batchList, input));
+    }
+    await assert.rejects(first.addWords(-1, 'água'));
+    await assert.rejects(first.addWords(999999, 'água'));
+    assert.equal((await second.getList(otherList)).words.length, 1);
   } finally { await engine.close(); }
 });

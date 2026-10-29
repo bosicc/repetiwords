@@ -8,6 +8,15 @@ existing vocabulary, and add or remove words. Search returns up to 12 matching
 words and excludes words already in the list. Removing a word removes only list
 membership, preserving the vocabulary and learning history.
 
+The same field accepts comma-separated Portuguese words (for example,
+`café, água, casa`). Add words adds all exact matches without regard to case,
+skips duplicates and existing members, and reports the number newly added.
+Unknown words appear above the field in red and remain visible while editing
+the next submission. Accents matter; surrounding whitespace and empty entries
+are ignored. Multiword expressions are supported. Bulk additions accept up to
+10,000 characters and check ownership on the server; they use one atomic insert.
+Single-word substring and translation search remains available below the field.
+
 The header's Practice button, when opened from an individual list, uses the
 same exercise picker and answer-saving flow as
 general practice. Its candidate pool is restricted to list members, with the

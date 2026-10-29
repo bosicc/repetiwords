@@ -22,3 +22,10 @@ export async function changeListWord(id, wordId, remove = false) {
   revalidatePath(`/word-lists/${id}`);
   revalidatePath('/word-lists');
 }
+
+export async function addListWords(id, input) {
+  const result = await (await accountWordLists()).addWords(id, input);
+  revalidatePath(`/word-lists/${id}`);
+  revalidatePath('/word-lists');
+  return result;
+}

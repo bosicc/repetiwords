@@ -489,6 +489,11 @@ body:has(.landing-page) .header-actions nav a:last-child { padding: 11px 20px; b
 .word-list-create-fields input, .word-search-input { min-width:0; width:100%; border:1px solid #e0e4ed; border-radius:14px; padding:14px 16px; font:inherit; font-size:16px; color:#24304a; background:#fbfcff; }
 .word-list-create-fields input:focus-visible, .word-search-input:focus-visible { outline:3px solid #405fd830; border-color:#405fd8; }
 .word-list-editor { text-align:left; }
+.word-list-add-form label { display:block; font-size:14px; margin-bottom:10px; }
+.word-list-add-form textarea { display:block; resize:vertical; }
+.word-list-add-hint { font-size:13px; color:#68738a; }
+.word-list-missing { color:#b91c1c; background:#fff1f2; border:1px solid #fecdd3; border-radius:14px; padding:16px; margin-bottom:20px; overflow-wrap:anywhere; }
+.word-list-missing ul { margin:8px 0 0; padding-left:20px; }
 .word-search-input { border:2px solid #8194ea; background:#f5f7ff; }
 .word-search-input:focus-visible { outline:3px solid #405fd830; border-color:#405fd8; background:white; }
 .saved-list-words, .word-search-results { text-align:left; }
