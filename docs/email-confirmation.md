@@ -58,3 +58,11 @@ expired or already-used link. No real email was sent during the repository revie
 References:
 - https://supabase.com/docs/guides/auth/redirect-urls
 - https://supabase.com/docs/guides/auth/auth-email-templates
+
+## Password recovery
+
+The login page links to `/auth/forgot-password`. Supabase sends its **Reset password** email using `resetPasswordForEmail`. Keep the verification link (`{{ .ConfirmationURL }}`) in the recovery template. Use a working SMTP sender for delivery to learners.
+
+Set production `SITE_URL` to the public origin allowed by Supabase. When unset on Vercel, recovery uses `VERCEL_PROJECT_PRODUCTION_URL`. The email returns to the existing `/auth/callback` path with `recovery=1` in the query. Start the request and open the latest link in the same browser. The callback exchanges the one-use code and directs the learner to `/auth/reset-password`. An invalid or expired link returns to the request form.
+
+Recovery uses separate HTTP-only cookies scoped to `/auth`. The password form verifies the recovery user with Supabase before updating the password. On success it clears the recovery cookies and returns to login.

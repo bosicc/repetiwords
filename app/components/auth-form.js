@@ -5,7 +5,7 @@ import { useActionState, useState } from 'react';
 import { login, register } from '../auth/actions';
 import { useLanguage } from './language';
 
-export default function AuthForm({ mode, confirmationError = false, next = '/' }) {
+export default function AuthForm({ mode, confirmationError = false, passwordUpdated = false, next = '/' }) {
   const signingUp = mode === 'register';
   const [state, action, pending] = useActionState(signingUp ? register : login, {});
   const [showPassword, setShowPassword] = useState(false);
@@ -30,8 +30,10 @@ export default function AuthForm({ mode, confirmationError = false, next = '/' }
         {state.errors?.password && <span id="password-error" className="auth-field-error">{t(state.errors.password)}</span>}
         {signingUp && <span id="password-hint" className="auth-hint">{t('Use at least 8 characters.')}</span>}
       </div>
+      {!signingUp && <Link href="/auth/forgot-password">{t('Forgot password?')}</Link>}
       <div aria-live="polite" aria-atomic="true">
         {(state.error || confirmationError) && <p className="auth-message auth-error" role="alert">{t(state.error || 'The confirmation link expired or is invalid. Please log in or register again.')}</p>}
+        {passwordUpdated && !state.error && <p className="auth-message auth-success" role="status">{t('Password updated. Log in with your new password.')}</p>}
         {state.message && <p className="auth-message auth-success" role="status">{t(state.message)}</p>}
       </div>
       <button className="primary auth-submit" disabled={pending}>{t(pending ? signingUp ? 'Creating account…' : 'Logging in…' : signingUp ? 'Register' : 'Log in')} <span aria-hidden="true">→</span></button>
