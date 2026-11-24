@@ -7,7 +7,7 @@ import { submitSharedAnswer } from './shared/actions';
 import SessionSummary from './components/session-summary';
 
 export default function Practice({ words, sessionId, listId, initialAnswers = [], initialIndex = 0, shared }) {
-  const { language, t } = useLanguage();
+  const { studyLanguage, language, t } = useLanguage();
   const sessionWords = words;
   const busy = useRef(false);
   const [answers, setAnswers] = useState(initialAnswers);
@@ -88,7 +88,7 @@ export default function Practice({ words, sessionId, listId, initialAnswers = []
     </div>
     {word ? <>
       <div className="practice-word-content">
-        <h2 lang="pt-PT">{word.portuguese}</h2>
+        <h2 lang={studyLanguage}>{word.portuguese}</h2>
         {(revealed || showAnswer) && <p role={showAnswer ? 'status' : undefined} lang={language}>{(language === 'uk' ? word.ukrainian : word.english) || t('Translation unavailable')}</p>}
         <button disabled={saving} className="reveal" onClick={() => { setRevealed(!revealed); setUsedReveal(true); }}>{revealed ? t('Hide meaning') : t('Reveal meaning')}</button>
       </div>

@@ -44,6 +44,7 @@ async function fixture(kind) {
     SELECT setval(pg_get_serial_sequence('vocpt.sessions', 'id'), 1);
     INSERT INTO vocpt.session_words (session_id, word_id, position) VALUES (1, 1, 0);`);
   await engine.exec(modeMigration);
+  await engine.exec(readFileSync(new URL('../supabase/migrations/202611240001_study_languages.sql', import.meta.url), 'utf8'));
   async function query(sql, values = []) {
     const result = await engine.query(sql, values);
     return { rows: result.rows, rowCount: result.affectedRows };

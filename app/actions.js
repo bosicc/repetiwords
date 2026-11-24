@@ -10,6 +10,16 @@ import { requireUser } from '../lib/auth';
 import { isPracticeMode } from '../lib/practice-modes.js';
 import { gradeChoiceAnswer, gradeMatchingRound } from '../lib/practice-exercises.js';
 
+import { selectStudyLanguage } from '../lib/study-languages';
+import { getPostgresPool } from '../lib/postgres';
+
+export async function changeStudyLanguage(code, destination) {
+  const user = await requireUser();
+  await selectStudyLanguage(getPostgresPool(), user.id, code);
+  revalidatePath('/', 'layout');
+  redirect(['/vocabulary', '/word-lists', '/practice', '/settings'].includes(destination) ? destination : '/');
+}
+
 export async function savePracticeSettings(formData) {
   await requireUser();
   const count = Number(formData.get('count'));
@@ -64,7 +74,7 @@ export async function submitChoiceAnswer(id, wordId, optionId, language) {
   const session = await getPractice(id);
   const word = session?.words.find((candidate) => candidate.id === wordId);
   if (!session || session.mode !== 'multiple-choice' || !word) throw new Error('Invalid question');
-  const result = gradeChoiceAnswer(word, await getVocabulary(), optionId, language);
+  const result = gradeChoiceAnswer(word, await getVocabulary(session.studyLanguage), optionId, language);
   const saved = session.answers.find((answer) => answer.wordId === wordId);
   if (saved && saved.known === result.known && saved.revealed === false) return saved;
   if (session.words[session.index]?.id !== wordId) throw new Error('Word already answered');

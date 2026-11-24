@@ -9,7 +9,7 @@ import SessionSummary from './session-summary';
 import ExerciseIcon from './exercise-icon';
 
 export default function ChoicePractice({ sessionId, listId, words, initialAnswers = [], initialIndex = 0, questions, shared }) {
-  const { language, t } = useLanguage();
+  const { studyLanguage, language, t } = useLanguage();
   const [answers, setAnswers] = useState(initialAnswers);
   const [index, setIndex] = useState(initialIndex);
   const [selectedId, setSelectedId] = useState(null);
@@ -100,7 +100,7 @@ export default function ChoicePractice({ sessionId, listId, words, initialAnswer
       </div>
     </div>
     {word ? <>
-      <div className="exercise-heading"><span className="eyebrow"><ExerciseIcon mode="multiple-choice" /><span>{t('Choose the translation')}</span></span><h2 ref={wordHeading} tabIndex={-1} lang="pt-PT">{word.portuguese}</h2><p>{t('Select the correct meaning.')}</p></div>
+      <div className="exercise-heading"><span className="eyebrow"><ExerciseIcon mode="multiple-choice" /><span>{t('Choose the translation')}</span></span><h2 ref={wordHeading} tabIndex={-1} lang={studyLanguage}>{word.portuguese}</h2><p>{t('Select the correct meaning.')}</p></div>
       {available ? <div className="choice-options" role="group" aria-label={t('Translation choices')}>
         {options.map((option) => {
           const selected = selectedId === option.id;

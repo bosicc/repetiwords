@@ -1,10 +1,11 @@
 'use client';
+import { studyLanguages } from '../../lib/study-languages';
 import Link from 'next/link';
 import ProgressCta from '../shared/progress-cta';
 import { useLanguage } from './language';
 
 export default function SessionSummary({ answers, words, skipped, listId, shared }) {
-  const { t, language } = useLanguage();
+  const { studyLanguage, t, language } = useLanguage();
   const answersByWord = new Map(answers.map((answer) => [answer.wordId, answer]));
   const independent = answers.filter((answer) => answer.known && !answer.revealed).length;
   const helped = answers.filter((answer) => answer.known && answer.revealed).length;
@@ -30,7 +31,7 @@ export default function SessionSummary({ answers, words, skipped, listId, shared
     <section className="session-word-results" aria-label={t('Session words')}>
       <h3>{t('Session words')}</h3>
       <div className="session-results-table"><table>
-        <thead><tr><th scope="col">{t('Portuguese')}</th><th scope="col">{t(language === 'uk' ? 'Ukrainian' : 'English')}</th><th scope="col">{t('Your answer')}</th><th scope="col">{t('Success rate')}</th></tr></thead>
+        <thead><tr><th scope="col">{t(studyLanguages[studyLanguage])}</th><th scope="col">{t(language === 'uk' ? 'Ukrainian' : 'English')}</th><th scope="col">{t('Your answer')}</th><th scope="col">{t('Success rate')}</th></tr></thead>
         <tbody>{words.map((word) => {
           const answer = answersByWord.get(word.id);
           const result = !answer ? { className: 'result-skipped', icon: '→', label: 'Skipped', score: '—' } :
@@ -38,7 +39,7 @@ export default function SessionSummary({ answers, words, skipped, listId, shared
             answer.revealed ? { className: 'result-helped', icon: '◐', label: 'YES · With hints', score: '50%' } :
             { className: 'result-yes', icon: '✓', label: 'YES · Without hints', score: '100%' };
           return <tr key={word.id} className={result.className}>
-            <td lang="pt-PT"><strong>{word.portuguese}</strong></td>
+            <td lang={studyLanguage}><strong>{word.portuguese}</strong></td>
             <td lang={language}>{(language === 'uk' ? word.ukrainian : word.english) || t('Translation unavailable')}</td>
             <td><span className="result-badge"><span aria-hidden="true">{result.icon}</span> {t(result.label)}</span></td>
             <td className="result-score">{result.score}</td>

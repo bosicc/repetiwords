@@ -8,7 +8,7 @@ import { getTopicIcon } from '../../lib/topic-icons';
 import styles from './word-topics.module.css';
 
 export default function WordTopics({ words, selected, onSelect, level }) {
-  const { t, language } = useLanguage();
+  const { studyLanguage, t, language } = useLanguage();
   const [search, setSearch] = useState('');
   const [expanded, setExpanded] = useState(false);
   const topics = getVocabularyTopics(words);
@@ -35,7 +35,7 @@ export default function WordTopics({ words, selected, onSelect, level }) {
           <span className={styles.icon} aria-hidden="true">{getTopicIcon(topic.name)}</span>
           <span className={styles.topicName}>{label(topic.name)}</span>
           <span className={styles.count}>{formatWordCount(topic.count, language)}{selected === topic.name && <span aria-hidden="true"> · ✓</span>}</span>
-          <span className={styles.examples} lang="pt-PT">{topic.examples.join(' · ')}</span>
+          <span className={styles.examples} lang={studyLanguage}>{topic.examples.join(' · ')}</span>
         </button>
         <Link className={styles.cardPractice} href={`/practice?${new URLSearchParams({ topic: topic.name, ...(level ? { level } : {}) })}`} aria-label={`${t('Practice this topic')}: ${label(topic.name)}`}>
           {t('Practice')} <span aria-hidden="true">→</span>

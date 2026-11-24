@@ -71,6 +71,7 @@ test('SQLite migration preserves rows, archives, partial sessions and PostgreSQL
     const pool = testPool(engine);
     assert.deepEqual(await migrateSnapshot(pool, snapshot), manifest);
     await engine.exec(practiceMigration);
+    await engine.exec(readFileSync(new URL('../supabase/migrations/202611240001_study_languages.sql', import.meta.url), 'utf8'));
     assert.deepEqual(await verifySnapshot(pool, snapshot), manifest);
     const remote = createPostgresDatabase(pool);
     assert.deepEqual(await remote.getUsers(), local.getUsers());
@@ -166,6 +167,7 @@ test('PostgreSQL preserves the practiced/new/review allocation at each supported
     const pool = testPool(engine);
     await migrateSnapshot(pool, Object.fromEntries(migrationTables.map(({ name }) => [name, []])));
     await engine.exec(practiceMigration);
+    await engine.exec(readFileSync(new URL('../supabase/migrations/202611240001_study_languages.sql', import.meta.url), 'utf8'));
     await pool.query("INSERT INTO vocpt.words (id, portuguese, english) SELECT n, 'word-' || n, 'meaning-' || n FROM generate_series(1, 120) n");
     await pool.query('INSERT INTO vocpt.sessions (id) VALUES (1), (2), (3)');
     await pool.query('SELECT setval(pg_get_serial_sequence(\'vocpt.sessions\', \'id\'), 3)');

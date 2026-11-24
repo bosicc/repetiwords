@@ -1,3 +1,4 @@
+import { StudyCourse } from '../../components/language';
 import { notFound, redirect } from 'next/navigation';
 import { requireUser } from '../../../lib/auth';
 import { sharedLists } from '../../../lib/shared-practice-context';
@@ -19,9 +20,9 @@ export default async function PracticePage({ params }) {
   const session = await getPractice(sessionId);
   if (!session) notFound();
   const props = { sessionId, listId: session.listId, words: session.words, initialAnswers: session.answers, initialIndex: session.index };
-  const questions = session.mode === 'multiple-choice' ? createChoiceQuestions(session.words, await getVocabulary()) : null;
-  return <main className="practice-page">
+  const questions = session.mode === 'multiple-choice' ? createChoiceQuestions(session.words, await getVocabulary(session.studyLanguage)) : null;
+  return <StudyCourse code={session.studyLanguage}><main className="practice-page">
     {session.mode === 'multiple-choice' ? <ChoicePractice key={sessionId} {...props} questions={questions} /> :
       session.mode === 'matching' ? <MatchingPractice key={sessionId} {...props} /> : <Practice key={sessionId} {...props} />}
-  </main>;
+  </main></StudyCourse>;
 }
