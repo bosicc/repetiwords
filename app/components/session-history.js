@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useState } from 'react';
 import { useLanguage } from './language';
 
@@ -11,7 +12,7 @@ const outcomes = [
 ];
 
 export default function SessionHistory({ sessions }) {
-  const { t, language } = useLanguage();
+  const { studyLanguage, t, language } = useLanguage();
   const [selectedId, setSelectedId] = useState(null);
   const [hoveredWord, setHoveredWord] = useState(null);
   const selected = sessions.find((session) => session.id === selectedId) || sessions.at(-1);
@@ -58,12 +59,13 @@ export default function SessionHistory({ sessions }) {
       </div>
       <div className="session-chart-detail" aria-live="polite">
         {hoveredWord ? <>
-          <strong lang="pt-PT">{hoveredWord.portuguese}</strong>
+          <strong lang={studyLanguage}>{hoveredWord.portuguese}</strong>
           <span>{(language === 'uk' ? hoveredWord.ukrainian : hoveredWord.english) || t('Translation unavailable')}</span>
           <span>{t(outcomes.find((item) => item.key === hoveredWord.outcome).label)} · {t('Session')} #{hoveredWord.sessionId}</span>
         </> : <>
           <strong>{t('Session')} #{selected.id} <span className="session-chart-date">· {formatDate(selected.createdAt, true)}</span></strong>
           <span>{t('Words completed')}: {selected.completed} {t('of')} {selected.total}{selected.completed < selected.total ? ` · ${t('In progress')}` : ''}</span>
+          {selected.completed < selected.total && <Link href={`/practice/${selected.id}`}>{t('Resume practice')}</Link>}
           <div className="session-chart-totals">{outcomes.map((outcome) => <span key={outcome.key}><span className="legend-dot" style={{ background: outcome.color }} />{t(outcome.label)}: <strong>{selected[outcome.key]}</strong></span>)}</div>
         </>}
       </div>

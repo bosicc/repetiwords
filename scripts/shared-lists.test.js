@@ -22,7 +22,7 @@ test('shared lists, guest practices and account transfers stay isolated', async 
   try {
     await engine.exec(`CREATE SCHEMA auth; CREATE TABLE auth.users (id UUID PRIMARY KEY);
       INSERT INTO auth.users VALUES ('${owner}'),('${learner}'),('${outsider}');`);
-    for (const name of ['202610090001_vocabulary', '202610090002_account_progress', '202610100001_practice_modes', '202610130001_word_lists', '202610140001_list_practice_source', '202610290001_shared_lists']) {
+    for (const name of ['202610090001_vocabulary', '202610090002_account_progress', '202610100001_practice_modes', '202610130001_word_lists', '202610140001_list_practice_source', '202610290001_shared_lists','202611240001_study_languages','202611240002_account_languages']) {
       await engine.exec(readFileSync(new URL(`../supabase/migrations/${name}.sql`, import.meta.url), 'utf8'));
     }
     // The migration can be safely applied again.

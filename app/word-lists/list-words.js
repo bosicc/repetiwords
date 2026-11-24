@@ -7,7 +7,7 @@ import ShareList from './share-list';
 import ActionIcon from '../components/action-icon';
 
 export default function ListWords({ listId, words, shareToken }) {
-  const { t, language } = useLanguage();
+  const { studyLanguage, t, language } = useLanguage();
   const router = useRouter();
   const inputId = useId();
   const [query, setQuery] = useState('');
@@ -66,17 +66,17 @@ export default function ListWords({ listId, words, shareToken }) {
     </div>
     <div role="status" aria-live="polite">
       {batchResult && <p>{t('Words added:')} {batchResult.added}</p>}
-      {batchResult?.missing.length > 0 && <div className="word-list-missing"><strong>{t('Words not found in the dictionary:')}</strong><ul>{batchResult.missing.map(word => <li key={word} lang="pt-PT">{word}</li>)}</ul></div>}
+      {batchResult?.missing.length > 0 && <div className="word-list-missing"><strong>{t('Words not found in the dictionary:')}</strong><ul>{batchResult.missing.map(word => <li key={word} lang={studyLanguage}>{word}</li>)}</ul></div>}
     </div>
     <form className="word-list-add-form" onSubmit={addBatch}>
       <label htmlFor={inputId}>{t('Find a word or paste words separated by commas')}</label>
-      <textarea className="word-search-input" id={inputId} rows={3} value={query} maxLength={10000} onChange={(event) => setQuery(event.target.value)} placeholder={t('For example: café, água, casa')} disabled={pending} autoComplete="off" aria-describedby={`${inputId}-hint`} />
-      <p id={`${inputId}-hint`} className="word-list-add-hint">{t('Add exact Portuguese words separated by commas. Repeated words are skipped. You can also search for one word or translation.')}</p>
+      <textarea className="word-search-input" id={inputId} rows={3} value={query} maxLength={10000} onChange={(event) => setQuery(event.target.value)} placeholder={t(studyLanguage === 'es-ES' ? 'For example: café, agua, casa' : 'For example: café, água, casa')} disabled={pending} autoComplete="off" aria-describedby={`${inputId}-hint`} />
+      <p id={`${inputId}-hint`} className="word-list-add-hint">{t('Add exact words separated by commas. Repeated words are skipped. You can also search for one word or translation.')}</p>
       <button type="submit" disabled={pending || !query.split(',').some(word => word.trim())}>{t(pending ? 'Adding…' : 'Add words')}</button>
     </form>
     <div role="status">{loading && <p>{t('Searching…')}</p>}{!batch && query.trim() && !loading && !error && !results.length && <p>{t('No matching words to add.')}</p>}</div>
-    {!batch && results.length > 0 && <ul className="word-search-results" aria-label={t('Matching words')}>{results.map((word) => <li key={word.id}><button type="button" disabled={pending} onClick={() => update(word.id, false)}><span><strong lang="pt-PT">{word.portuguese}</strong><small>{meaning(word)}</small></span><span>{t('Add')} +</span></button></li>)}</ul>}
+    {!batch && results.length > 0 && <ul className="word-search-results" aria-label={t('Matching words')}>{results.map((word) => <li key={word.id}><button type="button" disabled={pending} onClick={() => update(word.id, false)}><span><strong lang={studyLanguage}>{word.portuguese}</strong><small>{meaning(word)}</small></span><span>{t('Add')} +</span></button></li>)}</ul>}
     {error && <p role="alert">{t('Could not update or search this list. Please try again.')}</p>}
-    {words.length ? <ul className="saved-list-words">{words.map((word) => <li key={word.id}><span><strong lang="pt-PT">{word.portuguese}</strong><small>{meaning(word)}</small></span><button className="icon-button word-remove-button" type="button" disabled={pending} onClick={() => update(word.id, true)} aria-label={`${t('Remove')} ${word.portuguese}`} title={`${t('Remove')} ${word.portuguese}`}><ActionIcon name="trash" size={18} /></button></li>)}</ul> : <p>{t('Your list is empty. Search above to add words.')}</p>}
+    {words.length ? <ul className="saved-list-words">{words.map((word) => <li key={word.id}><span><strong lang={studyLanguage}>{word.portuguese}</strong><small>{meaning(word)}</small></span><button className="icon-button word-remove-button" type="button" disabled={pending} onClick={() => update(word.id, true)} aria-label={`${t('Remove')} ${word.portuguese}`} title={`${t('Remove')} ${word.portuguese}`}><ActionIcon name="trash" size={18} /></button></li>)}</ul> : <p>{t('Your list is empty. Search above to add words.')}</p>}
   </section>;
 }

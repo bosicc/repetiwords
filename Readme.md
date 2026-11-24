@@ -1,12 +1,16 @@
-# Portuguese Vocabulary Learning 
+# Repeti Words
 
-A project for learning European Portuguese as spoken in Lisbon through a vocabulary-based learning approach.
+## Learning languages
+
+Signed-in learners choose Portuguese (Portugal) or Spanish (Spain) in the header. The account remembers the active course across devices. Interface and translation language is a separate English/Ukrainian setting. Vocabulary, practice, lists and progress follow the selected course. Existing sessions and shared lists retain their original language.
+
+After the existing shared-list migrations, run `npm run db:languages:init -- --dry-run` to rehearse both language migrations and the Spanish import on the configured PostgreSQL database, then `npm run db:languages:init` to apply them together before deploying the application. The dry run rolls back the transaction. The importer matches every Portuguese source entry and its English/Ukrainian glosses against `imports/2026-11-24-spanish-spain.json` and reports discrepancies. Spanish entries inherit the live source level and topics and start with independent IDs and progress. Replaying the same batch preserves IDs and progress.
 
 The main idea is to learn new words every day, review mistakes, track progress through statistics, and focus repeated practice on recurring errors.
 
 ## How it works
 
-1. Collect and maintain a database of Portuguese words.
+1. Collect and maintain vocabulary for each learning language.
 2. Show words to the learner, who marks whether they know each word: **YES** or **NO**.
 3. Save the answers from each learning session.
 4. Update statistics to track progress and identify words that need more practice.

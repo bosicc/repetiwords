@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { accountWordLists } from '../../../lib/account-word-lists';
-import { Text } from '../../components/language';
+import { StudyCourse, Text } from '../../components/language';
 import ListWords from '../list-words';
 import ListName from '../list-name';
 import { requireUser } from '../../../lib/auth';
@@ -14,9 +14,9 @@ export default async function WordListPage({ params, searchParams }) {
   if (!list) notFound();
   const user = await requireUser();
   const token = await sharedLists().getShare(id, user.id);
-  return <main>
+  return <StudyCourse code={list.study_language}><main>
     <nav className="navigation"><Link href="/word-lists">← <Text>My words lists</Text></Link></nav>
     <ListName key={id} listId={id} initialName={list.name} isNew={(await searchParams).new === '1'} />
     <ListWords listId={id} words={list.words} shareToken={token} />
-  </main>;
+  </main></StudyCourse>;
 }

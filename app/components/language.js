@@ -3,6 +3,9 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'For example: café, agua, casa': 'Наприклад: café, agua, casa',
+  'Resume practice': 'Продовжити заняття',
+  'Spanish': 'Іспанська', 'I’m learning': 'Я вчу', 'Interface language': 'Мова інтерфейсу',
   'Save this list': 'Зберегти цей список',
   'Add a copy to your lists to edit and practise.': 'Додайте власну копію для редагування та практики.',
   'Log in to keep a copy in your account.': 'Увійдіть, щоб зберегти копію у своєму акаунті.',
@@ -45,7 +48,7 @@ const ukrainian = {
   'Words in this list': 'Слова в цьому списку', 'Find a word to add': 'Знайдіть слово, щоб додати',
   'Find a word or paste words separated by commas': 'Знайдіть слово або вставте слова через кому',
   'For example: café, água, casa': 'Наприклад: café, água, casa',
-  'Add exact Portuguese words separated by commas. Repeated words are skipped. You can also search for one word or translation.': 'Вставте португальські слова через кому — додаються точні збіги. Повтори пропускаються. Також можна шукати окреме слово або переклад.',
+  'Add exact words separated by commas. Repeated words are skipped. You can also search for one word or translation.': 'Вставте слова через кому — додаються точні збіги. Повтори пропускаються. Також можна шукати окреме слово або переклад.',
   'Add words': 'Додати слова', 'Adding…': 'Додаємо…', 'Words added:': 'Додано слів:',
   'Words not found in the dictionary:': 'Цих слів немає у словнику:',
   'Type a Portuguese word or translation': 'Введіть португальське слово або переклад',
@@ -94,7 +97,7 @@ const ukrainian = {
   'Match pairs': 'Знайти пари',
   'Recall the meaning and rate your answer.': 'Згадайте значення й оцініть свою відповідь.',
   'Pick the correct meaning from four options.': 'Оберіть правильне значення з чотирьох варіантів.',
-  'Connect Portuguese words with their translations.': 'Поєднайте португальські слова з перекладами.',
+  'Connect words with their translations.': 'Поєднайте слова з перекладами.',
   'Start practice': 'Почати практику',
   'Close': 'Закрити',
   'Cancel': 'Скасувати',
@@ -125,7 +128,7 @@ const ukrainian = {
   'Matching practice': 'Практика пошуку пар',
   'Match the pairs': 'Знайти пари',
   'Find every pair': 'Знайдіть усі пари',
-  'Tap a Portuguese word, then its translation.': 'Натисніть на португальське слово, а потім на його переклад.',
+  'Tap a word, then its translation.': 'Натисніть на слово, а потім на його переклад.',
   'Correct pair!': 'Правильна пара!',
   'Your round is not saved yet.': 'Знайдіть усі пари, щоб зберегти результат раунду.',
   'Round complete.': 'Раунд завершено.',
@@ -145,8 +148,8 @@ const ukrainian = {
   "Hide": "Сховати",
   "Welcome back": "З поверненням",
   "Create your account": "Створіть обліковий запис",
-  "Start learning European Portuguese.": "Почніть вивчати європейську португальську.",
-  "Log in to continue your Portuguese practice.": "Увійдіть, щоб продовжити практику португальської.",
+  "Start learning Portuguese or Spanish.": "Почніть вивчати португальську або іспанську.",
+  "Log in to continue your practice.": "Увійдіть, щоб продовжити практику.",
   "Already have an account?": "Уже маєте обліковий запис?",
   "New to Repeti?": "Вперше в Repeti?",
   "Create an account": "Створити обліковий запис",
@@ -192,8 +195,8 @@ const ukrainian = {
   'Practice points remaining': 'Балів для повторення',
   'European Portuguese · Words with the most mistakes come first.': 'Європейська португальська · Спочатку слова з найбільшою кількістю помилок.',
   'VOCPT · YOUR WORDS': 'VOCPT · ВАШІ СЛОВА', 'Total vocabulary': 'Увесь словник',
-  'Explore all your Portuguese words by level and category.': 'Переглядайте португальські слова за рівнем і категорією.',
-  'Explore your Portuguese words and practise one topic at a time.': 'Переглядайте португальські слова та практикуйте окремі теми.',
+  'Explore all your Portuguese words by level and category.': 'Переглядайте слова за рівнем і категорією.',
+  'Explore your words and practise one topic at a time.': 'Переглядайте слова та практикуйте окремі теми.',
   'LEARN BY TOPIC': 'ВИВЧАЙТЕ ЗА ТЕМАМИ', 'Find your next words': 'Знайдіть наступні слова',
   'Topics': 'Теми', 'Topic': 'Тема', 'Practice by topic': 'Практика за темою', 'Practice this topic': 'Практикувати цю тему',
   'Choose a topic to explore its words and start a focused practice.': 'Виберіть тему, перегляньте її слова та почніть практику.',
@@ -236,7 +239,12 @@ const ukrainian = {
 };
 const Context = createContext(null);
 
-export function LanguageProvider({ children }) {
+const StudyContext = createContext('pt-PT');
+export function StudyCourse({ code = 'pt-PT', children }) {
+  return <StudyContext.Provider value={code}>{children}</StudyContext.Provider>;
+}
+
+export function LanguageProvider({ children, studyLanguage }) {
   const [language, setLanguage] = useState('en');
   useEffect(() => {
     try { if (localStorage.getItem('vocpt-language') === 'uk') setLanguage('uk'); } catch {}
@@ -248,11 +256,11 @@ export function LanguageProvider({ children }) {
   }
   const t = (text) => language === 'uk' ? ukrainian[text] || text : text;
   return <Context.Provider value={{ language, t, selectLanguage }}>
-    {children}
+    <StudyCourse code={studyLanguage}>{children}</StudyCourse>
   </Context.Provider>;
 }
 
-export function useLanguage() { return useContext(Context); }
+export function useLanguage() { return { ...useContext(Context), studyLanguage: useContext(StudyContext) }; }
 export function LanguageSettings() {
   const { language, t, selectLanguage } = useLanguage();
   return <section className="card settings-section" aria-labelledby="language-heading">

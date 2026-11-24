@@ -13,7 +13,7 @@ export default function AuthForm({ mode, confirmationError = false, next = '/' }
   return <section className="auth-card" aria-labelledby="auth-heading">
     <span className="eyebrow">{t('A little progress, every day.')}</span>
     <h1 id="auth-heading">{t(signingUp ? 'Create your account' : 'Welcome back')}</h1>
-    <p className="auth-intro">{t(signingUp ? 'Start learning European Portuguese.' : 'Log in to continue your Portuguese practice.')}</p>
+    <p className="auth-intro">{t(signingUp ? 'Start learning Portuguese or Spanish.' : 'Log in to continue your practice.')}</p>
     <form action={action} className="auth-form">
       <input type="hidden" name="next" value={next} />
       <div className="auth-field">

@@ -1,4 +1,5 @@
 'use client';
+import { studyLanguages } from '../../lib/study-languages';
 
 import { useEffect, useRef, useState } from 'react';
 import { submitMatchingRound } from '../actions';
@@ -28,7 +29,7 @@ function initialBoard() {
 }
 
 function MatchingRound({ sessionId, words, index, capacity, language, focusOnMount, onLock, onContinue, shared }) {
-  const { t } = useLanguage();
+  const { studyLanguage, t } = useLanguage();
   const [roundWords] = useState(() => words.slice(index, index + capacity));
   const [translations] = useState(() => shuffledTranslations(roundWords, sessionId, index, language));
   const [board, setBoard] = useState(initialBoard);
@@ -112,15 +113,15 @@ function MatchingRound({ sessionId, words, index, capacity, language, focusOnMou
         <div className="session-progress-fill" style={{ width: `${progress}%` }} />
       </div>
     </div>
-    <div className="exercise-heading"><span className="eyebrow"><ExerciseIcon mode="matching" /><span>{t('Match the pairs')}</span></span><h2 ref={roundHeading} tabIndex={-1}>{t('Find every pair')}</h2><p>{t('Tap a Portuguese word, then its translation.')}</p></div>
+    <div className="exercise-heading"><span className="eyebrow"><ExerciseIcon mode="matching" /><span>{t('Match the pairs')}</span></span><h2 ref={roundHeading} tabIndex={-1}>{t('Find every pair')}</h2><p>{t('Tap a word, then its translation.')}</p></div>
     <p className="matching-round-progress">{t('Pairs matched')}: {board.pairs.length} {t('of')} {roundWords.length}</p>
     <div className="matching-board">
-      <div className="matching-column" role="group" aria-label={t('Portuguese')}>
-        <h3>{t('Portuguese')}</h3>
+      <div className="matching-column" role="group" aria-label={t(studyLanguages[studyLanguage])}>
+        <h3>{t(studyLanguages[studyLanguage])}</h3>
         {roundWords.map((word) => {
           const matched = board.pairs.some((pair) => pair.wordId === word.id);
           const selected = board.selectedWordId === word.id;
-          return <button key={word.id} type="button" lang="pt-PT" aria-pressed={selected} disabled={matched || saving.current || limitReached} aria-label={`${word.portuguese}${matched ? `, ${t('Matched')}` : ''}`}
+          return <button key={word.id} type="button" lang={studyLanguage} aria-pressed={selected} disabled={matched || saving.current || limitReached} aria-label={`${word.portuguese}${matched ? `, ${t('Matched')}` : ''}`}
             className={`matching-tile${selected ? ' is-selected' : ''}${matched ? ' is-matched' : ''}${board.errorWordId === word.id ? ' is-error' : ''}`} onClick={() => selectWord(word.id)}>
             <span>{word.portuguese}</span>{matched && <span aria-hidden="true">✓</span>}
           </button>;
@@ -137,7 +138,7 @@ function MatchingRound({ sessionId, words, index, capacity, language, focusOnMou
           return <button key={word.id} type="button" aria-pressed={selected} disabled={Boolean(pair) || saving.current || limitReached} aria-label={`${label}${pair ? `, ${t('Matched')}, ${pairedWord.portuguese}` : ''}`}
             className={`matching-tile matching-translation${selected ? ' is-selected' : ''}${pair ? ' is-matched' : ''}${board.errorTranslationId === word.id ? ' is-error' : ''}`} onClick={() => selectTranslation(word.id)}>
             <span lang={labelLanguage}>{label}</span>{labelLanguage !== language && <small className="translation-fallback">{t('English')}</small>}
-            {pair && <small lang="pt-PT">✓ {pairedWord.portuguese}</small>}
+            {pair && <small lang={studyLanguage}>✓ {pairedWord.portuguese}</small>}
           </button>;
         })}
       </div>

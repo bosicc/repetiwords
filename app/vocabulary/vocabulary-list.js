@@ -1,4 +1,5 @@
 'use client';
+import { studyLanguages } from '../../lib/study-languages';
 
 import { useState } from 'react';
 import { useLanguage, Text } from '../components/language';
@@ -8,7 +9,7 @@ import { WORD_LEVELS, filterVocabulary, formatWordCount } from '../../lib/vocabu
 import styles from './word-topics.module.css';
 
 export default function VocabularyList({ words }) {
-  const { language, t } = useLanguage();
+  const { studyLanguage, language, t } = useLanguage();
   const [levels, setLevels] = useState([]);
   const level = levels.join(',');
   const [category, setCategory] = useState('');
@@ -42,9 +43,9 @@ export default function VocabularyList({ words }) {
     </div>}
     <p id="vocabulary-results" role="status"><Text>Showing</Text> {filtered.length} <Text>of</Text> {words.length} <Text>words</Text></p>
     {filtered.length ? <div className="vocabulary-table"><table>
-      <thead><tr><th scope="col"><Text>Portuguese</Text></th><th scope="col">{t(language === "uk" ? "Ukrainian" : "English")}</th><th scope="col"><Text>Level</Text></th><th scope="col"><Text>Category</Text></th></tr></thead>
+      <thead><tr><th scope="col">{t(studyLanguages[studyLanguage])}</th><th scope="col">{t(language === "uk" ? "Ukrainian" : "English")}</th><th scope="col"><Text>Level</Text></th><th scope="col"><Text>Category</Text></th></tr></thead>
       <tbody>{filtered.map((word) => <tr key={word.id}>
-        <td lang="pt-PT"><strong>{word.portuguese}</strong></td><td lang={language}>{(language === "uk" ? word.ukrainian : word.english) || t("Translation unavailable")}</td><td>{word.level || t('Unassigned')}</td>
+        <td lang={studyLanguage}><strong>{word.portuguese}</strong></td><td lang={language}>{(language === "uk" ? word.ukrainian : word.english) || t("Translation unavailable")}</td><td>{word.level || t('Unassigned')}</td>
         <td>{word.categories.length ? word.categories.map(t).join(', ') : t('Uncategorized')}</td>
       </tr>)}</tbody>
     </table></div> : <div className="card"><p><Text>No words match these filters.</Text></p></div>}

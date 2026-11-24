@@ -12,7 +12,7 @@ test('topic practice stays inside the chosen topic and level in every mode, incl
   try {
     await engine.exec(`CREATE SCHEMA auth; CREATE TABLE auth.users (id UUID PRIMARY KEY);
       INSERT INTO auth.users VALUES ('${owner}'), ('${other}');`);
-    for (const name of ['202610090001_vocabulary', '202610090002_account_progress', '202610100001_practice_modes', '202610130001_word_lists', '202610140001_list_practice_source']) {
+    for (const name of ['202610090001_vocabulary', '202610090002_account_progress', '202610100001_practice_modes', '202610130001_word_lists', '202610140001_list_practice_source','202611240001_study_languages','202611240002_account_languages']) {
       await engine.exec(readFileSync(new URL(`../supabase/migrations/${name}.sql`, import.meta.url), 'utf8'));
     }
     await engine.exec(`INSERT INTO vocpt.words (id, portuguese, english, level) VALUES
