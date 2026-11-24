@@ -3,6 +3,19 @@
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const ukrainian = {
+  'Forgot password?': 'Забули пароль?',
+  'Reset your password': 'Відновлення пароля',
+  'Choose a new password': 'Виберіть новий пароль',
+  'Enter your account email to receive a reset link. Open it in this browser.': 'Введіть електронну адресу акаунта, щоб отримати посилання для відновлення. Відкрийте його в цьому браузері.',
+  'If an account exists for this email, a reset link is on its way. Open the latest link in this browser. Check your spam folder too.': 'Якщо акаунт із цією адресою існує, ви отримаєте лист для відновлення пароля. Відкрийте найновіше посилання в цьому браузері. Перевірте також папку «Спам».',
+  'This reset link has expired or is invalid. Request a new one.': 'Термін дії посилання минув або воно недійсне. Запросіть нове.',
+  'New password': 'Новий пароль', 'Confirm new password': 'Повторіть новий пароль',
+  'Send reset link': 'Надіслати посилання', 'Send another link': 'Надіслати ще раз',
+  'Save new password': 'Зберегти новий пароль', 'Back to log in': 'Повернутися до входу',
+  'Request a new link': 'Запросити нове посилання', 'Passwords do not match.': 'Паролі не збігаються.',
+  'Choose a different password.': 'Виберіть пароль, який відрізняється від попереднього.',
+  'Use at most 1024 characters.': 'Використайте не більше 1024 символів.',
+  'Password updated. Log in with your new password.': 'Пароль змінено. Увійдіть із новим паролем.',
   'For example: café, agua, casa': 'Наприклад: café, agua, casa',
   'Resume practice': 'Продовжити заняття',
   'Spanish': 'Іспанська', 'I’m learning': 'Я вчу', 'Interface language': 'Мова інтерфейсу',

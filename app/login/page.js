@@ -9,5 +9,5 @@ export default async function LoginPage({ searchParams }) {
   const query = await searchParams;
   const next = authReturn(query.next);
   if (await getCurrentUser()) redirect(next);
-  return <main className="auth-page"><AuthForm mode="login" next={next} confirmationError={query.error === 'confirmation'} /></main>;
+  return <main className="auth-page"><AuthForm mode="login" next={next} passwordUpdated={query.reset === 'success'} confirmationError={query.error === 'confirmation'} /></main>;
 }
